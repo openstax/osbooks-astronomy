@@ -1,0 +1,145 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" class="appendix">
+
+<title>Some Useful Constants for Astronomy</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59997</md:content-id>
+  <md:title>Some Useful Constants for Astronomy</md:title>
+  <md:abstract/>
+  <md:uuid>73d49c7c-b8ec-4bb4-a3e8-2fdf9acdf2b3</md:uuid>
+</metadata>
+
+<content class="appendix">
+<table id="fs-id1172466793559" class="top-titled" summary="A table titled “Physical constants” with two columns and ten rows. The first row reads “speed of light (c)” and “2.9979 times 10 to the 8 m/s”. The second row reads “gravitational constant (G)” and ‘6.674 times 10 to the negative 11 m3/(kg s squared)”. The third row reads “Planck’s constant (h)” and “6.626 times 10 to the negative 34 J-s”. The fourth row reads “mass of a hydrogen atom (M sub H)” and “1.673 times 10 to the negative 27 kg”. The fifth row reads “mass of an electron (M sub e)” and “9.109 times 10 to the negative 31 kg”. The sixth row reads “Rydberg constant (R sub infinity)” and “1.0974 times 10 to the seven 7 m to the negative 1”. The seventh row reads “Stefan-Boltzmann constant (sigma)” and “5.670 times 10 to the negative 8 J/(s·m squared deg to the fourth)”. The eighth row reads “Wien’s law constant (lambda max T)” and “2.898 times 10 to the negative 3 m deg”. The ninth row reads “electron volt (energy) (eV)” and “1.602 times 10 to the negative 19 J”. The tenth row reads “energy equivalent of 1 ton TNT” and “4.2 times 10 to the 9 J”.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c2" align="center">Physical Constants</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Name</entry>
+<entry>Value</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">speed of light (<emphasis effect="italics">c</emphasis>)</entry>
+<entry valign="top" align="left">2.9979 × 10<sup>8</sup> m/s</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">gravitational constant (<emphasis effect="italics">G</emphasis>)</entry>
+<entry valign="top" align="left">6.674 × 10<sup>−11</sup> m<sup>3</sup>/(kg s<sup>2</sup>)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Planck’s constant (<emphasis effect="italics">h</emphasis>)</entry>
+<entry valign="top" align="left">6.626 × 10<sup>−34</sup> J-s</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">mass of a hydrogen atom (<emphasis effect="italics">M</emphasis><sub>H</sub>)</entry>
+<entry valign="top" align="left">1.673 × 10<sup>−27</sup> kg</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">mass of an electron (<emphasis effect="italics">M</emphasis><sub>e</sub>)</entry>
+<entry valign="top" align="left">9.109 × 10<sup>−31</sup> kg</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Rydberg constant (<m:math><m:mrow><m:msub><m:mi>R</m:mi><m:mi>∞</m:mi></m:msub></m:mrow></m:math>)</entry>
+<entry valign="top" align="left">1.0974 × 10<sup>7</sup> m<sup>−1</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Stefan-Boltzmann constant (σ)</entry>
+<entry valign="top" align="left">5.670 × 10<sup>−8</sup> J/(s·m<sup>2</sup> deg<sup>4</sup>)<footnote id="fs-id1172466992332">deg stands for degrees Celsius or kelvins</footnote></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Wien’s law constant (λ<sub>max</sub>T)</entry>
+<entry valign="top" align="left">2.898 × 10<sup>−3</sup> m K</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">electron volt (energy) (eV)</entry>
+<entry valign="top" align="left">1.602 × 10<sup>−19</sup> J</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">energy equivalent of 1 ton TNT</entry>
+<entry valign="top" align="left">4.2 × 10<sup>9</sup> J</entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table><table id="fs-id1172467034377" class="top-titled" summary="A table titled “Physical constants” with two columns and fourteen rows. The first row reads “astronomical unit (AU)” and “1.496 times 10 to the 11 m”. The second row reads “Light-year (ly)” and “9.461 times 10 to the 15 m”. The third row reads “parsec (pc)” and “3.086 times 10 to the 16 m = 3.262 light-years”. The fourth row reads “sidereal year (y)” and “3.156 times 10 to the 7 s”. The fifth row reads “mass of Earth (M sub Earth)” and “5.974 times 10 to the 24 kg”. The sixth row reads “equatorial radius of Earth (R sub Earth)” and “6.378 times 10 to the 6 m”. The seventh row reads “obliquity of ecliptic” and “23.4 degrees 26 minutes”. The eighth row reads “surface gravity of Earth (g)” and “9.807 m/s squared”. The ninth row reads “escape velocity of Earth (v sub Earth)” and “1.119 times 10 to the 4 m/s”. The tenth row reads “mass of Sun (M sub Sun)” and “1.989 times 10 to the 30 kg”. The eleventh row reads “equatorial radius of Sun (R sub Sun)” and “6.960 times 10 to the 8 m”. The twelfth row reads “luminosity of Sun (L sub Sun)” and “3.85 times 10 to the 26 W”. The thirteenth row reads “solar constant (flux of energy received at Earth) (S)” and “1.368 times 10 to the 3 W/m squared”. The fourteenth row reads “Hubble constant (H sub 0)” and “approximately 20 km/s per million light-years, or approximately 70 km/s per megaparsec”.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+
+<row>
+<entry namest="c1" nameend="c2" align="center">Astronomical Constants</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Name</entry>
+<entry>Value</entry>
+
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">astronomical unit (AU)</entry>
+<entry valign="top" align="left">1.496 × 10<sup>11</sup> m</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Light-year (ly)</entry>
+<entry valign="top" align="left">9.461 × 10<sup>15</sup> m</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">parsec (pc)</entry>
+<entry valign="top" align="left">3.086 × 10<sup>16</sup> m = 3.262 light-years</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">sidereal year (y)</entry>
+<entry valign="top" align="left">3.156 × 10<sup>7</sup> s</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">mass of Earth (<emphasis effect="italics">M</emphasis><sub>Earth</sub>)</entry>
+<entry valign="top" align="left">5.974 × 10<sup>24</sup> kg</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">equatorial radius of Earth (<emphasis effect="italics">R</emphasis><sub>Earth</sub>)</entry>
+<entry valign="top" align="left">6.378 × 10<sup>6</sup> m</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">obliquity of ecliptic</entry>
+<entry valign="top" align="left">23° 26’</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">surface gravity of Earth (<emphasis effect="italics">g</emphasis>)</entry>
+<entry valign="top" align="left">9.807 m/s<sup>2</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">escape velocity of Earth (<emphasis effect="italics">v</emphasis><sub>Earth</sub>)</entry>
+<entry valign="top" align="left">1.119 × 10<sup>4</sup> m/s</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">mass of Sun (<emphasis effect="italics">M</emphasis><sub>Sun</sub>)</entry>
+<entry valign="top" align="left">1.989 × 10<sup>30</sup> kg</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">equatorial radius of Sun (<emphasis effect="italics">R</emphasis><sub>Sun</sub>)</entry>
+<entry valign="top" align="left">6.960 × 10<sup>8</sup> m</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">luminosity of Sun (<emphasis effect="italics">L</emphasis><sub>Sun</sub>)</entry>
+<entry valign="top" align="left">3.85 × 10<sup>26</sup> W</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">solar constant (flux of energy received at Earth) (S)</entry>
+<entry valign="top" align="left">1.368 × 10<sup>3</sup> W/m<sup>2</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Hubble constant (H<sub>0</sub>)</entry>
+<entry valign="top" align="left">approximately 20 km/s per million light-years, or approximately 70 km/s per megaparsec</entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table></content>
+</document>

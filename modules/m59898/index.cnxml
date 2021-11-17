@@ -1,0 +1,108 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>A Stellar Census</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59898</md:content-id>
+  <md:title>A Stellar Census</md:title>
+  <md:abstract/>
+  <md:uuid>f6dd7bbd-c01f-4c46-b50c-851f6fdedd2e</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1164754979655" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-id1168581844295">By the end of this section, you will be able to:</para>
+<list id="fs-id1164754927451">
+<item>Explain why the stars visible to the unaided eye are not typical</item>
+<item>Describe the distribution of stellar masses found close to the Sun</item>
+</list>
+</section>
+<para id="fs-id1164754896265">Before we can make our own survey, we need to agree on a unit of distance appropriate to the objects we are studying. The stars are all so far away that kilometers (and even astronomical units) would be very cumbersome to use; so—as discussed in <link document="m59743">Science and the Universe: A Brief Tour</link>—astronomers use a much larger “measuring stick” called the <emphasis effect="italics">light-year</emphasis>. A light-year is the distance that light (the fastest signal we know) travels in 1 year. Since light covers an astounding 300,000 kilometers per second, and since there are a lot of seconds in 1 year, a light-year is a very large quantity: 9.5 trillion (9.5 × 10<sup>12</sup>) kilometers to be exact. (Bear in mind that the light-year is a unit of <emphasis effect="italics">distance</emphasis> even though the term <emphasis effect="italics">year</emphasis> appears in it.) If you drove at the legal US speed limit without stopping for food or rest, you would not arrive at the end of a light-year in space until roughly 12 million years had passed. And the closest star is more than 4 light-years away.</para>
+<para id="fs-id1164754989204">Notice that we have not yet said much about how such enormous distances can be measured. That is a complicated question, to which we will return in <link document="m59902">Celestial Distances</link>. For now, let us assume that distances have been measured for stars in our cosmic vicinity so that we can proceed with our census.</para>
+<section id="fs-id1164754928503">
+<title>Small Is Beautiful—Or at Least More Common</title>
+<para id="fs-id1164754908886">When we do a census of people in the United States, we count the inhabitants by neighborhood. We can try the same approach for our stellar census and begin with our own immediate neighborhood. As we shall see, we run into two problems—just as we do with a census of human beings. First, it is hard to be sure we have counted <emphasis effect="italics">all</emphasis> the inhabitants; second, our local neighborhood may not contain all possible types of people.</para>
+<para id="fs-id1164754897978"><link target-id="fs-id1164754878917"/> shows an estimate of the number of stars of each spectral type<footnote id="fs-id1164754989664">The spectral types of stars were defined and discussed in <link document="m59889">Analyzing Starlight</link>.</footnote> in our own local neighborhood—within 21 light-years of the Sun. (The Milky Way Galaxy, in which we live, is about 100,000 light-years in diameter, so this figure really applies to a <emphasis effect="italics">very</emphasis> local neighborhood, one that contains a <emphasis effect="italics">tiny</emphasis> fraction of all the billions of stars in the Milky Way.) You can see that there are many more low-luminosity (and hence low mass) stars than high-luminosity ones. Only three of the stars in our local neighborhood (one F type and two A types) are significantly more luminous and more massive than the Sun. This is truly a case where small triumphs over large—at least in terms of numbers. The Sun is more massive than the vast majority of stars in our vicinity.</para>
+<table id="fs-id1164754878917" summary="This table is titled “Stars within 21 Light-Years of the Sun” and contains 2 columns and 8 rows. The first row is a he ader row and it labels each column, “Spectral Type” and “Number of Stars”. Under the “Spectral Type” column are the values, “A”, “F”, “G”, “K”, “M”, “White Dwarfs” and “Brown Dwarfs”. Under the “Number of Stars” column are the values “2”, “1”, “7”, “17”, “94”, “8” and “33”." class="top-titled">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c2" align="center">Stars within 21 Light-Years of the Sun</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Spectral Type</entry>
+<entry valign="top" align="center">Number of Stars</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">A</entry>
+<entry valign="top" align="left">2</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">F</entry>
+<entry valign="top" align="left">1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">G</entry>
+<entry valign="top" align="left">7</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">K</entry>
+<entry valign="top" align="left">17</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">M</entry>
+<entry valign="top" align="left">94</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">White dwarfs</entry>
+<entry valign="top" align="left">8</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Brown dwarfs</entry>
+<entry valign="top" align="left">33</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1164754943570">This table is based on data published through 2015, and it is likely that more faint objects remain to be discovered (see <link target-id="OSC_Astro_18_01_Dwarf"/>). Along with the L and T brown dwarfs already observed in our neighborhood, astronomers expect to find perhaps hundreds of additional T dwarfs and Y dwarfs. Many of these are likely to be even cooler than the coolest currently known T dwarf. The reason the lowest-mass dwarfs are so hard to find is that they put out very little light—ten thousand to a million times less light than the Sun. Only recently has our technology progressed to the point that we can detect these dim, cool objects.</para>
+<figure id="OSC_Astro_18_01_Dwarf">
+<title>Dwarf Simulation.</title>
+<media id="fs-id1164754893861" alt="Computer Simulation of the Solar Neighborhood out to 30 Light Years. The Sun is labeled and surrounded by a white circle in the center of this image. Very few bright stars like the Sun are seen. All the known brown dwarfs are circled; those found earlier are circled in blue, the ones found recently with the WISE infrared telescope are circled in red. The very common M type stars are made to look bright in this image so they can be visible.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_18_01_Dwarf.jpg"/>
+</media>
+<caption>This computer simulation shows the stars in our neighborhood as they would be seen from a distance of 30 light-years away. The Sun is in the center. All the brown dwarfs are circled; those found earlier are circled in blue, the ones found recently with the WISE infrared telescope in space (whose scientists put this diagram together) are circled in red. The common M stars, which are red and faint, are made to look brighter than they really would be so that you can see them in the simulation. Note that luminous hot stars like our Sun are very rare. (credit: modification of work by NASA/ JPL-Caltech)</caption>
+</figure>
+<para id="fs-id1164754872263">To put all this in perspective, we note that even though the stars counted in the table are our closest neighbors, you can’t just look up at the night sky and see them without a telescope; stars fainter than the Sun cannot be seen with the unaided eye unless they are <emphasis effect="italics">very</emphasis> nearby. For example, stars with luminosities ranging from 1/100 to 1/10,000 the luminosity of the Sun (<emphasis effect="italics">L</emphasis><sub>Sun</sub>) are very common, but a star with a luminosity of 1/100 <emphasis effect="italics">L</emphasis><sub>Sun</sub> would have to be within 5 light-years to be visible to the naked eye—and only three stars (all in one system) are this close to us. The nearest of these three stars, <term class="no-emphasis">Proxima Centauri</term>, still cannot be seen without a telescope because it has such a low luminosity.</para>
+<para id="fs-id1164754943531">Astronomers are working hard these days to complete the census of our local neighborhood by finding our faintest neighbors. Recent discoveries of nearby stars have relied heavily upon infrared telescopes that are able to find these many cool, low-mass stars. You should expect the number of known stars within 21 light-years of the Sun to keep increasing as more and better surveys are undertaken.</para></section>
+<section id="fs-id1164754910442">
+<title>Bright Does Not Necessarily Mean Close</title>
+<para id="fs-id1164754883459">If we confine our census to the local neighborhood, we will miss many of the most interesting kinds of stars. After all, the neighborhood in which you live does not contain all the types of people—distinguished according to age, education, income, race, and so on—that live in the entire country. For example, a few people do live to be over 100 years old, but there may be no such individual within several miles of where you live. In order to sample the full range of the human population, you would have to extend your census to a much larger area. Similarly, some types of stars simply are not found nearby.</para>
+<para id="fs-id1164754893741">A clue that we are missing something in our stellar census comes from the fact that only six of the 20 stars that appear brightest in our sky—<term class="no-emphasis">Sirius</term>, <term class="no-emphasis">Vega</term>, Altair, Alpha Centauri, Fomalhaut, and Procyon—are found within 26 light-years of the Sun (<link target-id="OSC_Astro_18_01_Proxima"/>). Why are we missing most of the brightest stars when we take our census of the local neighborhood?</para>
+<figure id="OSC_Astro_18_01_Proxima">
+<title>The Closest Stars.</title>
+<media id="fs-id1164754913020" alt="The Closest Stars. Image (a) shows Alpha Centauri A and B as a single bright object against the background stars of the Milky Way. Panel (b) zooms in on Alpha Centauri A and B, with two small circles representing the individual stars superimposed on the image, larger Alpha Centauri A above and Alpha Centauri B below. Image (c) shows a close-up of the lower right portion of image (a). A white arrow points to what looks like one of the thousands of background stars. This is Proxima Centauri.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_18_01_Proxima.jpg"/>
+</media>
+<caption>(a) This image, taken with a wide-angle telescope at the European Southern Observatory in Chile, shows the system of three stars that is our nearest neighbor. (b) Two bright stars that are close to each other (<term class="no-emphasis">Alpha Centauri</term> A and B) blend their light together. (c) Indicated with an arrow (since you’d hardly notice it otherwise) is the much fainter <term class="no-emphasis">Proxima Centauri</term> star, which is spectral type M. (credit: modification of work by ESO)</caption>
+</figure>
+<para id="fs-id1164754927161">The answer, interestingly enough, is that the stars that appear brightest are <emphasis effect="italics">not</emphasis> the ones closest to us. The brightest stars look the way they do because they emit a very large amount of energy—so much, in fact, that they do not have to be nearby to look brilliant. You can confirm this by looking at <link document="m60003">Appendix J</link>, which gives distances for the 20 stars that appear brightest from Earth. The most distant of these stars is more than <emphasis effect="italics">1000 light-years</emphasis> from us. In fact, it turns out that most of the stars visible without a telescope are hundreds of light-years away and many times more luminous than the Sun. Among the 9000 stars visible to the unaided eye, only about 50 are intrinsically fainter than the Sun. Note also that several of the stars in <link document="m60003">Appendix J</link> are spectral type B, a type that is completely missing from <link target-id="fs-id1164754878917"/>.</para>
+<para id="fs-id1164754918713">The most luminous of the bright stars listed in <link document="m60003">Appendix J</link> emit more than 50,000 times more energy than does the Sun. These highly luminous stars are missing from the solar neighborhood because they are very rare. None of them happens to be in the tiny volume of space immediately surrounding the Sun, and only this small volume was surveyed to get the data shown in <link target-id="fs-id1164754878917"/>.</para>
+<para id="fs-id1164754965800">For example, let’s consider the most luminous stars—those 100 or more times as luminous as the Sun. Although such stars are rare, they are visible to the unaided eye, even when hundreds to thousands of light-years away. A star with a luminosity 10,000 times greater than that of the Sun can be seen without a telescope out to a distance of 5000 light-years. The volume of space included within a distance of 5000 light-years, however, is enormous; so even though highly luminous stars are intrinsically rare, many of them are readily visible to our unaided eye.</para>
+<para id="fs-id1164754878424">The contrast between these two samples of stars, those that are close to us and those that can be seen with the unaided eye, is an example of a <term>selection effect</term>. When a population of objects (stars in this example) includes a great variety of different types, we must be careful what conclusions we draw from an examination of any particular subgroup. Certainly we would be fooling ourselves if we assumed that the stars visible to the unaided eye are characteristic of the general stellar population; this subgroup is heavily weighted to the most luminous stars. It requires much more effort to assemble a complete data set for the nearest stars, since most are so faint that they can be observed only with a telescope. However, it is only by doing so that astronomers are able to know about the properties of the vast majority of the stars, which are actually much smaller and fainter than our own Sun. In the next section, we will look at how we measure some of these properties.</para>
+<section id="fs-id1164755006983" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-id1164754963044">To understand the properties of stars, we must make wide-ranging surveys. We find the stars that appear brightest to our eyes are bright primarily because they are intrinsically very luminous, not because they are the closest to us. Most of the nearest stars are intrinsically so faint that they can be seen only with the aid of a telescope. Stars with low mass and low luminosity are much more common than stars with high mass and high luminosity. Most of the brown dwarfs in the local neighborhood have not yet been discovered.</para>
+</section>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1164754920195">
+<term>selection effect</term>
+<meaning id="fs-id1164754972876">the selection of sample data in a nonrandom way, causing the sample data to be unrepresentative of the entire data set</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,301 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Interstellar Matter around the Sun</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59914</md:content-id>
+  <md:title>Interstellar Matter around the Sun</md:title>
+  <md:abstract/>
+  <md:uuid>e5591420-f150-4160-8b4a-42087b79794b</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1168047959925" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-id1168583103722">By the end of this section, you will be able to:</para>
+<list id="fs-id1168047793833">
+<item>Describe how interstellar matter is arranged around our solar system</item>
+<item>Explain why scientists think that the Sun is located in a hot bubble</item>
+</list>
+</section>
+<para id="fs-id1168047663632">We want to conclude our discussion of interstellar matter by asking how this material is organized in our immediate neighborhood. As we discussed above, orbiting X-ray observatories have shown that the Galaxy is full of bubbles of hot, X-ray-emitting gas. They also revealed a diffuse background of X-rays that appears to fill the entire sky from our perspective (<link target-id="OSC_Astro_20_06_Xray"/>). While some of this emission comes from the interaction of the solar wind with the interstellar medium, a majority of it comes from beyond the solar system. The natural explanation for why there is X-ray-emitting gas all around us is that the Sun is itself inside one of the bubbles. We therefore call our “neighborhood” the Local Hot Bubble, or <term>Local Bubble</term> for short. The Local Bubble is much less dense—an average of approximately 0.01 atoms per cm<sup>3</sup>—than the average interstellar density of about 1 atom per cm<sup>3</sup>. This local gas has a temperature of about a million degrees, just like the gas in the other superbubbles that spread throughout our Galaxy, but because there is so little hot material, this high temperature does not affect the stars or planets in the area in any way.</para>
+<para id="fs-id1168047669035">What caused the Local Bubble to form? Scientists are not entirely sure, but the leading candidate is winds from stars and supernova explosions. In a nearby region in the direction of the constellations Scorpius and Centaurus, a lot of star formation took place about 15 million years ago. The most massive of these stars evolved very quickly until they produced strong winds, and some ended their lives by exploding. These processes filled the region around the Sun with hot gas, driving away cooler, denser gas. The rim of this expanding superbubble reached the Sun about 7.6 million years ago and now lies more than 200 light-years past the Sun in the general direction of the constellations of Orion, Perseus, and Auriga.</para>
+<figure id="OSC_Astro_20_06_Xray">
+<title>Sky in X-Rays.</title>
+<media id="fs-id1168047330727" alt="In this image of the X-ray sky the dark, dusty plane of the Milky Way runs from left to right across the center of the picture. Blue light (1.5 keV) is scattered all along the lower portion of the dark band of the Milky Way. At center, extending above and below the dark band is a circular region of green (0.75 keV), and covering the entire image is the red glow of 0.25 keV X-rays.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_20_06_Xray.jpg"/>
+</media>
+<caption>This image, made by the ROSAT satellite, shows the whole sky in X-rays as seen from Earth. Different colors indicate different X-ray energies: red is 0.25 kiloelectron volts, green is 0.75 kiloelectron volts, and blue is 1.5 kiloelectron volts. The image is oriented so the plane of the Galaxy runs across the middle of the image. The ubiquitous red color, which does not disappear completely even in the galactic plane, is evidence for a source of X-rays all around the Sun. (credit: modification of work by NASA)</caption>
+</figure>
+<para id="fs-id1168048066765">A few clouds of interstellar matter do exist within the Local Bubble. The <term class="no-emphasis">Sun</term> itself seems to have entered a cloud about 10,000 years ago. This cloud is warm (with a temperature of about 7000 K) and has a density of 0.3 hydrogen atom per cm<sup>3</sup>—higher than most of the Local Bubble but still so tenuous that it is also referred to as <term>Local Fluff</term> (<link target-id="OSC_Astro_20_06_LocalFluff"/>). (Aren’t these astronomical names fun sometimes?)</para>
+<para id="fs-id1168047781019">While this is a pretty thin cloud, we estimate that it contributes 50 to 100 times more particles than the solar wind to the diffuse material between the planets in our solar system. These interstellar particles have been detected and their numbers counted by the spacecraft traveling between the planets. Perhaps someday, scientists will devise a way to collect them without destroying them and to return them to Earth, so that we can touch—or at least study in our laboratories—these messengers from distant stars.</para>
+<figure id="OSC_Astro_20_06_LocalFluff"><title>Local Fluff.</title><media id="fs-id1168047846685" alt="Diagram of the Local Fluff. In this plot the vertical axis is labeled “Distance (light years)”, and runs from -20 to 20 in increments of 10. The horizontal axis is labeled “Distance (light years)”, and also runs from -20 to 20 in increments of 10. The Sun is plotted in the center of the plot (0, 0) as a yellow circle. A grey arrow is drawn from the Sun pointing toward the upper right and is labeled “Direction of sun’s motion”. Two stars are plotted; “Alpha centauri” as a yellow dot at about (4, -4), and “Sirius” as a blue dot near (-8, -8). Along the bottom a blue arrow points to the right and is labeled “Galactic Center”. Some cloud names are given; the “Local Cloud” near the Sun, “Blue” near bottom center, and the “G cloud” to the right of the Sun. Five unlabeled arrows are drawn above the Sun pointing to the upper left indicating motions of the local cloud. A further unlabeled arrow is drawn starting near (-2, -2) pointing up. An arrow is drawn starting near (1, 20) pointing left and labeled “Mic”. An arrow is drawn starting near (-10, 10) pointing upward and labeled “Hyades”. An arrow is drawn starting near (-12, 4) pointing left and labeled “Aur”. Finally, an arrow is drawn starting near (-11, -3) pointing left and labeled “Gem”. To the right and slightly above the Sun are the constellations “Aql”, “Eri” and “Oph”.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_20_06_LocalFluff.jpg"/>
+</media>
+
+<caption>The Sun and planets are currently moving through the Local Interstellar Cloud, which is also called the Local Fluff. Fluff is an appropriate description because the density of this cloud is only about 0.3 atom per cm<sup>3</sup>. In comparison, Earth’s atmosphere at the edge of space has around 1.2 × 10<sup>13</sup> molecules per cm<sup>3</sup>. This image shows the patches of interstellar matter (mostly hydrogen gas) within about 20 light-years of the Sun. The temperature of the Local Interstellar Cloud is about 7000 K. The arrows point toward the directions that different parts of the cloud are moving. The names associated with each arrow indicate the constellations located on the sky toward which the parts of the cloud are headed. The solar system is thought to have entered the Local Interstellar Cloud, which is a small cloud located within a much larger superbubble that is expanding outward from the Scorpius-Centaurus region of the sky, at some point between 44,000 and 150,000 years ago and is expected to remain within it for another 10,000 to 20,000 years. (credit: modification of work by NASA/Goddard/Adler/University Chicago/Wesleyan)</caption></figure><section id="fs-id1168047316498" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-id1168047774754">The Sun is located at the edge of a low-density cloud called the Local Fluff. The Sun and this cloud are located within the Local Bubble, a region extending to at least 300 light-years from the Sun, within which the density of interstellar material is extremely low. Astronomers think this bubble was blown by some nearby stars that experienced a strong wind and some supernova explosions.</para>
+</section>
+<section id="fs-id1168047294172" class="further-exploration">
+<title>For Further Exploration</title>
+<section id="fs-id1168047560142">
+<title>Articles</title>
+<para id="fs-id1168047948001">Goodman, A. “Recycling the Universe.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> November (2000): 44. Review of how stellar evolution, the interstellar medium, and supernovae all work together to recycle cosmic material.</para>
+<para id="fs-id1168047710278">Greenberg, J. “The Secrets of Stardust.” <emphasis effect="italics">Scientific American</emphasis> December (2000): 70. The makeup and evolutionary role of solid particles between the stars.</para>
+<para id="fs-id1168047287326">Knapp, G. “The Stuff between the Stars.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> May (1995): 20. An introduction to the interstellar medium.</para>
+<para id="fs-id1168047532454">Nadis, S. “Searching for the Molecules of Life in Space.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> January (2002): 32. Recent observations of water in the interstellar medium by satellite telescopes.</para>
+<para id="fs-id1168047737691">Olinto, A. “Solving the Mystery of Cosmic Rays.” <emphasis effect="italics">Astronomy</emphasis> April (2014): 30. What accelerates them to such high energies.</para>
+<para id="fs-id1168047643763">Reynolds, R. “The Gas between the Stars.” <emphasis effect="italics">Scientific American</emphasis> January (2002): 34. On the interstellar medium.</para>
+</section>
+<section id="fs-id1168047874546">
+<title>Websites and Apps</title>
+<para id="fs-id1168047521452">Barnard, E. E., Biographical Memoir: <link url="http://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/barnard-edward.pdf">http://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/barnard-edward.pdf</link>.</para>
+<para id="fs-id1168047379536">Cosmicopia: <link url="https://cosmicopia.gsfc.nasa.gov/">https://cosmicopia.gsfc.nasa.gov/</link>. NASA’s learning site explains about the history and modern understanding of cosmic rays.</para>
+<para id="fs-id1168047714370">DECO: <link url="https://wipac.wisc.edu/deco">https://wipac.wisc.edu/deco</link>. A smart-phone app for turning your phone into a cosmic-ray detector.</para>
+<para id="fs-id1168048011439">Hubble Space Telescope Images of Nebulae: <link url="http://hubblesite.org/gallery/album/nebula/">http://hubblesite.org/gallery/album/nebula/</link>. Click on any of the beautiful images in this collection, and you are taken to a page with more information; while looking at these images, you may also want to browse through the slide sequence on the meaning of colors in the Hubble pictures (<link url="https://hubblesite.org/contents/articles/the-meaning-of-light-and-color">https://hubblesite.org/contents/articles/the-meaning-of-light-and-color</link>).</para>
+<para id="fs-id1168047643142">Interstellar Medium Online Tutorial: <link url="http://www-ssg.sr.unh.edu/ism/">http://www-ssg.sr.unh.edu/ism/</link>. Nontechnical introduction to the interstellar medium (ISM) and how we study it; by the University of New Hampshire astronomy department.</para>
+<para id="fs-id1168047349815">Messier Catalog of Nebulae, Clusters, and Galaxies: <link url="http://astropixels.com/messier/messiercat.html">http://astropixels.com/messier/messiercat.html</link>. Astronomer Fred Espenak provides the full catalog, with information and images. (The Wikipedia list does something similar: <link url="https://en.wikipedia.org/wiki/List_of_Messier_objects">https://en.wikipedia.org/wiki/List_of_Messier_objects</link>.</para>
+<para id="fs-id1168047720574">Nebulae: What Are They?: <link url="http://www.universetoday.com/61103/what-is-a-nebula/">http://www.universetoday.com/61103/what-is-a-nebula/</link>. Concise introduction by Matt Williams.</para></section>
+<section id="fs-id1168047361508">
+<title>Videos</title>
+<para id="fs-id1168047408289">Barnard 68: The Hole in the Sky: <link url="https://www.youtube.com/watch?v=Faz5rgdQSo4">https://www.youtube.com/watch?v=Faz5rgdQSo4</link>. About this dark cloud and dark clouds in interstellar space in general (02:08).</para><para id="fs-id1168048061778">Horsehead Nebula in New Light: <link url="http://www.esa.int/spaceinvideos/Videos/2013/04/The_Horsehead_Nebula_in_new_light">http://www.esa.int/spaceinvideos/Videos/2013/04/The_Horsehead_Nebula_in_new_light</link>. Tour of the dark nebula in different wavelengths; no audio narration, just music, but explanatory material appears on the screen (03:03).</para><para id="fs-id1168047298059">Hubblecast 65: A Whole New View of the Horsehead Nebula: <link url="http://www.spacetelescope.org/videos/heic1307a/">http://www.spacetelescope.org/videos/heic1307a/</link>. Report on nebulae in general and about the Horsehead specifically, with ESO astronomer Joe Liske (06:03).</para><para id="fs-id1168047338788">Interstellar Reddening: <link url="https://www.youtube.com/watch?v=H2M80RAQB6k">https://www.youtube.com/watch?v=H2M80RAQB6k</link>. Video demonstrating how reddening works, with Scott Miller of Penn State; a bit nerdy but useful (03:45).</para></section>
+</section>
+<section id="fs-id1168047376679" class="group-activities">
+<title>Collaborative Group Activities</title>
+<list id="fs-id1168047385538" list-type="enumerated" number-style="upper-alpha">
+<item>The Sun is located in a region where the density of interstellar matter is low. Suppose that instead it were located in a dense cloud 20 light-years in diameter that dimmed the visible light from stars lying outside it by a factor of 100. Have your group discuss how this would have affected the development of civilization on Earth. For example, would it have presented a problem for early navigators?</item>
+<item>Your group members should look through the pictures in this chapter. How big are the nebulae you see in the images? Are there any clues either in the images or in the captions? Are the clouds they are part of significantly bigger than the nebulae we can see? Why? Suggest some ways that we can determine the sizes of nebulae.</item>
+<item>How do the members of your group think astronomers are able to estimate the distances of such nebulae in our own Galaxy? (Hint: Look at the images. Can you see anything between us and the nebula in some cases. Review <link document="m59902">Celestial Distances</link>, if you need to remind yourself about methods of measuring distances.)</item>
+<item>The text suggests that a tube of air extending from the surface of Earth to the top of the atmosphere contains more atoms than a tube of the same diameter extending from the top of the atmosphere to the edge of the observable universe. Scientists often do what they call “back of the envelope calculations,” in which they make very rough approximations just to see whether statements or ideas are true. Try doing such a “quick and dirty” estimate for this statement with your group. What are the steps in comparing the numbers of atoms contained in the two different tubes? What information do you need to make the approximations? Can you find it in this text? And is the statement true?</item>
+<item>If your astronomy course has involved learning about the solar system before you got to this chapter, have your group discuss where else besides interstellar clouds astronomers have been discovering organic molecules (the chemical building blocks of life). How might the discoveries of such molecules in our own solar system be related to the molecules in the clouds discussed in this chapter?</item>
+<item>Two stars both have a reddish appearance in telescopes. One star is actually red; the other’s light has been reddened by interstellar dust on its way to us. Have your group make a list of the observations you could perform to determine which star is which.</item>
+<item>You have been asked to give a talk to your little brother’s middle school class on astronomy, and you decide to talk about how nature recycles gas and dust. Have your group discuss what images from this book you would use in your talk. In what order? What is the one big idea you would like the students to remember when the class is over?</item>
+<item>This chapter and the next (on <link document="m59915">The Birth of Stars</link>) include some of the most beautiful images of nebulae that glow with the light produced when starlight interacts with gas and dust. Have your group select one to four of your favorite such nebulae and prepare a report on them to share with the rest of the class. (Include such things as their location, distance, size, way they are glowing, and what is happening within them.)</item>
+</list>
+</section>
+<section id="fs-id1168047722010" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-id1168047300240">
+<problem id="fs-id1168047959915">
+<para id="fs-id1168047239952">Identify several dark nebulae in photographs in this chapter. Give the figure numbers of the photographs, and specify where the dark nebulae are to be found on them.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047718458">
+<problem id="fs-id1168047668929">
+<para id="fs-id1168047793747">Why do nebulae near hot stars look red? Why do dust clouds near stars usually look blue?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047294148">
+<problem id="fs-id1168047204720">
+<para id="fs-id1168047648378">Describe the characteristics of the various kinds of interstellar gas (HII regions, neutral hydrogen clouds, ultra-hot gas clouds, and molecular clouds).</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047288836">
+<problem id="fs-id1168047720773">
+<para id="fs-id1168047542662">Prepare a table listing the different ways in which dust and gas can be detected in interstellar space.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047775142">
+<problem id="fs-id1168048058753">
+<para id="fs-id1168047970739">Describe how the 21-cm line of hydrogen is formed. Why is this line such an important tool for understanding the interstellar medium?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168048002020">
+<problem id="fs-id1168047968374">
+<para id="fs-id1168047287114">Describe the properties of the dust grains found in the space between stars.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047793874">
+<problem id="fs-id1168047989712">
+<para id="fs-id1168047382946">Why is it difficult to determine where cosmic rays come from?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047793281">
+<problem id="fs-id1168047654606">
+<para id="fs-id1168047791450">What causes reddening of starlight? Explain how the reddish color of the Sun’s disk at sunset is caused by the same process.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047388363">
+<problem id="fs-id1168047818501">
+<para id="fs-id1168047150597">Why do molecules, including H<sub>2</sub> and more complex organic molecules, only form inside dark clouds? Why don’t they fill all interstellar space?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047610010">
+<problem id="fs-id1168047288632">
+<para id="fs-id1168047348218">Why can’t we use visible light telescopes to study molecular clouds where stars and planets form? Why do infrared or radio telescopes work better?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047317194">
+<problem id="fs-id1168047653568">
+<para id="fs-id1168047293379">The mass of the interstellar medium is determined by a balance between sources (which add mass) and sinks (which remove it). Make a table listing the major sources and sinks, and briefly explain each one.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047344329">
+<problem id="fs-id1168047713763">
+<para id="fs-id1168047336508">Where does interstellar dust come from? How does it form?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1168047179512" class="thought-questions">
+<title>Thought Questions</title>
+<exercise id="fs-id1168047149979">
+<problem id="fs-id1168047149776">
+<para id="fs-id1168047331950"><link document="m59909" target-id="OSC_Astro_20_01_Interster"/> shows a reddish glow around the star Antares, and yet the caption says that is a dust cloud. What observations would you make to determine whether the red glow is actually produced by dust or whether it is produced by an H II region?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047690392">
+<problem id="fs-id1168047316190">
+<para id="fs-id1168047696511">If the red glow around Antares is indeed produced by reflection of the light from Antares by dust, what does its red appearance tell you about the likely temperature of Antares? Look up the spectral type of Antares in <link document="m60003">Appendix J</link>. Was your estimate of the temperature about right? In most of the images in this chapter, a red glow is associated with ionized hydrogen. Would you expect to find an H II region around Antares? Explain your answer.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047671141">
+<problem id="fs-id1168047156130">
+<para id="fs-id1168047164295">Even though neutral hydrogen is the most abundant element in interstellar matter, it was detected first with a radio telescope, not a visible light telescope. Explain why. (The explanation given in <link document="m59889">Analyzing Starlight</link> for the fact that hydrogen lines are not strong in stars of all temperatures may be helpful.)</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047703249">
+<problem id="fs-id1168047699599">
+<para id="fs-id1168047348417">The terms H II and H<sub>2</sub> are both pronounced “H two.” What is the difference in meaning of those two terms? Can there be such a thing as H III?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047735216">
+<problem id="fs-id1168047124350">
+<para id="fs-id1168047333561">Suppose someone told you that she had discovered H II around the star Aldebaran. Would you believe her? Why or why not?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047301987">
+<problem id="fs-id1168047506784">
+<para id="fs-id1168047150606">Describe the spectrum of each of the following:</para>
+<list id="fs-id1168047342516" list-type="enumerated" number-style="upper-alpha">
+<item>starlight reflected by dust,</item>
+<item>a star behind invisible interstellar gas, and</item>
+<item>an emission nebula.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-id1168047421777">
+<problem id="fs-id1168047848158">
+<para id="fs-id1168047354462">According to the text, a star must be hotter than about 25,000 K to produce an H II region. Both the hottest white dwarfs and main-sequence O stars have temperatures hotter than 25,000 K. Which type of star can ionize more hydrogen? Why?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168048071397">
+<problem id="fs-id1168047341564">
+<para id="fs-id1168047161626">From the comments in the text about which kinds of stars produce emission nebulae and which kinds are associated with reflection nebulae, what can you say about the temperatures of the stars that produce NGC 1999 (<link document="m59911" target-id="OSC_Astro_20_03_Dust"/>)?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047644719">
+<problem id="fs-id1168047331958">
+<para id="fs-id1168047311615">One way to calculate the size and shape of the Galaxy is to estimate the distances to faint stars just from their observed apparent brightnesses and to note the distance at which stars are no longer observable. The first astronomers to try this experiment did not know that starlight is dimmed by interstellar dust. Their estimates of the size of the Galaxy were much too small. Explain why.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047661729">
+<problem id="fs-id1168047845996">
+<para id="fs-id1168047583964">New stars form in regions where the density of gas and dust is relatively high. Suppose you wanted to search for some recently formed stars. Would you more likely be successful if you observed at visible wavelengths or at infrared wavelengths? Why?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047302085">
+<problem id="fs-id1168047123542">
+<para id="fs-id1168047647602">Thinking about the topics in this chapter, here is an Earth analogy. In big cities, you can see much farther on days without smog. Why?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047506750">
+<problem id="fs-id1168047800073">
+<para id="fs-id1168047359443">Stars form in the Milky Way at a rate of about 1 solar mass per year. At this rate, how long would it take for all the interstellar gas in the Milky Way to be turned into stars if there were no fresh gas coming in from outside? How does this compare to the estimated age of the universe, 14 billion years? What do you conclude from this?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047337242">
+<problem id="fs-id1168047664949">
+<para id="fs-id1168047145364">The 21-cm line can be used not just to find out where hydrogen is located in the sky, but also to determine how fast it is moving toward or away from us. Describe how this might work.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047917610">
+<problem id="fs-id1168047611630">
+<para id="fs-id1168047727474">Astronomers recently detected light emitted by a supernova that was originally observed in 1572, just reaching Earth now. This light was reflected off a dust cloud; astronomers call such a reflected light a “light echo” (just like reflected sound is called an echo). How would you expect the spectrum of the light echo to compare to that of the original supernova?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047535435">
+<problem id="fs-id1168047665850">
+<para id="fs-id1168047783267">We can detect 21-cm emission from other galaxies as well as from our own Galaxy. However, 21-cm emission from our own Galaxy fills most of the sky, so we usually see both at once. How can we distinguish the extragalactic 21-cm emission from that arising in our own Galaxy? (Hint: Other galaxies are generally moving relative to the Milky Way.)</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047723479">
+<problem id="fs-id1168047609886">
+<para id="fs-id1168047344024">We have said repeatedly that blue light undergoes more extinction than red light, which is true for visible and shorter wavelengths. Is the same true for X-rays? Look at <link target-id="OSC_Astro_20_06_Xray"/>. The most dust is in the galactic plane in the middle of the image, and the red color in the image corresponds to the reddest (lowest-energy) light. Based on what you see in the galactic plane, are X-rays experiencing more extinction at redder or bluer colors? You might consider comparing <link target-id="OSC_Astro_20_06_Xray"/> to <link target-id="OSC_Astro_20_03_B68IR" document="m59911"/>.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047544084">
+<problem id="fs-id1168047645653">
+<para id="fs-id1168047345900">Suppose that, instead of being inside the Local Bubble, the Sun were deep inside a giant molecular cloud. What would the night sky look like as seen from Earth at various wavelengths?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047798690">
+<problem id="fs-id1168047686127">
+<para id="fs-id1168047608455">Suppose that, instead of being inside the Local Bubble, the Sun were inside an H II region. What would the night sky look like at various wavelengths?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1168047354723" class="figuring-for-yourself">
+<title>Figuring for Yourself</title>
+<exercise id="fs-id1168047722986">
+<problem id="fs-id1168047608359">
+<para id="fs-id1168047219085">A molecular cloud is about 1000 times denser than the average of the interstellar medium. Let’s compare this difference in densities to something more familiar. Air has a density of about 1 kg/m<sup>3</sup>, so something 1000 times denser than air would have a density of about 1000 kg/m<sup>3</sup>. How does this compare to the typical density of water? Of granite? (You can find figures for these densities on the internet.) Is the density difference between a molecular cloud and the interstellar medium larger or smaller than the density difference between air and water or granite?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047990059">
+<problem id="fs-id1168047379402">
+<para id="fs-id1168047786960">Would you expect to be able to detect an H II region in X-ray emission? Why or why not? (Hint: You might apply Wien’s law)</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047378676">
+<problem id="fs-id1168047971707">
+<para id="fs-id1168047578625">Suppose that you gathered a ball of interstellar gas that was equal to the size of Earth (a radius of about 6000 km). If this gas has a density of 1 hydrogen atom per cm<sup>3</sup>, typical of the interstellar medium, how would its mass compare to the mass of a bowling ball (5 or 6 kg)? How about if it had the typical density of the Local Bubble, about 0.01 atoms per cm<sup>3</sup>? The volume of a sphere is <emphasis effect="italics">V</emphasis> = (4/3)π<emphasis effect="italics">R</emphasis><sup>3</sup>.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047235472">
+<problem id="fs-id1168047664121">
+<para id="fs-id1168047646510">At the average density of the interstellar medium, 1 atom per cm<sup>3</sup>, how big a volume of material must be used to make a star with the mass of the Sun? What is the radius of a sphere this size? Express your answer in light-years.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047682749">
+<problem id="fs-id1168047570796">
+<para id="fs-id1168047635174">Consider a grain of sand that contains 1 mg of oxygen (a typical amount for a medium-sized sand grain, since sand is mostly SiO<sub>2</sub>). How many oxygen atoms does the grain contain? What is the radius of the sphere you would have to spread them out over if you wanted them to have the same density as the interstellar medium, about 1 atom per cm<sup>3</sup>? You can look up the mass of an oxygen atom.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168048048009">
+<problem id="fs-id1168047846712">
+<para id="fs-id1168047387756">H II regions can exist only if there is a nearby star hot enough to ionize hydrogen. Hydrogen is ionized only by radiation with wavelengths shorter than 91.2 nm. What is the temperature of a star that emits its maximum energy at 91.2 nm? (Use Wien’s law from <link document="m59791">Radiation and Spectra</link>.) Based on this result, what are the spectral types of those stars likely to provide enough energy to produce H II regions?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047645373">
+<problem id="fs-id1168047709580">
+<para id="fs-id1168047316957">In the text, we said that the five-times ionized oxygen (OVI) seen in hot gas must have been produced by supernova shocks that heated the gas to millions of degrees, and not by starlight, the way H II is produced. Producing OVI by light requires wavelengths shorter than 10.9 nm. The hottest observed stars have surface temperatures of about 50,000 K. Could they produce OVI?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047713543">
+<problem id="fs-id1168047645626">
+<para id="fs-id1168047698595">Dust was originally discovered because the stars in certain clusters seemed to be fainter than expected. Suppose a star is behind a cloud of dust that dims its brightness by a factor of 100. Suppose you do not realize the dust is there. How much in error will your distance estimate be? Can you think of any measurement you might make to detect the dust?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047608941">
+<problem id="fs-id1168047494489">
+<para id="fs-id1168047209761">How would the density inside a cold cloud (<emphasis effect="italics">T</emphasis> = 10 K) compare with the density of the ultra-hot interstellar gas (<emphasis effect="italics">T</emphasis> = 10<sup>6</sup> K) if they were in pressure equilibrium? (It takes a large cloud to be able to shield its interior from heating so that it can be at such a low temperature.) (Hint: In pressure equilibrium, the two regions must have <emphasis effect="italics">nT</emphasis> equal, where <emphasis effect="italics">n</emphasis> is the number of particles per unit volume and <emphasis effect="italics">T</emphasis> is the temperature.) Which region do you think is more suitable for the creation of new stars? Why?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047579716">
+<problem id="fs-id1168047301908">
+<para id="fs-id1168047989391">The text says that the Local Fluff, which surrounds the Sun, has a temperature of 7500 K and a density 0.1 atom per cm<sup>3</sup>. The Local Fluff is embedded in hot gas with a temperature of 10<sup>6</sup> K and a density of about 0.01 atom per cm<sup>3</sup>. Are they in equilibrium? (Hint: In pressure equilibrium, the two regions must have <emphasis effect="italics">nT</emphasis> equal, where <emphasis effect="italics">n</emphasis> is the number of particles per unit volume and <emphasis effect="italics">T</emphasis> is the temperature.) What is likely to happen to the Local Fluff?</para>
+</problem>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1168047717390">
+<term>Local Bubble</term>
+<meaning id="fs-id1168047361517">(or Local Hot Bubble) a region of low-density, million degree gas in which the Sun and solar system are currently located</meaning>
+</definition>
+<definition id="fs-id1168047316059">
+<term>Local Fluff</term>
+<meaning id="fs-id1168047980000">a slightly denser cloud inside the Local Bubble, inside which the Sun also lies</meaning>
+</definition>
+</glossary>
+</document>

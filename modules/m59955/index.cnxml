@@ -1,0 +1,272 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>The Formation of the Galaxy</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59955</md:content-id>
+  <md:title>The Formation of the Galaxy</md:title>
+  <md:abstract/>
+  <md:uuid>f84ec82d-1a65-48ac-af23-44256b829a73</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1168047195656" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-id1168583218632">By the end of this section, you will be able to:</para>
+<list id="fs-id1168047161510">
+<item>Describe the roles played by the collapse of a single cloud and mergers with other galaxies in building the Milky Way Galaxy we see today</item>
+<item>Provide examples of globular clusters and satellite galaxies affected by the Milky Way’s strong gravity.</item>
+</list>
+</section>
+<para id="fs-id1168047606197">Information about stellar populations holds vital clues to how our Galaxy was built up over time. The flattened disk shape of the Galaxy suggests that it formed through a process similar to the one that leads to the formation of a protostar (see <link document="m59915">The Birth of Stars and the Discovery of Planets outside the Solar System</link>). Building on this idea, astronomers first developed models that assumed the Galaxy formed from a single rotating cloud. But, as we shall see, this turns out to be only part of the story.</para>
+<section id="fs-id1168047627270">
+<title>The Protogalactic Cloud and the Monolithic Collapse Model</title>
+<para id="fs-id1168047917237">Because the oldest stars—those in the halo and in globular clusters—are distributed in a sphere centered on the nucleus of the Galaxy, it makes sense to assume that the <emphasis effect="italics">protogalactic</emphasis> cloud that gave birth to our Galaxy was roughly spherical. The oldest stars in the halo have ages of 12 to 13 billion years, so we estimate that the formation of the Galaxy began about that long ago. (See the chapter on <link document="m59975">The Big Bang</link> for other evidence that galaxies in general began forming a little more than 13 billion years ago.) Then, just as in the case of star formation, the <term class="no-emphasis">protogalactic cloud</term> collapsed and formed a thin rotating disk. Stars born before the cloud collapsed did not participate in the collapse, but have continued to orbit in the halo to the present day (<link target-id="OSC_Astro_25_06_Cloud"/>).</para>
+<figure id="OSC_Astro_25_06_Cloud">
+<title>Monolithic Collapse Model for the Formation of the Galaxy.</title>
+<media id="fs-id1168047616495" alt="Monolithic Collapse Model for the Formation of the Galaxy. Panel 1 at upper left shows the gas cloud, drawn as a blue blob, at the beginning of its collapse. The axis of rotation (drawn in all four panels) is a vertical line above center with a counter-clockwise arrow around it indicating the direction of rotation. White arrows at the periphery of the cloud point toward the center illustrating the collapse. Panel 2 at upper right shows the gas cloud flattened a bit at the edges and thicker nearer the axis of rotation. Globular clusters are indicated as white dots outside the cloud. Panel 3 at lower left shows the cloud further flattened and continuing to collapse into a disk. Finally, panel 4 at lower right shows the galaxy much thinner, and now drawn in white to indicate that stars have formed in the disk. Globular clusters are evenly distributed around the galactic bulge.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_25_06_Cloud.jpg"/>
+</media>
+<caption>According to this model, the Milky Way Galaxy initially formed from a rotating cloud of gas that collapsed due to gravity. Halo stars and globular clusters either formed prior to the collapse or were formed elsewhere. Stars in the disk formed later, when the gas from which they were made was already “contaminated” with heavy elements produced in earlier generations of stars.</caption>
+</figure>
+<para id="fs-id1168047315685">Gravitational forces caused the gas in the thin disk to fragment into clouds or clumps with masses like those of star clusters. These individual clouds then fragmented further to form stars. Since the oldest stars in the disk are nearly as old as the youngest stars in the halo, the collapse must have been rapid (astronomically speaking), requiring perhaps no more than a few hundred million years.</para>
+</section>
+<section id="fs-id1168047787003">
+<title>Collision Victims and the Multiple Merger Model</title>
+<para id="fs-id1168047753861">In past decades, astronomers have learned that the evolution of the Galaxy has not been quite as peaceful as this monolithic collapse model suggests. In 1994, astronomers discovered a small new galaxy in the direction of the constellation of Sagittarius. The Sagittarius dwarf galaxy is currently about 70,000 light-years away from Earth and 50,000 light-years from the center of the Galaxy. It is the closest galaxy known (<link target-id="OSC_Astro_25_06_Dwarf"/>). It is very elongated, and its shape indicates that it is being torn apart by our Galaxy’s gravitational tides—just as Comet Shoemaker-Levy 9 was torn apart when it passed too close to Jupiter in 1992.</para>
+<para id="fs-id1168047248408">The Sagittarius galaxy is much smaller than the Milky Way and is about 10,000 times less massive than our Galaxy. All of the stars in the Sagittarius dwarf galaxy seem destined to end up in the bulge and halo of the Milky Way. But don’t sound the funeral bells for the little galaxy quite yet; the ingestion of the Sagittarius dwarf will take another 100 million years or so, and the stars themselves will survive.</para><figure id="OSC_Astro_25_06_Dwarf">
+<title>Sagittarius Dwarf.</title>
+<media id="fs-id1168047769970" alt="Sagittarius Dwarf Galaxy. Superimposed on this greyscale image of the galactic center a contour map of the dwarf galaxy is drawn in red above and slightly to the right of center. The white stars in the contour map mark the locations of several globular clusters contained within the dwarf galaxy. The cross marks the center of the Milky Way. The horizontal line corresponds to the galactic plane. The blue outline on either side of the galactic plane corresponds to Herschel’s diagram of the Milky Way. The boxes mark regions where detailed studies of individual stars led to the discovery of this galaxy.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_25_06_Dwarf.jpg"/>
+</media>
+<caption>In 1994, British astronomers discovered a galaxy in the constellation of Sagittarius, located only about 50,000 light-years from the center of the Milky Way and falling into our Galaxy. This image covers a region approximately 70° × 50° and combines a black-and-white view of the disk of our Galaxy with a red contour map showing the brightness of the dwarf galaxy. The dwarf galaxy lies on the other side of the galactic center from us. The white stars in the red region mark the locations of several globular clusters contained within the Sagittarius dwarf galaxy. The cross marks the galactic center. The horizontal line corresponds to the galactic plane. The blue outline on either side of the galactic plane corresponds to the infrared image in <link document="m59948" target-id="OSC_Astro_25_01_MWay"/>. The boxes mark regions where detailed studies of individual stars led to the discovery of this galaxy. (credit: modification of work by R. Ibata (UBC), R. Wyse (JHU), R. Sword (IoA))</caption>
+</figure>
+<para id="fs-id1168047689336">Since that discovery, evidence has been found for many more close encounters between our Galaxy and other neighbor galaxies. When a small galaxy ventures too close, the force of gravity exerted by our Galaxy tugs harder on the near side than on the far side. The net effect is that the stars that originally belonged to the small galaxy are spread out into a long stream that orbits through the halo of the Milky Way (<link target-id="OSC_Astro_25_06_Halo"/>).</para>
+<figure id="OSC_Astro_25_06_Halo">
+<title>Streams in the Galactic Halo.</title>
+<media id="fs-id1168047795268" alt="Streams in the Galactic Halo. This illustration shows the Milky Way at bottom, with the disk tilted about 45 degrees from edge-on. Three streams of stars are shown tracing elliptical orbits around the galactic center. Two of the streams are close enough to the center to have their stars pass through the plane of the galaxy. One stream is so distant it orbits the entire galaxy and does not touch the disk at all.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_25_06_Halo.jpg"/>
+</media>
+<caption>When a small galaxy is swallowed by the Milky Way, its member stars are stripped away and form streams of stars in the galactic halo. This image is based on calculations of what some of these tidal streams might look like if the Milky Way swallowed 50 dwarf galaxies over the past 10 billion years. (credit: modification of work by NASA/JPL-Caltech/R. Hurt (SSC/Caltech))</caption>
+</figure>
+<para id="fs-id1168047776425">Such a tidal stream can maintain its identity for billions of years. To date, astronomers have now identified streams originating from 12 small galaxies that ventured too close to the much larger Milky Way. Six more streams are associated with globular clusters. It has been suggested that large globular clusters, like Omega Centauri, are actually dense nuclei of cannibalized dwarf galaxies. The globular cluster M54 is now thought to be the nucleus of the Sagittarius dwarf we discussed earlier, which is currently merging with the Milky Way (<link target-id="OSC_Astro_25_06_M54"/>). The stars in the outer regions of such galaxies are stripped off by the gravitational pull of the Milky Way, but the central dense regions may survive.</para>
+<figure id="OSC_Astro_25_06_M54">
+<title>Globular Cluster M54.</title>
+<media id="fs-id1168047533097" alt="Globular Cluster M54. A nearly perfectly spherical cluster of stars, so dense that the central core appears as a bright patch of light rather than individual stars.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_25_06_M54.jpg"/>
+</media>
+<caption>This beautiful Hubble Space Telescope image shows the globular cluster that is now believed to be the nucleus of the Sagittarius Dwarf Galaxy. (credit: ESA/Hubble &amp; NASA)</caption>
+</figure>
+<para id="fs-id1168047906929">Calculations indicate that the Galaxy’s thick disk may be a product of one or more such <term class="no-emphasis">collisions</term> with other galaxies. Accretion of a satellite galaxy would stir up the orbits of the stars and gas clouds originally in the thin disk and cause them to move higher above and below the mid-plane of the Galaxy. Meanwhile, the Galaxy’s stars would add to the fluffed-up mix. If such a collision happened about 10 billion years ago, then any gas in the two galaxies that had not yet formed into stars would have had plenty of time to settle back down into the thin disk. The gas could then have begun forming subsequent generations of population I stars. This timing is also consistent with the typical ages of stars in the thick disk.</para>
+<para id="fs-id1168047948806">The Milky Way has more collisions in store. An example is the Canis Major dwarf galaxy, which has a mass of about 1% of the mass of the Milky Way. Already long tidal tails have been stripped from this galaxy, which have wrapped themselves around the Milky Way three times. Several of the globular clusters found in the Milky Way may also have come from the Canis Major dwarf, which is expected to merge gradually with the Milky Way over about the next billion years.</para>
+<para id="fs-id1168047281926">In about 4 billion years, the Milky Way itself will be swallowed up, since it and the <term class="no-emphasis">Andromeda galaxy</term> are on a collision course. Our computer models show that after a complex interaction, the two will merge to form a larger, more rounded galaxy (<link target-id="OSC_Astro_25_06_Andromeda2"/>).</para>
+<figure id="OSC_Astro_25_06_Andromeda2"><title>Collision of the Milky Way with Andromeda.</title><media id="fs-id1168047134844" alt="Collision of the Milky Way with Andromeda. In panel 1, at upper left, the Andromeda galaxy looms large in the night sky. In panel 2, at top center, the interaction has begun with the Milky Way and Andromeda becoming visibly distorted as Andromeda gets closer to us. In panel 3, at upper right, the sky is ablaze with star forming regions and a riot of dust clouds and star clusters. In panel 4, at lower left, the galaxies further lose their spiral shapes, but dust lanes and star formation persists. By panel 5, at lower center, the two galactic nuclei fill the sky. Finally, in panel 6 at lower right, the nuclei have merged into a huge elliptical mass of stars.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_25_06_Andromeda2.jpg"/>
+</media>
+
+<caption>In about 3 billion years, the <term class="no-emphasis">Milky Way Galaxy</term> and <term class="no-emphasis">Andromeda Galaxy</term> will begin a long process of colliding, separating, and then coming back together to form an elliptical galaxy. The whole interaction will take 3 to 4 billion years. These computer-simulated images show the following sequence: (1) In 3.75 billion years, Andromeda has approached the Milky Way. (2) New star formation fills the sky 3.85 billion years from now. (3) Star formation continues at 3.9 billion years. (4) The galaxy shapes change as they interact, with Andromeda being stretched and our Galaxy becoming warped, about 4 billion years from now. (5) In 5.1 billion years, the cores of the two galaxies are bright lobes. (6) In 7 billion years, the merged galaxies form a huge elliptical galaxy whose brightness fills the night sky. This artist’s illustrations show events from a vantage point 25,000 light-years from the center of the Milky Way. However, we should mention that the Sun may not be at that distance throughout the sequence of events, as the collision readjusts the orbits of many stars within each galaxy. (credit: NASA; ESA; Z. Levay, R. van der Marel, STScl; T. Hallas, and A. Mellinger)</caption></figure><para id="fs-id1168047347950">We are thus coming to realize that “environmental influences” (and not just a galaxy’s original characteristics) play an important role in determining the properties and development of our Galaxy. In future chapters we will see that collisions and mergers are a major factor in the evolution of many other galaxies as well.</para>
+</section>
+<section id="fs-id1168047793531" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-id1168047184058">The Galaxy began forming a little more than 13 billion years ago. Models suggest that the stars in the halo and globular clusters formed first, while the Galaxy was spherical. The gas, somewhat enriched in heavy elements by the first generation of stars, then collapsed from a spherical distribution to a rotating disk-shaped distribution. Stars are still forming today from the gas and dust that remain in the disk. Star formation occurs most rapidly in the spiral arms, where the density of interstellar matter is highest. The Galaxy captured (and still is capturing) additional stars and globular clusters from small galaxies that ventured too close to the Milky Way. In 3 to 4 billion years, the Galaxy will begin to collide with the Andromeda galaxy, and after about 7 billion years, the two galaxies will merge to form a giant elliptical galaxy.</para>
+</section>
+<section id="fs-id1168047335912" class="further-exploration">
+<title>For Further Exploration</title>
+<section id="fs-id1168047906700">
+<title>Articles</title>
+<para id="fs-id1168047195164">Blitz, L. “The Dark Side of the Milky Way.” <emphasis effect="italics">Scientific American</emphasis> (October 2011): 36–43. How we find dark matter and what it tells us about our Galaxy, its warped disk, and its satellite galaxies.</para>
+<para id="fs-id1168047614812">Dvorak, J. “Journey to the Heart of the Milky Way.” <emphasis effect="italics">Astronomy</emphasis> (February 2008): 28. Measuring nearby stars to determine the properties of the black hole at the center.</para>
+<para id="fs-id1168047188034">Gallagher, J., Wyse, R., &amp; Benjamin, R. “The New Milky Way.” <emphasis effect="italics">Astronomy</emphasis> (September 2011): 26. Highlights all aspects of the Milky Way based on recent observations.</para>
+<para id="fs-id1168047201007">Goldstein, A. “Finding our Place in the Milky Way.” <emphasis effect="italics">Astronomy</emphasis> (August 2015): 50. On the history of observations that pinpointed the Sun’s location in the Galaxy.</para>
+<para id="fs-id1168048066940">Haggard, D., &amp; Bower, G. “In the Heart of the Milky Way.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (February 2016): 16. On observations of the Galaxy’s nucleus and the supermassive black hole and magnetar there.</para>
+<para id="fs-id1168047884308">Ibata, R., &amp; Gibson, B. “The Ghosts of Galaxies Past.” <emphasis effect="italics">Scientific American</emphasis> (April 2007): 40. About star streams in the Galaxy that are evidence of past mergers and collisions.</para>
+<para id="fs-id1168047969635">Irion, R. “A Crushing End for Our Galaxy.” <emphasis effect="italics">Science</emphasis> (January 7, 2000): 62. On the role of mergers in the evolution of the Milky Way.</para>
+<para id="fs-id1168047941276">Irion, R. “Homing in on Black Holes.” <emphasis effect="italics">Smithsonian</emphasis> (April 2008). On how astronomers probe the large black hole at the center of the Milky Way Galaxy.</para>
+<para id="fs-id1168047188736">Kruesi, L. “How We Mapped the Milky Way.” <emphasis effect="italics">Astronomy</emphasis> (October 2009): 28.</para>
+<para id="fs-id1168047169092">Kruesi, L. “What Lurks in the Monstrous Heart of the Milky Way?” <emphasis effect="italics">Astronomy</emphasis> (October 2015): 30. On the center of the Galaxy and the black hole there.</para>
+<para id="fs-id1168047311086">Laughlin, G., &amp; Adams, F. “Celebrating the Galactic Millennium.” <emphasis effect="italics">Astronomy</emphasis> (November 2001): 39. The long-term future of the Milky Way in the next 90 billion years.</para>
+<para id="fs-id1168047642093">Loeb, A., &amp; Cox, T.J. “Our Galaxy’s Date with Destruction.” <emphasis effect="italics">Astronomy</emphasis> (June 2008): 28. Describes the upcoming merger of Milky Way and Andromeda.</para>
+<para id="fs-id1168047681939">Szpir, M. “Passing the Bar Exam.” <emphasis effect="italics">Astronomy</emphasis> (March 1999): 46. On evidence that our Galaxy is a barred spiral.</para>
+<para id="fs-id1168047561839">Tanner, A. “A Trip to the Galactic Center.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (April 2003): 44. Nice introduction, with observations pointing to the presence of a black hole.</para>
+<para id="fs-id1168047721578">Trimble, V., &amp; Parker, S. “Meet the Milky Way.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (January 1995): 26. Overview of our Galaxy.</para>
+<para id="fs-id1168047370702">Wakker, B., &amp; Richter, P. “Our Growing, Breathing Galaxy.” <emphasis effect="italics">Scientific American</emphasis> (January 2004): 38. Evidence that our Galaxy is still being built up by the addition of gas and smaller neighbors.</para>
+<para id="fs-id1168047609338">Waller, W. “Redesigning the Milky Way.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (September 2004): 50. On recent multi-wavelength surveys of the Galaxy.</para>
+<para id="fs-id1168047380534">Whitt, K. “The Milky Way from the Inside.” <emphasis effect="italics">Astronomy</emphasis> (November 2001): 58. Fantastic panorama image of the Galaxy, with finder charts and explanations.</para>
+</section>
+<section id="fs-id1168047344817">
+<title>Websites</title>
+<para id="fs-id1168047537013">International Dark Sky Sanctuaries: <link url="http://darksky.org/idsp/sanctuaries/">http://darksky.org/idsp/sanctuaries/</link>. A listing of dark-sky sanctuaries, parks, and reserves.</para><para id="fs-id1168047735539">Multiwavelength Milky Way: <link url="https://asd.gsfc.nasa.gov/archive/mwmw/mmw_edu.html">https://asd.gsfc.nasa.gov/archive/mwmw/mmw_edu.html</link>. This NASA site shows the plane of our Galaxy in a variety of wavelength bands, and includes background material and other resources.</para>
+<para id="fs-id1168047201776">Shapley-Curtis Debate in 1920: <link url="https://apod.nasa.gov/debate/debate20.html">https://apod.nasa.gov/debate/debate20.html</link>. In 1920, astronomers Harlow Shapley and Heber Curtis engaged in a historic debate about how large our Galaxy was and whether other galaxies existed. Here you can find historical and educational material about the debate.</para><para id="fs-id1168047370762">UCLA Galactic Center Group: <link url="http://www.galacticcenter.astro.ucla.edu/">http://www.galacticcenter.astro.ucla.edu/</link>. Learn more about the work of Andrea Ghez and colleagues on the central region of the Milky Way Galaxy.</para></section>
+<section id="fs-id1168047385543">
+<title>Videos</title>
+<para id="fs-id1168047265383">Crash of the Titans: <link url="http://www.spacetelescope.org/videos/hubblecast55a/">http://www.spacetelescope.org/videos/hubblecast55a/</link>. This Hubblecast from 2012 features Jay Anderson and Roeland van der Marel explaining how Andromeda will collide with the Milky Way in the distant future (5:07).</para><para id="fs-id1168047202597">Diner at the Center of the Galaxy: <link url="https://www.youtube.com/watch?v=UP7ig8Gxftw">https://www.youtube.com/watch?v=UP7ig8Gxftw</link>. A short discussion from NASA ScienceCast of NuSTAR observations of flares from our Galaxy’s central black hole (3:23).</para>
+<para id="fs-id1168047755944">Hunt for a Supermassive Black Hole: <link url="https://www.ted.com/talks/andrea_ghez_the_hunt_for_a_supermassive_black_hole">https://www.ted.com/talks/andrea_ghez_the_hunt_for_a_supermassive_black_hole</link>. 2009 TED talk by Andrea Ghez on searching for supermassive black holes, particularly the one at the center of the Milky Way (16:19).</para><para id="fs-id1168047668124">Journey to the Galactic Center: <link url="https://www.youtube.com/watch?v=36xZsgZ0oSo">https://www.youtube.com/watch?v=36xZsgZ0oSo</link>. A brief silent trip into the cluster of stars near the galactic center showing their motions around the center (3:00).</para>
+<para id="jr-38373">The Nobel Prize Lecture by Dr. Andrea Ghez in 2020: <link url="https://www.youtube.com/watch?v=wGw6_CdvGKM">https://www.youtube.com/watch?v=wGw6_CdvGKM</link>.</para></section>
+</section>
+<section id="fs-id1168047259375" class="group-activities">
+<title>Collaborative Group Activities</title>
+<list id="fs-id1168047580561" list-type="enumerated" number-style="upper-alpha">
+<item>You are captured by space aliens, who take you inside a complex cloud of interstellar gas, dust, and a few newly formed stars. To escape, you need to make a map of the cloud. Luckily, the aliens have a complete astronomical observatory with equipment for measuring all the bands of the electromagnetic spectrum. Using what you have learned in this chapter, have your group discuss what kinds of maps you would make of the cloud to plot your most effective escape route.</item>
+<item>The diagram that Herschel made of the Milky Way has a very irregular outer boundary (see <link document="m59948" target-id="OSC_Astro_25_01_Milky"/>). Can your group think of a reason for this? How did Herschel construct his map?</item>
+<item>Suppose that for your final exam in this course, your group is assigned telescope time to observe a star selected for you by your professor. The professor tells you the position of the star in the sky (its right ascension and declination) but nothing else. You can make any observations you wish. How would you go about determining whether the star is a member of population I or population II?</item>
+<item>The existence of dark matter comes as a great surprise, and its nature remains a mystery today. Someday astronomers will know a lot more about it (you can learn more about current findings in <link document="m59969">The Evolution and Distribution of Galaxies</link>). Can your group make a list of earlier astronomical observations that began as a surprise and mystery, but wound up (with more observations) as well-understood parts of introductory textbooks?</item>
+<item>Physicist Gregory Benford has written a series of science fiction novels that take place near the center of the Milky Way Galaxy in the far future. Suppose your group were writing such a story. Make a list of ways that the environment near the galactic center differs from the environment in the “galactic suburbs,” where the Sun is located. Would life as we know it have an easier or harder time surviving on planets that orbit stars near the center (and why)?</item>
+<item>These days, in most urban areas, city lights completely swamp the faint light of the Milky Way in our skies. Have each member of your group survey 5 to 10 friends or relatives (you could spread out on campus to investigate or use social media or the phone), explaining what the Milky Way is and then asking if they have seen it. Also ask their age. Report back to your group and discuss your reactions to the survey. Is there any relationship between a person’s age and whether they have seen the Milky Way? How important is it that many kids growing up on Earth today never (or rarely) get to see our home Galaxy in the sky?</item>
+</list>
+</section>
+<section id="fs-id1168047644368" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-id1168048001401">
+<problem id="fs-id1168047402444">
+<para id="fs-id1168047918824">Explain why we see the Milky Way as a faint band of light stretching across the sky.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168048057812">
+<problem id="fs-id1168047944859">
+<para id="fs-id1168047214559">Explain where in a spiral galaxy you would expect to find globular clusters, molecular clouds, and atomic hydrogen.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047672068">
+<problem id="fs-id1168047948876">
+<para id="fs-id1168047172975">Describe several characteristics that distinguish population I stars from population II stars.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047199582">
+<problem id="fs-id1168047785226">
+<para id="fs-id1168047671426">Briefly describe the main parts of our Galaxy.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047670174">
+<problem id="fs-id1168047660540">
+<para id="fs-id1168047370576">Describe the evidence indicating that a black hole may be at the center of our Galaxy.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047697630">
+<problem id="fs-id1168047531695">
+<para id="fs-id1168047220753">Explain why the abundances of heavy elements in stars correlate with their positions in the Galaxy.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047235181">
+<problem id="fs-id1168047607995">
+<para id="fs-id1168047134179">What will be the long-term future of our Galaxy?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1168047681678" class="thought-questions">
+<title>Thought Questions</title>
+<exercise id="fs-id1168047565091">
+<problem id="fs-id1168047134865">
+<para id="fs-id1168047673872">Suppose the Milky Way was a band of light extending only halfway around the sky (that is, in a semicircle). What, then, would you conclude about the Sun’s location in the Galaxy? Give your reasoning.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047690027">
+<problem id="fs-id1168047645407">
+<para id="fs-id1168047309855">Suppose somebody proposed that rather than invoking dark matter to explain the increased orbital velocities of stars beyond the Sun’s orbit, the problem could be solved by assuming that the Milky Way’s central black hole was much more massive. Does simply increasing the assumed mass of the Milky Way’s central supermassive black hole correctly resolve the issue of unexpectedly high orbital velocities in the Galaxy? Why or why not?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047364418">
+<problem id="fs-id1168045006026">
+<para id="fs-id1168047215159">The globular clusters revolve around the Galaxy in highly elliptical orbits. Where would you expect the clusters to spend most of their time? (Think of Kepler’s laws.) At any given time, would you expect most globular clusters to be moving at high or low speeds with respect to the center of the Galaxy? Why?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047198691">
+<problem id="fs-id1168047576212">
+<para id="fs-id1168047218382">Shapley used the positions of globular clusters to determine the location of the galactic center. Could he have used open clusters? Why or why not?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168044897899">
+<problem id="fs-id1168047643166">
+<para id="fs-id1168047456995">Consider the following five kinds of objects: open cluster, giant molecular cloud, globular cluster, group of O and B stars, and planetary nebulae.</para>
+<list id="fs-id1168047720581" list-type="enumerated" number-style="upper-alpha">
+<item>Which occur only in spiral arms?</item>
+<item>Which occur only in the parts of the Galaxy other than the spiral arms?</item>
+<item>Which are thought to be very young?</item>
+<item>Which are thought to be very old?</item>
+<item>Which have the hottest stars?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-id1168047853539">
+<problem id="fs-id1168047650289">
+<para id="fs-id1168048051172">The dwarf galaxy in Sagittarius is the one closest to the Milky Way, yet it was discovered only in 1994. Can you think of a reason it was not discovered earlier? (Hint: Think about what else is in its constellation.)</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047770156">
+<problem id="fs-id1168047751601">
+<para id="fs-id1168047700349">Suppose three stars lie in the disk of the Galaxy at distances of 20,000 light-years, 25,000 light-years, and 30,000 light-years from the galactic center, and suppose that right now all three are lined up in such a way that it is possible to draw a straight line through them and on to the center of the Galaxy. How will the relative positions of these three stars change with time? Assume that their orbits are all circular and lie in the plane of the disk.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047540053">
+<problem id="fs-id1168047653458">
+<para id="fs-id1168047794924">Why does star formation occur primarily in the disk of the Galaxy?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047580714">
+<problem id="fs-id1168047298802">
+<para id="fs-id1168047661167">Where in the Galaxy would you expect to find Type II supernovae, which are the explosions of massive stars that go through their lives very quickly? Where would you expect to find Type I supernovae, which involve the explosions of white dwarfs?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047964106">
+<problem id="fs-id1168048001946">
+<para id="fs-id1168047672124">Suppose that stars evolved without losing mass—that once matter was incorporated into a star, it remained there forever. How would the appearance of the Galaxy be different from what it is now? Would there be population I and population II stars? What other differences would there be?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1168047694824" class="figuring-for-yourself">
+<title>Figuring for Yourself</title>
+<exercise id="fs-id1168047201602">
+<problem id="fs-id1168047140438">
+<para id="fs-id1168047794902">Assume that the Sun orbits the center of the Galaxy at a speed of 220 km/s and a distance of 26,000 light-years from the center.</para>
+<list id="fs-id1168047949059" list-type="enumerated" number-style="upper-alpha">
+<item>Calculate the circumference of the Sun’s orbit, assuming it to be approximately circular. (Remember that the circumference of a circle is given by 2π<emphasis effect="italics">R</emphasis>, where <emphasis effect="italics">R</emphasis> is the radius of the circle. Be sure to use consistent units. The conversion from light-years to km/s can be found in an online calculator or appendix, or you can calculate it for yourself: the speed of light is 300,000 km/s, and you can determine the number of seconds in a year.)</item>
+<item>Calculate the Sun’s period, the “galactic year.” Again, be careful with the units. Does it agree with the number we gave above?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-id1168047209932">
+<problem id="fs-id1168047213943">
+<para id="fs-id1168047531407">The Sun orbits the center of the Galaxy in 225 million years at a distance of 26,000 light-years. Given that <m:math><m:mrow><m:msup><m:mi>a</m:mi><m:mn>3</m:mn></m:msup><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mi>M</m:mi><m:mn>1</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi>M</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mi>P</m:mi><m:mn>2</m:mn></m:msup><m:mo>,</m:mo></m:mrow></m:math> where <emphasis effect="italics">a</emphasis> is the semimajor axis and <emphasis effect="italics">P</emphasis> is the orbital period, what is the mass of the Galaxy within the Sun’s orbit?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047215502">
+<problem id="fs-id1168047719190">
+<para id="fs-id1168047651844">Suppose the Sun orbited a little farther out, but the mass of the Galaxy inside its orbit remained the same as we calculated in <link target-id="fs-id1168047209932"/>. What would be its period at a distance of 30,000 light-years?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047387245">
+<problem id="fs-id1168047381848">
+<para id="fs-id1168047220896">We have said that the Galaxy rotates differentially; that is, stars in the inner parts complete a full 360° orbit around the center of the Galaxy more rapidly than stars farther out. Use Kepler’s third law and the mass we derived in <link target-id="fs-id1168047209932"/> to calculate the period of a star that is only 5000 light-years from the center. Now do the same calculation for a globular cluster at a distance of 50,000 light-years. Suppose the Sun, this star, and the globular cluster all fall on a straight line through the center of the Galaxy. Where will they be relative to each other after the Sun completes one full journey around the center of the Galaxy? (Assume that all the mass in the Galaxy is concentrated at its center.)</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047260049">
+<problem id="fs-id1168047338027">
+<para id="fs-id1168048174687">If our solar system is 4.6 billion years old, how many galactic years has planet Earth been around?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047420260">
+<problem id="fs-id1168047750002">
+<para id="fs-id1168047387621">Suppose the average mass of a star in the Galaxy is one-third of a solar mass. Use the value for the mass of the Galaxy that we calculated in <link target-id="fs-id1168047209932"/>, and estimate how many stars are in the Milky Way. Give some reasons it is reasonable to assume that the mass of an average star is less than the mass of the Sun.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047648196">
+<problem id="fs-id1168047317206">
+<para id="fs-id1168047460550">The first clue that the Galaxy contains a lot of dark matter was the observation that the orbital velocities of stars did not decreases with increasing distance from the center of the Galaxy. Construct a rotation curve for the solar system by using the orbital velocities of the planets, which can be found in <link document="m59998">Appendix F</link>. How does this curve differ from the rotation curve for the Galaxy? What does it tell you about where most of the mass in the solar system is concentrated?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047949482">
+<problem id="fs-id1168047316226">
+<para id="fs-id1168047457715">The best evidence for a black hole at the center of the Galaxy also comes from the application of Kepler’s third law. Suppose a star at a distance of 20 light-hours from the center of the Galaxy has an orbital speed of 6200 km/s. How much mass must be located inside its orbit?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168048051231">
+<problem id="fs-id1168047372012">
+<para id="fs-id1168047760603">The next step in deciding whether the object in <link target-id="fs-id1168047949482"/> is a black hole is to estimate the density of this mass. Assume that all of the mass is spread uniformly throughout a sphere with a radius of 20 light-hours. What is the density in kg/km<sup>3</sup>? (Remember that the volume of a sphere is given by <m:math><m:mrow><m:mi>V</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>4</m:mn><m:mn>3</m:mn></m:mfrac><m:mtext>π</m:mtext><m:msup><m:mi>R</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:math>.) Explain why the density might be even higher than the value you have calculated. How does this density compare with that of the Sun or other objects we have talked about in this book?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047298239">
+<problem id="fs-id1168047300080">
+<para id="fs-id1168047682482">Suppose the Sagittarius dwarf galaxy merges completely with the Milky Way and adds 150,000 stars to it. Estimate the percentage change in the mass of the Milky Way. Will this be enough mass to affect the orbit of the Sun around the galactic center? Assume that all of the Sagittarius galaxy’s stars end up in the nuclear bulge of the Milky Way Galaxy and explain your answer.</para>
+</problem>
+</exercise>
+</section>
+</content>
+</document>

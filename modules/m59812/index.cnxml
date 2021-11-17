@@ -1,0 +1,274 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Future of Large Telescopes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59812</md:content-id>
+  <md:title>The Future of Large Telescopes</md:title>
+  <md:abstract/>
+  <md:uuid>f9b9b592-b963-46ef-92bf-2feb6c600154</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167470610786" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-id1168583995213">By the end of this section, you will be able to:</para>
+<list id="fs-id1167470624238">
+<item>Describe the next generation of ground- and space-based observatories</item>
+<item>Explain some of the challenges involved in building these observatories</item>
+</list>
+</section>
+<para id="fs-id1167470757058">If you’ve ever gone on a hike, you have probably been eager to see what lies just around the next bend in the path. Researchers are no different, and astronomers and engineers are working on the technologies that will allow us to explore even more distant parts of the universe and to see them more clearly.</para>
+<para id="fs-id1167470602191">The premier space facility planned for the next decade is the <term class="no-emphasis">James Webb Space Telescope</term> (<link target-id="OSC_Astro_06_06_JWST"/>), which (in a departure from tradition) is named after one of the early administrators of NASA instead of a scientist. This telescope will have a mirror 6 meters in diameter, made up, like the Keck telescopes, of 36 small hexagons. These will have to unfold into place once the telescope reaches its stable orbit point, some 1.5 million kilometers from Earth (where no astronauts can currently travel if it needs repair.) The telescope is scheduled for launch in 2021 and should have the sensitivity needed to detect the very first generation of stars, formed when the universe was only a few hundred million years old. With the ability to measure both visible and infrared wavelengths, it will serve as the successor to both HST and the Spitzer Space Telescope.</para>
+<figure id="OSC_Astro_06_06_JWST">
+<title>James Webb Space Telescope (JWST).</title>
+<media id="fs-id1167471051367" alt="Photograph of the cryogenic mirror testing assembly and 6 of the hexagonal mirror segments of the James Webb Space Telescope. A technician is seen inspecting the right-most mirror segment.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_06_06_JWST.jpg"/>
+</media>
+<caption>This image shows some of the mirrors of the JWST as they underwent cryogenic testing. The mirrors were exposed to extreme temperatures in order to gather accurate measurements on changes in their shape as they heated and cooled. (credit: NASA/MSFC/David Higginbotham/Emmett Given)</caption>
+</figure>
+<note id="fs-id1167471083052" class="astronomy link-to-learning">
+<para id="fs-id1167470765302">Watch this <link url="https://openstax.org/l/30JWSTvid">video</link> to learn more about the James Webb Space Telescope and how it will build upon the work that Hubble has allowed us to begin in exploring the universe.</para>
+</note>
+<para id="fs-id1167470923512">On the ground, astronomers have started building the <term class="no-emphasis">Large Synoptic Survey Telescope</term> (LSST), an 8.4-meter telescope with a significantly larger field of view than any existing telescopes. It will rapidly scan the sky to find <emphasis effect="italics">transients</emphasis>, phenomena that change quickly, such as exploding stars and chunks of rock that orbit near Earth. The LSST is expected to see first light in 2021.</para>
+<para id="fs-id1167470606203">The international gamma-ray community is planning the <term class="no-emphasis">Cherenkov Telescope Array</term> (CTA), two arrays of telescopes, one in each hemisphere, which will indirectly measure gamma rays from the ground. The CTA will measure gamma-ray energies a thousand times as great as the Fermi telescope can detect.</para>
+<para id="fs-id1167470761058">Several groups of astronomers around the globe interested in studying visible light and the infrared are exploring the feasibility of building ground-based telescopes with mirrors larger than 30 meters across. Stop and think what this means: 30 meters is one-third the length of a football field. It is technically impossible to build and transport a single astronomical mirror that is 30 meters or larger in diameter. The primary mirror of these giant telescopes will consist of smaller mirrors, all aligned so that they act as a very large mirror in combination.</para>
+<para id="fs-id1167471061491">The most ambitious of these projects is the <term class="no-emphasis">European Extremely Large Telescope</term> (ELT) (<link target-id="OSC_Astro_06_06_Conception"/>). (Astronomers try to outdo each other not only with the size of these telescopes, but also their names!) The design of the European ELT calls for a 39.3-meter primary mirror, which will follow the Keck design and be made up of 798 hexagonal mirrors, each 1.4 meters in diameter and all held precisely in position so that they form a continuous surface. Construction on the site in the Atacama Desert in Northern Chile started in 2014, and operations are expected to begin in about 2025.</para>
+<para id="new1">
+International consortia with major contributions from U.S. astronomers have developed plans for the construction of two large new telescopes. One is a Thirty-Meter Telescope (TMT) for which the preferred site is Maunakea in Hawaii. The design of this telescope is similar to that of the European ELT and will make use of 492 hexagonal elements. Each segment is about 1.44 meters (56.6 inches) across corners. The segments are closely spaced, with gaps between the segments only 2.5 mm (0.1 inch) wide.</para>
+<para id="new2">
+
+The Giant Magellan Telescope (GMT) is the second ELT project with major participation by U.S. astronomers. The GMT is also a segmented mirror telescope that employs seven stiff monolith 8.4-meter mirrors as segments. Construction has started at the selected site, which is near the Las Campanas Observatory on the southern edge of the Atacama Desert.
+</para>
+<para id="fs-id1167470614672">These giant telescopes will combine light-gathering power with high-resolution imaging. These powerful new instruments will enable astronomers to tackle many important astronomical problems. As just one example, they provide us images and spectra of planets around other stars and thus, perhaps, give us the first real evidence (from the chemistry of these planets’ atmospheres) that life exists elsewhere.</para>
+<figure id="OSC_Astro_06_06_Conception">
+<title>Artist’s Conception of the European Extremely Large Telescope.</title>
+<media id="fs-id1167470942746" alt="Illustration of the European Extremely Large Telescope seen through the open dome of the building, and the surrounding desert landscape in Chile.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_06_06_Conception.jpg"/>
+</media>
+<caption>The primary mirror in this telescope is 39.3 meters across. The telescope is under construction in the Atacama Desert in Northern Chile. (credit: ESO/L. Calçada)</caption>
+</figure>
+<note id="fs-id1167470700235" class="astronomy link-to-learning">
+<para id="fs-id1167471062247">Check out this <link url="https://openstax.org/l/30JWSTdiag">fun diagram</link> comparing the sizes of the largest planned and existing telescopes to a regulation basketball and tennis court.</para>
+</note>
+<section id="fs-id1167470625224" class="summary">
+<para id="fs-id1167470625677">New and even larger telescopes are on the drawing boards. The James Webb Space Telescope, a 6-meter successor to Hubble, is currently scheduled for launch in 2021. Gamma-ray astronomers are planning to build the CTA to measure very energetic gamma rays. Astronomers are building the LSST to observe with an unprecedented field of view and a new generation of visible-light/infrared telescopes with apertures of 24.5 to 39 meters in diameter.</para>
+</section>
+<section id="fs-id1167470964084" class="further-exploration"><title>For Further Exploration</title><section id="eip-id1163976726160"><title>Articles</title>
+<para id="fs-id1167470825466">Blades, J. C. “Fixing the Hubble One Last Time.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (October 2008): 26. On the last Shuttle service mission and what the Hubble was then capable of doing.</para>
+<para id="fs-id1167470636355">Brown, A. “How Gaia will Map a Billion Stars.” <emphasis effect="italics">Astronomy</emphasis> (December 2014): 32. Nice review of the mission to do photometry and spectroscopy of all stars above a certain brightness.</para>
+<para id="fs-id1167470969827">Irion, R. “Prime Time.” <emphasis effect="italics">Astronomy</emphasis> (February 2001): 46. On how time is allotted on the major research telescopes.</para>
+<para id="fs-id1167470663739">Jedicke, Peter &amp; Robert. “The Coming Giant Sky Patrols.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (September 2008): 30. About giant telescopes to survey the sky continuously.</para>
+<para id="fs-id1167470770730">Lazio, Joseph, et al. “Tuning in to the Universe: 21<sup>st</sup> Century Radio Astronomy.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (July 2008): 21. About ALMA and the Square Kilometer Array.</para>
+<para id="fs-id1167470749980">Lowe, Jonathan. “Mirror, Mirror.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (December 2007): 22. On the Large Binocular Telescope in Arizona.</para>
+<para id="fs-id1167470762283">Lowe, Jonathan. “Next Light: Tomorrow’s Monster Telescopes.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (April 2008): 20. About plans for extremely large telescopes on the ground.</para>
+<para id="fs-id1167470565664">Mason, Todd &amp; Robin. “Palomar’s Big Eye.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (December 2008): 36. On the Hale 200-inch telescope.</para>
+<para id="fs-id1167470992584">Subinsky, Raymond. “Who Really Invented the Telescope.” <emphasis effect="italics">Astronomy</emphasis> (August 2008): 84. Brief historical introduction, focusing on Hans Lippershey.</para>
+<para id="monica">Young, Monica “The New Space Race (and Problem).” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (March 2020): 14. A good discussion of the danger that huge numbers of new reflective satellites (to provide Wi-Fi) poses to the darkness of the night sky for astronomers.</para></section>
+<section id="eip-id1163976548804"><title>Websites</title>
+<para id="fs-id1167470704622">Websites for major telescopes are given in <link target-id="fs-id1167470615449" document="m59805"/>, <link target-id="fs-id1167470936824" document="m59809"/>, <link target-id="fs-id1167470667239" document="m59809"/>, and <link target-id="fs-id1167469604443" document="m59811"/>.</para></section>
+<para id="newline23">Information on Swarms of Satellites on Low-Earth Orbit<newline/>
+
+<list id="satleo"><item>
+American Astronomical Society page on the issue with updates and links: <link url="https://aas.org/posts/advocacy/2020/12/impacts-large-satellite-constellations-astronomy-live-updates">https://aas.org/posts/advocacy/2020/12/impacts-large-satellite-constellations-astronomy-live-updates</link></item>
+<item>Lawler, S. “Space-X’s Starlink Satellites are About to Ruin Stargazing Forever” on the <emphasis effect="italics">Astronomy</emphasis> magazine website (November 25, 2020): <link url="https://astronomy.com/news/2020/11/spacexs-starlink-satellites-are-about-to-ruin-stargazing-for-everyone">https://astronomy.com/news/2020/11/spacexs-starlink-satellites-are-about-to-ruin-stargazing-for-everyone</link></item>
+<item>Patel, N. “Satellite Mega-constellations Risk Ruining Astronomy Forever” in <emphasis effect="italics">Technology Review</emphasis>, September 2, 2020: <link url="https://www.technologyreview.com/2020/09/02/1007938/satellite-mega-constellations-risk-ruining-astronomy-forever/">https://www.technologyreview.com/2020/09/02/1007938/satellite-mega-constellations-risk-ruining-astronomy-forever/</link></item></list></para>
+<section id="eip-id1163976872619"><title>Videos</title>
+<para id="fs-id1167470616950">Astronomy from the Stratosphere: SOFIA: <link url="https://www.youtube.com/watch?v=NV98BcBBA9c">https://www.youtube.com/watch?v=NV98BcBBA9c</link>. A talk by Dr. Dana Backman (1:15:32)</para><para id="fs-id1167471082938">Galaxies Viewed in Full Spectrum of Light: <link url="https://www.youtube.com/watch?v=368K0iQv8nE">https://www.youtube.com/watch?v=368K0iQv8nE</link>. Scientists with the Spitzer Observatory show how a galaxy looks different at different wavelengths (6:22)</para><para id="fs-id1167470769763">Lifting the Cosmic Veil: Highlights from a Decade of the Spitzer Space Telescope: <link url="https://www.youtube.com/watch?v=nkrNQcwkY78">https://www.youtube.com/watch?v=nkrNQcwkY78</link>. A talk by Dr. Michael Bicay (1:42:44)</para></section></section><section id="fs-id1167470995318" class="group-activities">
+<title>Collaborative Group Activities</title>
+<list id="fs-id1167470696667" list-type="enumerated" number-style="upper-alpha">
+<item>Most large telescopes get many more proposals for observing projects than there is night observing time available in a year. Suppose your group is the telescope time allocation committee reporting to an observatory director. What criteria would you use in deciding how to give out time on the telescope? What steps could you take to make sure all your colleagues thought the process was fair and people would still talk to you at future astronomy meetings?</item>
+<item>Your group is a committee of nervous astronomers about to make a proposal to the government ministers of your small European country to chip in with other countries to build the world’s largest telescope in the high, dry desert of the Chilean Andes Mountains. You expect the government ministers to be very skeptical about supporting this project. What arguments would you make to convince them to participate?</item>
+<item>The same government ministers we met in the previous activity ask you to draw up a list of the pros and cons of having the world’s largest telescope in the mountains of Chile (instead of a mountain in Europe). What would your group list in each column?</item>
+<item>Your group should discuss and make a list of all the ways in which an observing session at a large visible-light telescope and a large radio telescope might differ. (Hint: Bear in mind that because the Sun is not especially bright at many radio wavelengths, observations with radio telescopes can often be done during the day.)</item>
+<item>Another “environmental threat” to astronomy (besides light pollution) comes from the spilling of terrestrial communications into the “channels”—wavelengths and frequencies—previously reserved for radio astronomy. For example, the demand for cellular phones means that more and more radio channels will be used for this purpose. The faint signals from cosmic radio sources could be drowned in a sea of earthly conversation (translated and sent as radio waves). Assume your group is a congressional committee being lobbied by both radio astronomers, who want to save some clear channels for doing astronomy, and the companies that stand to make a lot of money from expanding cellular phone use. What arguments would sway you to each side?</item>
+<item>When the site for the new Thirty-Meter Telescope on Hawaii’s Maunakea was dedicated, a group of native Hawaiians announced opposition to the project because astronomers were building too many telescopes on a mountain that native Hawaiians consider a sacred site. You can read more about this controversy at http://www.nytimes.com/2015/12/04/science/space/hawaii-court-rescinds-permit-to-build-thirty-meter-telescope.html?_r=0 and at http://www.nature.com/news/the-mountain-top-battle-over-the-thirty-meter-telescope-1.18446. Once your group has the facts, discuss the claims of each side in the controversy. How do you think it should be resolved?</item>
+<item>If you could propose to use a large modern telescope, what would you want to find out? What telescope would you use and why?</item>
+<item>Light pollution (spilled light in the night sky making it difficult to see the planets and stars) used to be an issue that concerned mostly astronomers. Now spilled light at night is also of concern to environmentalists and those worrying about global warming. Can your group come up with some non-astronomical reasons to be opposed to light pollution?</item>
+</list>
+</section>
+<section id="fs-id1167470709036" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-id1167471084163">
+<problem id="fs-id1167470658156">
+<para id="fs-id1167470603990">What are the three basic components of a modern astronomical instrument? Describe each in one to two sentences.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470607992">
+<problem id="fs-id1167470882265">
+<para id="fs-id1167470659658">Name the two spectral windows through which electromagnetic radiation easily reaches the surface of Earth and describe the largest-aperture telescope currently in use for each window.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470682660">
+<problem id="fs-id1167470933449">
+<para id="fs-id1167470664299">List the largest-aperture single telescope currently in use in each of the following bands of the electromagnetic spectrum: radio, X-ray, gamma ray.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470608130">
+<problem id="fs-id1167470625914">
+<para id="fs-id1167470764620">When astronomers discuss the apertures of their telescopes, they say bigger is better. Explain why.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470703977">
+<problem id="fs-id1167470704885">
+<para id="fs-id1167470595020">The Hooker telescope at Palomar Observatory has a diameter of 5 m, and the Keck I telescope has a diameter of 10 m. How much more light can the Keck telescope collect than the Hooker telescope in the same amount of time?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470656430">
+<problem id="fs-id1167470696342">
+<para id="fs-id1167470606868">What is meant by “reflecting” and “refracting” telescopes?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470995110">
+<problem id="fs-id1167470695009">
+<para id="fs-id1167470675673">Why are the largest visible-light telescopes in the world made with mirrors rather than lenses?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470969814">
+<problem id="fs-id1167470750532">
+<para id="fs-id1167470607851">Compare the eye, photographic film, and CCDs as detectors for light. What are the advantages and disadvantages of each?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470665712">
+<problem id="fs-id1167470706859">
+<para id="fs-id1167470707122">What is a charge-coupled device (CCD), and how is it used in astronomy?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470633949">
+<problem id="fs-id1167470647071">
+<para id="fs-id1167470684800">Why is it difficult to observe at infrared wavelengths? What do astronomers do to address this difficulty?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470586562">
+<problem id="fs-id1167470825292">
+<para id="fs-id1167470665415">Radio and radar observations are often made with the same antenna, but otherwise they are very different techniques. Compare and contrast radio and radar astronomy in terms of the equipment needed, the methods used, and the kind of results obtained.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470544320">
+<problem id="fs-id1167470626940">
+<para id="fs-id1167470568319">Look back at <link target-id="OSC_Astro_06_04_RadioImage" document="m59809"/> of Cygnus A and read its caption again. The material in the giant lobes at the edges of the image had to have been ejected from the center <emphasis effect="italics">at least</emphasis> how many years ago?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470901961">
+<problem id="fs-id1167470605367">
+<para id="fs-id1167470809352">Why do astronomers place telescopes in Earth’s orbit? What are the advantages for the different regions of the spectrum?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470554877">
+<problem id="fs-id1167470672352">
+<para id="fs-id1167470764009">What was the problem with the Hubble Space Telescope and how was it solved?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470605669">
+<problem id="fs-id1167470973522">
+<para id="fs-id1167470696074">Describe the techniques radio astronomers use to obtain a resolution comparable to what astronomers working with visible light can achieve.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470665164">
+<problem id="fs-id1167470606527">
+<para id="fs-id1167470596484">What kind of visible-light and infrared telescopes on the ground are astronomers planning for the future? Why are they building them on the ground and not in space?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470658744">
+<problem id="fs-id1167470633647">
+<para id="fs-id1167471065047">Describe one visible-light or infrared telescope that astronomers are planning to launch into space in the future.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167469421617" class="thought-questions">
+<title>Thought Questions</title>
+<exercise id="fs-id1167470663976">
+<problem id="fs-id1167470680981">
+<para id="fs-id1167470705557">What happens to the image produced by a lens if the lens is “stopped down” (the aperture reduced, thereby reducing the amount of light passing through the lens) with an iris diaphragm—a device that covers its periphery?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470683170">
+<problem id="fs-id1167470707319">
+<para id="fs-id1167470706725">What would be the properties of an ideal astronomical detector? How closely do the actual properties of a CCD approach this ideal?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470972357">
+<problem id="fs-id1167470627207">
+<para id="fs-id1167470612999">Many decades ago, the astronomers on the staff of Mount Wilson and Palomar Observatories each received about 60 nights per year for their observing programs. Today, an astronomer feels fortunate to get 10 nights per year on a large telescope. Can you suggest some reasons for this change?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167471062880">
+<problem id="fs-id1167470604474">
+<para id="fs-id1167470675507">The largest observatory complex in the world is on Maunakea, the tallest mountain on Earth. What are some factors astronomers consider when selecting an observatory site? Don’t forget practical ones. Should astronomers, for example, consider building an observatory on Denali (Mount McKinley) or Mount Everest?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167471063808">
+<problem id="fs-id1167470633146">
+<para id="fs-id1167470697562">Suppose you are looking for sites for a visible-light observatory, an infrared observatory, and a radio observatory. What are the main criteria of excellence for each? What sites are actually considered the best today?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470972263">
+<problem id="fs-id1167470689022">
+<para id="fs-id1167470681522">Radio astronomy involves wavelengths much longer than those of visible light, and many orbiting observatories have probed the universe for radiation of very short wavelengths. What sorts of objects and physical conditions would you expect to be associated with emission of radiation at very long and very short wavelengths?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470763927">
+<problem id="fs-id1167470695555">
+<para id="fs-id1167470683034">The dean of a university located near the ocean (who was not a science major in college) proposes building an infrared telescope right on campus and operating it in a nice heated dome so that astronomers will be comfortable on cold winter nights. Criticize this proposal, giving your reasoning.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167470754765" class="figuring-for-yourself">
+<title>Figuring for Yourself</title>
+<exercise id="fs-id1167471060195">
+<problem id="fs-id1167470672322">
+<para id="fs-id1167470681501">What is the area, in square meters, of a 10-m telescope?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470768683">
+<problem id="fs-id1167470705244">
+<para id="fs-id1167470554846">Approximately 9000 stars are visible to the naked eye in the whole sky (imagine that you could see around the entire globe and both the northern and southern hemispheres), and there are about 41,200 square degrees on the sky. How many stars are visible per square degree? Per square arcsecond?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470687194">
+<problem id="fs-id1167470661717">
+<para id="fs-id1167470679742">Theoretically (that is, if seeing were not an issue), the resolution of a telescope is inversely proportional to its diameter. How much better is the resolution of the ALMA when operating at its longest baseline than the resolution of the Arecibo telescope?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470676370">
+<problem id="fs-id1167470897703">
+<para id="fs-id1167470660106">In broad daylight, the size of your pupil is typically 3 mm. In dark situations, it expands to about 7 mm. How much more light can it gather?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470623943">
+<problem id="fs-id1167470607491">
+<para id="fs-id1167470704033">How much more light can be gathered by a telescope that is 8 m in diameter than by your fully dark-adapted eye at 7 mm?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470546504">
+<problem id="fs-id1167470672840">
+<para id="fs-id1167470663551">How much more light can the Keck telescope (with its 10-m diameter mirror) gather than an amateur telescope whose mirror is 25 cm (0.25 m) across?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167471052599">
+<problem id="fs-id1167471052031">
+<para id="fs-id1167470747111">People are often bothered when they discover that reflecting telescopes have a second mirror in the middle to bring the light out to an accessible focus where big instruments can be mounted. “Don’t you lose light?” people ask. Well, yes, you do, but there is no better alternative. You can estimate how much light is lost by such an arrangement. The primary mirror (the one at the bottom in <link target-id="OSC_Astro_06_01_Focusarran" document="m59803"/>) of the Gemini North telescope is 8 m in diameter. The secondary mirror at the top is about 1 m in diameter. Use the formula for the area of a circle to estimate what fraction of the light is blocked by the secondary mirror.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470941597">
+<problem id="fs-id1167470677714">
+<para id="fs-id1167470632642">Telescopes can now be operated remotely from a warm room, but until about 25 years ago, astronomers worked at the telescope to guide it so that it remained pointed in exactly the right place. In a large telescope, like the Palomar 200-inch telescope, astronomers sat in a cage at the top of the telescope, where the secondary mirror is located, as shown in <link target-id="OSC_Astro_06_01_Focusarran" document="m59803"/>. Assume for the purpose of your calculation that the diameter of this cage was 40 inches. What fraction of the light is blocked?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470753698">
+<problem id="fs-id1167470902690">
+<para id="fs-id1167470606169">The HST cost about $1.7 billion for construction and $300 million for its shuttle launch, and it costs $250 million per year to operate. If the telescope lasts for 20 years, what is the total cost per year? Per day? If the telescope can be used just 30% of the time for actual observations, what is the cost per hour and per minute for the astronomer’s observing time on this instrument? What is the cost per person in the United States? Was your investment in the Hubble Space telescope worth it?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470699510">
+<problem id="fs-id1167470746872">
+<para id="fs-id1167470603070">How much more light can the James Webb Space Telescope (with its 6-m diameter mirror) gather than the Hubble Space Telescope (with a diameter of 2.4 m)?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167470670621">
+<problem id="fs-id1167470670623">
+<para id="fs-id1167470772591">The Palomar telescope’s 5-m mirror weighs 14.5 tons. If a 10-m mirror were constructed of the same thickness as Palomar’s (only bigger), how much would it weigh?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

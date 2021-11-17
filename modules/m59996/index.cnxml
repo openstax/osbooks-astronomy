@@ -1,0 +1,105 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="appendix">
+
+<title>Units Used in Science</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59996</md:content-id>
+  <md:title>Units Used in Science</md:title>
+  <md:abstract/>
+  <md:uuid>fde24489-0317-41c9-83ee-eb6de6224ea0</md:uuid>
+</metadata>
+
+<content class="appendix">
+<para id="fs-id1172466804482">In the American system of measurement (originally developed in England), the fundamental units of length, weight, and time are the foot, pound, and second, respectively. There are also larger and smaller units, which include the ton (2240 lb), the mile (5280 ft), the rod (16 1/2 ft), the yard (3 ft), the inch (1/12 ft), the ounce (1/16 lb), and so on. Such units, whose origins in decisions by British royalty have been forgotten by most people, are quite inconvenient for conversion or doing calculations.</para>
+<para id="fs-id1172466818795">In science, therefore, it is more usual to use the <emphasis effect="italics">metric system,</emphasis> which has been adopted in virtually all countries except the United States. Its great advantage is that every unit increases by a factor of ten, instead of the strange factors in the American system. The fundamental units of the metric system are:</para>
+<list id="fs-id1172466962567" list-type="bulleted" bullet-style="bullet">
+<item>length: 1 meter (m)</item>
+<item>mass: 1 kilogram (kg)</item>
+<item>time: 1 second (s)</item>
+</list>
+<para id="fs-id1172466964411">A meter was originally intended to be 1 ten-millionth of the distance from the equator to the North Pole along the surface of Earth. It is about 1.1 yd. A kilogram is the mass that on Earth results in a weight of about 2.2 lb. The second is the same in metric and American units.</para>
+<section id="fs-id1172466971338">
+<title>Length</title>
+<para id="fs-id1172466851852">The most commonly used quantities of length of the metric system are the following.</para>
+<table id="fs-id1172466903101" class="top-titled" summary="A table titled “Length” with six rows. The first row reads “1 kilometer (km) = 1000 meters = 0.6214 mile”. The second row reads “1 meter (m) = 0.001 km = 1.094 yards = 39.37 inches”. The third row reads “1 centimeter (cm) = 0.01 meter = 0.3937 inch”. The fourth row reads “1 millimeter (mm) = 0.001 meter = 0.1 cm”. The fifth row reads “1 micrometer (µm) = 0.000001 meter = 0.0001 cm”. The sixth row reads “1 nanometer (nm) = 10–9 meter = 10–7 cm”."><title>Length</title>
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c1">Conversions</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">1 kilometer (km) = 1000 meters = 0.6214 mile</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">1 meter (m) = 0.001 km = 1.094 yards = 39.37 inches</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">1 centimeter (cm) = 0.01 meter = 0.3937 inch</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">1 millimeter (mm) = 0.001 meter = 0.1 cm</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">1 micrometer (µm) = 0.000001 meter = 0.0001 cm</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">1 nanometer (nm) = 10<sup>−9</sup> meter = 10<sup>−7</sup> cm</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><para id="fs-id1172466954553">To convert from the American system, here are a few helpful factors:</para>
+<list id="fs-id1172466976346" list-type="bulleted" bullet-style="bullet">
+<item>1 mile = 1.61 km</item>
+<item>1 inch = 2.54 cm</item>
+</list>
+</section>
+<section id="fs-id1172466916447">
+<title>Mass</title>
+<para id="fs-id1172466996856">Although we don’t make the distinction very carefully in everyday life on Earth, strictly speaking the kilogram is a unit of mass (measuring the quantity of matter in a body, roughly how many atoms it has,) while the pound is a unit of weight (measuring how strongly Earth’s gravity pulls on a body).</para>
+<para id="fs-id1172467174458">The most commonly used quantities of mass of the metric system are the following.</para>
+<table id="fs-id1172466982268" class="top-titled" summary="A table titled “Mass” with four rows. The first row reads “1 metric ton = 106 grams = 1000 kg (and it produces a weight of 2.205 × 103 lb on Earth)”. The second row reads “1 kg = 1000 grams (and it produces a weight of 2.2046 lb on Earth)”. The third row reads “1 gram (g) = 0.0353 oz (and the equivalent weight is 0.002205 lb)”. The fourth row reads “1 milligram (mg) = 0.001 g”."><title>Mass</title>
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c1">Conversions</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">1 metric ton = 10<sup>6</sup> grams = 1000 kg (and it produces a weight of 2.205 × 10<sup>3</sup> lb on Earth)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">1 kg = 1000 grams (and it produces a weight of 2.2046 lb on Earth)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">1 gram (g) = 0.0353 oz (and the equivalent weight is 0.002205 lb)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">1 milligram (mg) = 0.001 g</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><para id="fs-id1172466986386">A weight of 1 lb is equivalent on Earth to a mass of 0.4536 kg, while a weight of 1 oz is produced by a mass of 28.35 g.</para>
+</section>
+<section id="fs-id1172466970875">
+<title>Temperature</title>
+<para id="fs-id1172467111092">Three temperature scales are in general use:</para>
+<list id="fs-id1172466900431" list-type="bulleted" bullet-style="bullet">
+<item>Fahrenheit (F); water freezes at 32 °F and boils at 212 °F.</item>
+<item>Celsius or centigrade<footnote id="fs-id1172466969003">Celsius is now the name used for centigrade temperature; it has a more modern standardization but differs from the old centigrade scale by less than 0.1°.</footnote> (C); water freezes at 0 °C and boils at 100 °C.</item>
+<item>Kelvin or absolute (K); water freezes at 273 K and boils at 373 K.</item>
+</list>
+<para id="fs-id1172466895844">All molecular motion ceases at about −459 °F = −273 °C = 0 K, a temperature called <emphasis effect="italics">absolute zero.</emphasis> Kelvin temperature is measured from this lowest possible temperature, and it is the temperature scale most often used in astronomy. Kelvins have the same value as centigrade or Celsius degrees, since the difference between the freezing and boiling points of water is 100 degrees in each. (Note that we just say “kelvins,” not kelvin degrees.)</para>
+<para id="fs-id1172467120635">On the Fahrenheit scale, the difference between the freezing and boiling points of water is 180 degrees. Thus, to convert Celsius degrees or kelvins to Fahrenheit degrees, it is necessary to multiply by 180/100 = 9/5. To convert from Fahrenheit degrees to Celsius degrees or kelvins, it is necessary to multiply by 100/180 = 5/9.</para>
+<para id="fs-id1172467109862">The full conversion formulas are:</para>
+<list id="fs-id1172466908224" list-type="bulleted" bullet-style="bullet">
+<item>K = °C + 273</item>
+<item>°C = 0.555 × (°F – 32)</item>
+<item>°F = (1.8 × °C) + 32</item>
+</list>
+</section>
+</content>
+</document>

@@ -1,0 +1,399 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="appendix">
+
+<title>Physical and Orbital Data for the Planets</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59998</md:content-id>
+  <md:title>Physical and Orbital Data for the Planets</md:title>
+  <md:abstract/>
+  <md:uuid>b88f5bbe-31c9-4a24-8920-0c55689a6142</md:uuid>
+</metadata>
+
+<content class="appendix">
+<table id="fs-id1172466962670" class="top-titled" summary="A table titled “Physical Data for the Major Planets” with nine columns and nine rows. The first row is a header row and labels each column. From left to right, the first row reads “Major Planet”, “Mean Diameter (km)”, “Mean Diameter (Earth = 1)”, “Mass (Earth = 1)”, “Mean Density (g/cm to the 3)”, “Rotation Period (d)”, “Inclination of Equator to Orbit (degrees)”, “Surface Gravity (Earth = 1[g])” and “Velocity of Escape (km/s)”. The second row reads “Mercury”, “4879”, “.38”, “0.055”, “5.43”, “58.”, “0.0”, “0.38”, and “4.3”. The third row reads “Venus”, “12,104”, “0.95”, “0.815”, “5.24”, “negative 243.”, “177”, “0.90”, and “10.4”. The fourth row reads “Earth”, “12,756”, “1.00”, “1.00”, “5.51”, “1.000”, “23.4”, “1.00”, and “11.2”. The fifth row reads “Mars”, “6779”, “0.53”, “0.11”, “3.93”, “1.026”, “25.2”, “0.38”, and “5.0”. The sixth row reads “Jupiter”, “140,000”, “10.9,” “318”, “1.33”, “0.414”, ‘3.1”, “2.53”, and “60”. The seventh row reads “Saturn” “117,000”, “9.13”, “95.2”, “0.69”, “0.440”, “26.7”, “1.07”, and “36”. The eighth row reads “Uranus”, “50,700”, “3.98”, “14.5”, “1.27”, “negative 0.718”, “97.9”, “0.89,” and “21”. The ninth row reads “Neptune”, “49,200”, “3.86”, “17.2”, “1.64”, “0.671”, “29.6, “1.14”, and “23”.">
+<tgroup cols="9">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<colspec colnum="8" colname="c8"/>
+<colspec colnum="9" colname="c9"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c9">Physical Data for the Major Planets</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Major Planet</entry>
+<entry valign="top" align="center">Mean Diameter (km)</entry>
+<entry valign="top" align="center">Mean Diameter (Earth = 1)</entry>
+<entry valign="top" align="center">Mass (Earth = 1)</entry>
+<entry valign="top" align="center">Mean Density (g/cm<sup>3</sup>)</entry>
+<entry valign="top" align="center">Rotation Period (d)</entry>
+<entry valign="top" align="center">Inclination of Equator to Orbit (°)</entry>
+<entry valign="top" align="center">Surface Gravity (Earth = 1[g])</entry>
+<entry valign="top" align="center">Velocity of Escape (km/s)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Mercury</entry>
+<entry valign="top" align="left">4879</entry>
+<entry valign="top" align="left">0.38</entry>
+<entry valign="top" align="left">0.055</entry>
+<entry valign="top" align="left">5.43</entry>
+<entry valign="top" align="left">58.</entry>
+<entry valign="top" align="left">0.0</entry>
+<entry valign="top" align="left">0.38</entry>
+<entry valign="top" align="left">4.3</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Venus</entry>
+<entry valign="top" align="left">12,104</entry>
+<entry valign="top" align="left">0.95</entry>
+<entry valign="top" align="left">0.815</entry>
+<entry valign="top" align="left">5.24</entry>
+<entry valign="top" align="left">−243.</entry>
+<entry valign="top" align="left">177</entry>
+<entry valign="top" align="left">0.90</entry>
+<entry valign="top" align="left">10.4</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Earth</entry>
+<entry valign="top" align="left">12,756</entry>
+<entry valign="top" align="left">1.00</entry>
+<entry valign="top" align="left">1.00</entry>
+<entry valign="top" align="left">5.51</entry>
+<entry valign="top" align="left">1.000</entry>
+<entry valign="top" align="left">23.4</entry>
+<entry valign="top" align="left">1.00</entry>
+<entry valign="top" align="left">11.2</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mars</entry>
+<entry valign="top" align="left">6779</entry>
+<entry valign="top" align="left">0.53</entry>
+<entry valign="top" align="left">0.11</entry>
+<entry valign="top" align="left">3.93</entry>
+<entry valign="top" align="left">1.026</entry>
+<entry valign="top" align="left">25.2</entry>
+<entry valign="top" align="left">0.38</entry>
+<entry valign="top" align="left">5.0</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jupiter</entry>
+<entry valign="top" align="left">140,000</entry>
+<entry valign="top" align="left">10.9</entry>
+<entry valign="top" align="left">318</entry>
+<entry valign="top" align="left">1.33</entry>
+<entry valign="top" align="left">0.414</entry>
+<entry valign="top" align="left">3.1</entry>
+<entry valign="top" align="left">2.53</entry>
+<entry valign="top" align="left">60.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Saturn</entry>
+<entry valign="top" align="left">117,000</entry>
+<entry valign="top" align="left">9.13</entry>
+<entry valign="top" align="left">95.2</entry>
+<entry valign="top" align="left">0.69</entry>
+<entry valign="top" align="left">0.440</entry>
+<entry valign="top" align="left">26.7</entry>
+<entry valign="top" align="left">1.07</entry>
+<entry valign="top" align="left">36.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Uranus</entry>
+<entry valign="top" align="left">50,700</entry>
+<entry valign="top" align="left">3.98</entry>
+<entry valign="top" align="left">14.5</entry>
+<entry valign="top" align="left">1.27</entry>
+<entry valign="top" align="left">−0.718</entry>
+<entry valign="top" align="left">97.9</entry>
+<entry valign="top" align="left">0.89</entry>
+<entry valign="top" align="left">21.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Neptune</entry>
+<entry valign="top" align="left">49,200</entry>
+<entry valign="top" align="left">3.86</entry>
+<entry valign="top" align="left">17.2</entry>
+<entry valign="top" align="left">1.64</entry>
+<entry valign="top" align="left">0.671</entry>
+<entry valign="top" align="left">29.6</entry>
+<entry valign="top" align="left">1.14</entry>
+<entry valign="top" align="left">23.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table id="fs-id1172466968568" class="top-titled" summary="A table titled “Physical Data for Well-Studied Dwarf Planets” with nine columns and six rows. The first row is a header row and labels each column. From left to right, the first row reads “Well-Studied Dwarf Planet”, “Mean Diameter (km)”, “Mean Diameter (Earth = 1)”, “Mass (Earth = 1)”, “Mean Density (g/cm to the 3)”, “Rotation Period (d)”, “Inclination of Equator to Orbit (degrees)”, “Surface Gravity (Earth = 1[g])” and “Velocity of Escape (km/s)”. The second row reads “Ceres”, “950”, “0.07”, “0.0002” “2.2”, “0.378”, “3”, “0.03”, and “0.5”. The third row reads “Pluto”, “2470”, “0.18”, “0.0024”, “1.9”, “ negative 6.387”, “122”, “0.06”, and “1.3”. The fourth row reads “Haumea”, “1700”, 0.13”, “0.00073”, “0.163”, “blank”, “blank”, and “0.8”. The fifth row reads “Makemake” “1400”, “0.11”, “0.0005”, “2”, “0.321”, “blank”, “blank”, and “0.8”. The sixth row reads “Eris”, “2326”, “0.18,” “0.0028”, “2.5”, “1.25 footnote: this measurement is quite uncertain”, “blank”, “blank”, and “1.4”.">
+<tgroup cols="9">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<colspec colnum="8" colname="c8"/>
+<colspec colnum="9" colname="c9"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c9">Physical Data for Well-Studied Dwarf Planets</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Well-Studied Dwarf Planet</entry>
+<entry valign="top" align="center">Diameter (km)</entry>
+<entry valign="top" align="center">Diameter (Earth = 1)</entry>
+<entry valign="top" align="center">Mass (Earth = 1)</entry>
+<entry valign="top" align="center">Mean Density (g/cm<sup>3</sup>)</entry>
+<entry valign="top" align="center">Rotation Period (d)</entry>
+<entry valign="top" align="center">Inclination of Equator to Orbit (°)</entry>
+<entry valign="top" align="center">Surface Gravity (Earth = 1[g])</entry>
+<entry valign="top" align="center">Velocity of Escape (km/s)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Ceres</entry>
+<entry valign="top" align="left">950</entry>
+<entry valign="top" align="left">0.07</entry>
+<entry valign="top" align="left">0.0002</entry>
+<entry valign="top" align="left">2.2</entry>
+<entry valign="top" align="left">0.378</entry>
+<entry valign="top" align="left">3</entry>
+<entry valign="top" align="left">0.03</entry>
+<entry valign="top" align="left">0.5</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Pluto</entry>
+<entry valign="top" align="left">2470</entry>
+<entry valign="top" align="left">0.18</entry>
+<entry valign="top" align="left">0.0024</entry>
+<entry valign="top" align="left">1.9</entry>
+<entry valign="top" align="left">−6.387</entry>
+<entry valign="top" align="left">122</entry>
+<entry valign="top" align="left">0.06</entry>
+<entry valign="top" align="left">1.3</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Haumea</entry>
+<entry valign="top" align="left">1700</entry>
+<entry valign="top" align="left">0.13</entry>
+<entry valign="top" align="left">0.0007</entry>
+<entry valign="top" align="left">3</entry>
+<entry valign="top" align="left">0.163</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">0.8</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Makemake</entry>
+<entry valign="top" align="left">1400</entry>
+<entry valign="top" align="left">0.11</entry>
+<entry valign="top" align="left">0.0005</entry>
+<entry valign="top" align="left">2</entry>
+<entry valign="top" align="left">0.321</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">0.8</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Eris</entry>
+<entry valign="top" align="left">2326</entry>
+<entry valign="top" align="left">0.18</entry>
+<entry valign="top" align="left">0.0028</entry>
+<entry valign="top" align="left">2.5</entry>
+<entry valign="top" align="left">1.25<footnote id="fs-id1172466799952">This measurement is quite uncertain.</footnote></entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">1.4</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table id="fs-id1172467173621" class="top-titled" summary="A table titled “Orbital Data for the Major Planets” with nine columns and nine rows. The first row is a header row and labels each column. From left to right, the first row reads “Major Planet”, “Semimajor Axis (AU)”, “Semimajor Axis (10 to the 6 km)”, “Sidereal Period (y)”, “Sidereal Period (d)”, “Mean Orbital Speed (km/s)”, “Orbital Eccentricity”, and “Inclination of Orbit to Ecliptic (degrees)”. The second row reads “Mercury”, “0.39”, “58”, “0.24”, “88.0”, “47.9”, “0.206”, and “7.0”. The third row reads “Venus”, “0.72”, “108.”, “0.6”, “224.7”, “35.0”, “0.007”, and “3.4”. The fourth row reads “Earth”, “1.00”, “149.”, “1.00”, “365.2”, “29.8”, “0.017”, and “0.0”. The fifth row reads “Mars”, “1.52”, “228.”, “1.88”, “687.0”, “24.1”, “0.093”, and “1.9”. The sixth row reads “Jupiter”, “5.20”, “778.”, “11.86”, “blank”, “13.1”, “0.048”, and “1.3”. The seventh row reads “Saturn”, “9.54”, “1427”, “29.46”, “blank”, “9.6”, “0.056”, and “2.5”. The eighth row reads “Uranus”, “19.19”, “2871”, “84.01”, “blank”, “6.8”, “0.046”, and “0.8”. The ninth row reads “Neptune”, “30.06”, “4497”, “164.82,” “blank”, “5.4”, “0.010”, and “1.8”.">
+<tgroup cols="8">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<colspec colnum="8" colname="c8"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c8">Orbital Data for the Major Planets</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Major Planet</entry>
+<entry valign="top" align="center">Semimajor Axis (AU)</entry>
+<entry valign="top" align="center">Semimajor Axis (10<sup>6</sup> km)</entry>
+<entry valign="top" align="center">Sidereal Period (y)</entry>
+<entry valign="top" align="center">Sidereal Period (d)</entry>
+<entry valign="top" align="center">Mean Orbital Speed (km/s)</entry>
+<entry valign="top" align="center">Orbital Eccentricity</entry>
+<entry valign="top" align="center">Inclination of Orbit to Ecliptic (°)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Mercury</entry>
+<entry valign="top" align="left">0.39</entry>
+<entry valign="top" align="left">58</entry>
+<entry valign="top" align="left">0.24</entry>
+<entry valign="top" align="left">88.0</entry>
+<entry valign="top" align="left">47.9</entry>
+<entry valign="top" align="left">0.206</entry>
+<entry valign="top" align="left">7.0</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Venus</entry>
+<entry valign="top" align="left">0.72</entry>
+<entry valign="top" align="left">108</entry>
+<entry valign="top" align="left">0.6</entry>
+<entry valign="top" align="left">224.7</entry>
+<entry valign="top" align="left">35.0</entry>
+<entry valign="top" align="left">0.007</entry>
+<entry valign="top" align="left">3.4</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Earth</entry>
+<entry valign="top" align="left">1.00</entry>
+<entry valign="top" align="left">149</entry>
+<entry valign="top" align="left">1.00</entry>
+<entry valign="top" align="left">365.2</entry>
+<entry valign="top" align="left">29.8</entry>
+<entry valign="top" align="left">0.017</entry>
+<entry valign="top" align="left">0.0</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mars</entry>
+<entry valign="top" align="left">1.52</entry>
+<entry valign="top" align="left">228</entry>
+<entry valign="top" align="left">1.88</entry>
+<entry valign="top" align="left">687.0</entry>
+<entry valign="top" align="left">24.1</entry>
+<entry valign="top" align="left">0.093</entry>
+<entry valign="top" align="left">1.9</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jupiter</entry>
+<entry valign="top" align="left">5.20</entry>
+<entry valign="top" align="left">778</entry>
+<entry valign="top" align="left">11.86</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">13.1</entry>
+<entry valign="top" align="left">0.048</entry>
+<entry valign="top" align="left">1.3</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Saturn</entry>
+<entry valign="top" align="left">9.54</entry>
+<entry valign="top" align="left">1427</entry>
+<entry valign="top" align="left">29.46</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">9.6</entry>
+<entry valign="top" align="left">0.056</entry>
+<entry valign="top" align="left">2.5</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Uranus</entry>
+<entry valign="top" align="left">19.19</entry>
+<entry valign="top" align="left">2871</entry>
+<entry valign="top" align="left">84.01</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">6.8</entry>
+<entry valign="top" align="left">0.046</entry>
+<entry valign="top" align="left">0.8</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Neptune</entry>
+<entry valign="top" align="left">30.06</entry>
+<entry valign="top" align="left">4497</entry>
+<entry valign="top" align="left">164.82</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">5.4</entry>
+<entry valign="top" align="left">0.010</entry>
+<entry valign="top" align="left">1.8</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table id="fs-id1172466799190" class="top-titled" summary="A table titled “Orbital Data for Well-Studied Dwarf Planets” with nine columns and six rows. The first row is a header row and labels each column. From left to right, the first row reads “Well-Studied Dwarf Planet”, “Semimajor Axis (AU)”, “Semimajor Axis (10 to the 6 km)”, “Sidereal Period (y)”, “Sidereal Period (d)”, “Mean Orbital Speed (km/s)”, “Orbital Eccentricity”, and “Inclination of Orbit to Ecliptic (degrees)”. The second row reads “Ceres”, “2.77”, “414.0”, “4.6”, “18”, “0.08”, and “11”. The third row reads “Pluto”, “39.5”, “5915”, “248.6”, “4.7”, “0.25”, and “17.” The fourth row reads “Haumea“, “3.1”, “6452”, “283.3”, “4.5”, “0.19”, and “28.”. The fifth row reads “Makemake”, “45.8”, “6850”, “309.9”, “4.4”, “0.16”, and “29”. The sixth row reads “Eris”, “68.0”, “10,120”, “560.9”, “3.4”, “0.44”, and “44.”.">
+<tgroup cols="7">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c7">Orbital Data for Well-Studied Dwarf Planets</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Well-Studied Dwarf Planet</entry>
+<entry valign="top" align="center">Semimajor Axis (AU)</entry>
+<entry valign="top" align="center">Semimajor Axis (10<sup>6</sup> km)</entry>
+<entry valign="top" align="center">Sidereal Period (y)</entry>
+<entry valign="top" align="center">Mean Orbital Speed<newline/>(km/s)</entry>
+<entry valign="top" align="center">Orbital Eccentricity</entry>
+<entry valign="top" align="center">Inclination of Orbit to Ecliptic (°)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Ceres</entry>
+<entry valign="top" align="left">2.77</entry>
+<entry valign="top" align="left">414.0</entry>
+<entry valign="top" align="left">4.6</entry>
+<entry valign="top" align="left">18</entry>
+<entry valign="top" align="left">0.08</entry>
+<entry valign="top" align="left">11</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Pluto</entry>
+<entry valign="top" align="left">39.5</entry>
+<entry valign="top" align="left">5915</entry>
+<entry valign="top" align="left">248.6</entry>
+<entry valign="top" align="left">4.7</entry>
+<entry valign="top" align="left">0.25</entry>
+<entry valign="top" align="left">17</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Haumea</entry>
+<entry valign="top" align="left">43.1</entry>
+<entry valign="top" align="left">6452</entry>
+<entry valign="top" align="left">283.3</entry>
+<entry valign="top" align="left">4.5</entry>
+<entry valign="top" align="left">0.19</entry>
+<entry valign="top" align="left">28</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Makemake</entry>
+<entry valign="top" align="left">45.8</entry>
+<entry valign="top" align="left">6850</entry>
+<entry valign="top" align="left">309.9</entry>
+<entry valign="top" align="left">4.4</entry>
+<entry valign="top" align="left">0.16</entry>
+<entry valign="top" align="left">29</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Eris</entry>
+<entry valign="top" align="left">68.0</entry>
+<entry valign="top" align="left">10,120</entry>
+<entry valign="top" align="left">560.9</entry>
+<entry valign="top" align="left">3.4</entry>
+<entry valign="top" align="left">0.44</entry>
+<entry valign="top" align="left">44</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</content>
+</document>

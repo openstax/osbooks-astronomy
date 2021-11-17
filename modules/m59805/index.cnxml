@@ -1,0 +1,277 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Telescopes Today</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59805</md:content-id>
+  <md:title>Telescopes Today</md:title>
+  <md:abstract/>
+  <md:uuid>cbd1efb7-998a-4672-9337-ba9ecf4f8a8d</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167470683129" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-id1168583221512">By the end of this section, you will be able to:</para>
+<list id="fs-id1167470611713">
+<item>Recognize the largest visible-light and infrared telescopes in operation today</item>
+<item>Discuss the factors relevant to choosing an appropriate telescope site</item>
+<item>Define the technique of adaptive optics and describe the effects of the atmosphere on astronomical observations</item>
+</list>
+</section>
+<para id="fs-id1167470920016">Since Newton’s time, when the sizes of the mirrors in telescopes were measured in inches, reflecting telescopes have grown ever larger. In 1948, US astronomers built a telescope with a 5-meter (200-inch) diameter mirror on Palomar Mountain in Southern California. It remained the largest visible-light telescope in the world for several decades. The giants of today, however, have primary mirrors (the largest mirrors in the telescope) that are 8- to 10-meters in diameter, and larger ones are being built (<link target-id="OSC_Astro_06_02_Mirror"/>).</para>
+<figure id="OSC_Astro_06_02_Mirror">
+<title>Large Telescope Mirror.</title>
+<media id="fs-id1167470773857" alt="Photograph of one of the 8-meter concave primary mirrors of the European Space Agency’s Very Large Telescope array in Chile.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_06_02_Mirror.jpg"/>
+</media>
+<caption>This image shows one of the primary mirrors of the European Southern Observatory’s Very Large Telescope, named Yepun, just after it was recoated with aluminum. The mirror is a little over 8 meters in diameter. (credit: ESO/G. Huedepohl)</caption>
+</figure>
+<section id="fs-id1167470626442">
+<title>Modern Visible-Light and Infrared Telescopes</title>
+<para id="fs-id1167470606391">The decades starting in 1990 saw telescope building around the globe grow at an unprecedented rate. (See <link target-id="fs-id1167470615449"/>, which also includes websites for each telescope in case you want to visit or learn more about them.) Technological advancements had finally made it possible to build telescopes significantly larger than the 5-meter telescope at Palomar at a reasonable cost. New technologies have also been designed to work well in the infrared, and not just visible, wavelengths.</para>
+<table id="fs-id1167470615449" summary="This table has 5 columns and 16 rows. The first row is a header row and it labels each column, “Aperture (m)”, “Telescope Name”, “Location”, “Status”, and “Website”. Under the “Aperture (m)” column are the values, “39”, “30”, “24.5”, “11.1 x 9.9”, “10.4”, 10.0”, “9.1”, “8.4”, “8.4”, “8.3”, “8.2”, “8.1”, “6.5”, “6.5”,“6.0”, and “510”. Under the “Telescope Name” column are the values, “European Extremely Large Telescope (E-ELT)”, “Thirty-Meter Telescope (TMT)”, Giant Magellan Telescope (GMT)”, “Southern African Large Telescope (SALT)”, “Gran Telescopio Canarias (GTC)”, “Keck I and II (two telescopes)”,“Hobby-Eberly (HET)”, “Large Binocular Telescope (LBT) (two telescopes)”,“Large Synoptic Survey Telescope (Rubin Obs.)”, “Subaru Telescope”, “Very Large Telescope (VLT)”, “Gemini North and Gemini South”, “Magellan Telescopes (two telescopes: Baade and Landon Clay)”, “Multi-Mirror Telescope (MMT)”, “Big Telescope Altazimuth (BTA-6)”, and “Hale Telescope”. Under the “Location” column are the values, “Cerro Armazonas, Chile”, “Maunakea, HI”, “Las Campanas Observatory, Chile”, “Sutherland, South Africa”, “La Palma, Canary Islands”, “Maunakea, HI”, “Mount Locke, TX”, “Mount Graham, AZ”, “The Cerro Pachón, Chile”, “Maunakea, HI”, “Cerro Paranal, Chile”, “Maunakea, HI (North) and Cerro Pachón, Chile (South)”, “Mount Hopkins, AZ”, “Mount Pastukhov, Russia”, and “Mount Palomar, CA”. Under the status column are the values “First light 2025 (estimated)”, “First light 2025 (estimated)”, “First light 2025 (estimated)”, “2005”, “First light 2007”, “Completed 1993-96”, “Completed 1997”, “First light 2004”, “First light 2021”, “First light 1998”, “All four telescopes completed 2000”, “First light 1999 (North), First light 2000 (South)”, “First light 2000 and 2002”, “Completed 1979”, “Completed 1976”, and “Completed 1948”. Under the “Website” column are the values “www.eso.org/sci/facilities/eelt”, “www.tmt.org”, “www.gmto.org”, “www.salt.ac.za”, “http://www.gtc.iac.es”, “www.keckoberservatory.org”, “www.as.utexas.edu/mcdonald/het”, “www.lbto.org”, “www.lsst.org”, “www.naoj.org”, “www.eso.org/public/teles-instr/paranal”, “www.gemini.edu”, “obs.carnegiescience.edu/Magellan”, “www.mnto.org”, “w0.sao.ru/Doc-en/Telescopes/bta/descrip.html”, and “www.astro.caltech.edu/palomar/about/telescopes/hale.html”." class="top-titled">
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c5" align="center">Large Single-Dish Visible-Light and Infrared Telescopes</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Aperture (m)</entry>
+<entry valign="top" align="center">Telescope Name</entry>
+<entry valign="top" align="center">Location</entry>
+<entry valign="top" align="center">Status</entry>
+<entry valign="top" align="center">Website</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">39</entry>
+<entry valign="top" align="left"><term class="no-emphasis">European Extremely Large Telescope</term> (E-ELT)</entry>
+<entry valign="top" align="left">Cerro Armazonas, Chile</entry>
+<entry valign="top" align="left">First light 2025 (estimated)</entry>
+<entry valign="top" align="left">www.eso.org/sci/facilities/eelt</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">30</entry>
+<entry valign="top" align="left"><term class="no-emphasis">Thirty-Meter Telescope</term> (TMT)</entry>
+<entry valign="top" align="left">Maunakea, HI</entry>
+<entry valign="top" align="left">First light 2025 (estimated)</entry>
+<entry valign="top" align="left">www.tmt.org</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">24.5</entry>
+<entry valign="top" align="left"><term class="no-emphasis">Giant Magellan Telescope</term> (GMT)</entry>
+<entry valign="top" align="left">Las Campanas Observatory, Chile</entry>
+<entry valign="top" align="left">First light 2025 (estimated)</entry>
+<entry valign="top" align="left">www.gmto.org</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">11.1 × 9.9</entry>
+<entry valign="top" align="left"><term class="no-emphasis">Southern African Large Telescope</term> (SALT)</entry>
+<entry valign="top" align="left">Sutherland, South Africa</entry>
+<entry valign="top" align="left">2005</entry>
+<entry valign="top" align="left">www.salt.ac.za</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">10.4</entry>
+<entry valign="top" align="left"><term class="no-emphasis">Gran Telescopio Canarias</term> (GTC)</entry>
+<entry valign="top" align="left">La Palma, Canary Islands</entry>
+<entry valign="top" align="left">First light 2007</entry>
+<entry valign="top" align="left">http://www.gtc.iac.es</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">10.0</entry>
+<entry valign="top" align="left"><term class="no-emphasis">Keck I and II</term> (two telescopes)</entry>
+<entry valign="top" align="left">Maunakea, HI</entry>
+<entry valign="top" align="left">Completed 1993–96</entry>
+<entry valign="top" align="left">www.keckobservatory.org</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">9.1</entry>
+<entry valign="top" align="left"><term class="no-emphasis">Hobby–Eberly Telescope</term> (HET)</entry>
+<entry valign="top" align="left">Mount Locke, TX</entry>
+<entry valign="top" align="left">Completed 1997</entry>
+<entry valign="top" align="left">www.as.utexas.edu/mcdonald/het</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">8.4</entry>
+<entry valign="top" align="left"><term class="no-emphasis">Large Binocular Telescope</term> (LBT) (two telescopes)</entry>
+<entry valign="top" align="left">Mount Graham, AZ</entry>
+<entry valign="top" align="left">First light 2004</entry>
+<entry valign="top" align="left">www.lbto.org</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">8.4</entry>
+<entry valign="top" align="left"><term class="no-emphasis">Large Synoptic Survey Telescope</term> (Rubin Obs.)</entry>
+<entry valign="top" align="left">The Cerro Pachón, Chile</entry>
+<entry valign="top" align="left">First light 2021</entry>
+<entry valign="top" align="left">www.lsst.org</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">8.3</entry>
+<entry valign="top" align="left"><term class="no-emphasis">Subaru Telescope</term></entry>
+<entry valign="top" align="left">Maunakea, HI</entry>
+<entry valign="top" align="left">First light 1998</entry>
+<entry valign="top" align="left">www.naoj.org</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">8.2</entry>
+<entry valign="top" align="left"><term class="no-emphasis">Very Large Telescope</term> (VLT)</entry>
+<entry valign="top" align="left">Cerro Paranal, Chile</entry>
+<entry valign="top" align="left">All four telescopes completed 2000</entry>
+<entry valign="top" align="left">www.eso.org/public/teles-instr/paranal</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">8.1</entry>
+<entry valign="top" align="left"><term class="no-emphasis">Gemini North</term> and <term class="no-emphasis">Gemini South</term></entry>
+<entry valign="top" align="left">Maunakea, HI (North) and Cerro Pachón, Chile (South)</entry>
+<entry valign="top" align="left">First light 1999 (North), First light 2000 (South)</entry>
+<entry valign="top" align="left">www.gemini.edu</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">6.5</entry>
+<entry valign="top" align="left"><term class="no-emphasis">Magellan Telescopes</term> (two telescopes: Baade and Landon Clay)</entry>
+<entry valign="top" align="left">Las Campanas, Chile</entry>
+<entry valign="top" align="left">First light 2000 and 2002</entry>
+<entry valign="top" align="left">obs.carnegiescience.edu/Magellan</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">6.5</entry>
+<entry valign="top" align="left"><term class="no-emphasis">Multi-Mirror Telescope</term> (MMT)</entry>
+<entry valign="top" align="left">Mount Hopkins, AZ</entry>
+<entry valign="top" align="left">Completed 1979</entry>
+<entry valign="top" align="left">www.mmto.org</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">6.0</entry>
+<entry valign="top" align="left"><term class="no-emphasis">Big Telescope Altazimuth</term> (BTA-6)</entry>
+<entry valign="top" align="left">Mount Pastukhov, Russia</entry>
+<entry valign="top" align="left">Completed 1976</entry>
+<entry valign="top" align="left">w0.sao.ru/Doc-en/Telescopes/bta/descrip.html</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">5.1</entry>
+<entry valign="top" align="left"><term class="no-emphasis">Hale Telescope</term></entry>
+<entry valign="top" align="left">Mount Palomar, CA</entry>
+<entry valign="top" align="left">Completed 1948</entry>
+<entry valign="top" align="left">www.astro.caltech.edu/palomar/about/telescopes/hale.html</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1167470901718">The differences between the Palomar telescope and the modern Gemini North telescope (to take an example) are easily seen in <link target-id="OSC_Astro_06_02_RefTele"/>. The Palomar telescope is a massive steel structure designed to hold the 14.5-ton primary mirror with a 5-meter diameter. Glass tends to sag under its own weight; hence, a huge steel structure is needed to hold the mirror. A mirror 8 meters in diameter, the size of the Gemini North telescope, if it were built using the same technology as the Palomar telescope, would have to weigh at least eight times as much and would require an enormous steel structure to support it.</para>
+<figure id="OSC_Astro_06_02_RefTele">
+<title>Modern Reflecting Telescopes.</title>
+<media id="fs-id1167470703908" alt="Photographs of two modern reflecting telescopes. At left (a) is the Palomar 5-m reflector. This telescope was designed in the 1930s and built with the best technology available at the time. The mounting, telescope tube, and mirror supports are massive steel structures, especially compared to the relatively small primary mirror. On the right (b) is the Gemini North 8-m telescope. Thin mirror technology coupled with new alloys and modern composite materials result in a much lighter and less massive telescope structure, and a larger primary mirror.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_06_02_RefTele.jpg"/>
+</media>
+<caption>(a) The Palomar 5-meter reflector: The Hale telescope on Palomar Mountain has a complex mounting structure that enables the telescope (in the open “tube” pointing upward in this photo) to swing easily into any position. (b) The Gemini North 8-meter telescope: The Gemini North mirror has a larger area than the Palomar mirror, but note how much less massive the whole instrument seems. (credit a: modification of work by Caltech/Palomar Observatory; credit b: modification of work by Gemini Observatory/AURA)</caption>
+</figure>
+<para id="fs-id1167470700614">The 8-meter Gemini North telescope looks like a featherweight by contrast, and indeed it is. The mirror is only about 8 inches thick and weighs 24.5 tons, less than twice as much as the Palomar mirror. The Gemini North telescope was completed about 50 years after the Palomar telescope. Engineers took advantage of new technologies to build a telescope that is much lighter in weight relative to the size of the primary mirror. The Gemini mirror does sag, but with modern computers, it is possible to measure that sag many times each second and apply forces at 120 different locations to the back of the mirror to correct the sag, a process called <emphasis effect="italics">active control</emphasis>. Seventeen telescopes with mirrors 6.5 meters in diameter and larger have been constructed since 1990.</para>
+<para id="fs-id1167470623577">The twin 10-meter Keck telescopes on Maunakea, which were the first of these new-technology instruments, use precision control in an entirely novel way. Instead of a single primary mirror 10 meters in diameter, each Keck telescope achieves its larger aperture by combining the light from 36 separate hexagonal mirrors, each 1.8 meters wide (<link target-id="OSC_Astro_06_02_Thirtysix"/>). Computer-controlled actuators (motors) constantly adjust these 36 mirrors so that the overall reflecting surface acts like a single mirror with just the right shape to collect and focus the light into a sharp image.</para>
+<figure id="OSC_Astro_06_02_Thirtysix">
+<title>Thirty-Six Eyes Are Better Than One.</title>
+<media id="fs-id1167470638590" alt="Photograph of the composite mirror of one of the 10-m Keck telescopes in Hawaii.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_06_02_Thirtysix.jpg"/>
+</media>
+<caption>The mirror of the 10-meter Keck telescope is composed of 36 hexagonal sections. (credit: NASA)</caption>
+</figure>
+<note id="fs-id1167470677205" class="astronomy link-to-learning">
+<para id="fs-id1167471052455">Learn more about the <link url="https://openstax.org/l/30KeckObserv">Keck Observatory on Maunakea</link> through this History Channel clip on the telescopes and the work that they do.</para>
+</note>
+<para id="fs-id1167470862031">In addition to holding the mirror, the steel structure of a telescope is designed so that the entire telescope can be pointed quickly toward any object in the sky. Since Earth is rotating, the telescope must have a motorized drive system that moves it very smoothly from east to west at exactly the same rate that Earth is rotating from west to east, so it can continue to point at the object being observed. All this machinery must be housed in a dome to protect the telescope from the elements. The dome has an opening in it that can be positioned in front of the telescope and moved along with it, so that the light from the objects being observed is not blocked.</para>
+<note id="fs-id1167470692657" class="astronomy voyagers-in-astronomy">
+<title>George Ellery Hale: Master Telescope Builder</title>
+<para id="fs-id1167470699124">George Ellery <term class="no-emphasis">Hale</term> (<link target-id="OSC_Astro_06_04_GeorgeHale"/>) was a giant among early telescope builders. Not once, but four times, he initiated projects that led to the construction of what was the world’s largest telescope at the time. And he was a master at winning over wealthy benefactors to underwrite the construction of these new instruments.</para>
+<figure id="OSC_Astro_06_04_GeorgeHale">
+<title>George Ellery Hale (1868–1938).</title>
+<media id="fs-id1167470657871" alt="Photograph of George Ellery Hale.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_06_04_GeorgeHale.jpg"/>
+</media>
+<caption>Hale’s work led to the construction of several major telescopes, including the 40-inch refracting telescope at Yerkes Observatory, and three reflecting telescopes: the 60-inch Hale and 100-inch Hooker telescopes at Mount Wilson Observatory, and the 200-inch Hale Telescope at Palomar Observatory.</caption>
+</figure>
+<para id="fs-id1167470964182">Hale’s training and early research were in solar physics. In 1892, at age 24, he was named associate professor of astral physics and director of the astronomical observatory at the University of Chicago. At the time, the largest telescope in the world was the 36-inch refractor at the Lick Observatory near San Jose, California. Taking advantage of an existing glass blank for a 40-inch telescope, Hale set out to raise money for a larger telescope than the one at Lick. One prospective donor was Charles T. <term class="no-emphasis">Yerkes</term>, who, among other things, ran the trolley system in Chicago.</para>
+<para id="fs-id1167470693304">Hale wrote to Yerkes, encouraging him to support the construction of the giant telescope by saying that “the donor could have no more enduring monument. It is certain that Mr. Lick’s name would not have been nearly so widely known today were it not for the famous observatory established as a result of his munificence.” Yerkes agreed, and the new telescope was completed in May 1897; it remains the largest refractor in the world (<link target-id="OSC_Astro_06_04_Yerkes"/>).</para>
+<figure id="OSC_Astro_06_04_Yerkes">
+<title>World’s Largest Refractor.</title>
+<media id="fs-id1167470755909" alt="Photograph of the 40-inch refracting telescope at Yerkes Observatory.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_06_04_Yerkes.jpg"/>
+</media>
+<caption>The Yerkes 40-inch (1-meter) telescope.</caption>
+</figure>
+<para id="fs-id1167470902350">Even before the completion of the Yerkes refractor, Hale was not only dreaming of building a still larger telescope but was also taking concrete steps to achieve that goal. In the 1890s, there was a major controversy about the relative quality of refracting and reflecting telescopes. Hale realized that 40 inches was close to the maximum feasible aperture for refracting telescopes. If telescopes with significantly larger apertures were to be built, they would have to be reflecting telescopes.</para>
+<para id="fs-id1167470627091">Using funds borrowed from his own family, Hale set out to construct a 60-inch reflector. For a site, he left the Midwest for the much better conditions on Mount Wilson—at the time, a wilderness peak above the small city of Los Angeles. In 1904, at the age of 36, Hale received funds from the Carnegie Foundation to establish the Mount Wilson Observatory. The 60-inch mirror was placed in its mount in December 1908.</para>
+<para id="fs-id1167470702320">Two years earlier, in 1906, Hale had already approached John D. Hooker, who had made his fortune in hardware and steel pipe, with a proposal to build a 100-inch telescope. The technological risks were substantial. The 60-inch telescope was not yet complete, and the usefulness of large reflectors for astronomy had yet to be demonstrated. George Ellery Hale’s brother called him “the greatest gambler in the world.” Once again, Hale successfully obtained funds, and the 100-inch telescope was completed in November 1917. (It was with this telescope that Edwin <term class="no-emphasis">Hubble</term> was able to establish that the spiral nebulae were separate islands of stars—or galaxies—quite removed from our own Milky Way.)</para>
+<para id="fs-id1167470758768">Hale was not through dreaming. In 1926, he wrote an article in <emphasis effect="italics">Harper’s Magazine</emphasis> about the scientific value of a still larger telescope. This article came to the attention of the Rockefeller Foundation, which granted $6 million for the construction of a 200-inch telescope. Hale died in 1938, but the 200-inch (5-meter) telescope on Palomar Mountain was dedicated 10 years later and is now named in Hale’s honor.</para>
+</note>
+</section>
+<section id="fs-id1167471053079">
+<title>Picking the Best Observing Sites</title>
+<para id="fs-id1167470771707">A telescope like the Gemini or Keck telescope costs about $100 million to build. That kind of investment demands that the telescope be placed in the best possible site. Since the end of the nineteenth century, astronomers have realized that the best observatory sites are on mountains, far from the lights and pollution of cities. Although a number of urban observatories remain, especially in the large cities of Europe, they have become administrative centers or museums. The real action takes place far away, often on desert mountains or isolated peaks in the Atlantic and Pacific Oceans, where we find the staff’s living quarters, computers, electronic and machine shops, and of course the telescopes themselves. A large observatory today requires a supporting staff of 20 to 100 people in addition to the astronomers.</para>
+<para id="fs-id1167470689136">The performance of a telescope is determined not only by the size of its mirror but also by its location. Earth’s atmosphere, so vital to life, presents challenges for the observational astronomer. In at least four ways, our air imposes limitations on the usefulness of telescopes:</para>
+<list id="fs-id1167470623385" list-type="enumerated" number-style="arabic">
+<item>The most obvious limitation is weather conditions such as clouds, wind, and rain. At the best sites, the weather is clear as much as 75% of the time.</item>
+<item>Even on a clear night, the atmosphere filters out a certain amount of starlight, especially in the infrared, where the absorption is due primarily to water vapor. Astronomers therefore prefer dry sites, generally found at high altitudes.</item>
+<item>The sky above the telescope should be dark. Near cities, the air scatters the glare from lights, producing an illumination that hides the faintest stars and limits the distances that can be probed by telescopes. (Astronomers call this effect <term>light pollution</term>.) Observatories are best located at least 100 miles from the nearest large city.</item>
+<item>Finally, the air is often unsteady; light passing through this turbulent air is disturbed, resulting in blurred star images. Astronomers call these effects “bad <term>seeing</term>.” When seeing is bad, images of celestial objects are distorted by the constant twisting and bending of light rays by turbulent air.</item>
+</list>
+<para id="fs-id1167470680693">The best observatory sites are therefore high, dark, and dry. The world’s largest telescopes are found in such remote mountain locations as the Andes Mountains of Chile (<link target-id="OSC_Astro_06_02_Drysite"/>), the desert peaks of Arizona, the Canary Islands in the Atlantic Ocean, and Maunakea in Hawaii, a dormant volcano with an altitude of 13,700 feet (4200 meters).</para>
+<note id="fs-id1167470602139" class="astronomy link-to-learning">
+<para id="fs-id1167470549450">Light pollution is a problem not just for professional astronomers but for everyone who wants to enjoy the beauty of the night sky. In addition research is now showing that it can disrupt the life cycle of animals with whom we share the urban and suburban landscape. And the light wasted shining into the sky leads to unnecessary municipal expenses and use of fossil fuels. Concerned people have formed an organization, the International Dark-Sky Association, whose <link url="https://openstax.org/l/30IntDSA">website</link> is full of good information. A citizen science project called <link url="https://openstax.org/l/30GlbatNght"><emphasis effect="italics">Globe at Night</emphasis></link> allows you to measure the light levels in your community by counting stars and to compare it to others around the world. Recently, a new threat to dark skies has emerged. A number of commercial companies are planning and launching large swarms of satellites into low-Earth orbit to provide internet access around the world. Unfortunately, these satellites reflect sunlight and have already begun to ruin astronomical photographs the world over. See the <link target-id="fs-id1167470964084" document="m59812">Further Exploration</link> section at the end of this chapter for more resources on this topic. If you get interested in this topic and want to do a paper for your astronomy course or another course while you are in college, the <link url="https://openstax.org/l/30DNSGuide"><emphasis effect="italics">Dark Night Skies</emphasis> guide</link> can point you to a variety of resources on the topic.</para>
+</note>
+<figure id="OSC_Astro_06_02_Drysite">
+<title>High and Dry Site.</title>
+<media id="fs-id1167470890407" alt="Photograph of four telescope buildings of the European Southern Observatory’s Very Large Telescope array, taken at night. In the distance, the building holding VISTA is visible.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_06_02_Drysite.jpg"/>
+</media>
+<caption>Cerro Paranal, a mountain summit 2.7 kilometers above sea level in Chile’s Atacama Desert, is the site of the European Southern Observatory’s Very Large Telescope. This photograph shows the four 8-meter telescope buildings on the site and vividly illustrates that astronomers prefer high, dry sites for their instruments. The 4.1-meter Visible and Infrared Survey Telescope for Astronomy (VISTA) can be seen in the distance on the next mountain peak. (credit: ESO)</caption>
+</figure>
+</section>
+<section id="fs-id1167470941611">
+<title>The Resolution of a Telescope</title>
+<para id="fs-id1167470615699">In addition to gathering as much light as they can, astronomers also want to have the sharpest images possible. <term>Resolution</term> refers to the precision of detail present in an image: that is, the smallest features that can be distinguished. Astronomers are always eager to make out more detail in the images they study, whether they are following the weather on Jupiter or trying to peer into the violent heart of a “cannibal galaxy” that recently ate its neighbor for lunch.</para>
+<para id="fs-id1167471052433">One factor that determines how good the resolution will be is the size of the telescope. Larger apertures produce sharper images. Until very recently, however, visible-light and infrared telescopes on Earth’s surface could not produce images as sharp as the theory of light said they should.</para>
+<para id="fs-id1167471084189">The problem—as we saw earlier in this chapter—is our planet’s atmosphere, which is turbulent. It contains many small-scale blobs or cells of gas that range in size from inches to several feet. Each cell has a slightly different temperature from its neighbor, and each cell acts like a lens, bending (refracting) the path of the light by a small amount. This bending slightly changes the position where each light ray finally reaches the detector in a telescope. The cells of air are in motion, constantly being blown through the light path of the telescope by winds, often in different directions at different altitudes. As a result, the path followed by the light is constantly changing.</para>
+<para id="fs-id1167470709434">For an analogy, think about watching a parade from a window high up in a skyscraper. You decide to throw some confetti down toward the marchers. Even if you drop a handful all at the same time and in the same direction, air currents will toss the pieces around, and they will reach the ground at different places. As we described earlier, we can think of the light from the stars as a series of parallel beams, each making its way through the atmosphere. Each path will be slightly different, and each will reach the detector of the telescope at a slightly different place. The result is a blurred image, and because the cells are being blown by the wind, the nature of the blur will change many times each second. You have probably noticed this effect as the “twinkling” of stars seen from Earth. The light beams are bent enough that part of the time they reach your eye, and part of the time some of them miss, thereby making the star seem to vary in brightness. In space, however, the light of the stars is steady.</para>
+<para id="fs-id1167470679458">Astronomers search the world for locations where the amount of atmospheric blurring, or turbulence, is as small as possible. It turns out that the best sites are in coastal mountain ranges and on isolated volcanic peaks in the middle of an ocean. Air that has flowed long distances over water before it encounters land is especially stable.</para>
+<para id="fs-id1167470632380">The resolution of an image is measured in units of angle on the sky, typically in units of arcseconds. One arcsecond is 1/3600 degree, and there are 360 degrees in a full circle. So we are talking about tiny angles on the sky. To give you a sense of just how tiny, we might note that 1 arcsecond is how big a quarter would look when seen from a distance of 5 kilometers. The best images obtained from the ground with traditional techniques reveal details as small as several tenths of an arcsecond across. This image size is remarkably good. One of the main reasons for launching the <term class="no-emphasis">Hubble Space Telescope</term> was to escape Earth’s atmosphere and obtain even sharper images.</para>
+<para id="fs-id1167470614614">But since we can’t put every telescope into space, astronomers have devised a technique called <term>adaptive optics</term> that can beat Earth’s atmosphere at its own game of blurring. This technique (which is most effective in the infrared region of the spectrum with our current technology) makes use of a small flexible mirror placed in the beam of a telescope. A sensor measures how much the atmosphere has distorted the image, and as often as 500 times per second, it sends instructions to the flexible mirror on how to change shape in order to compensate for distortions produced by the atmosphere. The light is thus brought back to an almost perfectly sharp focus at the detector. <link target-id="OSC_Astro_06_02_Adaptive"/> shows just how effective this technique is. With adaptive optics, ground-based telescopes can achieve resolutions of 0.1 arcsecond or a little better in the infrared region of the spectrum. This impressive figure is the equivalent of the resolution that the Hubble Space Telescope achieves in the visible-light region of the spectrum.</para>
+<figure id="OSC_Astro_06_02_Adaptive">
+<title>Power of Adaptive Optics.</title>
+<media id="fs-id1167470699459" alt="Image of the planet Jupiter taken in infrared light with adaptive optics with the Very Large Telescope in Chile. This high resolution image shows cloud details on Jupiter that rival those taken by the Hubble Space Telescope in Earth orbit.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_06_02_Adaptive.jpg"/>
+</media>
+<caption>One of the clearest pictures of <term class="no-emphasis">Jupiter</term> ever taken from the ground, this image was produced with adaptive optics using an 8-meter-diameter telescope at the Very Large Telescope in Chile. Adaptive optics uses infrared wavelengths to remove atmospheric blurring, resulting in a much clearer image. (credit: modification of work by ESO, F.Marchis, M.Wong (UC Berkeley); E.Marchetti, P.Amico, S.Tordo (ESO))</caption>
+</figure>
+<note id="fs-id1167470881216" class="astronomy astronomy-basics">
+<title>How Astronomers Really Use Telescopes</title>
+<para id="fs-id1167470602154">In the popular view (and some bad movies), an astronomer spends most nights in a cold observatory peering through a telescope, but this is not very accurate today. Most astronomers do not live at observatories, but near the universities or laboratories where they work. An astronomer might spend only a week or so each year observing at the telescope and the rest of the time measuring or analyzing the data acquired from large project collaborations and dedicated surveys. Many astronomers use radio telescopes for space experiments, which work just as well during the daylight hours. Still others work at purely theoretical problems using supercomputers and never observe at a telescope of any kind.</para>
+<para id="fs-id1167470675776">Even when astronomers are observing with large telescopes, they seldom peer through them. Electronic detectors permanently record the data for detailed analysis later. At some observatories, observations may be made remotely, with the astronomer sitting at a computer thousands of miles away from the telescope.</para>
+<para id="fs-id1167470666308">Time on major telescopes is at a premium, and an observatory director will typically receive many more requests for telescope time than can be accommodated during the year. Astronomers must therefore write a convincing proposal explaining how they would like to use the telescope and why their observations will be important to the progress of astronomy. A committee of astronomers is then asked to judge and rank the proposals, and time is assigned only to those with the greatest merit. Even if your proposal is among the high-rated ones, you may have to wait many months for your turn. If the skies are cloudy on the nights you have been assigned, it may be more than a year before you get another chance.</para>
+<para id="fs-id1167470623939">Some older astronomers still remember long, cold nights spent alone in an observatory dome, with only music from a tape recorder or an all-night radio station for company. The sight of the stars shining brilliantly hour after hour through the open slit in the observatory dome was unforgettable. So, too, was the relief as the first pale light of dawn announced the end of a 12-hour observation session. Astronomy is much easier today, with teams of observers working together, often at their computers, in a warm room. Those who are more nostalgic, however, might argue that some of the romance has gone from the field, too.</para>
+</note>
+</section>
+<section id="fs-id1167470994362" class="summary">
+<para id="fs-id1167470606131">New technologies for creating and supporting lightweight mirrors have led to the construction of a number of large telescopes since 1990. The site for an astronomical observatory must be carefully chosen for clear weather, dark skies, low water vapor, and excellent atmospheric seeing (low atmospheric turbulence). The resolution of a visible-light or infrared telescope is degraded by turbulence in Earth’s atmosphere. The technique of adaptive optics, however, can make corrections for this turbulence in real time and produce exquisitely detailed images.</para>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id1167470658772">
+<term>adaptive optics</term>
+<meaning id="fs-id1167470625334">systems used with telescopes that can compensate for distortions in an image introduced by the atmosphere, thus resulting in sharper images</meaning>
+</definition>
+<definition id="fs-id1167471093671">
+<term>resolution</term>
+<meaning id="fs-id1167471055319">detail in an image; specifically, the smallest angular (or linear) features that can be distinguished</meaning>
+</definition>
+<definition id="fs-id1167470924360">
+<term>seeing</term>
+<meaning id="fs-id1167470682419">unsteadiness of Earth’s atmosphere, which blurs telescopic images; good seeing means the atmosphere is steady</meaning>
+</definition>
+</glossary>
+</document>

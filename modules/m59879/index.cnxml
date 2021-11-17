@@ -1,0 +1,109 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Solar Activity above the Photosphere</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59879</md:content-id>
+  <md:title>Solar Activity above the Photosphere</md:title>
+  <md:abstract/>
+  <md:uuid>a20c81bb-271c-4862-b4a8-4bda31bb3a2a</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1163976652943" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-id1168584026760">By the end of this section, you will be able to:</para>
+<list id="fs-id1163976961378">
+<item>Describe the various ways in which the solar activity cycle manifests itself, including flares, coronal mass ejections, prominences, and plages</item>
+</list>
+</section>
+<para id="fs-id1163976486238">Sunspots are not the only features that vary during a <term class="no-emphasis">solar cycle</term>. There are dramatic changes in the chromosphere and corona as well. To see what happens in the chromosphere, we must observe the emission lines from elements such as hydrogen and calcium, which emit useful spectral lines at the temperatures in that layer. The hot corona, on the other hand, can be studied by observations of X-rays and of extreme ultraviolet and other wavelengths at high energies.</para>
+<section id="fs-id1163976873384">
+<title>Plages and Prominences</title>
+<para id="fs-id1163973135784">As we saw, emission lines of hydrogen and calcium are produced in the hot gases of the chromosphere. Astronomers routinely photograph the <term class="no-emphasis">Sun</term> through filters that transmit light only at the wavelengths that correspond to these emission lines. Pictures taken through these special filters show bright “clouds” in the chromosphere around sunspots; these bright regions are known as <term>plages</term> (<link target-id="OSC_Astro_15_03_Plages"/>). These are regions within the chromosphere that have higher temperature and density than their surroundings. The plages actually contain all of the elements in the Sun, not just hydrogen and calcium. It just happens that the spectral lines of hydrogen and calcium produced by these clouds are bright and easy to observe.</para>
+<figure id="OSC_Astro_15_03_Plages">
+<title>Plages on the Sun.</title>
+<media id="fs-id1163976911072" alt="An image of the sun, showing plages as bright cloud-like regions.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_15_03_Plages.jpg"/>
+</media>
+<caption>This image of the Sun was taken with a filter that transmits only the light of the spectral line produced by singly ionized calcium. The bright cloud-like regions are the plages. (credit: modification of work by NASA)</caption>
+</figure>
+<para id="fs-id1163976542567">Moving higher into the Sun’s atmosphere, we come to the spectacular phenomena called <term>prominences</term> (<link target-id="OSC_Astro_15_03_Prominence"/>), which usually originate near sunspots. Eclipse observers often see prominences as red features rising above the eclipsed Sun and reaching high into the corona. Some, the <emphasis effect="italics">quiescent</emphasis> prominences, are graceful loops of plasma (ionized gas) that can remain nearly stable for many hours or even days. The relatively rare <emphasis effect="italics">eruptive</emphasis> prominences appear to send matter upward into the corona at high speeds, and the most active <emphasis effect="italics">surge</emphasis> prominences may move as fast as 1300 kilometers per second (almost 3 million miles per hour). Some eruptive prominences have reached heights of more than 1 million kilometers above the photosphere; Earth would be completely lost inside one of those awesome displays (<link target-id="OSC_Astro_15_03_Prominence"/>).</para>
+<figure id="OSC_Astro_15_03_Prominence">
+<title>Prominences.</title>
+<media id="fs-id1163976588269" alt="A figure showing prominences. At left is an image of the sun divided into four quarters. Each quarter shows a different prominence. At right is a close-up of a prominence, with a dot labeled “Approximate size of Earth” for size reference.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_15_03_Prominence.jpg"/>
+</media>
+<caption>(a) This image of an eruptive prominence was taken in the light of singly ionized helium in the extreme ultraviolet part of the spectrum. The prominence is a particularly large one. An image of Earth is shown at the same scale for comparison. (b) A prominence is a huge cloud of relatively cool (about 60,000 K in this case), fairly dense gas suspended in the much hotter corona. These pictures, taken in ultraviolet, are color coded so that white corresponds to the hottest temperatures and dark red to cooler ones. The four images were taken, moving clockwise from the upper left, on May 15, 2001; March 28, 2000; January 18, 2000; and February 2, 2001. (credit a: modification of work by NASA/SOHO; credit b: modification of work by NASA/SDO)</caption>
+</figure>
+</section>
+<section id="fs-id1163973229343">
+<title>Flares and Coronal Mass Ejections</title>
+<para id="fs-id1163976924075">The most violent event on the surface of the Sun is a rapid eruption called a <term>solar flare</term> (<link target-id="OSC_Astro_15_02_Flare2"/>). A typical flare lasts for 5 to 10 minutes and releases a total amount of energy equivalent to that of perhaps a million hydrogen bombs. The largest flares last for several hours and emit enough energy to power the entire United States at its current rate of electrical consumption for 100,000 years. Near sunspot maximum, small flares occur several times per day, and major ones may occur every few weeks.</para>
+<figure id="OSC_Astro_15_02_Flare2">
+<title>Solar Flare.</title>
+<media id="fs-id1163976778094" alt="An image of a solar flare, a bright region to the right of the sun.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_15_02_Flare2.jpg"/>
+</media>
+<caption>The bright white area seen on the right side of the Sun in this image from the Solar Dynamics Observer spacecraft is a solar flare that was observed on June 25, 2015. (credit: NASA/SDO)</caption>
+</figure>
+<para id="fs-id1163976512274">Flares, like the one shown in <link target-id="OSC_Astro_15_03_Flare"/>, are often observed in the red light of hydrogen, but the visible emission is only a tiny fraction of the energy released when a solar flare explodes. At the moment of the explosion, the matter associated with the flare is heated to temperatures as high as 10 million K. At such high temperatures, a flood of X-ray and ultraviolet radiation is emitted.</para>
+<para id="fs-id1163976809350">Flares seem to occur when magnetic fields pointing in opposite directions release energy by interacting with and destroying each other—much as a stretched rubber band releases energy when it breaks.</para>
+<para id="fs-id1163976571983">What is different about flares is that their magnetic interactions cover a large volume in the solar corona and release a tremendous amount of electromagnetic radiation. In some cases, immense quantities of coronal material—mainly protons and electrons—may also be ejected at high speeds (500–1000 kilometers per second) into interplanetary space. Such a <term>coronal mass ejection (CME)</term> can affect Earth in a number of ways (which we will discuss in the section on space weather).</para>
+<figure id="OSC_Astro_15_03_Flare">
+<title>Flare and Coronal Mass Ejection.</title>
+<media id="fs-id1163976480985" alt="A figure of a flare and a coronal mass ejection, shown in a series of four images. On the left is a view of the sun with a few dark sunspots. Next is a view of the sun in UV light, with a bright flare at the same location of the sunspots in the leftmost image. Next is an image of a coronal mass ejection shooting out from the same location. Finally the coronal mass ejection is imaged through a filter to show the emission from the corona.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_15_03_Flare.jpg"/>
+</media>
+<caption>This sequence of four images shows the evolution over time of a giant eruption on the Sun. (a) The event began at the location of a sunspot group, and (b) a flare is seen in far-ultraviolet light. (c) Fourteen hours later, a CME is seen blasting out into space. (d) Three hours later, this CME has expanded to form a giant cloud of particles escaping from the Sun and is beginning the journey out into the solar system. The white circle in (c) and (d) shows the diameter of the solar photosphere. The larger dark area shows where light from the Sun has been blocked out by a specially designed instrument to make it possible to see the faint emission from the corona. (credit a, b, c, d: modification of work by SOHO/EIT, SOHO/LASCO, SOHO/MDI (ESA &amp; NASA))</caption>
+</figure>
+<note id="fs-id1163976662284" class="astronomy link-to-learning">
+<para id="fs-id1163976656220">See a <link url="https://openstax.org/l/30CorMaEj">coronal mass ejection</link> recorded by the Solar Dynamics Observatory.</para>
+</note>
+</section>
+<section id="fs-id1163976571304">
+<title>Active Regions</title>
+<para id="fs-id1163976459208">To bring the discussion of the last two sections together, astronomers now realize that sunspots, flares, and bright regions in the chromosphere and corona tend to occur together on the Sun in time and space. That is, they all tend to have similar longitudes and latitudes, but they are located at different heights in the atmosphere. Because they all occur together, they vary with the sunspot cycle.</para>
+<figure id="OSC_Astro_15_02_Cycle">
+<title>Solar Cycle.</title>
+<media id="fs-id1163976673187" alt="A figure illustrating the solar cycle. Eleven separate images of the sun are shown from 1996 to 2006, demonstrating the changing active regions.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_15_02_Cycle.jpg"/>
+</media>
+<caption>This dramatic sequence of images taken from the SOHO satellite over a period of 11 years shows how active regions change during the <term class="no-emphasis">solar cycle</term>. The images were taken in the ultraviolet region of the spectrum and show that active regions on the Sun increase and decrease during the cycle. Sunspots are located in the cooler photosphere, beneath the hot gases shown in this image, and vary in phase with the emission from these hot gases—more sunspots and more emission from hot gases occur together. (credit: modification of work by ESA/NASA/SOHO)</caption>
+</figure>
+<para id="fs-id1163973188481">For example, flares are more likely to occur near sunspot maximum, and the corona is much more conspicuous at that time (see <link target-id="OSC_Astro_15_02_Cycle"/>). A place on the Sun where a number of these phenomena are seen is called an <term>active region</term> (<link target-id="OSC_Astro_15_04_Active"/>). As you might deduce from our earlier discussion, active regions are always associated with strong magnetic fields.</para>
+<figure id="OSC_Astro_15_04_Active">
+<title>Solar Active Region Observed at Different Heights in the Sun’s Atmosphere.</title>
+<media id="fs-id1163973304840" alt="A figure illustrating a solar active region observed at different heights in the sun’s atmosphere. At 171 Angstrom, loops in the corona are shown. At 304 Angstrom, the bright light of a flare is shown. At 335 Angstrom, radiation from active regions in the corona is shown. A magnetogram shows the light and dark spots of directional magnetism.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_15_04_Active.jpg"/>
+</media>
+<caption>These four images of a solar flare on October 22, 2012, show from the left: light from the Sun at a wavelength of 171 angstroms, which shows the structure of loops of solar material in the corona; ultraviolet at 304 angstroms, which shows light from the region of the Sun’s atmosphere where flares originate; light at 335 angstroms, which highlights radiation from active regions in the corona; a magnetogram, which shows magnetically active regions on the Sun. Note how these different types of activity all occur above a sunspot region with a strong magnetic field. (credit: modification of work by NASA/SDO/Goddard)</caption>
+</figure>
+</section>
+<section id="fs-id1163976878739" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-id1163976516234">Signs of more intense solar activity, an increase in the number of sunspots, as well as prominences, plages, solar flares, and <emphasis effect="bold">c</emphasis>oronal mass ejections, all tend to occur in active regions—that is, in places on the Sun with the same latitude and longitude but at different heights in the atmosphere. Active regions vary with the solar cycle, just like sunspots do.</para>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1163976909078">
+<term>active region</term>
+<meaning id="fs-id1163976645902">an area on the Sun where magnetic fields are concentrated; sunspots, prominences, flares, and CMEs all tend to occur in active regions</meaning>
+</definition>
+<definition id="fs-id1163976801602">
+<term>coronal mass ejection (CME)</term>
+<meaning id="fs-id1163976515768">a solar flare in which immense quantities of coronal material—mainly protons and electrons—is ejected at high speeds (500–1000 kilometers per second) into interplanetary space</meaning>
+</definition>
+<definition id="fs-id1163976808230">
+<term>plage</term>
+<meaning id="fs-id1163976470960">a bright region of the solar surface observed in the light of some spectral line</meaning>
+</definition>
+<definition id="fs-id1163976470897">
+<term>prominence</term>
+<meaning id="fs-id1163973217376">a large, bright, gaseous feature that appears above the surface of the Sun and extends into the corona</meaning>
+</definition>
+<definition id="fs-id1163973102337">
+<term>solar flare</term>
+<meaning id="fs-id1163976515538">a sudden and temporary outburst of electromagnetic radiation from an extended region of the Sun’s surface</meaning>
+</definition>
+</glossary>
+</document>

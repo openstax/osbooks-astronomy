@@ -1,0 +1,49 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59743</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>ff8e6ee8-8a50-4756-b95e-c3b8e803622b</md:uuid>
+</metadata>
+
+<content>
+<figure id="OSC_Astro_01_00_OurUnivers" class="splash">
+<title>Distant Galaxies.</title>
+<media id="fs-id1167470600963" alt="Hubble Space Telescope image of two interacting galaxies. A larger spiral galaxy with a circular nucleus is on the left, in contact with a smaller barred-spiral galaxy on the right.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_01_00_OurUnivers.jpg"/>
+</media>
+<caption>These two interacting islands of stars (galaxies) are so far away that their light takes hundreds of millions of years to reach us on Earth (photographed with the Hubble Space Telescope). (credit: modification of work by NASA, ESA, the Hubble Heritage (STScl/AURA)-ESA/Hubble Collaboration, and K. Noll (STScl))</caption>
+</figure>
+<para id="fs-id1167467291745">We invite you to come along on a series of voyages to explore the universe as astronomers understand it today. Beyond Earth are vast and magnificent realms full of objects that have no counterpart on our home planet. Nevertheless, we hope to show you that the evolution of the universe has been directly responsible for your presence on Earth today.</para>
+<para id="fs-id1167467301400">Along your journey, you will encounter:</para>
+<list id="fs-id1167467464605" list-type="bulleted" bullet-style="bullet">
+<item>a canyon system so large that, on Earth, it would stretch from Los Angeles to Washington, DC (<link target-id="OSC_Astro_01_00_Mar"/>).</item>
+</list>
+<figure id="OSC_Astro_01_00_Mar">
+<title>Mars Mosaic.</title>
+<media id="fs-id1167470556803" alt="Image of the Planet Mars. This composite image is centered on the Valles Marineris (Mariner Valley) region near the Martian equator.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_01_00_Mar.jpg"/>
+</media>
+<caption>This image of <term class="no-emphasis">Mars</term> is centered on the <term class="no-emphasis">Valles Marineris</term> (Mariner Valley) complex of canyons, which is as long as the United States is wide. (credit: modification of work by NASA)</caption>
+</figure>
+<list id="fs-id1167470773032" list-type="bulleted" bullet-style="bullet">
+<item>a crater and other evidence on Earth that tell us that the dinosaurs (and many other creatures) died because of a cosmic collision.</item>
+<item>a tiny moon whose gravity is so weak that one good throw from its surface could put a baseball into orbit.</item>
+<item>a collapsed star so dense that to duplicate its interior we would have to squeeze every human being on Earth into a single raindrop.</item>
+<item>exploding stars whose violent end could wipe clean all of the life-forms on a planet orbiting a neighboring star (<link target-id="OSC_Astro_01_00_Stellar"/>).</item>
+<item>a “cannibal galaxy” that has already consumed a number of its smaller galaxy neighbors and is not yet finished finding new victims.</item>
+<item>a radio echo that is the faint but unmistakable signal of the creation event for our universe.</item>
+</list>
+<figure id="OSC_Astro_01_00_Stellar">
+<title>Stellar Corpse.</title>
+<media id="fs-id1167470693419" alt="Image of the Crab Nebula Supernova Remnant. An oblong region of diffuse light, with delicate wisps and tendrils of gas, are seen expanding outward into the blackness of space.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_01_00_Stellar.jpg"/>
+</media>
+<caption>We observe the remains of a star that was seen to explode in our skies in 1054 (and was, briefly, bright enough to be visible during the daytime). Today, the remnant is called the <term class="no-emphasis">Crab Nebula</term> and its central region is seen here. Such exploding stars are crucial to the development of life in the universe. (credit: NASA, ESA, J. Hester (Arizona State University))</caption>
+</figure>
+<para id="fs-id1167467410009">Such discoveries are what make astronomy such an exciting field for scientists and many others—but you will explore much more than just the objects in our universe and the latest discoveries about them. We will pay equal attention to the <emphasis effect="italics">process</emphasis> by which we have come to understand the realms beyond Earth and the tools we use to increase that understanding.</para>
+<para id="fs-id1167470565184">We gather information about the cosmos from the messages the universe sends our way. Because the stars are the fundamental building blocks of the universe, decoding the message of starlight has been a central challenge and triumph of modern astronomy. By the time you have finished reading this text, you will know a bit about how to read that message and how to understand what it is telling us.</para>
+ </content>
+</document>

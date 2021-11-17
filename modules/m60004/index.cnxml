@@ -1,0 +1,862 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="appendix">
+
+<title>The Chemical Elements</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m60004</md:content-id>
+  <md:title>The Chemical Elements</md:title>
+  <md:abstract/>
+  <md:uuid>55ecd3c3-0cdc-482c-8e2f-ec853554054d</md:uuid>
+</metadata>
+
+<content class="appendix">
+<table id="fs-id1172467931053" class="top-titled" summary="A table titled “The Chemical Elements” with five columns and 119 rows. The first row is a header row and labels the columns “Element”, “Symbol”, “Atomic Number”, “Atomic Weight footnote: Where mean atomic weights have not been well determined, the atomic mass numbers of the most stable isotopes are given in parentheses.”, “Percentage of Naturally Occurring Elements in the Universe”. From left to right, top to bottom, the rows start with the element name and read “Hydrogen”, “H”, “1”, “1.008”, “75”. Helium”, “He”, “2”, “4.003”, “23”, Lithium”, “Li”, “3”, “6.94”, “6 times 10 to the negative 7”. Beryllium”, “Be”, “4”, “9.012”, “1 times 10 to the negative 7”, Boron”, “B”, “5”, “10.821”, “1 times 10 to the negative 7”, Carbon”, “C”, “6”, “12.011”, “0.5”, Nitrogen”, “N”, “7”, “14.007”, “0.1”, Oxygen”, “O”, “8”, “15.999”, “1”, Fluorine”, “F”, “9”, “18.998”, “4 times 10 to the negative 5”, Neon”, “Ne”, “10”, “20.180”, “0.13”, Sodium”, “Na”, “11”, “22.990”, “0.002”, Magnesium”, “Mg”, “12”, “24.305”, “0.06”, Aluminum”, “Al”, “13”, “26.982”, “0.005”, Silicon”, “Si”, “14”, “28.085”, “0.07”, Phosphorus”, “P”, “15”, “30.974”, “7 times 10 to the negative 4”, Sulfur”, “S”, “16”, “32.06”, “0.05”, Chlorine”, “Cl”, “17”, “35.45”, “1 times 10 to the negative 4”, Argon”, “Ar”, “18”, “39.948”, “0.02”, Potassium”, “K”, “19”, “39.098”, “3 times 10 to the negative 4”, Calcium”, “Ca”, “20”, “40.078”, “0.007”, Scandium”, “Sc”, “21”, “44.956”, “3 times 10 to the negative 6”, Titanium”, “Ti”, “22”, “47.867”, “3 times 10 to the negative 4”, Vanadium”, “V”, “23”, “50.942”, “3 times 10 to the negative 4”, Chromium”, “Cr”, “24”, “51.996”, “0.0015”, Manganese”, “Mn”, “25”, “54.938”, “8 times 10 to the negative 4”, Iron”, “Fe”, “26”, “55.845”, “0.11”, Cobalt”, “Co”, “27”, “58.933”, “3 times 10 to the negative 4”, Nickel”, “Ni”, “28”, “58.693”, “0.006”, Copper”, “Cu”, “29”, “63.546”, “6 times 10 to the negative 6”, Zinc”, “Zn”, “30”, “65.38”, “3 times 10 to the negative 5”, Gallium”, “Ga”, “31”, “69.723”, “1 times 10 to the negative 6”, Germanium”, “Ge”, “32”, “72.630”, “2 times 10 to the negative 5”, Arsenic”, “As”, “33”, “74.922”, “8 times 10 to the negative 7”, Selenium”, “Se”, “34”, “78.971”, “3 times 10 to the negative 6”, Bromine”, “Br”, “35”, “79.904”, “7 times 10 to the negative 7”, Krypton”, “Kr”, “36”, “83.798”, “4 times 10 to the negative 6”, Rubidium”, “Rb”, “37”, “85.468”, “1 times 10 to the negative 6”, ’Strontium”, “Sr”, “38”, “87.62”, “4 times 10 to the negative 6”, Yttrium”, “Y”, “39”, “88.906”, “7 times 10 to the negative 7”, Zirconium”, “Zr”, “40”, “91.224”, “5 times 10 to the negative 6”, Niobium”, “Nb”, “41”, “92.906”, “2 times 10 to the negative 7”, Molybdenum”, “Mo”, “42”, “95.95”, “5 times 10 to the negative 7”, Technetium”, “Tc”, “43”, “(98)”, “blank”, Ruthenium”, “Ru”, “44”, “101.07”, “4 times 10 to the negative 7”, Rhodium”, “Rh”, “45”, “102.906”, “6 times 10 to the negative 8”, Palladium”, “Pd”, “46”, “106.42”, “2 times 10 to the negative 7”, Silver”, “Ag”, “47”, “107.868”, “6 times 10 to the negative 8”, Cadmium”, “Cd”, “48”, “112.414”, “2 times 10 to the negative 7”, Indium”, “In”, “49”, “114.818”, “3 times 10 to the negative 8”, Tin”, “Sn”, “50”, “118.710”, “4 times 10 to the negative 7”, Antimony”, “Sb”, “51”, “121.760”, “4 times 10 to the negative 8”, Tellurium”, “Te”, “52”, “127.60”, “9 times 10 to the negative 7”, Iodine”, “I”, “53”, “126.904”, “1 times 10 to the negative 7”, Xenon”, “Xe”, “54”, “131.293”, “1 times 10 to the negative 6”, Cesium”, “Cs”, “55”, “132.905”, “8 times 10 to the negative 8”, Barium”, “Ba”, “56”, “137.327”, “1 times 10 to the negative 6”, Lanthanum”, “La”, “57”, “138.905”, “2 times 10 to the negative 7”, Cerium”, “Ce”, “58”, “140.116”, “1 times 10 to the negative 6”, Praseodymium”, “Pr”, “59”, “140.907”, “2 times 10 to the negative 7”, Neodymium”, “Nd”, “60”, “144.242”, “1 times 10 to the negative 6”, Promethium”, “Pm”, “61”, “(145)”, “blank”, Samarium”, “Sm”, “62”, “150.36”, “5 times 10 to the negative 7”, Europium”, “Eu”, “63”, “151.964”, “5 times 10 to the negative 8”, Gadolinium”, “Gd”, “64”, “157.25”, “2 times 10 to the negative 7”, Terbium”, “Tb”, “65”, “158.925”, “5 times 10 to the negative 8”, Dysprosium”, “Dy”, “66”, “162.500”, “2 times 10 to the negative 7”, Holmium”, “Ho”, “67”, “164.930”, “5 times 10 to the negative 8”, Erbium”, “Er”, “68”, “167.259”, “2 times 10 to the negative 7”, Thulium”, “Tm”, “69”, “168.934”, “1 times 10 to the negative 8”, Ytterbium”, “Yb”, “70”, “173.054”, “2 times 10 to the negative ”, ”, Lutetium”, “Lu”, “71”, “174.967”, “1 times 10 to the negative 8”, Hafnium”, “Hf”, “72”, “178.49”, “7 times 10 to the negative 8”, Tantalum”, “Ta”, “73”, “180.948”, “8 times 10 to the negative 9”, Tungsten”, “W”, “74”, “183.84”, “5 times 10 to the negative 8”, Rhenium”, “Re”, “75”, “186.207”, “2 times 10 to the negative 8”, Osmium”, “Os”, “76”, “190.23”, “3 times 10 to the negative 7”, Iridium”, “Ir”, “77”, “192.217”, “2 times 10 to the negative 7”, Platinum”, “Pt”, “78”, “195.084”, “5 times 10 to the negative 7”, Gold”, “Au”, “79”, “196.967”, “6 times 10 to the negative 8”, Mercury”, “Hg”, “80”, “200.592”, “1 times 10 to the negative 7”, Thallium”, “TI”, “81”, “204.38”, “5 times 10 to the negative 8”, Lead”, “Pb”, “82”, “207.2”, “1 times 10 to the negative 6”, Bismuth”, “Bi”, “83”, “208.980”, “7 times 10 to the negative 8”, Polonium”, “Po”, “84”, “(209)”, “blank”, Astatine”, “At”, “85”, “(210)”, “blank”, Radon”, “Rn”, “86”, “(222)”, “blank”, Francium”, “Fr”, “87”, “(223)”, “blank”, Radium”, “Ra”, “88”, “(226)”, “blank”, Actinium”, “Ac”, “89”, “(227)”, “blank”, Thorium”, “Th”, “90”, “232.038”, “4 times 10 to the negative 8”, Protactinium”, “Pa”, “91”, “231.036”, “blank”, Uranium”, “U”, “92”, “238.029”, “2 times 10 to the negative 8”, Neptunium”, “Np”, “93”, “(237)”, “blank”, Plutonium”, “Pu”, “94”, “(244)”, “blank”, Americium”, “Am”, “95”, “(243)”, “blank”, Curium”, “Cm”, “96”, “(247)”, “blank”, Berkelium”, “Bk”, “97”, “(247)”, “blank”, Californium”, “Cf”, “98”, “(251)”, “blank”, Einsteinium”, “Es”, “99”, “(252)”, “blank”, Fermium”, “Fm”, “100”, “(257)”, “blank”, Mendelevium”, “Md”, “101”, “(258)”, “blank”, Nobelium”, “No”, “102”, “(259)”, “blank”, Lawrencium”, “Lr”, “103”, “(262)”, “blank”, Rutherfordium”, “Rf”, “104”, “(267)”, “blank”, Dubnium”, “Db”, “105”, “(268)”, “blank”, Seaborgium”, “Sg”, “106”, “(271)”, “blank”, Bohrium”, “Bh”, “107”, “(272)”, “blank”, Hassium”, “Hs”, “108”, “(270)”, “blank”, Meitnerium”, “Mt”, “109”, “(276)”, “blank”, Darmstadtium”, “Ds”, “110”, “(281)”, “blank”, Roentgenium”, “Rg”, “111”, “(280)”, “blank”, Copernicium”, “Cn”, “112”, “(285)”, “blank”, Ununtrium”, “Uut”, “113”, “(284)”, “blank”, Flerovium”, “Fl”, “114”, “(289)”, “blank”, Ununpentium”, “Uup”, “115”, “(288)”, “blank”, Livermorium”, “Lv”, “116”, “(293)”, “blank”, Tennessine, Ts, “117”, “(294)”, “blank”, Oganesson, “Og”, “118”, “(294)”, “blank”.">
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c5">The Chemical Elements</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Element</entry>
+<entry valign="top" align="center">Symbol</entry>
+<entry valign="top" align="center">Atomic Number</entry>
+<entry valign="top" align="center">Atomic Weight<footnote id="fs-id1172467954444">Where mean atomic weights have not been well determined, the atomic mass numbers of the most stable isotopes are given in parentheses.</footnote></entry>
+<entry valign="top" align="center">Percentage of Naturally Occurring Elements in the Universe</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Hydrogen</entry>
+<entry valign="top" align="left">H</entry>
+<entry valign="top" align="left">1</entry>
+<entry valign="top" align="left">1.008</entry>
+<entry valign="top" align="left">75</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Helium</entry>
+<entry valign="top" align="left">He</entry>
+<entry valign="top" align="left">2</entry>
+<entry valign="top" align="left">4.003</entry>
+<entry valign="top" align="left">23</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Lithium</entry>
+<entry valign="top" align="left">Li</entry>
+<entry valign="top" align="left">3</entry>
+<entry valign="top" align="left">6.94</entry>
+<entry valign="top" align="left">6 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Beryllium</entry>
+<entry valign="top" align="left">Be</entry>
+<entry valign="top" align="left">4</entry>
+<entry valign="top" align="left">9.012</entry>
+<entry valign="top" align="left">1 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Boron</entry>
+<entry valign="top" align="left">B</entry>
+<entry valign="top" align="left">5</entry>
+<entry valign="top" align="left">10.821</entry>
+<entry valign="top" align="left">1 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Carbon</entry>
+<entry valign="top" align="left">C</entry>
+<entry valign="top" align="left">6</entry>
+<entry valign="top" align="left">12.011</entry>
+<entry valign="top" align="left">0.5</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Nitrogen</entry>
+<entry valign="top" align="left">N</entry>
+<entry valign="top" align="left">7</entry>
+<entry valign="top" align="left">14.007</entry>
+<entry valign="top" align="left">0.1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Oxygen</entry>
+<entry valign="top" align="left">O</entry>
+<entry valign="top" align="left">8</entry>
+<entry valign="top" align="left">15.999</entry>
+<entry valign="top" align="left">1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Fluorine</entry>
+<entry valign="top" align="left">F</entry>
+<entry valign="top" align="left">9</entry>
+<entry valign="top" align="left">18.998</entry>
+<entry valign="top" align="left">4 × 10<sup>−5</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Neon</entry>
+<entry valign="top" align="left">Ne</entry>
+<entry valign="top" align="left">10</entry>
+<entry valign="top" align="left">20.180</entry>
+<entry valign="top" align="left">0.13</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Sodium</entry>
+<entry valign="top" align="left">Na</entry>
+<entry valign="top" align="left">11</entry>
+<entry valign="top" align="left">22.990</entry>
+<entry valign="top" align="left">0.002</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Magnesium</entry>
+<entry valign="top" align="left">Mg</entry>
+<entry valign="top" align="left">12</entry>
+<entry valign="top" align="left">24.305</entry>
+<entry valign="top" align="left">0.06</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aluminum</entry>
+<entry valign="top" align="left">Al</entry>
+<entry valign="top" align="left">13</entry>
+<entry valign="top" align="left">26.982</entry>
+<entry valign="top" align="left">0.005</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Silicon</entry>
+<entry valign="top" align="left">Si</entry>
+<entry valign="top" align="left">14</entry>
+<entry valign="top" align="left">28.085</entry>
+<entry valign="top" align="left">0.07</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Phosphorus</entry>
+<entry valign="top" align="left">P</entry>
+<entry valign="top" align="left">15</entry>
+<entry valign="top" align="left">30.974</entry>
+<entry valign="top" align="left">7 × 10<sup>−4</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Sulfur</entry>
+<entry valign="top" align="left">S</entry>
+<entry valign="top" align="left">16</entry>
+<entry valign="top" align="left">32.06</entry>
+<entry valign="top" align="left">0.05</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Chlorine</entry>
+<entry valign="top" align="left">Cl</entry>
+<entry valign="top" align="left">17</entry>
+<entry valign="top" align="left">35.45</entry>
+<entry valign="top" align="left">1 × 10<sup>−4</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Argon</entry>
+<entry valign="top" align="left">Ar</entry>
+<entry valign="top" align="left">18</entry>
+<entry valign="top" align="left">39.948</entry>
+<entry valign="top" align="left">0.02</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Potassium</entry>
+<entry valign="top" align="left">K</entry>
+<entry valign="top" align="left">19</entry>
+<entry valign="top" align="left">39.098</entry>
+<entry valign="top" align="left">3 × 10<sup>−4</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Calcium</entry>
+<entry valign="top" align="left">Ca</entry>
+<entry valign="top" align="left">20</entry>
+<entry valign="top" align="left">40.078</entry>
+<entry valign="top" align="left">0.007</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Scandium</entry>
+<entry valign="top" align="left">Sc</entry>
+<entry valign="top" align="left">21</entry>
+<entry valign="top" align="left">44.956</entry>
+<entry valign="top" align="left">3 × 10<sup>−6</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Titanium</entry>
+<entry valign="top" align="left">Ti</entry>
+<entry valign="top" align="left">22</entry>
+<entry valign="top" align="left">47.867</entry>
+<entry valign="top" align="left">3 × 10<sup>−4</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Vanadium</entry>
+<entry valign="top" align="left">V</entry>
+<entry valign="top" align="left">23</entry>
+<entry valign="top" align="left">50.942</entry>
+<entry valign="top" align="left">3 × 10<sup>−4</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Chromium</entry>
+<entry valign="top" align="left">Cr</entry>
+<entry valign="top" align="left">24</entry>
+<entry valign="top" align="left">51.996</entry>
+<entry valign="top" align="left">0.0015</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Manganese</entry>
+<entry valign="top" align="left">Mn</entry>
+<entry valign="top" align="left">25</entry>
+<entry valign="top" align="left">54.938</entry>
+<entry valign="top" align="left">8 × 10<sup>−4</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Iron</entry>
+<entry valign="top" align="left">Fe</entry>
+<entry valign="top" align="left">26</entry>
+<entry valign="top" align="left">55.845</entry>
+<entry valign="top" align="left">0.11</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Cobalt</entry>
+<entry valign="top" align="left">Co</entry>
+<entry valign="top" align="left">27</entry>
+<entry valign="top" align="left">58.933</entry>
+<entry valign="top" align="left">3 × 10<sup>−4</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Nickel</entry>
+<entry valign="top" align="left">Ni</entry>
+<entry valign="top" align="left">28</entry>
+<entry valign="top" align="left">58.693</entry>
+<entry valign="top" align="left">0.006</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Copper</entry>
+<entry valign="top" align="left">Cu</entry>
+<entry valign="top" align="left">29</entry>
+<entry valign="top" align="left">63.546</entry>
+<entry valign="top" align="left">6 × 10<sup>−6</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Zinc</entry>
+<entry valign="top" align="left">Zn</entry>
+<entry valign="top" align="left">30</entry>
+<entry valign="top" align="left">65.38</entry>
+<entry valign="top" align="left">3 × 10<sup>−5</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Gallium</entry>
+<entry valign="top" align="left">Ga</entry>
+<entry valign="top" align="left">31</entry>
+<entry valign="top" align="left">69.723</entry>
+<entry valign="top" align="left">1 × 10<sup>−6</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Germanium</entry>
+<entry valign="top" align="left">Ge</entry>
+<entry valign="top" align="left">32</entry>
+<entry valign="top" align="left">72.630</entry>
+<entry valign="top" align="left">2 × 10<sup>−5</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Arsenic</entry>
+<entry valign="top" align="left">As</entry>
+<entry valign="top" align="left">33</entry>
+<entry valign="top" align="left">74.922</entry>
+<entry valign="top" align="left">8 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Selenium</entry>
+<entry valign="top" align="left">Se</entry>
+<entry valign="top" align="left">34</entry>
+<entry valign="top" align="left">78.971</entry>
+<entry valign="top" align="left">3 × 10<sup>−6</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Bromine</entry>
+<entry valign="top" align="left">Br</entry>
+<entry valign="top" align="left">35</entry>
+<entry valign="top" align="left">79.904</entry>
+<entry valign="top" align="left">7 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Krypton</entry>
+<entry valign="top" align="left">Kr</entry>
+<entry valign="top" align="left">36</entry>
+<entry valign="top" align="left">83.798</entry>
+<entry valign="top" align="left">4 × 10<sup>−6</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Rubidium</entry>
+<entry valign="top" align="left">Rb</entry>
+<entry valign="top" align="left">37</entry>
+<entry valign="top" align="left">85.468</entry>
+<entry valign="top" align="left">1 × 10<sup>−6</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">’Strontium</entry>
+<entry valign="top" align="left">Sr</entry>
+<entry valign="top" align="left">38</entry>
+<entry valign="top" align="left">87.62</entry>
+<entry valign="top" align="left">4 × 10<sup>−6</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Yttrium</entry>
+<entry valign="top" align="left">Y</entry>
+<entry valign="top" align="left">39</entry>
+<entry valign="top" align="left">88.906</entry>
+<entry valign="top" align="left">7 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Zirconium</entry>
+<entry valign="top" align="left">Zr</entry>
+<entry valign="top" align="left">40</entry>
+<entry valign="top" align="left">91.224</entry>
+<entry valign="top" align="left">5 × 10<sup>−6</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Niobium</entry>
+<entry valign="top" align="left">Nb</entry>
+<entry valign="top" align="left">41</entry>
+<entry valign="top" align="left">92.906</entry>
+<entry valign="top" align="left">2 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Molybdenum</entry>
+<entry valign="top" align="left">Mo</entry>
+<entry valign="top" align="left">42</entry>
+<entry valign="top" align="left">95.95</entry>
+<entry valign="top" align="left">5 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Technetium</entry>
+<entry valign="top" align="left">Tc</entry>
+<entry valign="top" align="left">43</entry>
+<entry valign="top" align="left">(98)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Ruthenium</entry>
+<entry valign="top" align="left">Ru</entry>
+<entry valign="top" align="left">44</entry>
+<entry valign="top" align="left">101.07</entry>
+<entry valign="top" align="left">4 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Rhodium</entry>
+<entry valign="top" align="left">Rh</entry>
+<entry valign="top" align="left">45</entry>
+<entry valign="top" align="left">102.906</entry>
+<entry valign="top" align="left">6 × 10<sup>−8</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Palladium</entry>
+<entry valign="top" align="left">Pd</entry>
+<entry valign="top" align="left">46</entry>
+<entry valign="top" align="left">106.42</entry>
+<entry valign="top" align="left">2 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Silver</entry>
+<entry valign="top" align="left">Ag</entry>
+<entry valign="top" align="left">47</entry>
+<entry valign="top" align="left">107.868</entry>
+<entry valign="top" align="left">6 × 10<sup>−8</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Cadmium</entry>
+<entry valign="top" align="left">Cd</entry>
+<entry valign="top" align="left">48</entry>
+<entry valign="top" align="left">112.414</entry>
+<entry valign="top" align="left">2 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Indium</entry>
+<entry valign="top" align="left">In</entry>
+<entry valign="top" align="left">49</entry>
+<entry valign="top" align="left">114.818</entry>
+<entry valign="top" align="left">3 × 10<sup>−8</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Tin</entry>
+<entry valign="top" align="left">Sn</entry>
+<entry valign="top" align="left">50</entry>
+<entry valign="top" align="left">118.710</entry>
+<entry valign="top" align="left">4 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Antimony</entry>
+<entry valign="top" align="left">Sb</entry>
+<entry valign="top" align="left">51</entry>
+<entry valign="top" align="left">121.760</entry>
+<entry valign="top" align="left">4 × 10<sup>−8</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Tellurium</entry>
+<entry valign="top" align="left">Te</entry>
+<entry valign="top" align="left">52</entry>
+<entry valign="top" align="left">127.60</entry>
+<entry valign="top" align="left">9 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Iodine</entry>
+<entry valign="top" align="left">I</entry>
+<entry valign="top" align="left">53</entry>
+<entry valign="top" align="left">126.904</entry>
+<entry valign="top" align="left">1 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Xenon</entry>
+<entry valign="top" align="left">Xe</entry>
+<entry valign="top" align="left">54</entry>
+<entry valign="top" align="left">131.293</entry>
+<entry valign="top" align="left">1 × 10<sup>−6</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Cesium</entry>
+<entry valign="top" align="left">Cs</entry>
+<entry valign="top" align="left">55</entry>
+<entry valign="top" align="left">132.905</entry>
+<entry valign="top" align="left">8 × 10<sup>−8</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Barium</entry>
+<entry valign="top" align="left">Ba</entry>
+<entry valign="top" align="left">56</entry>
+<entry valign="top" align="left">137.327</entry>
+<entry valign="top" align="left">1 × 10<sup>−6</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Lanthanum</entry>
+<entry valign="top" align="left">La</entry>
+<entry valign="top" align="left">57</entry>
+<entry valign="top" align="left">138.905</entry>
+<entry valign="top" align="left">2 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Cerium</entry>
+<entry valign="top" align="left">Ce</entry>
+<entry valign="top" align="left">58</entry>
+<entry valign="top" align="left">140.116</entry>
+<entry valign="top" align="left">1 × 10<sup>−6</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Praseodymium</entry>
+<entry valign="top" align="left">Pr</entry>
+<entry valign="top" align="left">59</entry>
+<entry valign="top" align="left">140.907</entry>
+<entry valign="top" align="left">2 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Neodymium</entry>
+<entry valign="top" align="left">Nd</entry>
+<entry valign="top" align="left">60</entry>
+<entry valign="top" align="left">144.242</entry>
+<entry valign="top" align="left">1 × 10<sup>−6</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Promethium</entry>
+<entry valign="top" align="left">Pm</entry>
+<entry valign="top" align="left">61</entry>
+<entry valign="top" align="left">(145)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Samarium</entry>
+<entry valign="top" align="left">Sm</entry>
+<entry valign="top" align="left">62</entry>
+<entry valign="top" align="left">150.36</entry>
+<entry valign="top" align="left">5 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Europium</entry>
+<entry valign="top" align="left">Eu</entry>
+<entry valign="top" align="left">63</entry>
+<entry valign="top" align="left">151.964</entry>
+<entry valign="top" align="left">5 × 10<sup>−8</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Gadolinium</entry>
+<entry valign="top" align="left">Gd</entry>
+<entry valign="top" align="left">64</entry>
+<entry valign="top" align="left">157.25</entry>
+<entry valign="top" align="left">2 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Terbium</entry>
+<entry valign="top" align="left">Tb</entry>
+<entry valign="top" align="left">65</entry>
+<entry valign="top" align="left">158.925</entry>
+<entry valign="top" align="left">5 × 10<sup>−8</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dysprosium</entry>
+<entry valign="top" align="left">Dy</entry>
+<entry valign="top" align="left">66</entry>
+<entry valign="top" align="left">162.500</entry>
+<entry valign="top" align="left">2 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Holmium</entry>
+<entry valign="top" align="left">Ho</entry>
+<entry valign="top" align="left">67</entry>
+<entry valign="top" align="left">164.930</entry>
+<entry valign="top" align="left">5 × 10<sup>−8</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Erbium</entry>
+<entry valign="top" align="left">Er</entry>
+<entry valign="top" align="left">68</entry>
+<entry valign="top" align="left">167.259</entry>
+<entry valign="top" align="left">2 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Thulium</entry>
+<entry valign="top" align="left">Tm</entry>
+<entry valign="top" align="left">69</entry>
+<entry valign="top" align="left">168.934</entry>
+<entry valign="top" align="left">1 × 10<sup>−8</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Ytterbium</entry>
+<entry valign="top" align="left">Yb</entry>
+<entry valign="top" align="left">70</entry>
+<entry valign="top" align="left">173.054</entry>
+<entry valign="top" align="left">2 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Lutetium</entry>
+<entry valign="top" align="left">Lu</entry>
+<entry valign="top" align="left">71</entry>
+<entry valign="top" align="left">174.967</entry>
+<entry valign="top" align="left">1 × 10<sup>−8</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Hafnium</entry>
+<entry valign="top" align="left">Hf</entry>
+<entry valign="top" align="left">72</entry>
+<entry valign="top" align="left">178.49</entry>
+<entry valign="top" align="left">7 × 10<sup>−8</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Tantalum</entry>
+<entry valign="top" align="left">Ta</entry>
+<entry valign="top" align="left">73</entry>
+<entry valign="top" align="left">180.948</entry>
+<entry valign="top" align="left">8 × 10<sup>−9</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Tungsten</entry>
+<entry valign="top" align="left">W</entry>
+<entry valign="top" align="left">74</entry>
+<entry valign="top" align="left">183.84</entry>
+<entry valign="top" align="left">5 × 10<sup>−8</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Rhenium</entry>
+<entry valign="top" align="left">Re</entry>
+<entry valign="top" align="left">75</entry>
+<entry valign="top" align="left">186.207</entry>
+<entry valign="top" align="left">2 × 10<sup>−8</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Osmium</entry>
+<entry valign="top" align="left">Os</entry>
+<entry valign="top" align="left">76</entry>
+<entry valign="top" align="left">190.23</entry>
+<entry valign="top" align="left">3 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Iridium</entry>
+<entry valign="top" align="left">Ir</entry>
+<entry valign="top" align="left">77</entry>
+<entry valign="top" align="left">192.217</entry>
+<entry valign="top" align="left">2 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Platinum</entry>
+<entry valign="top" align="left">Pt</entry>
+<entry valign="top" align="left">78</entry>
+<entry valign="top" align="left">195.084</entry>
+<entry valign="top" align="left">5 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Gold</entry>
+<entry valign="top" align="left">Au</entry>
+<entry valign="top" align="left">79</entry>
+<entry valign="top" align="left">196.967</entry>
+<entry valign="top" align="left">6 × 10<sup>−8</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mercury</entry>
+<entry valign="top" align="left">Hg</entry>
+<entry valign="top" align="left">80</entry>
+<entry valign="top" align="left">200.592</entry>
+<entry valign="top" align="left">1 × 10<sup>−7</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Thallium</entry>
+<entry valign="top" align="left">TI</entry>
+<entry valign="top" align="left">81</entry>
+<entry valign="top" align="left">204.38</entry>
+<entry valign="top" align="left">5 × 10<sup>−8</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Lead</entry>
+<entry valign="top" align="left">Pb</entry>
+<entry valign="top" align="left">82</entry>
+<entry valign="top" align="left">207.2</entry>
+<entry valign="top" align="left">1 × 10<sup>−6</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Bismuth</entry>
+<entry valign="top" align="left">Bi</entry>
+<entry valign="top" align="left">83</entry>
+<entry valign="top" align="left">208.980</entry>
+<entry valign="top" align="left">7 × 10<sup>−8</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Polonium</entry>
+<entry valign="top" align="left">Po</entry>
+<entry valign="top" align="left">84</entry>
+<entry valign="top" align="left">(209)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Astatine</entry>
+<entry valign="top" align="left">At</entry>
+<entry valign="top" align="left">85</entry>
+<entry valign="top" align="left">(210)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Radon</entry>
+<entry valign="top" align="left">Rn</entry>
+<entry valign="top" align="left">86</entry>
+<entry valign="top" align="left">(222)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Francium</entry>
+<entry valign="top" align="left">Fr</entry>
+<entry valign="top" align="left">87</entry>
+<entry valign="top" align="left">(223)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Radium</entry>
+<entry valign="top" align="left">Ra</entry>
+<entry valign="top" align="left">88</entry>
+<entry valign="top" align="left">(226)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Actinium</entry>
+<entry valign="top" align="left">Ac</entry>
+<entry valign="top" align="left">89</entry>
+<entry valign="top" align="left">(227)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Thorium</entry>
+<entry valign="top" align="left">Th</entry>
+<entry valign="top" align="left">90</entry>
+<entry valign="top" align="left">232.038</entry>
+<entry valign="top" align="left">4 × 10<sup>−8</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Protactinium</entry>
+<entry valign="top" align="left">Pa</entry>
+<entry valign="top" align="left">91</entry>
+<entry valign="top" align="left">231.036</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Uranium</entry>
+<entry valign="top" align="left">U</entry>
+<entry valign="top" align="left">92</entry>
+<entry valign="top" align="left">238.029</entry>
+<entry valign="top" align="left">2 × 10<sup>−8</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Neptunium</entry>
+<entry valign="top" align="left">Np</entry>
+<entry valign="top" align="left">93</entry>
+<entry valign="top" align="left">(237)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Plutonium</entry>
+<entry valign="top" align="left">Pu</entry>
+<entry valign="top" align="left">94</entry>
+<entry valign="top" align="left">(244)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Americium</entry>
+<entry valign="top" align="left">Am</entry>
+<entry valign="top" align="left">95</entry>
+<entry valign="top" align="left">(243)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Curium</entry>
+<entry valign="top" align="left">Cm</entry>
+<entry valign="top" align="left">96</entry>
+<entry valign="top" align="left">(247)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Berkelium</entry>
+<entry valign="top" align="left">Bk</entry>
+<entry valign="top" align="left">97</entry>
+<entry valign="top" align="left">(247)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Californium</entry>
+<entry valign="top" align="left">Cf</entry>
+<entry valign="top" align="left">98</entry>
+<entry valign="top" align="left">(251)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Einsteinium</entry>
+<entry valign="top" align="left">Es</entry>
+<entry valign="top" align="left">99</entry>
+<entry valign="top" align="left">(252)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Fermium</entry>
+<entry valign="top" align="left">Fm</entry>
+<entry valign="top" align="left">100</entry>
+<entry valign="top" align="left">(257)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mendelevium</entry>
+<entry valign="top" align="left">Md</entry>
+<entry valign="top" align="left">101</entry>
+<entry valign="top" align="left">(258)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Nobelium</entry>
+<entry valign="top" align="left">No</entry>
+<entry valign="top" align="left">102</entry>
+<entry valign="top" align="left">(259)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Lawrencium</entry>
+<entry valign="top" align="left">Lr</entry>
+<entry valign="top" align="left">103</entry>
+<entry valign="top" align="left">(262)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Rutherfordium</entry>
+<entry valign="top" align="left">Rf</entry>
+<entry valign="top" align="left">104</entry>
+<entry valign="top" align="left">(267)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dubnium</entry>
+<entry valign="top" align="left">Db</entry>
+<entry valign="top" align="left">105</entry>
+<entry valign="top" align="left">(268)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Seaborgium</entry>
+<entry valign="top" align="left">Sg</entry>
+<entry valign="top" align="left">106</entry>
+<entry valign="top" align="left">(271)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Bohrium</entry>
+<entry valign="top" align="left">Bh</entry>
+<entry valign="top" align="left">107</entry>
+<entry valign="top" align="left">(272)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Hassium</entry>
+<entry valign="top" align="left">Hs</entry>
+<entry valign="top" align="left">108</entry>
+<entry valign="top" align="left">(270)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Meitnerium</entry>
+<entry valign="top" align="left">Mt</entry>
+<entry valign="top" align="left">109</entry>
+<entry valign="top" align="left">(276)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Darmstadtium</entry>
+<entry valign="top" align="left">Ds</entry>
+<entry valign="top" align="left">110</entry>
+<entry valign="top" align="left">(281)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Roentgenium</entry>
+<entry valign="top" align="left">Rg</entry>
+<entry valign="top" align="left">111</entry>
+<entry valign="top" align="left">(280)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Copernicium</entry>
+<entry valign="top" align="left">Cn</entry>
+<entry valign="top" align="left">112</entry>
+<entry valign="top" align="left">(285)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Nihonium</entry>
+<entry valign="top" align="left">Nh</entry>
+<entry valign="top" align="left">113</entry>
+<entry valign="top" align="left">(284)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Flerovium</entry>
+<entry valign="top" align="left">Fl</entry>
+<entry valign="top" align="left">114</entry>
+<entry valign="top" align="left">(289)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Moskovium</entry>
+<entry valign="top" align="left">Mc</entry>
+<entry valign="top" align="left">115</entry>
+<entry valign="top" align="left">(288)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Livermorium</entry>
+<entry valign="top" align="left">Lv</entry>
+<entry valign="top" align="left">116</entry>
+<entry valign="top" align="left">(293)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Tennessine</entry>
+<entry valign="top" align="left">Ts</entry>
+<entry valign="top" align="left">117</entry>
+<entry valign="top" align="left">(294)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Oganesson</entry>
+<entry valign="top" align="left">Og</entry>
+<entry valign="top" align="left">118</entry>
+<entry valign="top" align="left">(294)</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</content>
+</document>

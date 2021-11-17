@@ -1,0 +1,118 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Properties of Galaxies</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59959</md:content-id>
+  <md:title>Properties of Galaxies</md:title>
+  <md:abstract/>
+  <md:uuid>d46dc34b-84fa-4abc-8716-e237f6a71142</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1168046091044" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-id1168583388066">By the end of this section, you will be able to:</para>
+<list id="fs-id1168048539290">
+<item>Describe the methods through which astronomers can estimate the mass of a galaxy</item>
+<item>Characterize each type of galaxy by its mass-to-light ratio</item>
+</list>
+</section>
+<para id="fs-id1168046025726">The technique for deriving the masses of <term class="no-emphasis">galaxies</term> is basically the same as that used to estimate the mass of the Sun, the stars, and our own Galaxy. We measure how fast objects in the outer regions of the galaxy are orbiting the center, and then we use this information along with Kepler’s third law to calculate how much mass is inside that orbit.</para>
+<section id="fs-id1168048257882">
+<title>Masses of Galaxies</title>
+<para id="fs-id1168048562081">Astronomers can measure the rotation speed in spiral galaxies by obtaining spectra of either stars or gas, and looking for wavelength shifts produced by the <term class="no-emphasis">Doppler effect</term>. Remember that the faster something is moving toward or away from us, the greater the shift of the lines in its spectrum. Kepler’s law, together with such observations of the part of the Andromeda galaxy that is bright in visible light, for example, show it to have a <term class="no-emphasis">galactic mass</term> of about 4 × 10<sup>11</sup> <emphasis effect="italics">M</emphasis><sub>Sun</sub> (enough material to make 400 billion stars like the Sun).</para>
+<para id="fs-id1168048505627">The total mass of the <term class="no-emphasis">Andromeda galaxy</term> is greater than this, however, because we have not included the mass of the material that lies beyond its visible edge. Fortunately, there is a handful of objects—such as isolated stars, star clusters, and satellite galaxies—beyond the visible edge that allows astronomers to estimate how much additional matter is hidden out there. Recent studies show that the amount of <term class="no-emphasis">dark matter</term> beyond the visible edge of Andromeda may be as large as the mass of the bright portion of the galaxy. Indeed, using Kepler’s third law and the velocities of its satellite galaxies, the Andromeda galaxy is estimated to have a mass closer to 1.4 × 10<sup>12</sup> <emphasis effect="italics">M</emphasis><sub>Sun</sub>. The mass of the <term class="no-emphasis">Milky Way Galaxy</term> is estimated to be 8.5 × 10<sup>11</sup> <emphasis effect="italics">M</emphasis><sub>Sun</sub>, and so our Milky Way is turning out to be somewhat smaller than Andromeda.</para>
+<para id="fs-id1168046093403">Elliptical galaxies do not rotate in a systematic way, so we cannot determine a rotational velocity; therefore, we must use a slightly different technique to measure their mass. Their stars are still orbiting the galactic center, but not in the organized way that characterizes spirals. Since elliptical galaxies contain stars that are billions of years old, we can assume that the galaxies themselves are not flying apart. Therefore, if we can measure the various speeds with which the stars are moving in their orbits around the center of the galaxy, we can calculate how much mass the galaxy must contain in order to hold the stars within it.</para>
+<para id="fs-id1168048371082">In practice, the spectrum of a galaxy is a composite of the spectra of its many stars, whose different motions produce different Doppler shifts (some red, some blue). The result is that the lines we observe from the entire galaxy contain the combination of many Doppler shifts. When some stars provide blueshifts and others provide redshifts, they create a wider or broader absorption or emission feature than would the same lines in a hypothetical galaxy in which the stars had no orbital motion. Astronomers call this phenomenon <term class="no-emphasis">line broadening</term>. The amount by which each line broadens indicates the range of speeds at which the stars are moving with respect to the center of the galaxy. The range of speeds depends, in turn, on the force of gravity that holds the stars within the galaxies. With information about the speeds, it is possible to calculate the mass of an elliptical galaxy.</para>
+<para id="fs-id1168048476921"><link target-id="fs-id1168048590443"/> summarizes the range of masses (and other properties) of the various types of galaxies. Interestingly enough, the most and least massive galaxies are ellipticals. On average, irregular galaxies have less mass than spirals.</para>
+<table id="fs-id1168048590443" class="top-titled" summary="This table contains four columns and eight rows. The first row is a header row and it labels each column: “Characteristic”, “Spirals”, “Ellipticals” and “Irregulars”. Under the “Characteristic” column are the values: “Mass (MSun)”, “Diameter (thousands of LY)”, “Luminosity (LSun)”, “Populations of stars”, “Interstellar matter”, “Mass-to-light ratio in the visible part” and “Mass-to-light ratio for total galaxy”. Under the “Spirals” column are the values: “109 to 1012”, “15 to 150”, “108 to 1011”, “Old and young”, “Gas and dust”, “2 to 10” and “100”. Under the “Ellipticals” column are the values: “105 to 1013”, “3 to &gt;700”, “106 to 1011”, “Old”, “Almost no dust; little gas”, “10 to 20” and “100”. Finally, under the “Irregulars” column are the values: “108 to 1011”, “3 to 30”, “107 to 2 × 109”, “Old and young”, “Much gas; some have little dust, some much dust”, “1 to 10” and “?”.">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Characteristics of the Different Types of Galaxies</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Characteristic</entry>
+<entry valign="top" align="center">Spirals</entry>
+<entry valign="top" align="center">Ellipticals</entry>
+<entry valign="top" align="center">Irregulars</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Mass (<emphasis effect="italics">M</emphasis><sub>Sun</sub>)</entry>
+<entry valign="top" align="left">10<sup>9</sup> to 10<sup>12</sup></entry>
+<entry valign="top" align="left">10<sup>5</sup> to 10<sup>13</sup></entry>
+<entry valign="top" align="left">10<sup>8</sup> to 10<sup>11</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Diameter (thousands of light-years)</entry>
+<entry valign="top" align="left">15 to 150</entry>
+<entry valign="top" align="left">3 to &gt;700</entry>
+<entry valign="top" align="left">3 to 30</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Luminosity (<emphasis effect="italics">L</emphasis><sub>Sun</sub>)</entry>
+<entry valign="top" align="left">10<sup>8</sup> to 10<sup>11</sup></entry>
+<entry valign="top" align="left">10<sup>6</sup> to 10<sup>11</sup></entry>
+<entry valign="top" align="left">10<sup>7</sup> to 2 × 10<sup>9</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Populations of stars</entry>
+<entry valign="top" align="left">Old and young</entry>
+<entry valign="top" align="left">Old</entry>
+<entry valign="top" align="left">Old and young</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Interstellar matter</entry>
+<entry valign="top" align="left">Gas and dust</entry>
+<entry valign="top" align="left">Almost no dust; little gas</entry>
+<entry valign="top" align="left">Much gas; some have little dust, some much dust</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mass-to-light ratio in the visible part</entry>
+<entry valign="top" align="left">2 to 10</entry>
+<entry valign="top" align="left">10 to 20</entry>
+<entry valign="top" align="left">1 to 10</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mass-to-light ratio for total galaxy</entry>
+<entry valign="top" align="left">100</entry>
+<entry valign="top" align="left">100</entry>
+<entry valign="top" align="left">?</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+<section id="fs-id1168048525974">
+<title>Mass-to-Light Ratio</title>
+<para id="fs-id1168048622928">A useful way of characterizing a galaxy is by noting the ratio of its mass (in units of the Sun’s mass) to its light output (in units of the Sun’s luminosity). This single number tells us roughly what kind of stars make up most of the luminous population of the galaxy, and it also tells us whether a lot of <term class="no-emphasis">dark matter</term> is present. For stars like the Sun, the <term>mass-to-light ratio</term> is 1 by our definition.</para>
+<para id="fs-id1168048646037">Galaxies are not, of course, composed entirely of stars that are identical to the Sun. The overwhelming majority of stars are less massive and less luminous than the Sun, and usually these stars contribute most of the mass of a system without accounting for very much light. The mass-to-light ratio for low-mass stars is greater than 1 (you can verify this using the data in <link target-id="fs-id1164755015460" document="m59901"/>). Therefore, a galaxy’s mass-to-light ratio is also generally greater than 1, with the exact value depending on the ratio of high-mass stars to low-mass stars.</para>
+<para id="fs-id1168046057809">Galaxies in which star formation is still occurring have many massive stars, and their mass-to-light ratios are usually in the range of 1 to 10. Galaxies consisting mostly of an older stellar population, such as ellipticals, in which the massive stars have already completed their evolution and have ceased to shine, have mass-to-light ratios of 10 to 20.</para>
+<para id="fs-id1168048656613">But these figures refer only to the inner, conspicuous parts of galaxies (<link target-id="OSC_Astro_26_03_M101"/>). In <link document="m59947">The Milky Way Galaxy</link> and above, we discussed the evidence for dark matter in the outer regions of our own Galaxy, extending much farther from the galactic center than do the bright stars and gas. Recent measurements of the rotation speeds of the outer parts of nearby galaxies, such as the Andromeda galaxy we discussed earlier, suggest that they too have extended distributions of dark matter around the visible disk of stars and dust. This largely invisible matter adds to the mass of the galaxy while contributing nothing to its luminosity, thus increasing the mass-to-light ratio. If dark invisible matter is present in a galaxy, its mass-to-light ratio can be as high as 100. The two different mass-to-light ratios measured for various types of galaxies are given in <link target-id="fs-id1168048590443"/>.</para>
+<figure id="OSC_Astro_26_03_M101">
+<title>M101, the Pinwheel Galaxy.</title>
+<media id="fs-id1168048460107" alt="The Pinwheel Galaxy M101. A prime example of a large, face-on spiral galaxy.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_26_03_M101.jpg"/>
+</media>
+<caption>This galaxy is a face-on spiral at a distance of 21 million light-years. M101 is almost twice the diameter of the Milky Way, and it contains at least 1 trillion stars. (credit: NASA, ESA, K. Kuntz (Johns Hopkins University), F. Bresolin (University of Hawaii), J. Trauger (Jet Propulsion Lab), J. Mould (NOAO), Y.-H. Chu (University of Illinois, Urbana), and STScI)</caption>
+</figure>
+<para id="fs-id1168048273620">These measurements of other galaxies support the conclusion already reached from studies of the rotation of our own Galaxy—namely, that most of the material in the universe cannot at present be observed directly in any part of the electromagnetic spectrum. An understanding of the properties and distribution of this invisible matter is crucial to our understanding of galaxies. It’s becoming clearer and clearer that, through the gravitational force it exerts, dark matter plays a dominant role in galaxy formation and early evolution. There is an interesting parallel here between our time and the time during which Edwin Hubble was receiving his training in astronomy. By 1920, many scientists were aware that astronomy stood on the brink of important breakthroughs—if only the nature and behavior of the nebulae could be settled with better observations. In the same way, many astronomers today feel we may be closing in on a far more sophisticated understanding of the large-scale structure of the universe—if only we can learn more about the nature and properties of dark matter. If you follow astronomy articles in the news (as we hope you will), you should be hearing more about dark matter in the years to come.</para>
+</section>
+<section id="fs-id1168048657776" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-id1168046057565">The masses of spiral galaxies are determined from measurements of their rates of rotation. The masses of elliptical galaxies are estimated from analyses of the motions of the stars within them. Galaxies can be characterized by their mass-to-light ratios. The luminous parts of galaxies with active star formation typically have mass-to-light ratios in the range of 1 to 10; the luminous parts of elliptical galaxies, which contain only old stars, typically have mass-to-light ratios of 10 to 20. The mass-to-light ratios of whole galaxies, including their outer regions, are as high as 100, indicating the presence of a great deal of dark matter.</para>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1168048428098">
+<term>mass-to-light ratio</term>
+<meaning id="fs-id1168046363870">the ratio of the total mass of a galaxy to its total luminosity, usually expressed in units of solar mass and solar luminosity; the mass-to-light ratio gives a rough indication of the types of stars contained within a galaxy and whether or not substantial quantities of dark matter are present</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,285 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Asteroids</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59866</md:content-id>
+  <md:title>Asteroids</md:title>
+  <md:abstract/>
+  <md:uuid>721b4675-43e5-47fc-95ed-0eb06cc49d36</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1168047754551" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-id1168581842454">By the end of this section, you will be able to:</para>
+<list id="fs-id1168047663386">
+<item>Outline the story of the discovery of asteroids and describe their typical orbits</item>
+<item>Describe the composition and classification of the various types of asteroids</item>
+<item>Discuss what was learned from spacecraft missions to several asteroids</item>
+</list>
+</section>
+<para id="fs-id1168047590101">The <term class="no-emphasis">asteroids</term> are mostly found in the broad space between Mars and Jupiter, a region of the solar system called the <emphasis effect="italics">asteroid belt</emphasis>. Asteroids are too small to be seen without a telescope; the first of them was not discovered until the beginning of the nineteenth century.</para>
+<section id="fs-id1168047751542">
+<title>Discovery and Orbits of the Asteroids</title>
+<para id="fs-id1168047963398">In the late 1700s, many astronomers were hunting for an additional planet they thought should exist in the gap between the orbits of Mars and Jupiter. The Sicilian astronomer Giovanni <term class="no-emphasis">Piazzi</term> thought he had found this missing planet in 1801, when he discovered the first asteroid (or as it was later called, “minor planet”) orbiting at 2.8 AU from the Sun. His discovery, which he named Ceres, was quickly followed by the detection of three other little planets in similar orbits.</para>
+<para id="fs-id1168047298456">Clearly, there was not a single missing planet between Mars and Jupiter but rather a whole group of objects, each much smaller than our Moon. (An analogous discovery history has played out in slow motion in the outer solar system. Pluto was discovered beyond Neptune in 1930 and was initially called a planet, but early in the twenty-first century, several other similar objects were found. We now call all of them dwarf planets.)</para>
+<para id="fs-id1168047300042">By 1890, more than 300 of these minor planets or <term>asteroids</term> had been discovered by sharp-eyed observers. In that year, Max <term class="no-emphasis">Wolf</term> at Heidelberg introduced astronomical photography to the search for asteroids, greatly accelerating the discovery of these dim objects. In the twenty-first century, searchers use computer-driven electronic cameras, another leap in technology. More than half a million asteroids now have well-determined orbits.</para>
+<para id="fs-id1168047949760">Asteroids are given a number (corresponding to the order of discovery) and sometimes also a name. Originally, the names of asteroids were chosen from goddesses in Greek and Roman mythology. After exhausting these and other female names (including, later, those of spouses, friends, flowers, cities, and others), astronomers turned to the names of colleagues (and other people of distinction) whom they wished to honor. For example, asteroids 2410, 4859, and 68448 are named Morrison, Fraknoi, and Sidneywolff, for the three senior authors of this textbook.</para>
+<para id="fs-id1168047357056">The largest asteroid is <term class="no-emphasis">Ceres</term> (numbered 1), with a diameter just less than 1000 kilometers. As we saw, Ceres was considered a planet when it was discovered but later was called an asteroid (the first of many.) Now, it has again been reclassified and is considered one of the dwarf planets, like Pluto (see the chapter on <link document="m59860">Moons, Rings and Pluto</link>). We still find it convenient, however, to discuss Ceres as the largest of the asteroids. Two other asteroids, <term class="no-emphasis">Pallas</term> and <term class="no-emphasis">Vesta</term>, have diameters of about 500 kilometers, and about 15 more are larger than 250 kilometers (see <link target-id="fs-id1168048147658"/>). The number of asteroids increases rapidly with decreasing size; there are about 100 times more objects 10 kilometers across than there are 100 kilometers across. By 2021, more than a million asteroids have been discovered by astronomers.</para>
+<note id="fs-id1168047650876" class="astronomy link-to-learning">
+<para id="fs-id1168047902051">The <link url="https://openstax.org/l/30minplancen">Minor Planet Center</link> is a worldwide repository of data on asteroids. Visit it online to find out about the latest discoveries related to the small bodies in our solar system. (Note that some of the material on this site is technical; it’s best to click on the menu tab for the “public” for information more at the level of this textbook.)</para>
+</note>
+<table id="fs-id1168048147658" summary="This table contains six columns and fourteen rows. The first row is a header row and it labels each column: “#”, “Name”, “Year of Discovery”, “Orbit’s Semimajor Axis (AU)”, “Diameter (km)” and “Compositional Class”. Under the “#” column are the values: “1”, “2”, “3”, “4”, “10”, “16”, “31”, “52”, “65”, “87”, “451”, “511” and “704”. Under the “Name” column are the values: “Ceres”, “Pallas”, “Juno”, “Vesta”, “Hygiea”, “Psyche”, “Euphrosyne”, “Europa”, “Cybele”, “Sylvia”, “Patientia”, “Davida” and “Interamnia”. Under the “Year of Discovery” column ae the values: “1801”, “1802”, “1804”, “1807”, “1849”, “1852”, “1854”, “1858”, “1861”, “1866”, “1899”, “1903” and “1910”. Under the “Orbit’s Semimajor Axis (AU)” column are the values: “2.77”, “2.77”, “2.67”, “2.36”, “3.14”, “2.92”, “3.15”, “3.10”, 3.43”, “3.48”, “3.06”, “3.16” and “3.06”. Under the “Diameter (km)” column are the values: “940”, “540”, “265”, “510”, “410”, “265”, “250”, “280”, “280”, “275”, “260”, “310” and “310”. Finally, under the “Compositional Class” column are the values: “C (carbonaceous)”, “C (carbonaceous)”, “S (stony)”, “basaltic”, “C (carbonaceous)”, “M (metallic)”, “C (carbonaceous)”, “C (carbonaceous)”, “C (carbonaceous)”, “C (carbonaceous)”, “C (carbonaceous)”, “C (carbonaceous)” and “C (carbonaceous)”." class="top-titled">
+<tgroup cols="6">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c6" align="center">The Largest Asteroids</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="center">#</entry>
+<entry valign="middle" align="center">Name</entry>
+<entry valign="middle" align="center">Year of Discovery</entry>
+<entry valign="middle" align="center">Orbit’s Semimajor Axis (AU)</entry>
+<entry valign="middle" align="center">Diameter (km)</entry>
+<entry valign="middle" align="center">Compositional Class</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">1</entry>
+<entry valign="top" align="left"><term class="no-emphasis">Ceres</term></entry>
+<entry valign="top" align="left">1801</entry>
+<entry valign="top" align="left">2.77</entry>
+<entry valign="top" align="left">940</entry>
+<entry valign="top" align="left">C (carbonaceous)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">2</entry>
+<entry valign="top" align="left">Pallas</entry>
+<entry valign="top" align="left">1802</entry>
+<entry valign="top" align="left">2.77</entry>
+<entry valign="top" align="left">540</entry>
+<entry valign="top" align="left">C (carbonaceous)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">3</entry>
+<entry valign="top" align="left">Juno</entry>
+<entry valign="top" align="left">1804</entry>
+<entry valign="top" align="left">2.67</entry>
+<entry valign="top" align="left">265</entry>
+<entry valign="top" align="left">S (stony)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">4</entry>
+<entry valign="top" align="left"><term class="no-emphasis">Vesta</term></entry>
+<entry valign="top" align="left">1807</entry>
+<entry valign="top" align="left">2.36</entry>
+<entry valign="top" align="left">510</entry>
+<entry valign="top" align="left">basaltic</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">10</entry>
+<entry valign="top" align="left">Hygiea</entry>
+<entry valign="top" align="left">1849</entry>
+<entry valign="top" align="left">3.14</entry>
+<entry valign="top" align="left">410</entry>
+<entry valign="top" align="left">C (carbonaceous)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">16</entry>
+<entry valign="top" align="left">Psyche</entry>
+<entry valign="top" align="left">1852</entry>
+<entry valign="top" align="left">2.92</entry>
+<entry valign="top" align="left">265</entry>
+<entry valign="top" align="left">M (metallic)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">31</entry>
+<entry valign="top" align="left">Euphrosyne</entry>
+<entry valign="top" align="left">1854</entry>
+<entry valign="top" align="left">3.15</entry>
+<entry valign="top" align="left">250</entry>
+<entry valign="top" align="left">C (carbonaceous)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">52</entry>
+<entry valign="top" align="left"><term class="no-emphasis">Europa</term></entry>
+<entry valign="top" align="left">1858</entry>
+<entry valign="top" align="left">3.10</entry>
+<entry valign="top" align="left">280</entry>
+<entry valign="top" align="left">C (carbonaceous)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">65</entry>
+<entry valign="top" align="left">Cybele</entry>
+<entry valign="top" align="left">1861</entry>
+<entry valign="top" align="left">3.43</entry>
+<entry valign="top" align="left">280</entry>
+<entry valign="top" align="left">C (carbonaceous)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">87</entry>
+<entry valign="top" align="left">Sylvia</entry>
+<entry valign="top" align="left">1866</entry>
+<entry valign="top" align="left">3.48</entry>
+<entry valign="top" align="left">275</entry>
+<entry valign="top" align="left">C (carbonaceous)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">451</entry>
+<entry valign="top" align="left">Patientia</entry>
+<entry valign="top" align="left">1899</entry>
+<entry valign="top" align="left">3.06</entry>
+<entry valign="top" align="left">260</entry>
+<entry valign="top" align="left">C (carbonaceous)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">511</entry>
+<entry valign="top" align="left">Davida</entry>
+<entry valign="top" align="left">1903</entry>
+<entry valign="top" align="left">3.16</entry>
+<entry valign="top" align="left">310</entry>
+<entry valign="top" align="left">C (carbonaceous)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">704</entry>
+<entry valign="top" align="left">Interamnia</entry>
+<entry valign="top" align="left">1910</entry>
+<entry valign="top" align="left">3.06</entry>
+<entry valign="top" align="left">310</entry>
+<entry valign="top" align="left">C (carbonaceous)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1168047298112">The <term class="no-emphasis">asteroids</term> all revolve about the Sun in the same direction as the planets, and most of their orbits lie near the plane in which Earth and other planets circle. The majority of asteroids are in the <term>asteroid belt</term>, the region between Mars and Jupiter that contains all asteroids with orbital periods between 3.3 to 6 years (<link target-id="OSC_Astro_13_01_Belt"/>). Although more than 75% of the known asteroids are in the belt, they are not closely spaced (as they are sometimes depicted in science fiction movies). The volume of the belt is actually very large, and the typical spacing between objects (down to 1 kilometer in size) is several million kilometers. (This was fortunate for spacecraft like Galileo, Cassini, <emphasis effect="italics">Rosetta</emphasis>, and New Horizons, which needed to travel through the asteroid belt without a collision.)</para>
+<figure id="OSC_Astro_13_01_Belt">
+<title>Asteroids in the Solar System.</title>
+<media id="fs-id1168047666610" alt="Asteroids in the Solar System. All known asteroids as of 2006 are plotted in this diagram of the Solar System. At center is the Sun, with the orbits of the inner planets drawn as blue circles. At the outer edge of the diagram the orbit of Jupiter is drawn as a blue circle. The vast majority of asteroids lie between the orbits of Mars and Jupiter, and are plotted here as thousands of white dots. Also plotted are the three “families” of asteroids whose orbits are largely determined by the influence of Jupiter. They are the “Greeks”, located at lower right, the “Trojans” at far left and the “Hildas” at upper right, inside the orbit of Jupiter.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_13_01_Belt.jpg"/>
+</media>
+<caption>This computer-generated diagram shows the positions of the <term class="no-emphasis">asteroids</term> known in 2006. If the asteroid sizes were drawn to scale, none of the dots representing an asteroid would be visible. Here, the asteroid dots are too big and give a false impression of how crowded the asteroid belt would look if you were in it. Note that in addition to those in the asteroid belt, there are also asteroids in the inner solar system and some along Jupiter’s orbit (such as the Trojans and Greeks groups), controlled by the giant planet’s gravity.</caption>
+</figure>
+<para id="fs-id1168047567671">Still, over the long history of our solar system, there have been a good number of collisions among the asteroids themselves. In 1918, the Japanese astronomer Kiyotsugu Hirayama found that some asteroids fall into <emphasis effect="italics">families</emphasis>, groups with similar orbital characteristics. He hypothesized that each family may have resulted from the breakup of a larger body or, more likely, from the collision of two asteroids. Slight differences in the speeds with which the various fragments left the collision scene account for the small spread in orbits now observed for the different asteroids in a given family. Several dozen such families exist, and observations have shown that individual members of most families have similar compositions, as we would expect if they were fragments of a common parent.</para>
+<note id="fs-id1168047612063" class="astronomy link-to-learning">
+<para id="fs-id1168047947628">You can see a <link url="https://openstax.org/l/30anividastorb">dramatic animated video</link> showing the orbits of 100,000 asteroids found by one sky survey. As the 3-minute video goes on, you get to see the orbits of the planets and how the asteroids are distributed in the solar system. But note that all such videos are misleading in one sense. The asteroids themselves are really small compared to the distances covered, so they have to be depicted as larger points to be visible. If you were in the asteroid belt, there would be far more empty space than asteroids.</para>
+</note>
+</section>
+<section id="fs-id1168047412263">
+<title>Composition and Classification</title>
+<para id="fs-id1168047301440">Asteroids are as different as black and white. The majority are very dark, with reflectivity of only 3 to 4%, like a lump of coal. However, another large group has a typical reflectivity of 15%. To understand more about these differences and how they are related to chemical composition, astronomers study the spectrum of the light reflected from <term class="no-emphasis">asteroids</term> for clues about their composition.</para>
+<para id="fs-id1168047276403">The dark asteroids are revealed from spectral studies to be <emphasis effect="italics">primitive</emphasis> bodies (those that have changed little chemically since the beginning of the solar system) composed of silicates mixed with dark, organic carbon compounds. These are known as <term class="no-emphasis">C-type asteroids</term> (“C” for carbonaceous). Two of the largest asteroids, <term class="no-emphasis">Ceres</term> and Pallas, are primitive, as are almost all of the asteroids in the outer part of the belt. In 2020 and 2021, two of these C-type asteroids, Bennu and Ryugu, were visited by spacecraft that briefly touched their surfaces.</para>
+<para id="fs-id1168047696991">The second most populous group is the <term class="no-emphasis">S-type asteroids</term>, where “S” stands for a stony or silicate composition. Here, the dark carbon compounds are missing, resulting in higher reflectivity and clearer spectral signatures of silicate minerals. The S-type asteroids are also chemically primitive, but their different composition indicates that they were probably formed in a different location in the solar system from the C-type asteroids.</para>
+<para id="fs-id1168047713909">Asteroids of a third class, much less numerous than those of the first two, are composed primarily of metal and are called <term class="no-emphasis">M-type asteroids</term> (“M” for metallic). Spectroscopically, the identification of metal is difficult, but for at least the largest M-type asteroid, Psyche, this identification has been confirmed by radar. Since a metal asteroid, like an airplane or ship, is a much better reflector of radar than is a stony object, Psyche appears bright when we aim a radar beam at it.</para>
+<para id="fs-id1168047381816">How did such metal asteroids come to be? We suspect that each came from a parent body large enough for its molten interior to settle out or differentiate, and the heavier metals sank to the center. When this parent body shattered in a later collision, the fragments from the core were rich in metals. There is enough metal in even a 1-kilometer M-type asteroid to supply the world with iron and many other industrial metals for the foreseeable future, if we could bring one safely to Earth.</para>
+<para id="fs-id1168047533161">In addition to the M-type asteroids, a few other asteroids show signs of early heating and differentiation. These have basaltic surfaces like the volcanic plains of the Moon and Mars; the large asteroid Vesta (discussed in a moment) is in this last category.</para>
+<para id="fs-id1168047644664">The different classes of asteroids are found at different distances from the Sun (<link target-id="OSC_Astro_13_01_Type"/>). By tracing how asteroid compositions vary with distance from the Sun, we can reconstruct some of the properties of the solar nebula from which they originally formed.</para>
+<figure id="OSC_Astro_13_01_Type">
+<title>Where Different Types of Asteroids Are Found.</title>
+<media id="fs-id1168047666300" alt="Types of Asteroids and their Locations. In this plot the vertical axis is labeled “Percent of Total”, and ranges from zero at bottom to 100 at the top in increments of 10. The horizontal axis is labeled “Distance from Sun (AU)”, and ranges from 1 at left to 5 on the right, in increments of 1 AU. The “M-type (metallic)” bodies are represented with a dashed black curve beginning around zero percent at 1.9 AU, peaking at about 20% at 2.5 AU, and ending around zero percent at 3.5 AU. The “S-type (stony or silicaceous)” asteroids are shown as a solid red curve beginning at about 20% at 1.3 AU, rising to 70% at 2.3 AU and falling to near zero percent at 4 AU. Finally, the “C-type (carbonaceous)” asteroids are shown with a solid red curve beginning near 20% at 1.6 AU, rising to 90% at 3.3 AU and falling to about 20% at 5 AU.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_13_01_Type.jpg"/>
+</media>
+<caption>Asteroids of different composition are distributed at different distances from the Sun. The S-type and C-type are both primitive; the M-type consists of cores of differentiated parent bodies.</caption>
+</figure>
+</section>
+<section id="fs-id1168047458212">
+<title>Vesta: A Differentiated Asteroid</title>
+<para id="fs-id1168047654266"><term class="no-emphasis">Vesta</term> is one of the most interesting of the asteroids. It orbits the Sun with a semi-major axis of 2.4 AU in the inner part of the asteroid belt. Its relatively high reflectivity of almost 30% makes it the brightest asteroid, so bright that it is actually visible to the unaided eye if you know just where to look. But its real claim to fame is that its surface is covered with basalt, indicating that Vesta is a differentiated object that must once have been volcanically active, in spite of its small size (about 500 kilometers in diameter).</para>
+<para id="fs-id1168047174839">Meteorites from Vesta’s surface (<link target-id="OSC_Astro_13_01_Piece"/>), identified by comparing their spectra with that of Vesta itself, have landed on Earth and are available for direct study in the laboratory. We thus know a great deal about this asteroid. The age of the lava flows from which these meteorites derived has been measured at 4.4 to 4.5 billion years, very soon after the formation of the solar system. This age is consistent with what we might expect for volcanoes on Vesta; whatever process heated such a small object was probably intense and short-lived. In 2016, a meteorite fell in Turkey that could be identified with a particular lava flow as revealed by the orbiting <emphasis effect="italics">Dawn</emphasis> spacecraft.</para>
+<figure id="OSC_Astro_13_01_Piece">
+<title>Piece of Vesta.</title>
+<media id="fs-id1168047994516" alt="Photograph of a Piece of Vesta. This photo shows an irregularly shaped metallic fragment from Vesta. The scale at lower right reads “5 cm/2 in.” and is about half the width of the object.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_13_01_Piece.jpg"/>
+</media>
+<caption>This meteorite (rock that fell from space) has been identified as a volcanic fragment from the crust of asteroid <term class="no-emphasis">Vesta</term>. (credit: modification of work by R. Kempton (New England Meteoritical Services))</caption>
+</figure>
+</section>
+<section id="fs-id1168047774930"><title>Asteroids Up Close</title><para id="fs-id1168047693703">On the way to its 1995 encounter with Jupiter, the Galileo spacecraft was targeted to fly close to two main-belt S-type asteroids called <term class="no-emphasis">Gaspra</term> and <term class="no-emphasis">Ida</term>. The Galileo camera revealed both as long and highly irregular (resembling a battered potato), as befits fragments from a catastrophic collision (<link target-id="OSC_Astro_13_01_Gaspra"/>).</para>
+<figure id="OSC_Astro_13_01_Gaspra">
+<title>Mathilde, Gaspra, and Ida.</title>
+<media id="fs-id1168047278088" alt="Mathilde, Gaspra, and Ida. The largest, Mathilde, is shown at left. Next, Gaspra, the smallest of the three is at center and Ida is seen at right. All are non-spherical, heavily cratered objects.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_13_01_Gaspra.jpg"/>
+</media>
+<caption>The first three asteroids photographed from spacecraft flybys, printed to the same scale. Gaspra and Ida are S-type and were investigated by the Galileo spacecraft; Mathilde is C-type and was a flyby target for the NEAR-Shoemaker spacecraft. (credit: modification of work by NEAR Project, Galileo Project, NASA)</caption>
+</figure>
+<para id="fs-id1168047947971">The detailed images allowed us to count the craters on Gaspra and Ida, and to estimate the length of time their surfaces have been exposed to collisions. The Galileo scientists concluded that these asteroids are only about 200 million years old (that is, the collisions that formed them took place about 200 million years ago). Calculations suggest that an asteroid the size of Gaspra or Ida can expect another catastrophic collision sometime in the next billion years, at which time it will be disrupted to form another generation of still-smaller fragments.</para>
+<para id="fs-id1168047494431">The greatest surprise of the Galileo flyby of Ida was the discovery of a moon (which was then named <term class="no-emphasis">Dactyl</term>), in orbit about the asteroid (<link target-id="OSC_Astro_13_01_Ida"/>). Although only 1.5 kilometers in diameter, smaller than many college campuses, Dactyl provides scientists with something otherwise beyond their reach—a measurement of the mass and density of Ida using Kepler’s laws. The moon’s distance of about 100 kilometers and its orbital period of about 24 hours indicate that Ida has a density of approximately 2.5 g/cm<sup>3</sup>, which matches the density of primitive rocks. Subsequently, both large visible-light telescopes and high-powered planetary radar have discovered many other asteroid moons, so that we are now able to accumulate valuable data on asteroid masses and densities.</para>
+<figure id="OSC_Astro_13_01_Ida">
+<title>Ida and Dactyl.</title>
+<media id="fs-id1168047609468" alt="Ida and Dactyl. In this image the moon Dactyl is seen to the right of the elongated, cratered asteroid Ida.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_13_01_Ida.jpg"/>
+</media>
+<caption>The asteroid <term class="no-emphasis">Ida</term> and its tiny moon <term class="no-emphasis">Dactyl</term> (the small body off to its right), were photographed by the Galileo spacecraft in 1993. Irregularly shaped Ida is 56 kilometers in its longest dimension, while Dactyl is about 1.5 kilometers across. The colors have been intensified in this image; to the eye, all asteroids look basically gray. (credit: modification of work by NASA/JPL) </caption>
+</figure>
+<para id="fs-id1168047266723">By the way, <term class="no-emphasis">Phobos</term> and <term class="no-emphasis">Deimos</term>, the two small moons of Mars, are probably captured asteroids (<link target-id="OSC_Astro_13_01_MarsMoons"/>). They were first studied at close range by the Viking orbiters in 1977 and later by <emphasis effect="italics">Mars Global Surveyor</emphasis>. Both are irregular, somewhat elongated, and heavily created, resembling other smaller asteroids. Their largest dimensions are about 26 kilometers and 16 kilometers, respectively. The small outer moons of Jupiter and Saturn were probably also captured from passing asteroids, perhaps early in the history of the solar system.</para>
+<figure id="OSC_Astro_13_01_MarsMoons">
+<title>Moons of Mars.</title>
+<media id="fs-id1168047457032" alt="Images of Phobos and Deimos. Panel (a), at left, shows Phobos, a brownish, “lumpy” body with many impact craters. Panel (b), at right, shows the lighter colored Deimos. Deimos is much less spherical than Phobos, and has fewer craters.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_13_01_MarsMoons.jpg"/>
+</media>
+<caption>The two small moons of <term class="no-emphasis">Mars</term>, (a) <term class="no-emphasis">Phobos</term> and (b) <term class="no-emphasis">Deimos</term>, were discovered in 1877 by American astronomer Asaph Hall. Their surface materials are similar to many of the asteroids in the outer asteroid belt, leading astronomers to believe that the two moons may be captured asteroids. (credit a: modification of work by NASA; credit b: modification of work by NASA/JPL-Caltech/University of Arizona)</caption>
+</figure>
+<para id="fs-id1168047402692">Beginning in the 1990s, spacecraft have provided close looks at several more asteroids. The Near Earth Asteroid Rendezvous (NEAR) spacecraft went into orbit around the S-type asteroid Eros, becoming a temporary moon of this asteroid. On its way to Eros, the <emphasis effect="italics">NEAR</emphasis> spacecraft was renamed after planetary geologist Eugene Shoemaker, a pioneer in our understanding of craters and impacts.</para>
+<para id="fs-id1168047560301">For a year, the NEAR-Shoemaker spacecraft orbited the little asteroid at various altitudes, measuring its surface and interior composition as well as mapping Eros from all sides (<link target-id="OSC_Astro_13_01_Down"/>). The data showed that Eros is made of some of the most chemically primitive materials in the solar system. Several other asteroids have been revealed as made of loosely bound rubble throughout, but not Eros. Its uniform density (about the same as that of Earth’s crust) and extensive global-scale grooves and ridges show that it is a cracked but solid rock.</para>
+<figure id="OSC_Astro_13_01_Down">
+<title>Looking Down on the North Pole of Eros.</title>
+<media id="fs-id1168047697536" alt="Looking Down on the North Pole of Eros. In this image looking down the length of this somewhat boomerang-shaped asteroid, many craters and surface features can be seen.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_13_01_Down.jpg"/>
+</media>
+<caption>This view was constructed from six images of the asteroid taken from an altitude of 200 kilometers. The large crater at the top has been named Psyche (after the maiden who was Eros’ lover in classical mythology) and is about 5.3 kilometers wide. A saddle-shaped region can be seen directly below it. Craters of many different sizes are visible. (credit: modification of work by NASA/JHUPL)</caption>
+</figure>
+<para id="fs-id1168048000485"><term class="no-emphasis">Eros</term> has a good deal of loose surface material that appears to have slid down toward lower elevations. In some places, the surface rubble layer is 100 meters deep. The top of loose soil is dotted with scattered, half-buried boulders. There are so many of these boulders that they are more numerous than the craters. Of course, with the gravity so low on this small world, a visiting astronaut would find loose boulders rolling toward her pretty slowly and could easily leap high enough to avoid being hit by one. Although the NEAR-Shoemaker spacecraft was not constructed as a lander, at the end of its orbital mission in 2000, it was allowed to fall gently to the surface, where it continued its chemical analysis for another week.</para>
+<para id="fs-id1168047722346">In 2003, Japan’s Hayabusa 1 mission not only visited a small asteroid but also brought back samples to study in laboratories on Earth. The target S-type asteroid, <term class="no-emphasis">Itokawa</term> (shown in <link target-id="OSC_Astro_13_01_Itokawa"/>), is much smaller than Eros, only about 500 meters long. This asteroid is elongated and appears to be the result of the collision of two separate asteroids long ago. There are almost no impact craters, but an abundance of boulders (like a pile of rubble) on the surface.</para>
+<figure id="OSC_Astro_13_01_Itokawa">
+<title>Asteroid Itokawa.</title>
+<media id="fs-id1168048140332" alt="Asteroid Itokawa. This elongated asteroid has no craters and appears to be covered with loose piles of rock.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_13_01_Itokawa.jpg"/>
+</media>
+<caption>The surface of asteroid Itokawa appears to have no craters. Astronomers have hypothesized that its surface consists of rocks and ice chunks held together by a small amount of gravity, and its interior is probably also a similar rubble pile. (credit: JAXA)</caption>
+</figure>
+<para id="fs-id1168047292561">The <emphasis effect="italics">Hayabusa</emphasis> spacecraft was designed not to land, but to touch the surface just long enough to collect a small sample. This tricky maneuver failed on its first try, with the spacecraft briefly toppling over on its side. Eventually, the controllers were successful in picking up a few grains of surface material and transferring them into the return capsule. The 2010 reentry into Earth’s atmosphere over Australia was spectacular (<link target-id="OSC_Astro_13_01_Hayabusa"/>), with a fiery breakup of the spacecraft, while a small return capsule successfully parachuted to the surface. Months of careful extraction and study of more than a thousand tiny dust particles confirmed that the surface of Itokawa had a composition similar to a well-known class of primitive meteorites. We estimate that the dust grains <emphasis effect="italics">Hayabusa</emphasis> picked up had been exposed on the surface of the asteroid for about 8 million years.</para>
+<figure id="OSC_Astro_13_01_Hayabusa"><title>Examining an Asteroid Up Close.</title><media id="fs-id1168048010407" alt="a) Image of near-Earth Asteroid Bennu; b) Image of the collection arm on Bennu just before touch-down on Bennu.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_13_01_Hayabusa.jpg"/>
+</media>
+
+<caption>(a) Near-Earth Asteroid Bennu, imaged by the Osiris-Rex Spacecraft in 2020. Bennu is a small (half-km diameter), rapidly spinning dark asteroid. Its low density suggests it is a loosely-bound rubble pile. The surface is very rough, with protruding rocks and boulders. (b) Preparing to collect a sample, the collection arm is shown just before touch-down on Bennu. For scale, the diameter of the sampling device is 30 cm. The sample of about 100 grams of surface rocks and dust will be returned to Earth in 2023.  a: modification of work by NASA Goddard/University of Arizona; credit b: modification of work by NASA Goddard/University of Arizona</caption></figure><para id="eip-596">Following on the success of Hayabusa, both NASA and the Japanese space agency, JAXA, sent more advanced asteroid sample-return missions. Both targeted small Earth-approaching asteroids, only about 1 km in diameter. Each target is a dark object, apparently a rubble pile formed relatively recently after being broken apart in a collision. Hayabusa-2 visited the asteroid Ryugu, collected a small sample, and successfully returned it to Earth in December 2020. The U.S. mission called OSIRIS-REx visited Bennu, an asteroid that actually has a small chance of colliding with Earth in the next century. Its sample will be returned to Earth in September 2023.</para><para id="eip-458">A future NASA mission called DART (Double Asteroid Redirection Test) will provide an opportunity to actually modify the orbit of a near-Earth asteroid. The DART spacecraft will be targeted to impact the small moon of asteroid Didymos in October 2022. As a result, the orbital period of the moon will be changed slightly, by an amount that should be detectable from Earth. The results will help evaluate our ability to develop the capability to protect Earth from an asteroid impact, if at some time in the future this should be necessary. We will discuss this topic at greater length in the next section.</para><para id="fs-id1168047883088">The most ambitious asteroid space mission (called Dawn) has visited the two largest main belt asteroids, Ceres and Vesta, orbiting each for about a year (<link target-id="OSC_Astro_13_01_CandVBelts"/>). Their large sizes (diameters of about 1000 and 500 kilometers, respectively) make them appropriate for comparison with the planets and large moons. Both turned out to be heavily cratered, implying their surfaces are old. On Vesta, we have now actually located the large impact craters that ejected the basaltic meteorites previously identified as coming from this asteroid. These craters are so large that they sample several layers of Vesta’s crustal material.</para>
+<figure id="OSC_Astro_13_01_CandVBelts">
+<title>Vesta and Ceres.</title>
+<media id="fs-id1168047684088" alt="Vesta and Ceres. Panel (a), at left, shows an image of Vesta. It is non-spherical and heavily cratered. Panel (b), at right, presents Ceres. Ceres is spherical, and has dark and light surface features, along with mountainous areas visible at upper right.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_13_01_CandVBelts.jpg"/>
+</media>
+<caption>The NASA <emphasis effect="italics">Dawn</emphasis> spacecraft took these images of the large asteroids (a) <term class="no-emphasis">Vesta</term> and (b) <term class="no-emphasis">Ceres</term>. (a) Note that Vesta is not round, as Ceres (which is considered a dwarf planet) is. A mountain twice the height of Mt. Everest on Earth is visible at the very bottom of the Vesta image. (b) The image of Ceres has its colors exaggerated to bring out differences in composition. You can see a white feature in Occator crater near the center of the image. (credit a, b: modification of work by NASA/JPL-Caltech/UCLA/MPS/DLR/IDA)</caption>
+</figure>
+<para id="fs-id1168047350468">Ceres has not had a comparable history of giant impacts, so its surface is covered with craters that look more like those from the lunar highlands. One big surprise at Ceres is the presence of very bright white spots, associated primarily with the central peaks of large craters (<link target-id="OSC_Astro_13_01_CeresCratr"/>). The light-colored mineral is primarily salt, released from the interior. After repeated close flybys, data from the NASA Dawn spacecraft indicated that Ceres has (or has had) a subsurface ocean of water, with occasional eruptions on the surface. The most dramatic is the 4 kilometer tall ice volcano called Ahuna Mons (see <link target-id="OSC_Astro_13_01_CeresCratr"/>).</para><figure id="OSC_Astro_13_01_CeresCratr"><title>White Spots in a Larger Crater on Ceres.</title><media id="fs-id1168047596425" alt="Occator Crater. In this view, looking directly down on Occator, bright features are seen on the floor of the crater at center and in the upper right.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_13_01_CeresCratr_new.jpg"/>
+</media>
+
+<caption>White Spots in a Larger Crater on Ceres. (a) These bright features appear to be salt deposits in a Ceres crater called Occator, which is 92 kilometers across. (b) Ahuna Mons is an isolated mountain on Ceres, 4 kilometers high. It is thought to be an intrusion of ice from the interior. (credit a: modification of work by NASA/JPL-Caltech/UCLA/MPS/DLR/IDA; credit b: modification of work by NASA/JPL-Caltech/UCLA/MPS/DLR/IDA/PSI)</caption></figure><para id="eip-197">In late 2017, something entirely new was discovered: an interstellar asteroid. This visitor was found at a distance of 33 million kilometers with a survey telescope on Haleakala, Hawaii. As astronomers followed up on the discovery, it quickly became apparent that this asteroid was travelling far too fast to be part of the Sun’s family. Its orbit is a hyperbola, and when discovered it was already rapidly leaving the inner solar system. Although it was too distant for imaging by even large telescopes, its size and shape could be estimated from its brightness and rapid light fluctuations. It is highly elongated, with an approximately cylindrical shape. The nominal dimensions are about 200 meters in length and only 35 meters across, the most extreme of any natural object. Large objects, like planets and moons, are pulled by their own gravity into roughly spherical shapes, and even small asteroids and comets (often described as “potato-shaped”) rarely have irregularities of more than a factor of two. </para><para id="eip-211">This asteroid was named ‘Oumuamua, a Hawaiian word meaning “scout” or “first to reach out.” In a way, the discovery of an interstellar asteroid or comet was not unexpected. Early in solar system history, before the planet orbits sorted themselves into stable, non-intersecting paths all in the same plane, we estimate that quite a lot of mass was ejected, either whole planets or more numerous smaller fragments. Even today, an occasional comet coming in from the outer edges of the solar system can have its orbit changed by gravitational interaction with Jupiter and the Sun, and some of these escape on hyperbolic trajectories. In 2019, astronomers discovered an interstellar comet entering our solar system—more on this in the section on comets. As we have recently learned that planetary systems are common, the question became: where are similar debris objects ejected from other planetary systems? Now we have found two, and improved surveys will soon add others to this category.</para>
+<note id="eip-idm207382400" class="astronomy link-to-learning">
+<para id="eip-idm160085376">View an artist’s rendering of the asteroid ‘Oumuamua <link url="https://www.openstax.org/l/30oumuamua">(https://www.openstax.org/l/30oumuamua)</link> by the ESO. Although it was not close enough to Earth to be imaged, its long slender shape was indicated by its rapid variation in brightness as it rotated.</para></note>
+
+<note id="fs-id1168047326323" class="astronomy link-to-learning">
+<para id="fs-id1168047354899">The space agencies involved with the Dawn mission have produced nice animated “flyover” videos of <link url="https://openstax.org/l/30vestaflyover">Vesta</link> and <link url="https://openstax.org/l/30ceresflyover">Ceres</link> available online.</para>
+</note>
+</section><section id="fs-id1168047682898" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-id1168047365063">The solar system includes many objects that are much smaller than the planets and their larger moons. The rocky ones are generally called asteroids. Ceres is the largest asteroid; about 15 are larger than 250 kilometers and about 100,000 are larger than 1 kilometer. Most are in the asteroid belt between Mars and Jupiter. The presence of asteroid families in the belt indicates that many asteroids are the remnants of ancient collisions and fragmentation. The asteroids include both primitive and differentiated objects. Most asteroids are classed as C-type, meaning they are composed of carbonaceous materials. Dominating the inner belt are S-type (stony) asteroids, with a few M-type (metallic) ones. We have spacecraft images of several asteroids and returned samples from asteroid Itokawa. Recent observations have detected a number of asteroid moons, making it possible to measure the masses and densities of the asteroids they orbit. The two largest asteroids, Ceres and Vesta, have been extensively studied from orbit by the <emphasis effect="italics">Dawn</emphasis> spacecraft.</para>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1168047297120">
+<term>asteroid</term>
+<meaning id="fs-id1168047198989">a stony or metallic object orbiting the Sun that is smaller than a major planet but that shows no evidence of an atmosphere or of other types of activity associated with comets</meaning>
+</definition>
+<definition id="fs-id1168047358351">
+<term>asteroid belt</term>
+<meaning id="fs-id1168047203670">the region of the solar system between the orbits of Mars and Jupiter in which most asteroids are located; the main belt, where the orbits are generally the most stable, extends from 2.2 to 3.3 AU from the Sun</meaning>
+</definition>
+</glossary>
+</document>

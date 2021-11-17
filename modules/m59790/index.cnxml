@@ -1,0 +1,441 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Eclipses of the Sun and Moon</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59790</md:content-id>
+  <md:title>Eclipses of the Sun and Moon</md:title>
+  <md:abstract/>
+  <md:uuid>e6b95fa8-0f58-47c0-b3fa-cb82c29696d9</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1168047699500" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-id1168980499839">By the end of this section, you will be able to:</para>
+<list id="fs-id1168047248602">
+<item>Describe what causes lunar and solar eclipses</item>
+<item>Differentiate between a total and partial solar eclipse</item>
+<item>Explain why lunar eclipses are much more common than solar eclipses</item>
+</list>
+</section>
+<para id="fs-id1168047172670">One of the coincidences of living on <term class="no-emphasis">Earth</term> at the present time is that the two most prominent astronomical objects, the <term class="no-emphasis">Sun</term> and the <term class="no-emphasis">Moon</term>, have nearly the same apparent size in the sky. Although the Sun is about 400 times larger in diameter than the Moon, it is also about 400 times farther away, so both the Sun and the Moon have the same angular size—about 1/2°. As a result, the Moon, as seen from Earth, can appear to cover the Sun, producing one of the most impressive events in nature.</para>
+<para id="fs-id1168047343161">Any solid object in the solar system casts a shadow by blocking the light of the Sun from a region behind it. This shadow in space becomes apparent whenever another object moves into it. In general, an <emphasis effect="italics">eclipse</emphasis> occurs whenever any part of either Earth or the Moon enters the shadow of the other. When the Moon’s shadow strikes Earth, people within that shadow see the Sun at least partially covered by the Moon; that is, they witness a <term>solar eclipse</term>. When the Moon passes into the shadow of Earth, people on the night side of Earth see the Moon darken in what is called a <term>lunar eclipse</term>. Let’s look at how these happen in more detail.</para>
+<para id="fs-id1168047697934">The shadows of Earth and the Moon consist of two parts: a cone where the shadow is darkest, called the <emphasis effect="italics">umbra</emphasis>, and a lighter, more diffuse region of darkness called the <emphasis effect="italics">penumbra</emphasis>. As you can imagine, the most spectacular eclipses occur when an object enters the umbra. <link target-id="OSC_Astro_04_07_SEclipses"/> illustrates the appearance of the Moon’s shadow and what the Sun and Moon would look like from different points within the shadow.</para>
+<figure id="OSC_Astro_04_07_SEclipses"><title>Solar Eclipse.</title><media id="fs-id1168047163812" alt="Solar Eclipse. In panel (a), at top, the geometry of a solar eclipse is drawn as seen from above. At left the Sun is drawn as a large yellow disc. At center, a hypothetical spherical body is drawn as a blue disc. The shadow cast by this body is indicated by two yellow arrows which are drawn from the top of the Sun’s disk to the blue body; one touches the top of the body and continues to the right and one touches the bottom and continues to the right. To complete the shadow, two yellow arrows are drawn from the bottom of the Sun’s disk to the blue body; one touches the bottom of the blue disc and continues to the right and one touches the top and continues to the right. Beyond the blue disc on the right side of the diagram, four areas within the shadow are indicated with numbers corresponding to the images in panel (b). At position 1, closest to the blue disc, the eclipse is total. At positions 2 and 3 the eclipses are partial. At position 4, furthest from the blue disc, the eclipse is annular.">
+<image mime-type="image/jpeg" src="../../media/seclipses.jpg"/>
+</media>
+
+<caption>(a) The shadow cast by a spherical body (the Moon, for example) is shown. Notice the dark umbra and the lighter penumbra. Four points in the shadow are labeled with numbers. In (b) you see what the Sun and Moon would look like in the sky at the four labeled points. At position 1, you see a total eclipse. At positions 2 and 3, the eclipse is partial. At position 4, the Moon is farther away and thus cannot cover the Sun completely; a ring of light thus shows around the Sun, creating what is called an “annular” eclipse.</caption></figure><para id="fs-id1168047718915">If the path of the Moon in the sky were identical to the path of the Sun (the ecliptic), we might expect to see an eclipse of the Sun and the Moon each month—whenever the Moon got in front of the Sun or into the shadow of Earth. However, as we mentioned, the Moon’s orbit is tilted relative to the plane of Earth’s orbit about the Sun by about 5° (imagine two hula hoops with a common center, but tilted a bit). As a result, during most months, the Moon is sufficiently above or below the ecliptic plane to avoid an eclipse. But when the two paths cross (twice a year), it is then “eclipse season” and eclipses are possible.</para>
+<section id="fs-id1168047563567">
+<title>Eclipses of the Sun</title>
+<para id="fs-id1168047345293">The apparent or angular sizes of both the Sun and Moon vary slightly from time to time as their distances from Earth vary. (<link target-id="OSC_Astro_04_07_SEclipses"/> shows the distance of the observer varying at points 1–4, but the idea is the same.) Much of the time, the Moon looks slightly smaller than the Sun and cannot cover it completely, even if the two are perfectly aligned. In this type of “annular eclipse,” there is a ring of light around the dark sphere of the Moon.</para><para id="fs-id1168047218054">However, if an eclipse of the Sun occurs when the Moon is somewhat nearer than its average distance, the Moon can completely hide the Sun, producing a <emphasis effect="italics">total</emphasis> solar eclipse. Another way to say it is that a <term class="no-emphasis">total eclipse</term> of the Sun occurs at those times when the umbra of the Moon’s shadow reaches the surface of Earth.</para>
+<para id="fs-id1168047311161">The geometry of a total solar eclipse is illustrated in <link target-id="OSC_Astro_04_07_TotalSolar"/>. If the Sun and Moon are properly aligned, then the Moon’s darkest shadow intersects the ground at a small point on Earth’s surface. Anyone on Earth within the small area covered by the tip of the Moon’s shadow will, for a few minutes, be unable to see the Sun and will witness a total eclipse. At the same time, observers on a larger area of Earth’s surface who are in the penumbra will see only a part of the Sun eclipsed by the Moon: we call this a <emphasis effect="italics">partial</emphasis> solar eclipse.</para>
+<para id="fs-id1168047557511">Between Earth’s rotation and the motion of the Moon in its orbit, the tip of the Moon’s shadow sweeps eastward at about 1500 kilometers per hour along a thin band across the surface of Earth. The thin zone across Earth within which a total solar eclipse is visible (weather permitting) is called the eclipse path. Within a region about 3000 kilometers on either side of the eclipse path, a partial solar eclipse is visible. It does not take long for the Moon’s shadow to sweep past a given point on Earth. The duration of totality may be only a brief instant; it can never exceed about 7 minutes.</para>
+<figure id="OSC_Astro_04_07_TotalSolar">
+<title>Geometry of a Total Solar Eclipse.</title>
+<media id="fs-id1168047387263" alt="Geometry of a Total Solar Eclipse. The Sun is drawn at lower left and the Earth at upper right. Surrounding the Earth is a blue circle for the Moon’s orbit, with the Moon drawn at a point directly between the Sun and Earth. The Earth’s shadow is a dark grey cone extending from the night side of Earth toward the upper right, away from the Sun. The Moon’s shadow is a dark grey cone extending from the night side of the Moon away from the Sun to a point on Earth’s surface labeled “Eclipse path”.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_04_07_TotalSolar.jpg"/>
+</media>
+<caption>Note that our diagram is not to scale. The Moon blocks the Sun during new moon phase as seen from some parts of Earth and casts a shadow on our planet.</caption>
+</figure>
+<para id="fs-id1168047352102">Because a total eclipse of the Sun is so spectacular, it is well worth trying to see one if you can. There are some people whose hobby is “eclipse chasing” and who brag about how many they have seen in their lifetimes. Because much of Earth’s surface is water, eclipse chasing can involve lengthy boat trips (and often requires air travel as well). As a result, eclipse chasing is rarely within the budget of a typical college student. Nevertheless, a list of future eclipses is given for your reference in <link document="m60000">Appendix H</link>, just in case you strike it rich early. (And, as you can see in the Appendix, there will be total eclipses visible in the United States in 2017 and 2024, to which even college students may be able to afford travel.)</para>
+</section>
+<section id="fs-id1168047700620">
+<title>Appearance of a Total Eclipse</title>
+<para id="fs-id1168047647868">What can you see if you are lucky enough to catch a total eclipse? A solar eclipse starts when the Moon just begins to silhouette itself against the edge of the Sun’s disk. A partial phase follows, during which more and more of the Sun is covered by the Moon. About an hour after the eclipse begins, the Sun becomes completely hidden behind the Moon. In the few minutes immediately before this period of totality begins, the sky noticeably darkens, some flowers close up, and chickens may go to roost. As an eerie twilight suddenly descends during the day, other animals (and people) may get disoriented. During totality, the sky is dark enough that planets become visible in the sky, and usually the brighter stars do as well.</para>
+<para id="fs-id1168047700912">As the bright disk of the Sun becomes entirely hidden behind the Moon, the Sun’s remarkable corona flashes into view (<link target-id="OSC_Astro_04_07_Corona"/>). The <emphasis effect="italics">corona</emphasis> is the Sun’s outer atmosphere, consisting of sparse gases that extend for millions of miles in all directions from the apparent surface of the Sun. It is ordinarily not visible because the light of the corona is feeble compared with the light from the underlying layers of the Sun. Only when the brilliant glare from the Sun’s visible disk is blotted out by the Moon during a total eclipse is the pearly white corona visible. (We’ll talk more about the corona in the chapter on <link document="m59876">The Sun: A Garden-Variety Star</link>.)</para>
+<figure id="OSC_Astro_04_07_Corona">
+<title>The Sun’s Corona.</title>
+<media id="fs-id1168047350857" alt="The Sun’s Corona. The black disk of the Moon covers the Sun allowing the faint streamers and delicate tendrils of the corona to be seen.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_04_07_Corona.jpg"/>
+</media>
+<caption>The corona (thin outer atmosphere) of the Sun is visible during a total solar eclipse. (It looks more extensive in photographs than it would to the unaided eye.) (credit: modification of work by Lutfar Rahman Nirjhar)</caption>
+</figure>
+<para id="fs-id1168047292606">The total phase of the eclipse ends, as abruptly as it began, when the Moon begins to uncover the Sun. Gradually, the partial phases of the eclipse repeat themselves, in reverse order, until the Moon has completely uncovered the Sun. We should make one important safety point here: while the few minutes of the <emphasis effect="italics">total</emphasis> eclipse are safe to look at, if any part of the Sun is uncovered, you must protect your eyes with safe eclipse glasses<footnote id="fs-id1168047753919">Eclipse glasses are available in many planetarium and observatory gift stores, and also from the two main U.S. manufacturers: American Paper Optics and Rainbow Symphony.</footnote> or by projecting an image of the Sun (instead of looking at it directly). For more, read the <link target-id="fs-id1168047377882">How to Observe Solar Eclipses</link> box in this chapter.</para>
+</section>
+<section id="fs-id1168047652387">
+<title>Eclipses of the Moon</title>
+<para id="fs-id1168047198692">A lunar eclipse occurs when the Moon enters the shadow of Earth. The geometry of a lunar eclipse is shown in <link target-id="OSC_Astro_04_07_LEclipses"/>. Earth’s dark shadow is about 1.4 million kilometers long, so at the Moon’s distance (an average of 384,000 kilometers), it could cover about four full moons. Unlike a solar eclipse, which is visible only in certain local areas on Earth, a lunar eclipse is visible to everyone who can see the Moon. Because a lunar eclipse can be seen (weather permitting) from the entire night side of Earth, lunar eclipses are observed far more frequently from a given place on Earth than are solar eclipses.</para>
+<figure id="OSC_Astro_04_07_LEclipses">
+<title>Geometry of a Lunar Eclipse.</title>
+<media id="fs-id1168047601892" alt="Geometry of a Lunar Eclipse. The Sun is drawn at lower left and the Earth at upper right. Surrounding the Earth is a blue circle for the Moon’s orbit, with the Moon drawn at three positions along the circle. The Earth’s shadow is a dark grey cone extending from the night side of Earth toward the upper right, away from the Sun. At position “A”, to the right of Earth, the Moon has yet to enter Earth’s shadow and is seen as “Full moon (as seen from Earth)”. At position “B”, above and to the left of “A”, the Moon begins to enter Earth’s shadow – the eclipse has begun. At point “C”, above and to the left of “B”, the Moon has begun to leave Earth’s shadow.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_04_07_LEclipses.jpg"/>
+</media>
+<caption>The Moon is shown moving through the different parts of Earth’s shadow during a total lunar eclipse. Note that the distance the Moon moves in its orbit during the eclipse has been exaggerated here for clarity.</caption>
+</figure>
+<para id="fs-id1168047301736">An eclipse of the Moon is total only if the Moon’s path carries it though Earth’s umbra. If the Moon does not enter the umbra completely, we have a <term class="no-emphasis">partial eclipse</term> of the Moon. But because Earth is larger than the Moon, its umbra is larger, so that lunar eclipses last longer than solar eclipses, as we will discuss below.</para>
+<para id="fs-id1168047125156">A lunar eclipse can take place only when the Sun, Earth, and Moon are in a line. The Moon is opposite the Sun, which means the Moon will be in full phase before the eclipse, making the darkening even more dramatic. About 20 minutes before the Moon reaches the dark shadow, it dims somewhat as Earth partly blocks the sunlight. As the Moon begins to dip into the shadow, the curved shape of Earth’s shadow upon it soon becomes apparent.</para>
+<para id="fs-id1168047218446">Even when totally eclipsed, the Moon is still faintly visible, usually appearing a dull coppery red. The illumination on the eclipsed Moon is sunlight that has been bent into Earth’s shadow by passing through Earth’s atmosphere.</para>
+<para id="fs-id1168047116244">After totality, the Moon moves out of the shadow and the sequence of events is reversed. The total duration of the eclipse depends on how closely the Moon’s path approaches the axis of the shadow. For an eclipse where the Moon goes through the center of Earth’s shadow, each partial phase consumes at least 1 hour, and totality can last as long as 1 hour and 40 minutes. Eclipses of the Moon are much more “democratic” than solar eclipses. Since the full moon is visible on the entire night side of Earth, the lunar eclipse is visible for all those who live in that hemisphere. (Recall that a total eclipse of the Sun is visible only in a narrow path where the shadow of the umbra falls.) Total eclipses of the Moon occur, on average, about once every two or three years. A list of future total eclipses of the Moon is in <link document="m60000">Appendix H</link>. In addition, since the lunar eclipse happens to a full moon, and a full moon is not dangerous to look at, everyone can look at the Moon during all the parts of the eclipse without worrying about safety.</para>
+<para id="fs-id1168047163974">Thanks to our understanding of gravity and motion (see <link document="m59773">Orbits and Gravity</link>), eclipses can now be predicted centuries in advance. We’ve come a long way since humanity stood frightened by the darkening of the Sun or the Moon, fearing the displeasure of the gods. Today, we enjoy the sky show with a healthy appreciation of the majestic forces that keep our solar system running.</para>
+<note id="fs-1899831948"><para id="j39093">Use the <link url="https://openstax.org/l/30solueclips">Solar and Lunar Eclipse simulation</link> to explore the conditions of solar and lunar eclipses yourself.
+</para></note>
+<note id="fs-id1168047377882" class="astronomy seeing-for-yourself">
+<title>How to Observe Solar Eclipses</title>
+<para id="fs-id1168047541179">A total eclipse of the Sun is a spectacular sight and should not be missed. However, it is extremely dangerous to look directly at the Sun: even a brief exposure can damage your eyes. Normally, few rational people are tempted to do this because it is painful (and something your mother told you never to do!). But during the partial phases of a solar eclipse, the temptation to take a look is strong. Think before you give in. The fact that the Moon is covering part of the Sun doesn’t make the uncovered part any less dangerous to look at. Still, there are perfectly safe ways to follow the course of a solar eclipse, if you are lucky enough to be in the path of the shadow.</para>
+<para id="fs-id1168047975092">The easiest technique is to make a pinhole projector. Take a piece of cardboard with a small (1 millimeter) hole punched in it, and hold it several feet above a light surface, such as a concrete sidewalk or a white sheet of paper, so that the hole is “aimed” at the Sun. The hole produces a fuzzy but adequate image of the eclipsed Sun. Alternatively, if it’s the right time of year, you can let the tiny spaces between a tree’s leaves form multiple pinhole images against a wall or sidewalk. Watching hundreds of little crescent Suns dancing in the breeze can be captivating. A kitchen colander also makes an excellent pinhole projector.</para>
+<para id="fs-id1168047134108">Although there are safe filters for looking at the Sun directly, people have suffered eye damage by looking through improper filters, or no filter at all. For example, neutral density photographic filters are not safe because they transmit infrared radiation that can cause severe damage to the retina. Also unsafe are smoked glass, completely exposed color film, sunglasses, and many other homemade filters. Safe filters include welders’ goggles and specially designed eclipse glasses.</para>
+<para id="fs-id1168047239780">You should certainly look at the Sun directly when it is totally eclipsed, even through binoculars or telescopes. Unfortunately, the total phase, as we discussed, is all too brief. But if you know when it is coming and going, be sure you look, for it’s an unforgettably beautiful sight. And, despite the ancient folklore that presents eclipses as dangerous times to be outdoors, the partial phases of eclipses—as long as you are not looking directly at the Sun—are not any more dangerous than being out in sunlight.</para>
+<para id="fs-id1168047344425">During past eclipses, unnecessary panic has been created by uninformed public officials acting with the best intentions. There were two marvelous total eclipses in Australia in the twentieth century during which townspeople held newspapers over their heads for protection and schoolchildren cowered indoors with their heads under their desks. What a pity that all those people missed what would have been one of the most memorable experiences of their lifetimes.</para>
+<para id="fs-id1168047201483">On August 21, 2017, a total eclipse of the Sun was visible across a large swath of the continental United States, and was seen by millions of people from around the country and the world (a).</para><figure id="OSC_Astro_04_07_2017"><title>2017 Total Solar and Lunar Eclipse</title><media id="fs-id1168047339564" alt="2017 Total Solar Eclipse. The path of the eclipse across the United States is drawn on this map. Beginning in OR, the path moves southeastward through ID, WY, NE, KS, MO, TN and SC.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_04_07_2017_Errata.jpg"/>
+</media>
+
+<caption>(a) The eclipsed Sun August 21, 2017, showing remarkable detail in the Sun’s outer atmosphere. This is a composite of short, medium, and long exposures, as no single exposure can capture the huge range of brightness the Sun exhibits. (b) A total eclipse of the Moon seen over California on January 31, 2018. The Moon moves slowly into the Earth’s shadow, looks red when the eclipse is total and red sunlight refracts through the Earth’s atmosphere, and then slowly moves out of the shadow. (credit a: modification of work by Rick Fienberg, American Astronomical Socity/TravelQuest International; credit b: modification of work by Brian Day.)</caption></figure></note>
+<note id="fs-id1168047217262" class="astronomy link-to-learning">
+<para id="fs-id1168047812745">For the August 2017 eclipse, the United States postal service issued a <link url="https://openstax.org/l/302017ecliboo">special commemorative stamp</link> — the first ever with “thermochromic ink” which changes when you touch it.</para></note>
+</section>
+<section id="fs-id1168047141642" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-id1168047395847">The Sun and Moon have nearly the same angular size (about 1/2°). A solar eclipse occurs when the Moon moves between the Sun and Earth, casting its shadow on a part of Earth’s surface. If the eclipse is total, the light from the bright disk of the Sun is completely blocked, and the solar atmosphere (the corona) comes into view. Solar eclipses take place rarely in any one location, but they are among the most spectacular sights in nature. A lunar eclipse takes place when the Moon moves into Earth’s shadow; it is visible (weather permitting) from the entire night hemisphere of Earth.</para>
+</section>
+<section id="fs-id1168047384895" class="further-exploration">
+<title>For Further Exploration</title>
+<section id="fs-id1168047457267">
+<title>Articles</title>
+<para id="fs-id1168047351068">Bakich, M. “Your Twenty-Year Solar Eclipse Planner.” <emphasis effect="italics">Astronomy</emphasis> (October 2008): 74. Describes the circumstances of upcoming total eclipses of the Sun.</para>
+<para id="fs-id1168047197846">Coco, M. “Not Just Another Pretty Phase.” <emphasis effect="italics">Astronomy</emphasis> (July 1994): 76. Moon phases explained.</para>
+<para id="fs-id1168047346365">Espenak, F., &amp; Anderson, J. “Get Ready for America’s Coast to Coast Experience.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (February 2016): 22.</para>
+<para id="fs-id1168047294362">Gingerich, O. “Notes on the Gregorian Calendar Reform.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (December 1982): 530.</para>
+<para id="fs-id1168047317047">Kluepfel, C. “How Accurate Is the Gregorian Calendar?” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (November 1982): 417.</para>
+<para id="fs-id1168047672366">Krupp, E. “Calendar Worlds.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (January 2001): 103. On how the days of the week got their names.</para>
+<para id="fs-id1168047195355">Krupp, E. “Behind the Curve.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (September 2002): 68. On the reform of the calendar by Pope Gregory XIII.</para>
+<para id="fs-id1168047363028">MacRobert, A., &amp; Sinnott, R. “Young Moon Hunting.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (February 2005): 75. Hints for finding the Moon as soon after its new phase as possible.</para>
+<para id="fs-id1168047785814">Pasachoff, J. “Solar Eclipse Science: Still Going Strong.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (February 2001): 40. On what we have learned and are still learning from eclipses.</para>
+<para id="fs-id1168047268426">Regas, D. “The Quest for Totality.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (July 2012): 36. On eclipse chasing as a hobby.</para>
+<para id="fs-id1168047710515">Schaefer, B. “Lunar Eclipses That Changed the World.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (December 1992): 639.</para>
+<para id="fs-id1168047342819">Schaefer, B. “Solar Eclipses That Changed the World.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (May 1994): 36.</para>
+</section>
+<section id="fs-id1168047793028">
+<title>Websites</title>
+<para id="fs-id1168047649019">Ancient Observatories, Timeless Knowledge (Stanford Solar Center): <link url="http://solar-center.stanford.edu/AO/">http://solar-center.stanford.edu/AO/</link>. An introduction to ancient sites where the movements of celestial objects were tracked over the years (with a special focus on tracking the Sun).</para><para id="fs-id1168047218732">Astronomical Data Services: <link url="https://www.usno.navy.mil/USNO/astronomical-applications/data-services">https://www.usno.navy.mil/USNO/astronomical-applications/data-services</link>. This rich site from the U.S. Naval Observatory has information about Earth, the Moon, and the sky, with tables and online calculators.</para>
+<para id="fs-id1168047779960">Calendars through the Ages: <link url="http://www.webexhibits.org/calendars/index.html">http://www.webexhibits.org/calendars/index.html</link>. Like a good museum exhibit on the Web.</para><para id="fs-id1168047701073">Calendar Zone: <link url="http://www.calendarzone.com/">http://www.calendarzone.com/</link>. Everything you wanted to ask or know about calendars and timekeeping, with links from around the world.</para>
+<para id="fs-id1168047134900">Eclipse Maps: <link url="http://www.eclipse-maps.com/Eclipse-Maps/Welcome.html">http://www.eclipse-maps.com/Eclipse-Maps/Welcome.html</link>. Michael Zeiler specializes in presenting helpful and interactive maps of where solar eclipses will be visible</para>
+<para id="fs-id1168047377300">Eclipse Predictions: EclipseWise: <link url="http://www.eclipsewise.com/intro.html">http://www.eclipsewise.com/intro.html</link>. An introductory site on future eclipses and eclipse observing by NASA’s Fred Espenak.</para>
+<para id="fs-id1168047661703">History of the International Date Line: <link url="http://www.staff.science.uu.nl/~gent0113/idl/idl.htm">http://www.staff.science.uu.nl/~gent0113/idl/idl.htm</link>. From R. H. van Gent at Utrecht University in the Netherlands.</para>
+<para id="fs-id1168047298108">Lunacy and the Full Moon: <link url="http://www.scientificamerican.com/article/lunacy-and-the-full-moon/">http://www.scientificamerican.com/article/lunacy-and-the-full-moon/</link>. This <emphasis effect="italics">Scientific American</emphasis> article explores whether the Moon’s phase is related to strange behavior.</para><para id="fs-id1168047645110">Moon Phase Calculator: <link url="https://stardate.org/nightsky/moon">https://stardate.org/nightsky/moon</link>. Keep track of the phases of the Moon with this calendar.</para>
+<para id="fs-id1168047576100">NASA Eclipse Website: <link url="http://eclipse.gsfc.nasa.gov/eclipse.html">http://eclipse.gsfc.nasa.gov/eclipse.html</link>. This site, by NASA’s eclipse expert Fred Espenak, contains a wealth of information on lunar and solar eclipses, past and future, as well as observing and photography links.</para><para id="fs-id1168047360476">Phases of the Moon Gallery and Information: <link url="http://astropixels.com/moon/phases/phasesgallery.html">http://astropixels.com/moon/phases/phasesgallery.html</link>. Photographs and descriptions presented by NASA’s Fred Espenak.</para>
+<para id="fs-id1168047150705">Time and Date Website: <link url="http://www.timeanddate.com/">http://www.timeanddate.com/</link>. Comprehensive resource about how we keep time on Earth; has time zone converters and many other historical and mathematical tools.</para>
+<para id="fs-id1168047916200">Walk through Time: The Evolution of Time Measurement through the Ages (National Institute of Standards and Technology): <link url="http://www.nist.gov/pml/general/time/">http://www.nist.gov/pml/general/time/</link>.</para>
+</section>
+<section id="fs-id1168047380567">
+<title>Videos</title>
+<para id="fs-id1168047970726">Bill Nye, the Science Guy, Explains the Seasons: <link url="https://www.youtube.com/watch?v=KUU7IyfR34o">https://www.youtube.com/watch?v=KUU7IyfR34o</link>. For kids, but college students can enjoy the bad jokes, too (4:45).</para><para id="fs-id1168047917062">Geography Lesson Idea: Time Zones: <link url="https://www.youtube.com/watch?v=-j-SWKtWEcU">https://www.youtube.com/watch?v=-j-SWKtWEcU</link>. (3:11).</para><para id="fs-id1168047371629">How to View a Solar Eclipse: <link url="http://www.exploratorium.edu/eclipse/how-to-view-eclipse">http://www.exploratorium.edu/eclipse/how-to-view-eclipse</link>. (1:35).</para><para id="fs-id1168047194769">Shadow of the Moon: <link url="https://www.youtube.com/watch?v=XNcfKUJwnjM">https://www.youtube.com/watch?v=XNcfKUJwnjM</link>. This NASA video explains eclipses of the Sun, with discussion and animation, focusing on a 2015 eclipse, and shows what an eclipse looks like from space (1:54).</para><para id="fs-id1168047899422">Strangest Time Zones in the World: <link url="https://www.youtube.com/watch?v=uW6QqcmCfm8">https://www.youtube.com/watch?v=uW6QqcmCfm8</link>. (8:38).</para><para id="fs-id1168047170083">Understanding Lunar Eclipses: <link url="https://www.youtube.com/watch?v=lNi5UFpales">https://www.youtube.com/watch?v=lNi5UFpales</link>. This NASA video explains why there isn’t an eclipse every month, with good animation (1:58).</para></section>
+</section>
+<section id="fs-id1168047343535" class="group-activities">
+<title>Collaborative Group Activities</title>
+<list id="fs-id1168047376802" list-type="enumerated" number-style="upper-alpha">
+<item>Have your group brainstorm about other ways (besides the Foucault pendulum) you could prove that it is our Earth that is turning once a day, and not the sky turning around us. (Hint: How does the spinning of Earth affect the oceans and the atmosphere?)</item>
+<item>What would the seasons on Earth be like if Earth’s axis were not tilted? Discuss with your group how many things about life on Earth you think would be different.</item>
+<item>After college and graduate training, members of your U.S. student group are asked to set up a school in New Zealand. Describe some ways your yearly school schedule in the Southern Hemisphere would differ from what students are used to in the Northern Hemisphere.</item>
+<item>During the traditional U.S. Christmas vacation weeks, you are sent to the vicinity of the South Pole on a research expedition (depending on how well you did on your astronomy midterm, either as a research assistant or as a short-order cook!). Have your group discuss how the days and nights will be different there and how these differences might affect you during your stay.</item>
+<item>Discuss with your group all the stories you have heard about the full moon and crazy behavior. Why do members of your group think people associate crazy behavior with the full moon? What other legends besides vampire stories are connected with the phases of the Moon? (Hint: Think Professor Lupin in the Harry Potter stories, for example.)</item>
+<item>Your college town becomes the founding site for a strange new cult that worships the Moon. These true believers gather regularly around sunset and do a dance in which they must extend their arms in the direction of the Moon. Have your group discuss which way their arms will be pointing at sunset when the Moon is new, first quarter, full, and third quarter.</item>
+<item>Changes of the seasons play a large part in our yearly plans and concerns. The seasons have inspired music, stories, poetry, art, and much groaning from students during snowstorms. Search online to come up with some examples of the seasons being celebrated or overcome in fields other than science.</item>
+<item>Use the information in <link document="m60000">Appendix H</link> and online to figure out when the next eclipse of the Sun or eclipse of the Moon will be visible from where your group is going to college or from where your group members live. What time of day will the eclipse be visible? Will it be a total or partial eclipse? What preparations can you make to have an enjoyable and safe eclipse experience? How do these preparations differ between a solar and lunar eclipse?</item>
+<item>On Mars, a day (often called a sol) is 24 hours and 40 minutes. Since Mars takes longer to go around the Sun, a year is 668.6 sols. Mars has two tiny moons, Phobos and Deimos. Phobos, the inner moon, rises in the west and sets in the east, taking 11 hours from moonrise to the next moonrise. Using your calculators and imaginations, have your group members come up with a calendar for Mars. (After you do your own, and only after, you can search online for the many suggestions that have been made for a martian calendar over the years.)</item>
+</list>
+</section>
+<section id="fs-id1168047748897" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-id1168047649371">
+<problem id="fs-id1168047793187">
+<para id="fs-id1168047196381">Discuss how latitude and longitude on Earth are similar to declination and right ascension in the sky.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047415261">
+<problem id="fs-id1168047180240">
+<para id="fs-id1168047221346">What is the latitude of the North Pole? The South Pole? Why does longitude have no meaning at the North and South Poles?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047210358">
+<problem id="fs-id1168047518165">
+<para id="fs-id1168047360039">Make a list of each main phase of the Moon, describing roughly when the Moon rises and sets for each phase. During which phase can you see the Moon in the middle of the morning? In the middle of the afternoon?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047316374">
+<problem id="fs-id1168047287026">
+<para id="fs-id1168047682672">What are advantages and disadvantages of apparent solar time? How is the situation improved by introducing mean solar time and standard time?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047311087">
+<problem id="fs-id1168047315868">
+<para id="fs-id1168047826897">What are the two ways that the tilt of Earth’s axis causes the summers in the United States to be warmer than the winters?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047297987">
+<problem id="fs-id1168047650044">
+<para id="fs-id1168047221326">Why is it difficult to construct a practical calendar based on the Moon’s cycle of phases?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047666450">
+<problem id="fs-id1168047128340">
+<para id="fs-id1168047379516">Explain why there are two high tides and two low tides each day. Strictly speaking, should the period during which there are two high tides be 24 hours? If not, what should the interval be?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047348370">
+<problem id="fs-id1168047681939">
+<para id="fs-id1168047198333">What is the phase of the Moon during a total solar eclipse? During a total lunar eclipse?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047293164">
+<problem id="fs-id1168047292292">
+<para id="fs-id1168047644514">On a globe or world map, find the nearest marked latitude line to your location. Is this an example of a great circle? Explain.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047607686">
+<problem id="fs-id1168047343200">
+<para id="fs-id1168047722768">Explain three lines of evidence that indicate that the seasons in North America are not caused by the changing Earth-Sun distance as a result of Earth’s elliptical orbit around the Sun.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047697582">
+<problem id="fs-id1168047845811">
+<para id="fs-id1168047660889">What is the origin of the terms “a.m.” and “p.m.” in our timekeeping?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047916716">
+<problem id="fs-id1168047297718">
+<para id="fs-id1168047378608">Explain the origin of the leap year. Why is it necessary?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047582362">
+<problem id="fs-id1168047793436">
+<para id="fs-id1168047718828">Explain why the year 1800 was not a leap year, even though years divisible by four are normally considered to be leap years.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047288128">
+<problem id="fs-id1168047466909">
+<para id="fs-id1168047202196">What fraction of the Moon’s visible face is illuminated during first quarter phase? Why is this phase called first quarter?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047701472">
+<problem id="fs-id1168047125383">
+<para id="fs-id1168047805403">Why don’t lunar eclipses happen during every full moon?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047848685">
+<problem id="fs-id1168047749216">
+<para id="fs-id1168047669150">Why does the Moon create tidal bulges on both sides of Earth instead of only on the side of Earth closest to the Moon?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047368524">
+<problem id="fs-id1168047457097">
+<para id="fs-id1168047164332">Why do the heights of the tides change over the course of a month?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047287664">
+<problem id="fs-id1168047140468">
+<para id="fs-id1168047759547">Explain how tidal forces are causing Earth to slow down.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047827922">
+<problem id="fs-id1168047218990">
+<para id="fs-id1168047221357">Explain how tidal forces are causing the Moon to slowly recede from Earth.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047844607">
+<problem id="fs-id1168047291647">
+<para id="fs-id1168047722389">Explain why the Gregorian calendar modified the nature of the leap year from its original definition in the Julian calendar.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047309007">
+<problem id="fs-id1168047298763">
+<para id="fs-id1168047661167">The term <emphasis effect="italics">equinox</emphasis> translates as “equal night.” Explain why this translation makes sense from an astronomical point of view.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047942567">
+<problem id="fs-id1168047721599">
+<para id="fs-id1168047359898">The term <emphasis effect="italics">solstice</emphasis> translates as “Sun stop.” Explain why this translation makes sense from an astronomical point of view.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047387887">
+<problem id="fs-id1168047316879">
+<para id="fs-id1168047218382">Why is the warmest day of the year in the United States (or in the Northern Hemisphere temperate zone) usually in August rather than on the day of the summer solstice, in late June?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1168047793304" class="thought-questions">
+<title>Thought Questions</title>
+<exercise id="fs-id1168047420587">
+<problem id="fs-id1168047251515">
+<para id="fs-id1168047640094">When Earth’s Northern Hemisphere is tilted toward the Sun during June, some would argue that the cause of our seasons is that the Northern Hemisphere is physically closer to the Sun than the Southern Hemisphere, and this is the primary reason the Northern Hemisphere is warmer. What argument or line of evidence could contradict this idea?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047580362">
+<problem id="fs-id1168047608937">
+<para id="fs-id1168047665746">Where are you on Earth if you experience each of the following? (Refer to the discussion in <link document="m59769">Observing the Sky: The Birth of Astronomy</link> as well as this chapter.)</para>
+<list id="fs-id1168047643444" list-type="enumerated" number-style="upper-alpha">
+<item>The stars rise and set perpendicular to the horizon.</item>
+<item>The stars circle the sky parallel to the horizon.</item>
+<item>The celestial equator passes through the zenith.</item>
+<item>In the course of a year, all stars are visible.</item>
+<item>The Sun rises on March 21 and does not set until September 21 (ideally).</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-id1168047194223">
+<problem id="fs-id1168047122996">
+<para id="fs-id1168047582333">In countries at far northern latitudes, the winter months tend to be so cloudy that astronomical observations are nearly impossible. Why can’t good observations of the stars be made at those places during the summer months?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047294029">
+<problem id="fs-id1168047378403">
+<para id="fs-id1168047294626">What is the phase of the Moon if it . . .</para>
+<list id="fs-id1168047219564" list-type="enumerated" number-style="upper-alpha">
+<item>rises at 3:00 p.m.?</item>
+<item>is highest in the sky at sunrise?</item>
+<item>sets at 10:00 a.m.?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-id1168047380214">
+<problem id="fs-id1168047164335">
+<para id="fs-id1168047645268">A car accident occurs around midnight on the night of a full moon. The driver at fault claims he was blinded momentarily by the Moon rising on the eastern horizon. Should the police believe him?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047456440">
+<problem id="fs-id1168047653562">
+<para id="fs-id1168047194723">The secret recipe to the ever-popular veggie burgers in the college cafeteria is hidden in a drawer in the director’s office. Two students decide to break in to get their hands on it, but they want to do it a few hours before dawn on a night when there is no Moon, so they are less likely to be caught. What phases of the Moon would suit their plans?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047918199">
+<problem id="fs-id1168047460532">
+<para id="fs-id1168047721557">Your great-great-grandfather, who often exaggerated events in his own life, once told your relatives about a terrific adventure he had on February 29, 1900. Why would this story make you suspicious?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047544185">
+<problem id="fs-id1168047342310">
+<para id="fs-id1168047971079">One year in the future, when money is no object, you enjoy your birthday so much that you want to have another one right away. You get into your supersonic jet. Where should you and the people celebrating with you travel? From what direction should you approach? Explain.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047608178">
+<problem id="fs-id1168047671871">
+<para id="fs-id1168047128593">Suppose you lived in the crater Copernicus on the side of the Moon facing Earth.</para>
+<list id="fs-id1168047200331" list-type="enumerated" number-style="upper-alpha">
+<item>How often would the Sun rise?</item>
+<item>How often would Earth set?</item>
+<item>During what fraction of the time would you be able to see the stars?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-id1168047747173">
+<problem id="fs-id1168047210529">
+<para id="fs-id1168047669127">In a lunar eclipse, does the Moon enter the shadow of Earth from the east or west side? Explain.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047886723">
+<problem id="fs-id1168047217505">
+<para id="fs-id1168047606333">Describe what an observer at the crater Copernicus would see while the Moon is eclipsed on Earth. What would the same observer see during what would be a total solar eclipse as viewed from Earth?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047196752">
+<problem id="fs-id1168047382596">
+<para id="fs-id1168047533071">The day on Mars is 1.026 Earth-days long. The martian year lasts 686.98 Earth-days. The two moons of Mars take 0.32 Earth-day (for Phobos) and 1.26 Earth-days (for Deimos) to circle the planet. You are given the task of coming up with a martian calendar for a new Mars colony. Would a solar or lunar calendar be better for tracking the seasons?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047665863">
+<problem id="fs-id1168047299998">
+<para id="fs-id1168047194302">What is the right ascension and declination of the vernal equinox?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047567412">
+<problem id="fs-id1168047236366">
+<para id="fs-id1168047456241">What is the right ascension and declination of the autumnal equinox?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047385668">
+<problem id="fs-id1168047784095">
+<para id="fs-id1168047215287">What is the right ascension and declination of the Sun at noon on the summer solstice in the Northern Hemisphere?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047200383">
+<problem id="fs-id1168047634754">
+<para id="fs-id1168047216038">During summer in the Northern Hemisphere, the North Pole is illuminated by the Sun 24 hours per day. During this time, the temperature often does not rise above the freezing point of water. Explain why.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047948885">
+<problem id="fs-id1168047751993">
+<para id="fs-id1168047130506">On the day of the vernal equinox, the day length for all places on Earth is actually slightly longer than 12 hours. Explain why.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047340788">
+<problem id="fs-id1168047575939">
+<para id="fs-id1168047675884">Regions north of the Arctic Circle are known as the “land of the midnight Sun.” Explain what this means from an astronomical perspective.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047845640">
+<problem id="fs-id1168047669708">
+<para id="fs-id1168047582042">In a part of Earth’s orbit where Earth is moving faster than usual around the Sun, would the length of the sidereal day change? If so, how? Explain.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047200512">
+<problem id="fs-id1168047128529">
+<para id="fs-id1168047194637">In a part of Earth’s orbit where Earth is moving faster than usual around the Sun, would the length of the solar day change? If so, how? Explain.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047665594">
+<problem id="fs-id1168047299474">
+<para id="fs-id1168047661544">If Sirius rises at 8:00 p.m. tonight, at what time will it rise tomorrow night, to the nearest minute? Explain.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047524937">
+<problem id="fs-id1168047640101">
+<para id="fs-id1168047582827">What are three lines of evidence you could use to indicate that the phases of the Moon are not caused by the shadow of Earth falling on the Moon?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047664871">
+<problem id="fs-id1168047635166">
+<para id="fs-id1168047747098">If the Moon rises at a given location at 6:00 p.m. today, about what time will it rise tomorrow night?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047287810">
+<problem id="fs-id1168047338395">
+<para id="fs-id1168047535356">Explain why some solar eclipses are total and some are annular.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047426077">
+<problem id="fs-id1168047367003">
+<para id="fs-id1168047722374">Why do lunar eclipses typically last much longer than solar eclipses?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1168047216670" class="figuring-for-yourself">
+<title>Figuring for Yourself</title>
+<exercise id="fs-id1168047719288">
+<problem id="fs-id1168047336974">
+<para id="fs-id1168047345928">Suppose Earth took exactly 300.0 days to go around the Sun, and everything else (the day, the month) was the same. What kind of calendar would we have? How would this affect the seasons?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047738286">
+<problem id="fs-id1168047129121">
+<para id="fs-id1168047607103">Consider a calendar based entirely on the day and the month (the Moon’s period from full phase to full phase). How many days are there in a month? Can you figure out a scheme analogous to leap year to make this calendar work?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047654115">
+<problem id="fs-id1168047713816">
+<para id="fs-id1168047783703">If a star rises at 8:30 p.m. tonight, approximately what time will it rise two months from now?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047668206">
+<problem id="fs-id1168047643763">
+<para id="fs-id1168047742914">What is the altitude of the Sun at noon on December 22, as seen from a place on the Tropic of Cancer?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168047654201">
+<problem id="fs-id1168047367232">
+<para id="fs-id1168047661707">Show that the Gregorian calendar will be in error by 1 day in about 3300 years.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id1168047141002">
+<term>lunar eclipse</term>
+<meaning id="fs-id1168047134019">an eclipse of the Moon, in which the Moon moves into the shadow of Earth; lunar eclipses can occur only at the time of full moon</meaning>
+</definition>
+<definition id="fs-id1168047518349">
+<term>solar eclipse</term>
+<meaning id="fs-id1168047542224">an eclipse of the Sun by the Moon, caused by the passage of the Moon in front of the Sun; solar eclipses can occur only at the time of the new moon</meaning>
+</definition>
+</glossary>
+</document>

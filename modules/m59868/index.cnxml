@@ -1,0 +1,251 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The “Long-Haired” Comets</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59868</md:content-id>
+  <md:title>The “Long-Haired” Comets</md:title>
+  <md:abstract/>
+  <md:uuid>0adc3d85-995c-427e-a4d1-c90b6161f1e4</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1168048484842" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-id1168583210367">By the end of this section, you will be able to:</para>
+<list id="fs-id1168048726408">
+<item>Characterize the general physical appearance of comets</item>
+<item>Explain the range of cometary orbits</item>
+<item>Describe the size and composition of a typical comet’s nucleus</item>
+<item>Discuss the atmospheres of comets</item>
+<item>Summarize the discoveries of the Rosetta mission</item>
+</list>
+</section>
+<para id="fs-id1168048595314">Comets differ from asteroids primarily in their icy composition, a difference that causes them to brighten dramatically as they approach the Sun, forming a temporary atmosphere. In some early cultures, these so-called “hairy stars” were considered omens of disaster. Today, we no longer fear comets, but eagerly anticipate those that come close enough to us to put on a good sky show.</para>
+<section id="fs-id1168048655513">
+<title>Appearance of Comets</title>
+<para id="fs-id1168048593093">A <term>comet</term> is a relatively small chunk of icy material (typically a few kilometers across) that develops an atmosphere as it approaches the Sun. Later, there may be a very faint, nebulous <term>tail</term>, extending several million kilometers away from the main body of the comet. Comets have been observed from the earliest times: accounts of comets are found in the histories of virtually all ancient civilizations. The typical comet, however, is not spectacular in our skies, instead having the appearance of a rather faint, diffuse spot of light somewhat smaller than the Moon and many times less brilliant. (Comets seemed more spectacular to people before the invention of artificial lighting, which compromises our view of the night sky.)</para><para id="fs-id1168048774294">Like the Moon and planets, comets appear to wander among the stars, slowly shifting their positions in the sky from night to night. Unlike the planets, however, most comets appear at unpredictable times, which perhaps explain why they frequently inspired fear and superstition in earlier times. Comets typically remain visible for periods that vary from a couple of weeks to several months. We’ll say more about what they are made of and how they become visible after we discuss their motions.</para>
+<para id="fs-id1168048744529">Note that still images of comets give the impression that they are moving rapidly across the sky, like a bright meteor or shooting star. Looking only at such images, it is easy to confuse comets and meteors. But seen in the real sky, they are very different: the meteor burns up in our atmosphere and is gone in a few seconds, whereas the comet may be visible for weeks in nearly the same part of the sky.</para>
+</section>
+<section id="fs-id1168048301362">
+<title>Comet Orbits</title>
+<para id="fs-id1168046061183">The study of comets as members of the solar system dates from the time of Isaac Newton, who first suggested that they orbited the Sun on extremely elongated ellipses. Newton’s colleague Edmund <term class="no-emphasis">Halley</term> (see the <link target-id="fs-id1168048748810"/> feature box) developed these ideas, and in 1705, he published calculations of 24 comet orbits. In particular, he noted that the orbits of the bright comets that had appeared in the years 1531, 1607, and 1682 were so similar that the three could well be the same comet, returning to perihelion (closest approach to the Sun) at average intervals of 76 years. If so, he predicted that the object should next return about 1758. Although Halley had died by the time the comet appeared as he predicted, it was given the name <term class="no-emphasis">Comet Halley</term> (rhymes with “valley”) in honor of the astronomer who first recognized it as a permanent member of our solar system, orbiting around the Sun. Its aphelion (furthest point from the Sun) is beyond the orbit of Neptune.</para>
+<para id="fs-id1168046066264">We now know from historical records that Comet Halley has actually been observed and recorded on every passage near the Sun since 239 BCE at intervals ranging from 74 to 79 years. The period of its return varies somewhat because of orbital changes produced by the pull of the giant planets. In 1910, Earth was brushed by the comet’s tail, causing much needless public concern. Comet Halley last appeared in our skies in 1986 (<link target-id="OSC_Astro_13_03_Halley"/>), when it was met by several spacecraft that gave us a wealth of information about its makeup; it will return in 2061.</para>
+<figure id="OSC_Astro_13_03_Halley">
+<title>Comet Halley.</title>
+<media id="fs-id1168046099580" alt="Halley in 1986. The bright head of this famous comet is seen at left, with the dust and ion tails extending to the right.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_13_03_Halley.jpg"/>
+</media>
+<caption>This composite of three images (one in red, one in green, one in blue) shows <term class="no-emphasis">Comet Halley</term> as seen with a large telescope in Chile in 1986. During the time the three images were taken in sequence, the comet moved among the stars. The telescope was moved to keep the image of the comet steady, causing the stars to appear in triplicate (once in each color) in the background. (credit: modification of work by ESO)</caption>
+</figure>
+<note id="fs-id1168048748810" class="astronomy voyagers-in-astronomy">
+<title>Edmund Halley: Astronomy’s Renaissance Man</title>
+<para id="fs-id1168048355691">Edmund <term class="no-emphasis">Halley</term> (<link target-id="OSC_Astro_13_03_Edmund"/>), a brilliant astronomer who made contributions in many fields of science and statistics, was by all accounts a generous, warm, and outgoing person. In this, he was quite the opposite of his good friend Isaac <term class="no-emphasis">Newton</term>, whose great work, the <emphasis effect="italics">Principia</emphasis> (see <link document="m59773">Orbits and Gravity</link>), Halley encouraged, edited, and helped pay to publish. Halley himself published his first scientific paper at age 20, while still in college. As a result, he was given a royal commission to go to Saint Helena (a remote island off the coast of Africa where Napoleon would later be exiled) to make the first telescopic survey of the southern sky. After returning, he received the equivalent of a master’s degree and was elected to the prestigious Royal Society in England, all at the age of 22.</para>
+<para id="fs-id1168048288207">In addition to his work on comets, Halley was the first astronomer to recognize that the so-called “fixed” stars move relative to each other, by noting that several bright stars had changed their positions since Ptolemy’s publication of the ancient Greek catalogs. He wrote a paper on the possibility of an infinite universe, proposed that some stars may be variable, and discussed the nature and size of <emphasis effect="italics">nebulae</emphasis> (glowing cloudlike structures visible in telescopes). While in Saint Helena, Halley observed the planet Mercury going across the face of the Sun and developed the mathematics of how such transits could be used to establish the size of the solar system.</para>
+<para id="fs-id1168046119945">In other fields, Halley published the first table of human life expectancies (the precursor of life-insurance statistics); wrote papers on monsoons, trade winds, and tides (charting the tides in the English Channel for the first time); laid the foundations for the systematic study of Earth’s magnetic field; studied evaporation and how inland waters become salty; and even designed an underwater diving bell. He served as a British diplomat, advising the emperor of Austria and squiring the future czar of Russia around England (avidly discussing, we are told, both the importance of science and the quality of local brandy).</para>
+<para id="fs-id1168048648763">In 1703, Halley became a professor of geometry at Oxford, and in 1720, he was appointed Astronomer Royal of England. He continued observing Earth and the sky and publishing his ideas for another 20 years, until death claimed him at age 85.</para>
+<figure id="OSC_Astro_13_03_Edmund">
+<title>Edmund Halley (1656–1742).</title>
+<media id="fs-id1168048286406" alt="Painting of Sir Edmund Halley.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_13_03_Edmund.jpg"/>
+</media>
+<caption>Halley was a prolific contributor to the sciences. His study of comets at the turn of the eighteenth century helped predict the orbit of the comet that now bears his name.</caption>
+</figure>
+</note>
+<para id="fs-id1168048742473">Only a few comets return in a time measureable in human terms (shorter than a century or two), like <term class="no-emphasis">Comet Halley</term> does; these are called <emphasis effect="italics">short-period</emphasis> comets. Many short-period comets have had their orbits changed by coming too close to one of the giant planets—most often Jupiter (and they are thus sometimes called Jupiter-family comets). Most comets have long periods and will take thousands of years to return, if they return at all. As we will see later in this chapter, most Jupiter-family comets come from a different source than the <emphasis effect="italics">long-period</emphasis> comets (those with orbital periods longer than about a century).</para>
+<para id="fs-id1168048283534">Observational records exist for thousands of <term class="no-emphasis">comets</term>. We were visited by two bright comets in recent decades. First, in March 1996, came Comet Hyakutake, with a very long tail. A year later, <term class="no-emphasis">Comet Hale-Bopp</term> appeared; it was as bright as the brightest stars and remained visible for several weeks, even in urban areas (see the image that opens this chapter, <link target-id="OSC_Astro_13_00_Hale-Bopp" document="m59865"/>).</para>
+<para id="fs-id1168048682650"><link target-id="fs-id1168048264434"/> lists some well-known comets whose history or appearance is of special interest.</para>
+<table id="fs-id1168048264434" summary="This table contains three columns and fifteen rows. The first row is a header row and it labels each column: “Name”, “Period” and “Significance”. Under the “Name” column are the values: “Great Comet of 1577”, “Great Comet of 1843”, “Daylight Comet of 1910”, “West”, “Hyakutake”, “Hale-Bopp”, “Swift-Tuttle”, “Halley”, “Borrelly”, “Biela”, “Churyumov–Gerasimenko”, “Wild 2”, “Tempel 1” and “Encke”. Under the “Period” column are the values: “Long”, “Long”, “Long”, “Long”, “Long”, “Long”, “133 years”, “76 years”, “6.8 years”, “6.7 years”, “6.5 years”, “6.4 years”, “5.7 years” and “3.3 years”. Finally, under the “Significance” column are the values: “Tycho Brahe showed it was beyond the Moon (a big step in our understanding)”, “Brightest recorded comet; visible in daytime”, “Brightest comet of the twentieth century”, “Nucleus broke into pieces (1976)”, “Passed within 15 million km of Earth (1996)”, “Brightest recent comet (1997)”, “Parent comet of Perseid meteor shower”, “First comet found to be periodic; explored by spacecraft in 1986”, “Flyby by Deep Space 1 spacecraft (2000)”, “Broke up in 1846 and not seen again”, “Target of Rosetta mission (2014-16)”, “Target of Stardust sample return mission (2004)”, “Target of Deep Impact mission (2005)” and “Shortest known period”." class="top-titled">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3" align="center">Some Interesting Comets</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Name</entry>
+<entry valign="top" align="center">Period</entry>
+<entry valign="top" align="center">Significance</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Great Comet of 1577</entry>
+<entry valign="top" align="left">Long</entry>
+<entry valign="top" align="left">Tycho Brahe showed it was beyond the Moon (a big step in our understanding)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Great Comet of 1843</entry>
+<entry valign="top" align="left">Long</entry>
+<entry valign="top" align="left">Brightest recorded comet; visible in daytime</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Daylight Comet of 1910</entry>
+<entry valign="top" align="left">Long</entry>
+<entry valign="top" align="left">Brightest comet of the twentieth century</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">West</entry>
+<entry valign="top" align="left">Long</entry>
+<entry valign="top" align="left">Nucleus broke into pieces (1976)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Hyakutake</entry>
+<entry valign="top" align="left">Long</entry>
+<entry valign="top" align="left">Passed within 15 million km of Earth (1996)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Hale–Bopp</entry>
+<entry valign="top" align="left">Long</entry>
+<entry valign="top" align="left">Brightest recent comet (1997)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Swift-Tuttle</entry>
+<entry valign="top" align="left">133 years</entry>
+<entry valign="top" align="left">Parent comet of Perseid meteor shower</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Halley</entry>
+<entry valign="top" align="left">76 years</entry>
+<entry valign="top" align="left">First comet found to be periodic; explored by spacecraft in 1986</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Borrelly</entry>
+<entry valign="top" align="left">6.8 years</entry>
+<entry valign="top" align="left">Flyby by Deep Space 1 spacecraft (2000)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Biela</entry>
+<entry valign="top" align="left">6.7 years</entry>
+<entry valign="top" align="left">Broke up in 1846 and not seen again</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Churyumov-Gerasimenko</entry>
+<entry valign="top" align="left">6.5 years</entry>
+<entry valign="top" align="left">Target of Rosetta mission (2014–16)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Wild 2</entry>
+<entry valign="top" align="left">6.4 years</entry>
+<entry valign="top" align="left">Target of Stardust sample return mission (2004)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Tempel 1</entry>
+<entry valign="top" align="left">5.7 years</entry>
+<entry valign="top" align="left">Target of Deep Impact mission (2005)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Encke</entry>
+<entry valign="top" align="left">3.3 years</entry>
+<entry valign="top" align="left">Shortest known period</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+<section id="fs-id1168048337185">
+<title>The Comet’s Nucleus</title>
+<para id="fs-id1168048622928">When we look at an active comet, all we normally see is its temporary atmosphere of gas and dust illuminated by sunlight. This atmosphere is called the comet’s head or <emphasis effect="italics">coma.</emphasis> Since the gravity of such small bodies is very weak, the atmosphere is rapidly escaping all the time; it must be replenished by new material, which has to come from somewhere. The source is the small, solid <term>nucleus</term> inside, just a few kilometers across, usually hidden by the glow from the much-larger atmosphere surrounding it. The nucleus is the real comet, the fragment of ancient icy material responsible for the atmosphere and the tail (<link target-id="OSC_Astro_13_03_Comet"/>).</para>
+<figure id="OSC_Astro_13_03_Comet">
+<title>Parts of a Comet.</title>
+<media id="fs-id1168048513682" alt="Diagram of a Typical Comet. Just below left of center, the “Nucleus (1-10 km)” is drawn as a black dot. Surrounding the nucleus is the “Coma (105 km)”, drawn in white. Surrounding the coma and extending vertically to the top of the image is the thin “Ion tail”, drawn in white. Beginning at the coma and curving away to the right is the wide “Dust tail”, drawn in semi-transparent white. Surrounding the comet and extending in the same direction as the ion tail is the “Hydrogen envelope (107 km)”, drawn in semi-transparent white. A red arrow points downward from the nucleus labeled “To Sun”. Finally, a red arrow points from the nucleus toward the lower left (opposite to the direction of the dust tail) and is labeled “Comet’s motion”.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_13_03_Comet.jpg"/>
+</media>
+<caption>This schematic illustration shows the main parts of a comet. Note that the different structures are not to scale.</caption>
+</figure>
+<para id="fs-id1168046121459">The modern theory of the physical and chemical nature of <term class="no-emphasis">comets</term> was first proposed by Harvard astronomer Fred <term class="no-emphasis">Whipple</term> in 1950. Before Whipple’s work, many astronomers thought that a comet’s nucleus might be a loose aggregation of solids, sort of an orbiting “gravel bank,” Whipple proposed instead that the nucleus is a solid object a few kilometers across, composed in substantial part of water ice (but with other ices as well) mixed with silicate grains and dust. This proposal became known as the “dirty snowball” model.</para>
+<para id="fs-id1168048760193">The water vapor and other volatiles that escape from the nucleus when it is heated can be detected in the comet’s head and tail, and therefore, we can use spectra to analyze what atoms and molecules the nucleus ice consists of. However, we are somewhat less certain of the non-icy component. We have never identified a fragment of solid matter from a comet that has survived passage through Earth’s atmosphere. However, spacecraft that have approached comets have carried dust detectors, and some <term class="no-emphasis">comet dust</term> has even been returned to Earth (see <link target-id="OSC_Astro_13_03_Dust"/>). It seems that much of the “dirt” in the dirty snowball is dark, primitive hydrocarbons and silicates, rather like the material thought to be present on the dark, primitive asteroids.</para>
+<figure id="OSC_Astro_13_03_Dust">
+<title>Captured Comet Dust.</title>
+<media id="fs-id1168048760142" alt="Photograph of a fragment of cometary dust.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_13_03_Dust.jpg"/>
+</media>
+<caption>This particle (seen through a microscope) is believed to be a tiny fragment of cometary dust, collected in the upper atmosphere of Earth. It measures about 10 microns, or 1/100 of a millimeter, across. (credit: NASA/JPL)</caption>
+</figure>
+<para id="fs-id1168048428161">Since the nuclei of comets are small and dark, they are difficult to study from Earth. Spacecraft did obtain direct measurements of a comet nucleus, however, in 1986, when three spacecraft swept past Comet Halley at close range (see <link target-id="OSC_Astro_13_03_Closeup"/>). Subsequently, other spacecraft have flown close to other comets. In 2005, the NASA <emphasis effect="italics">Deep Impact</emphasis> spacecraft even carried a probe for a high-speed impact with the nucleus of Comet Tempel 1. But by far, the most productive study of a comet has been by the 2015 Rosetta mission, which we will discuss shortly.</para>
+<figure id="OSC_Astro_13_03_Closeup">
+<title>Close-up of Comet Halley.</title>
+<media id="fs-id1168048300228" alt="Close-up of Comet Halley. Jets of material escaping from the nucleus are seen on the left side of this photograph. The “night side” of Halley is the black area below center.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_13_03_Closeup.jpg"/>
+</media>
+<caption>This historic photograph of the black, irregularly shaped nucleus of <term class="no-emphasis">Comet Halley</term> was obtained by the ESA <emphasis effect="italics">Giotto</emphasis> spacecraft from a distance of about 1000 kilometers. The bright areas are jets of material escaping from the surface. The length of the nucleus is 10 kilometers, and details as small as 1 kilometer can be made out. (credit: modification of work by ESA)</caption>
+</figure>
+</section>
+<section id="fs-id1168048589937">
+<title>The Comet’s Atmosphere</title>
+<para id="fs-id1168046127586">The spectacular activity that allows us to see comets is caused by the evaporation of cometary ices heated by sunlight. Beyond the asteroid belt, where <term class="no-emphasis">comets</term> spend most of their time, these ices are solidly frozen. But as a comet approaches the Sun, it begins to warm up. If water (H<sub>2</sub>O) is the dominant ice, significant quantities vaporize as sunlight heats the surface above 200 K. This happens for the typical comet somewhat beyond the orbit of Mars. The evaporating H<sub>2</sub>O in turn releases the dust that was mixed with the ice. Since the comet’s nucleus is so small, its gravity cannot hold back either the gas or the dust, both of which flow away into space at speeds of about 1 kilometer per second.</para>
+<para id="fs-id1168048484591">The comet continues to absorb energy as it approaches the Sun. A great deal of this energy goes into the evaporation of its ice, as well as into heating the surface. However, recent observations of many comets indicate that the evaporation is not uniform and that most of the gas is released in sudden spurts, perhaps confined to a few areas of the surface. Expanding into space at a speed of about 1 kilometer per second, the comet’s atmosphere can reach an enormous size. The diameter of a comet’s head is often as large as Jupiter, and it can sometimes approach a diameter of a million kilometers (<link target-id="OSC_Astro_13_03_Head"/>).</para>
+<figure id="OSC_Astro_13_03_Head">
+<title>Head of Comet Halley.</title>
+<media id="fs-id1168046117255" alt="The head of Comet Halley. In this photograph the bright head, or coma, is seen at left, with the tail trailing away toward the right.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_13_03_Head.jpg"/>
+</media>
+<caption>Here we see the cloud of gas and dust that make up the head, or coma, of <term class="no-emphasis">Comet Halley</term> in 1986. On this scale, the nucleus (hidden inside the cloud) would be a dot too small to see. (credit: modification of work by NASA/W. Liller)</caption>
+</figure>
+<para id="fs-id1168048302630">Most comets also develop tails as they approach the Sun. A comet’s tail is an extension of its atmosphere, consisting of the same gas and dust that make up its head. As early as the sixteenth century, observers realized that comet tails always point away from the Sun (<link target-id="OSC_Astro_13_03_Point"/>), not back along the comet’s orbit. Newton proposed that comet tails are formed by a repulsive force of sunlight driving particles away from the head—an idea close to our modern view.</para>
+<figure id="OSC_Astro_13_03_Point">
+<title>Comet Orbit and Tail.</title>
+<media id="fs-id1168048259917" alt="Comet Orbit and Tail. The Sun is drawn at the left-hand focus of a blue ellipse representing the orbit of a comet. The comet is drawn at six positions along the ellipse, and at each position the tail of the comet points away from the Sun. Beginning at upper right the comet has a very short tail. Moving counter clockwise, the comet’s tail gets longer as it nears perihelion (closest approach to the Sun, at lower left) and gets shorter as it recedes toward the right.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_13_03_Point.jpg"/>
+</media>
+<caption>The orientation of a typical comet tail changes as the comet passes perihelion. Approaching the Sun, the tail is behind the incoming comet head, but on the way out, the tail precedes the head.</caption>
+</figure>
+<para id="fs-id1168048319482">The two different components that make up the tail (the dust and gas) act somewhat differently. The brightest part of the tail is called the <emphasis effect="italics">dust tail</emphasis>, to differentiate it from a fainter, straight tail made of ionized gas, called the ion tail. The ion tail is carried outward by streams of ions (charged particles) emitted by the Sun. As you can see in <link target-id="OSC_Astro_13_03_2Tails"/>, the smoother dust tail curves a bit, as individual dust particles spread out along the comet’s orbit, whereas the straight ion tail is pushed more directly outward from the Sun by our star’s wind of charged particles</para><figure id="OSC_Astro_13_03_2Tails">
+<title>Comet Tails.</title>
+<media id="fs-id1168048651338" alt="Comet Hale-Bopp’s Tails. Panel (a), at left, is an image of Hale-Bopp the nucleus is at lower left, with the white dust tail (labeled) extending to center-right, and the blue ion tail (labeled) extending to top-center. A white line is drawn across the nucleus toward the left indicating the direction of motion of the comet. An arrow points to the direction of the Sun at lower left. Panel (b) shows two B+W images of Comet Mrkos at different times with long dust and ion tails.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_13_03_2Tails.jpg"/>
+</media>
+<caption>(a) As a comet nears the Sun, its features become more visible. In this illustration from NASA showing <term class="no-emphasis">Comet Hale-Bopp</term>, you can see a comet’s two tails: the more easily visible dust tail, which can be up to 10 million kilometers long, and the fainter gas tail (or ion tail), which is up to hundreds of millions of kilometers long. The grains that make up the dust tail are the size of smoke particles. (b) Comet Mrkos was photographed in 1957 with a wide-field telescope at Palomar Observatory and also shows a clear distinction between the straight gas tail and the curving dust tail. (credit a: modification of work by ESO/E. Slawik; credit b: modification of work by Charles Kearns, George O. Abell, and Byron Hill)</caption>
+</figure>
+<note id="fs-id1168048737730" class="astronomy link-to-learning">
+<para id="fs-id1168046135061">These days, comets close to the Sun can be found with spacecraft designed to observe our star. For example, in early July, 2011, astronomers at the ESA/NASA’s Solar and Heliospheric Observatory (SOHO) witnessed a <link url="https://openstax.org/l/30ESANASAcomet">comet</link> streaking toward the Sun, one of almost 3000 such sightings. You can also watch a brief video by NASA entitled “Why Are We Seeing So Many Sungrazing Comets?”</para>
+</note>
+</section>
+<section id="fs-id1168048732335">
+<title>The Rosetta Comet Mission</title>
+<para id="fs-id1168048356412">In the 1990s, European scientists decided to design a much more ambitious mission that would match orbits with an incoming comet and follow it as it approached the Sun. They also proposed that a smaller spacecraft would actually try to land on the comet. The 2-ton main spacecraft was named <emphasis effect="italics">Rosetta</emphasis>, carrying a dozen scientific instruments, and its 100-kilogram lander with nine more instruments was named <emphasis effect="italics">Philae</emphasis>.</para>
+<para id="fs-id1168048419768">The Rosetta mission was launched in 2004. Delays with the launch rocket caused it to miss its original target comet, so an alternate destination was picked, <term class="no-emphasis">Comet Churyumov-Gerasimenko</term> (named after the two discoverers, but generally denoted 67P). This comet’s period of revolution is 6.45 years, making it a Jupiter-family comet.</para>
+<para id="fs-id1168048322757">Since the European Space Agency did not have access to the plutonium-fueled nuclear power sources used by NASA for deep space missions, <emphasis effect="italics">Rosetta</emphasis> had to be solar powered, requiring especially large solar panels. Even these were not enough to keep the craft operating as it matched orbits with 67P near the comet’s aphelion. The only solution was to turn off all the spacecraft systems and let it coast for several years toward the Sun, out of contact with controllers on Earth until solar energy was stronger. The success of the mission depended on an automatic timer to turn the power back on as it neared the Sun. Fortunately, this strategy worked.</para>
+<para id="fs-id1168048447335">In August 2014, <emphasis effect="italics">Rosetta</emphasis> began a gradual approach to the comet nucleus, which is a strangely misshapen object about 5 kilometers across, quite different from the smooth appearance of Halley’s nucleus (but equally dark). Its rotation period is 12 hours. On November 12, 2014, the <emphasis effect="italics">Philae</emphasis> lander was dropped, descending slowly for 7 hours before gently hitting the surface. It bounced and rolled, coming to rest under an overhang where there was not enough sunlight to keep its batteries charged. After operating for a few hours and sending data back to the orbiter, <emphasis effect="italics">Philae</emphasis> went silent. The main <emphasis effect="italics">Rosetta</emphasis> spacecraft continued operations, however, as the level of comet activity increased, with steamers of gas jetting from the surface. As the comet approached perihelion in September 2015, the spacecraft backed off to ensure its safety.</para>
+<para id="fs-id1168048750401">The extent of the <emphasis effect="italics">Rosetta</emphasis> images (and data from other instruments) far exceeds anything astronomers had seen before from a comet. The best imaging resolution was nearly a factor of 100 greater than in the best Halley images. At this scale, the comet appears surprisingly rough, with sharp angles, deep pits, and overhangs (<link target-id="OSC_Astro_13_03_Rosetta1"/>).</para>
+<figure id="OSC_Astro_13_03_Rosetta1">
+<title>Comet 67P’s Strange Shape and Surface Features.</title>
+<media id="fs-id1168048570507" alt="Comet Hale-Bopp’s Tails. Panel (a), at left, is an image of Hale-Bopp the nucleus is at lower left, with the white dust tail (labeled) extending to center-right, and the blue ion tail (labeled) extending to top-center. A white line is drawn across the nucleus toward the left indicating the direction of motion of the comet. An arrow points to the direction of the Sun at lower left. Panel (b) shows two B+W images of Comet Mrkos at different times with long dust and ion tails.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_13_03_Rosetta1.jpg"/>
+</media>
+<caption>(a) This image from the <emphasis effect="italics">Rosetta</emphasis> camera was taken from a distance of 285 kilometers. The resolution is 5 meters. You can see that the comet consists of two sections with a connecting “neck” between them. (b) This close-up view of <term class="no-emphasis">Comet Churyumov-Gerasimenko</term> is from the <emphasis effect="italics">Philae</emphasis> lander. One of the lander’s three feet is visible in the foreground. The lander itself is mostly in shadow. (credit a: modification of work by ESA/Rosetta/MPS for OSIRIS Team MPS/UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA; credit b: modification of work by ESA/Rosetta/Philae/CIVA)</caption>
+</figure>
+<para id="fs-id1168046110866">The double-lobed shape of 67P’s nucleus has been tentatively attributed to the collision and merger of two independent comet nuclei long ago. The spacecraft verified that the comet’s dark surface was covered with organic carbon-rich compounds, mixed with sulfides and iron-nickel grains. 67P has an average density of only 0.5 g/cm<sup>3</sup> (recall water in these units has a density of 1 g/cm<sup>3</sup>.) This low density indicates that the comet is quite porous, that is, there is a large amount of empty space among its materials.</para>
+<para id="fs-id1168048655736">We already knew that the evaporation of comet ices was sporadic and limited to small jets, but in comet 67P, this was carried to an extreme. At any one time, more than 99% of the surface is inactive. The active vents are only a few meters across, with the material confined to narrow jets that persist for just a few minutes (<link target-id="OSC_Astro_13_03_Rosetta3"/>). The level of activity is strongly dependent on solar heating, and between July and August 2015, it increased by a factor of 10. Isotopic analysis of deuterium in the water ejected by the comet shows that it is different from the water found on Earth. Thus, apparently comets like 67P did not contribute to the origin of our oceans or the water in our bodies, as some scientists had thought.</para>
+<figure id="OSC_Astro_13_03_Rosetta3">
+<title>Gas Jets on Comet 67P.</title>
+<media id="fs-id1168046064302" alt="Gas Jets on Comet 67P. Panel (a), at left, a portion of the nucleus is visible at lower left. Along the edge of the nucleus, faint streamers can be seen against the blackness of space. Panel (b), center, the faint streamers have been replaced by a strong, bright jet extending to the upper right. Panel (c), at right, shows the full nucleus at center, surrounded by jets and faint streams of material.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_13_03_Rosetta3.jpg"/>
+</media>
+<caption>"(a and b) This activity was photographed by the <emphasis effect="italics">Rosetta</emphasis> spacecraft near perihelion. You can see a jet suddenly appearing; it was active for only a few minutes. (c) This spectacular photo, taken near perihelion, shows the active comet surrounded by multiple jets of gas and dust. (credit a, b: modification of work by ESA/Rosetta/MPS; credit c: modification of work by ESA/Rosetta/NAVCAM)</caption>
+</figure>
+<note id="fs-id1168048293595" class="astronomy link-to-learning">
+<para id="fs-id1168048617374">The European Space Agency is continuing to make <link url="https://openstax.org/l/30ESAvideoros">interesting short videos</link> illustrating the challenges and results of the Rosetta and Philae missions. For example, watch “<emphasis effect="italics">Rosetta</emphasis>’s Moment in the Sun” to see some of the images of the comet generating plumes of gas and dust and hear about some of the dangers an active comet poses for the spacecraft.</para>
+</note>
+</section>
+<section id="fs-id1168048314669" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-id1168048741284">Halley first showed that some comets are on closed orbits and return periodically to swing around the Sun. The heart of a comet is its nucleus, a few kilometers in diameter and composed of volatiles (primarily frozen H<sub>2</sub>O) and solids (including both silicates and carbonaceous materials). Whipple first suggested this “dirty snowball” model in 1950; it has been confirmed by spacecraft studies of several comets. As the nucleus approaches the Sun, its volatiles evaporate (perhaps in localized jets or explosions) to form the comet’s head or atmosphere, which escapes at about 1 kilometer per second. The atmosphere streams away from the Sun to form a long tail. The ESA Rosetta mission to Comet P67 (Churyumov-Gerasimenko) has greatly increased our knowledge of the nature of the nucleus and of the process by which comets release water and other volatiles when heated by sunlight.</para>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1168048623392">
+<term>comet</term>
+<meaning id="fs-id1168046008033">a small body of icy and dusty matter that revolves about the Sun; when a comet comes near the Sun, some of its material vaporizes, forming a large head of tenuous gas and often a tail</meaning>
+</definition>
+<definition id="fs-id1168048683691">
+<term>nucleus (of a comet)</term>
+<meaning id="fs-id1168048780385">the solid chunk of ice and dust in the head of a comet</meaning>
+</definition>
+<definition id="fs-id1168046095762">
+<term>tail</term>
+<meaning id="fs-id1168048406354">(of a comet) a tail consisting of two parts: the dust tail is made of dust loosened by the sublimation of ice in a comet that is then pushed by photons from the Sun into a curved stream; the ion tail is a stream of ionized particles evaporated from a comet and then swept away from the Sun by the solar wind</meaning>
+</definition>
+</glossary>
+</document>

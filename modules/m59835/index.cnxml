@@ -1,0 +1,362 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Mercury</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59835</md:content-id>
+  <md:title>Mercury</md:title>
+  <md:abstract/>
+  <md:uuid>c4fdaa69-9e6a-436c-a27a-d7e2cf95e45c</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1170326398477" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-id1168583455898">By the end of this section, you will be able to:</para>
+<list id="fs-id1170324280821">
+<item>Characterize the orbit of Mercury around the Sun</item>
+<item>Describe Mercury’s structure and composition</item>
+<item>Explain the relationship between Mercury’s orbit and rotation</item>
+<item>Describe the topography and features of Mercury’s surface</item>
+<item>Summarize our ideas about the origin and evolution of Mercury</item>
+</list>
+</section>
+<section id="fs-id1170326022949">
+<title>Mercury’s Orbit</title>
+<para id="eip-329">The planet <term class="no-emphasis">Mercury</term> is similar to the Moon in many ways. Like the Moon, it has no atmosphere, and its surface is heavily cratered. As described later in this chapter, it also shares with the Moon the likelihood of a violent birth.</para><para id="fs-id1170326290877">Mercury is the nearest planet to the Sun, and, in accordance with Kepler’s third law, it has the shortest period of revolution about the Sun (88 of our days) and the highest average orbital speed (48 kilometers per second). It is appropriately named for the fleet-footed messenger god of the Romans. Because Mercury remains close to the Sun, it can be difficult to pick out in the sky. As you might expect, it’s best seen when its eccentric orbit takes it as far from the Sun as possible.</para>
+<para id="fs-id1170326037300">The semimajor axis of <term class="no-emphasis">Mercury’s orbit</term>—that is, the planet’s average distance from the Sun—is 58 million kilometers, or 0.39 AU. However, because its orbit has the high eccentricity of 0.206, Mercury’s actual distance from the Sun varies from 46 million kilometers at perihelion to 70 million kilometers at aphelion (the ideas and terms that describe orbits were introduced in <link document="m59773">Orbits and Gravity</link>).</para>
+</section>
+<section id="fs-id1170326273973">
+<title>Composition and Structure</title>
+<para id="fs-id1170326275662">Mercury’s mass is one-eighteenth that of Earth, making it the smallest terrestrial planet. Mercury is the smallest planet (except for the dwarf planets), having a diameter of 4878 kilometers, less than half that of Earth. Mercury’s density is 5.4 g/cm<sup>3</sup>, much greater than the density of the Moon, indicating that the composition of those two objects differs substantially.</para><para id="fs-id1170321648838"><term class="no-emphasis">Mercury’s composition</term> is one of the most interesting things about it and makes it unique among the planets. Mercury’s high density tells us that it must be composed largely of heavier materials such as metals. The most likely models for Mercury’s interior suggest a metallic iron-nickel core amounting to 60% of the total mass, with the rest of the planet made up primarily of silicates. The core has a diameter of 3500 kilometers and extends out to within 700 kilometers of the surface. We could think of Mercury as a metal ball the size of the Moon surrounded by a rocky crust 700 kilometers thick (<link target-id="OSC_Astro_09_05_Mercury"/>). Unlike the Moon, Mercury does have a weak magnetic field. The existence of this field is consistent with the presence of a large metal core, and it suggests that at least part of the core must be liquid in order to generate the observed magnetic field.<footnote id="fs-id1170326464378">Recall from the <link document="m59791">Radiation and Spectra</link> chapter that magnetism is an effect of moving electric charges. In atoms of metals, the outer electrons are easier to dislodge and they can form a current when the metal is in liquid form and can flow.</footnote></para>
+<figure id="OSC_Astro_09_05_Mercury">
+<title>Mercury’s Internal Structure.</title>
+<media id="fs-id1170326386193" alt="Cutaway Illustration of Mercury. This diagram shows the huge metallic core of Mercury as a yellow sphere surrounded by the thin, rocky crust drawn in light red.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_09_05_Mercury.jpg"/>
+</media>
+<caption>The interior of Mercury is dominated by a metallic core about the same size as our Moon.</caption>
+</figure>
+<example id="fs-id1170326048725">
+<para id="fs-id1170326063512"><title>Densities of Worlds</title>
+The average density of a body equals its mass divided by its volume. For a sphere, density is:</para>
+<equation id="fs-id1170326423663" class="unnumbered"><label/><m:math><m:mrow><m:mtext>density</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mtext>mass</m:mtext></m:mrow><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>3</m:mn></m:mfrac><m:mtext>π</m:mtext><m:msup><m:mrow><m:mi>R</m:mi></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-id1170326099710">Astronomers can measure both mass and radius accurately when a spacecraft flies by a body.</para>
+<para id="fs-id1170326558642">Using the information in this chapter, we can calculate the approximate average density of the Moon.</para>
+<para id="fs-id1170326106123"><title>Solution</title>
+For a sphere,</para>
+<equation id="fs-id1170326578283" class="unnumbered"><label/><m:math><m:mrow><m:mtext>density</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mtext>mass</m:mtext></m:mrow><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>3</m:mn></m:mfrac><m:mtext>π</m:mtext><m:msup><m:mrow><m:mi>R</m:mi></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>7.35</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>22</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>kg</m:mtext></m:mrow><m:mrow><m:mn>4.2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>5.2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>18</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>m</m:mtext></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>3.4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>kg/m</m:mtext></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math></equation>
+<para id="fs-id1170326487901"><link target-id="fs-id1170324252656" document="m59831"/> gives a value of 3.3 g/cm<sup>3</sup>, which is 3.3 × 10<sup>3</sup> kg/m<sup>3</sup>.</para>
+<para id="fs-id1170326053402"><title>Check Your Learning</title>
+Using the information in this chapter, calculate the average density of Mercury. Show your work. Does your calculation agree with the figure we give in this chapter?</para>
+<note id="fs-id1170325239322">
+<title>Answer:</title>
+<para id="fs-id1164754811280"><m:math><m:mrow><m:mtext>density</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mtext>mass</m:mtext></m:mrow><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>3</m:mn></m:mfrac><m:mtext>π</m:mtext><m:msup><m:mrow><m:mi>R</m:mi></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>3.3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>23</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>kg</m:mtext></m:mrow><m:mrow><m:mn>4.2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>1.45</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>19</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>m</m:mtext></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>5.4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>kg/m</m:mtext></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math></para>
+</note>
+<para id="fs-id1170326133891">That matches the value given in <link target-id="fs-id1170324252656" document="m59831"/> when g/cm<sup>3</sup> is converted into kg/m<sup>3</sup>.</para>
+</example>
+</section>
+<section id="fs-id1170326146611">
+<title>Mercury’s Strange Rotation</title>
+<para id="fs-id1170326144331">Visual studies of <term class="no-emphasis">Mercury</term>’s indistinct surface markings were once thought to indicate that the planet kept one face to the Sun (as the Moon does to Earth). Thus, for many years, it was widely believed that <term class="no-emphasis">Mercury’s rotation</term> period was equal to its revolution period of 88 days, making one side perpetually hot while the other was always cold.</para>
+<para id="fs-id1170326126213">Radar observations of Mercury in the mid-1960s, however, showed conclusively that Mercury does not keep one side fixed toward the Sun. If a planet is turning, one side seems to be approaching Earth while the other is moving away from it. The resulting Doppler shift spreads or broadens the precise transmitted radar-wave frequency into a range of frequencies in the reflected signal (<link target-id="OSC_Astro_09_05_Doppler"/>). The degree of broadening provides an exact measurement of the rotation rate of the planet.</para>
+<figure id="OSC_Astro_09_05_Doppler">
+<title>Doppler Radar Measures Rotation.</title>
+<media id="fs-id1170326219736" alt="Illustration of How Doppler Radar Measures Rotation. At left is a drawing of a portion of the Earth, with an oversized radar dish on the surface pointing upward toward a target planet to the right. A transmitted signal is drawn leaving the dish toward the planet. The reflected signal from the planet is shown as five arrows pointing back in the direction of Earth. At far right are four panels plotting radar intensity versus frequency, with frequency increasing toward the right. The upper panel, labeled “Transmitted signal”, shows the transmitted signal as a tall, narrow spike. The panel below, labeled “Return with no rotation”, plots the return signal if the target planet did not rotate: it is a tall, narrow spike just like the transmitted signal. The next panel is labeled “Return with slow rotation”. This curve is wider at the base and not as tall as the previous curves. The bottom panel is labeled “Return with faster rotation”. This curve is very wide at the base and much shorter than the previous plots.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_09_05_Doppler.jpg"/>
+</media>
+<caption>When a radar beam is reflected from a rotating planet, the motion of one side of the planet’s disk toward us and the other side away from us causes Doppler shifts in the reflected signal. The effect is to cause both a redshift and a blueshift, widening the spread of frequencies in the radio beam.</caption>
+</figure>
+<para id="fs-id1170326245084">Mercury’s period of rotation (how long it takes to turn with respect to the distant stars) is 59 days, which is just two-thirds of the planet’s period of revolution. Subsequently, astronomers found that a situation where the spin and the orbit of a planet (its year) are in a 2:3 ratio turns out to be stable. (See <link target-id="fs-id1170326024292"/> for more on the effects of having such a long day on Mercury.)</para>
+<para id="fs-id1170324155047">Mercury, being close to the Sun, is very hot on its daylight side; but because it has no appreciable atmosphere, it gets surprisingly cold during the long nights. The temperature on the surface climbs to 700 K (430 °C) at noontime. After sunset, however, the temperature drops, reaching 100 K (–170 °C) just before dawn. (It is even colder in craters near the poles that receive no sunlight at all.) The range in temperature on Mercury is thus 600 K (or 600 °C), a greater difference than on any other planet.</para>
+<note id="fs-id1170326024292" class="astronomy making-connections">
+<title>What a Difference a Day Makes</title>
+<para id="fs-id1170326137292">Mercury rotates three times for each two orbits around the Sun. It is the only planet that exhibits this relationship between its spin and its orbit, and there are some interesting consequences for any observers who might someday be stationed on the surface of Mercury.</para>
+<para id="fs-id1170326137361">Here on Earth, we take for granted that days are much shorter than years. Therefore, the two astronomical ways of defining the local “day”—how long the planet takes to rotate and how long the Sun takes to return to the same position in the sky—are the same on Earth for most practical purposes. But this is not the case on Mercury. While Mercury rotates (spins once) in 59 Earth days, the time for the Sun to return to the same place in Mercury’s sky turns out to be two Mercury years, or 176 Earth days. (Note that this result is not intuitively obvious, so don’t be upset if you didn’t come up with it.) Thus, if one day at noon a Mercury explorer suggests to her companion that they should meet at noon the next day, this could mean a very long time apart!</para>
+<para id="fs-id1170326142449">To make things even more interesting, recall that Mercury has an eccentric orbit, meaning that its distance from the Sun varies significantly during each mercurian year. By Kepler’s law, the planet moves fastest in its orbit when closest to the Sun. Let’s examine how this affects the way we would see the Sun in the sky during one 176-Earth-day cycle. We’ll look at the situation as if we were standing on the surface of Mercury in the center of a giant basin that astronomers call Caloris (<link target-id="OSC_Astro_09_05_Basin"/>).</para>
+<para id="fs-id1170323907842">At the location of Caloris, Mercury is most distant from the Sun at sunrise; this means the rising Sun looks smaller in the sky (although still more than twice the size it appears from Earth). As the Sun rises higher and higher, it looks bigger and bigger; Mercury is now getting closer to the Sun in its eccentric orbit. At the same time, the apparent motion of the Sun slows down as Mercury’s faster motion in orbit begins to catch up with its rotation.</para>
+<para id="fs-id1170324155275">At noon, the Sun is now three times larger than it looks from Earth and hangs almost motionless in the sky. As the afternoon wears on, the Sun appears smaller and smaller, and moves faster and faster in the sky. At sunset, a full Mercury year (or 88 Earth days after sunrise), the Sun is back to its smallest apparent size as it dips out of sight. Then it takes another Mercury year before the Sun rises again. (By the way, sunrises and sunsets are much more sudden on Mercury, since there is no atmosphere to bend or scatter the rays of sunlight.)</para>
+<para id="fs-id1170326314575">Astronomers call locations like the Caloris Basin the “hot longitudes” on Mercury because the Sun is closest to the planet at noon, just when it is lingering overhead for many Earth days. This makes these areas the hottest places on Mercury.</para>
+<para id="fs-id1170324076403">We bring all this up not because the exact details of this scenario are so important but to illustrate how many of the things we take for granted on Earth are not the same on other worlds. As we’ve mentioned before, one of the best things about taking an astronomy class should be ridding you forever of any “Earth chauvinism” you might have. The way things are on our planet is just one of the many ways nature can arrange reality.</para>
+</note>
+<note id="notearthsh" class="astronomy link-to-learning"><para id="ntt23456">The <link url="https://openstax.org/l/30dayonmerc">Day on Mercury visualization</link> shows how Mercury’s slow rotation leads to very long days and how this combines with its highly elliptical orbit to cause some unusual motions of the sun in the sky. Note the stick figure on the surface of Mercury; the Day/Night box shows what that stick figure would see in the sky.</para></note>
+</section>
+<section id="fs-id1170326129853">
+<title>The Surface of Mercury</title>
+<para id="fs-id1170326274756">The first close-up look at <term class="no-emphasis">Mercury</term> came in 1974, when the US spacecraft Mariner 10 passed 9500 kilometers from the surface of the planet and transmitted more than 2000 photographs to Earth, revealing details with a resolution down to 150 meters. Subsequently, the planet was mapped in great detail by the <term class="no-emphasis">MESSENGER</term> spacecraft, which was launched in 2004 and made multiple flybys of Earth, Venus, and Mercury before settling into orbit around Mercury in 2011. It ended its life in 2015, when it was commanded to crash into the surface of the planet.</para>
+<para id="fs-id1170326524111"><term class="no-emphasis">Mercury’s surface</term> strongly resembles the Moon in appearance (<link target-id="OSC_Astro_09_05_MercuryTopo"/> and <link target-id="OSC_Astro_09_05_Basin"/>). It is covered with thousands of craters and larger basins up to 1300 kilometers in diameter. Some of the brighter craters are rayed, like Tycho and Copernicus on the Moon, and many have central peaks. There are also <emphasis effect="italics">scarps</emphasis> (cliffs) more than a kilometer high and hundreds of kilometers long, as well as ridges and plains.</para>
+<para id="fs-id1170326449545">MESSENGER instruments measured the surface composition and mapped past volcanic activity. One of its most important discoveries was the verification of water ice (first detected by radar) in craters near the poles, similar to the situation on the Moon, and the unexpected discovery of organic (carbon-rich) compounds mixed with the water ice.</para>
+<note id="fs-id1170324139787" class="astronomy link-to-learning">
+<para id="fs-id1170326035600">Scientists working with data from the <link url="https://openstax.org/l/30MESSmercuryrt">MESSENGER mission</link> put together a rotating globe of Mercury, in false color, showing some of the variations in the composition of the planet’s surface. You can watch it spin.</para>
+</note>
+<figure id="OSC_Astro_09_05_MercuryTopo">
+<title>Mercury’s Topography.</title>
+<media id="fs-id1170326203297" alt="False Color Image of Mercury’s Topography. Data from the MESSENGER spacecraft was used to compile this detailed image of Mercury’s northern hemisphere. The lowest regions are shown in purple and blue, and the highest regions are shown in red. The difference in elevation between the lowest and highest regions shown here is roughly 10 kilometers.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_09_05_MercuryTopo.jpg"/>
+</media>
+<caption>The topography of Mercury’s northern hemisphere is mapped in great detail from MESSENGER data. The lowest regions are shown in purple and blue, and the highest regions are shown in red. The difference in elevation between the lowest and highest regions shown here is roughly 10 kilometers. The permanently shadowed low-lying craters near the north pole contain radar-bright water ice. (credit: modification of work by NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington)</caption>
+</figure>
+<figure id="OSC_Astro_09_05_Basin">
+<title>Caloris Basin.</title>
+<media id="fs-id1170326170347" alt="Photograph of the Caloris Basin on Mercury. The circular, flat plain of Caloris Basin is surrounded by cratered highlands and rough terrain. A few impact craters are scattered over the smooth surface of the basin.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_09_05_Basin.jpg"/>
+</media>
+<caption>This partially flooded impact basin is the largest known structural feature on Mercury. The smooth plains in the interior of the basin have an area of almost two million square kilometers. Compare this photo with <link target-id="OSC_Astro_09_02_Orientale" document="m59832"/>, the Orientale Basin on the Moon. (credit: NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington) </caption>
+</figure>
+<para id="fs-id1170326120983">Most of the mercurian features have been named in honor of artists, writers, composers, and other contributors to the arts and humanities, in contrast with the scientists commemorated on the Moon. Among the named craters are Bach, Shakespeare, Tolstoy, Van Gogh, and Scott Joplin.</para>
+<para id="fs-id1170326328600">There is no evidence of plate tectonics on Mercury. However, the planet’s distinctive long <term class="no-emphasis">scarps</term> can sometimes be seen cutting across craters; this means the scarps must have formed later than the craters (<link target-id="OSC_Astro_09_05_Discovery"/>). These long, curved cliffs appear to have their origin in the slight compression of Mercury’s crust. Apparently, at some point in its history, the planet shrank, wrinkling the crust, and it must have done so after most of the craters on its surface had already formed.</para>
+<para id="fs-id1170323797705">If the standard cratering chronology applies to Mercury, this shrinkage must have taken place during the last 4 billion years and not during the solar system’s early period of heavy bombardment.</para>
+<figure id="OSC_Astro_09_05_Discovery"><title>Discovery Scarp on Mercury.</title><media id="fs-id1170326066565" alt="Large Scarp on Mercury. This long cliff structure crosses both flat lands and craters as it extends down the right hand side of this image.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_09_05_Discovery.jpg"/>
+</media>
+
+<caption>This long cliff, nearly 1 kilometer high and more than 100 kilometers long, cuts across several craters. Astronomers conclude that the compression that made “wrinkles” like this in the planet's surface must have taken place after the craters were formed. (credit: modification of work by NASA/JPL/Northwestern University)</caption></figure></section>
+<section id="fs-id1170326036946">
+<title>The Origin of Mercury</title>
+<para id="fs-id1170326273827">The problem with understanding how <term class="no-emphasis">Mercury</term> formed is the reverse of the problem posed by the composition of the Moon. We have seen that, unlike the Moon, Mercury is composed mostly of metal. However, astronomers think that Mercury should have formed with roughly the same ratio of metal to silicate as that found on Earth or Venus. How did it lose so much of its rocky material?</para>
+<para id="fs-id1170326036144">The most probable explanation for Mercury’s silicate loss may be similar to the explanation for the Moon’s lack of a metal core. Mercury is likely to have experienced several giant impacts very early in its youth, and one or more of these may have torn away a fraction of its mantle and crust, leaving a body dominated by its iron core.</para>
+<note id="fs-id1170326088167" class="astronomy link-to-learning">
+<para id="fs-id1170323791366">You can follow some of <link url="https://openstax.org/l/30NASAresmercu">NASA’s latest research on Mercury</link> and see some helpful animations on the MESSENGER web page.</para>
+</note>
+<para id="fs-id1170326283206">Today, astronomers recognize that the early solar system was a chaotic place, with the final stages of planet formation characterized by impacts of great violence. Some objects of planetary mass have been destroyed, whereas others could have fragmented and then re-formed, perhaps more than once. Both the Moon and Mercury, with their strange compositions, bear testimony to the catastrophes that must have characterized the solar system during its youth.</para>
+</section>
+<section id="fs-id1170323910953" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-id1170326114606">Mercury is the nearest planet to the Sun and the fastest moving. Mercury is similar to the Moon in having a heavily cratered surface and no atmosphere, but it differs in having a very large metal core. Early in its evolution, it apparently lost part of its silicate mantle, probably due to one or more giant impacts. Long scarps on its surface testify to a global compression of Mercury’s crust during the past 4 billion years.</para>
+</section>
+<section id="fs-id1170324108804" class="further-exploration">
+<title>For Further Exploration</title>
+<section id="fs-id1170326091444">
+<title>Articles</title>
+<section id="fs-id1170326023791">
+<title><emphasis effect="italics">The Moon</emphasis></title>
+<para id="fs-id1170324010712">Bakich, Michael. “Asia’s New Assault on the Moon.” <emphasis effect="italics">Astronomy</emphasis> (August 2009): 50. The Japanese Selene and Chinese Chang’e 1 missions.</para>
+<para id="fs-id1170326204621">Beatty, J. “NASA Slams the Moon.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (February 2010): 28. The impact of the LCROSS mission on the Moon and what we learned from it.</para>
+<para id="fs-id1170326169395">Bell, T. “Warning: Dust Ahead.” <emphasis effect="italics">Astronomy</emphasis> (March 2006): 46. What we know about lunar dust and the problems it can cause.</para>
+<para id="fs-id1170326423807">Dorminey, B. “Secrets beneath the Moon’s Surface.” <emphasis effect="italics">Astronomy</emphasis> (March 2011): 24. A nice timeline of the Moon’s evolution and the story of how we are finding out more about its internal structure.</para>
+<para id="fs-id1170326274468">Jayawardhana, R. “Deconstructing the Moon.” <emphasis effect="italics">Astronomy</emphasis> (September 1998): 40. An update on the giant impact hypothesis for forming the Moon.</para>
+<para id="fs-id1170326450526">Register, B. “The Fate of the Moon Rocks.” <emphasis effect="italics">Astronomy</emphasis> (December 1985): 15. What was done with the rocks the astronauts brought back from the Moon.</para>
+<para id="fs-id1170326024132">Schmitt, H. “Exploring Taurus–Littrow: Apollo 17.” <emphasis effect="italics">National Geographic</emphasis> (September 1973). First-person account given by the only scientist to walk on the Moon.</para>
+<para id="fs-id1170326056054">Schmitt, H. “From the Moon to Mars.” <emphasis effect="italics">Scientific American</emphasis> (July 2009): 36. The only scientist to walk on the Moon reflects on the science from Apollo and future missions to Mars.</para>
+<para id="fs-id1170326118921">Schultz, P. “New Clues to the Moon’s Distant Past.” <emphasis effect="italics">Astronomy</emphasis> (December 2011): 34. Summary of results and ideas from the LCROSS and LRO missions.</para>
+<para id="fs-id1170323821560">Shirao, M. “Kayuga’s High Def Highlights.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (February 2010): 20. Results from the Japanese mission to the Moon, with high definition TV cameras.</para>
+<para id="fs-id1170326530121">Wadhwa, M. “What Are We Learning from the Moon Rocks?” <emphasis effect="italics">Astronomy</emphasis> (June 2013): 54. Very nice discussion of how the rocks tell us about Moon’s composition, age, and origin.</para>
+<para id="fs-id1170326035446">Wood, Charles. “The Moon’s Far Side: Nearly a New World.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (January 2007): 48. This article compares what we know about the two sides and why they are different.</para>
+<para id="fs-id1170326093528">Zimmerman, R. “How Much Water is on the Moon?” <emphasis effect="italics">Astronomy</emphasis> (January 2014): 50. Results from the LRO’s instruments and good overview of issue.</para>
+</section>
+<section id="fs-id1170324015707">
+<title><emphasis effect="italics">Mercury</emphasis></title>
+<para id="fs-id1170326419815">Beatty, J. “Mercury Gets a Second Look.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (March 2009): 26. The October 2008 MESSENGER mission flyby.</para>
+<para id="fs-id1170326287953">Beatty, J. “Reunion with Mercury.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (May 2008): 24. The January 2008 MESSENGER encounter with Mercury.</para>
+<para id="fs-id1170321783964">“Mercury: Meet the Planet Nearest the Sun.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (March 2014): 39. Four-page pictorial introduction, including the new MESSENGER probe full map of the planet provided.</para>
+<para id="fs-id1170326254441">Oberg, J. “Torrid Mercury’s Icy Poles.” <emphasis effect="italics">Astronomy</emphasis> (December 2013): 30. A nice overview of results from MESSENGER mission, including the ice in polar craters.</para>
+<para id="fs-id1170324016600">Sheehan, W., and Dobbins, T. “Mesmerized by Mercury.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (June 2000): 109. History of Mercury observations and how amateur astronomers can contribute.</para>
+<para id="fs-id1170323803403">Talcott, R. “Surprises from MESSENGER’s Historic Mercury Fly-by.” <emphasis effect="italics">Astronomy</emphasis> (March 2009): 28.</para>
+<para id="fs-id1170323845110">Talcott, R. “Mercury Reveals its Hidden Side.” <emphasis effect="italics">Astronomy</emphasis> (May 2008): 26. Results and image from the MESSENGER mission flyby of January 2008.</para>
+</section>
+</section>
+<section id="fs-id1170326295565">
+<title>Websites</title>
+<section id="fs-id1170326126801">
+<title><emphasis effect="italics">The Moon</emphasis></title>
+<para id="fs-id1170326098030">Apollo Lunar Surface Journal: <link url="http://www.hq.nasa.gov/office/pao/History/alsj/">http://www.hq.nasa.gov/office/pao/History/alsj/</link>. Information, interviews, maps, photos, video and audio clips, and much more on each of the Apollo landing missions.</para><para id="fs-id1170326256008">Lunar &amp; Planetary Institute: <link url="http://www.lpi.usra.edu/lunar/missions/">http://www.lpi.usra.edu/lunar/missions/</link>. Lunar Science and Exploration web pages.</para><para id="fs-id1170326119274">Lunar Reconnaissance Orbiter Mission Page: <link url="http://lro.gsfc.nasa.gov/">http://lro.gsfc.nasa.gov/</link>.</para><para id="fs-id1170326326771">NASA’s Guide to Moon Missions and Information: <link url="http://nssdc.gsfc.nasa.gov/planetary/planets/moonpage.html">http://nssdc.gsfc.nasa.gov/planetary/planets/moonpage.html</link>.</para><para id="fs-id1170326177526">Origin of the Moon: <link url="http://www.psi.edu/projects/moon/moon.html">http://www.psi.edu/projects/moon/moon.html</link>. By William Hartmann, who, with a colleague, first suggested the giant impact hypothesis for how the Moon formed, in 1975.</para><para id="fs-id1170326335326"><emphasis effect="italics">Sky &amp; Telescope</emphasis> magazine’s observing guides and articles about the Moon: <link url="http://www.skyandtelescope.com/observing/celestial-objects-to-watch/moon/">http://www.skyandtelescope.com/observing/celestial-objects-to-watch/moon/</link>.</para><para id="fs-id1170324010150">To the Moon: <link url="http://www.pbs.org/wgbh/nova/tothemoon/">http://www.pbs.org/wgbh/nova/tothemoon/</link>. PBS program on the Apollo landings.</para></section>
+<section id="fs-id1170326275417">
+<title><emphasis effect="italics">Mercury</emphasis></title>
+<para id="fs-id1170326145193">Mercury Unveiled by G. Jeffrey Taylor (summarizing the Mariner 10 Mission): <link url="http://www.psrd.hawaii.edu/Jan97/MercuryUnveiled.html">http://www.psrd.hawaii.edu/Jan97/MercuryUnveiled.html</link>.</para><para id="fs-id1170326445532">MESSENGER Mission Website: <link url="http://messenger.jhuapl.edu/">http://messenger.jhuapl.edu/</link>.</para><para id="fs-id1170324331311">NASA Planetary Data Center Mercury Page: <link url="http://nssdc.gsfc.nasa.gov/planetary/planets/mercurypage.html">http://nssdc.gsfc.nasa.gov/planetary/planets/mercurypage.html</link>.</para><para id="fs-id1170326054102">Views of the Solar System Mercury Page: <link url="http://solarviews.com/eng/mercury.htm">http://solarviews.com/eng/mercury.htm</link>.</para></section>
+</section>
+</section>
+<section id="fs-id1170321585226" class="group-activities">
+<title>Collaborative Group Activities</title>
+<list id="fs-id1170326204948" list-type="enumerated" number-style="upper-alpha"><item>We mentioned that no nation on Earth now has the capability to send a human being to the Moon, even though the United States once sent 12 astronauts to land there. What does your group think about this? Should we continue the exploration of space with human beings? Should we put habitats on the Moon? Should we go to Mars? Does humanity have a “destiny in space?” Whatever your answer to these questions, make a list of the arguments and facts that support your position.</item>
+<item>When they hear about the giant impact hypothesis for the origin of the Moon, many students are intrigued and wonder why we can’t cite more evidence for it. In your group, make a list of reasons we cannot find any traces on Earth of the great impact that formed the Moon?</item>
+<item>We discussed that the ice (mixed into the soil) that is found on the Moon was most likely delivered by comets. Have your group make a list of all the reasons the Moon would not have any ice of its own left over from its early days.</item>
+<item>Can your group make a list of all the things that would be different if Earth had no Moon? Don’t restrict your answer to astronomy and geology. Think about our calendars and moonlit romantic strolls, for example. (You may want to review <link document="m59781">Earth, Moon, and Sky</link>.)</item>
+<item>If, one day, humanity decides to establish a colony on the Moon, where should we put it? Make a list of the advantages and disadvantages of locating such a human habitat on the near side, the far side, or at the poles. What site would be best for doing visible-light and radio astronomy from observatories on the Moon?</item>
+<item>A member of the class (but luckily, not a member of your group) suggests that he has always dreamed of building a vacation home on the planet Mercury. Can your group make a list of all reasons such a house would be hard to build and keep in good repair?</item>
+<item>As you’ve read in this chapter, craters on the Moon are (mostly) named after scientists. (See the official list at: http://planetarynames.wr.usgs.gov/SearchResults?target=MOON&amp;featureType=Crater,%20craters). The craters on Mercury, on the other hand, are named for writers, artists, composers, and others in the humanities. See the official list at: http://planetarynames.wr.usgs.gov/SearchResults?target=MERCURY&amp;featureType=Crater,%20craters). Living persons are not eligible. Can each person in your group think of a scientist or someone in the arts whom they especially respect? Now check to see if they are listed. Are there scientists or people in the arts who should have their names on the Moon or Mercury and do not?</item>
+<item>Imagine that a distant relative, hearing you are taking an astronomy course, calls you up and tells you that NASA faked the Moon landings. His most significant argument is that all the photos of the Moon show black skies, but none of them have any stars showing. This proves that the photos were taken against a black backdrop in a studio and not on the Moon. Based on your reading in this chapter, what arguments can your group come up with to rebut this idea?</item>
+</list></section>
+<section id="fs-id1170324021477" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-id1170326098604">
+<problem id="fs-id1170323820319">
+<para id="fs-id1170326095623">What is the composition of the Moon, and how does it compare to the composition of Earth? Of Mercury?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170326471881">
+<problem id="fs-id1170326450494">
+<para id="fs-id1170326445666">Why does the Moon not have an atmosphere?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170326142539">
+<problem id="fs-id1170326078179">
+<para id="fs-id1170326339142">What are the principal features of the Moon observable with the unaided eye?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170326462670">
+<problem id="fs-id1170323950133">
+<para id="fs-id1170326094999">Frozen water exists on the lunar surface primarily in which location? Why?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170326098138">
+<problem id="fs-id1170326451108">
+<para id="fs-id1170324001132">Outline the main events in the Moon’s geological history.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170326499608">
+<problem id="fs-id1170326275536">
+<para id="fs-id1170323908622">What are the maria composed of? Is this material found elsewhere in the solar system?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170326245215">
+<problem id="fs-id1170323850041">
+<para id="fs-id1170326251837">The mountains on the Moon were formed by what process?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170326395861">
+<problem id="fs-id1170326094722">
+<para id="fs-id1170326480430">With no wind or water erosion of rocks, what is the mechanism for the creation of the lunar “soil?”</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170326256036">
+<problem id="fs-id1170326577060">
+<para id="fs-id1170326189526">What differences did Grove K. Gilbert note between volcanic craters on Earth and lunar craters?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170324104111">
+<problem id="fs-id1170326380414">
+<para id="fs-id1170323850919">Explain how high-speed impacts form circular craters. How can this explanation account for the various characteristic features of impact craters?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170326146119">
+<problem id="fs-id1170326088583">
+<para id="fs-id1170326497562">Explain the evidence for a period of heavy bombardment on the Moon about 4 billion years ago.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170326394538">
+<problem id="fs-id1170324053872">
+<para id="fs-id1170326530184">How did our exploration of the Moon differ from that of Mercury (and the other planets)?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170326254426">
+<problem id="fs-id1170326474800">
+<para id="fs-id1170326219777">Summarize the four main hypotheses for the origin of the Moon.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170326314785">
+<problem id="fs-id1170326271304">
+<para id="fs-id1170323796852">What are the difficulties with the capture hypothesis of the Moon’s origin?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170326532214">
+<problem id="fs-id1170323994295">
+<para id="fs-id1170326274450">What is the main consequence of Mercury’s orbit being so highly eccentric?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170323802167">
+<problem id="fs-id1170326171144">
+<para id="fs-id1170326111929">Describe the basic internal structure of Mercury.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170323979138">
+<problem id="fs-id1170326454049">
+<para id="fs-id1170326129760">How was the rotation rate of Mercury determined?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170323791338">
+<problem id="fs-id1170326568130">
+<para id="fs-id1170326051812">What is the relationship between Mercury’s rotational period and orbital period?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170326533770">
+<problem id="fs-id1170326127208">
+<para id="fs-id1170326524060">The features of Mercury are named in honor of famous people in which fields of endeavor?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170323849754">
+<problem id="fs-id1170323927337">
+<para id="fs-id1170324299948">What do our current ideas about the origins of the Moon and Mercury have in common? How do they differ?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1170326245061" class="thought-questions">
+<title>Thought Questions</title>
+<exercise id="fs-id1170326146006">
+<problem id="fs-id1170323802072">
+<para id="fs-id1170326285596">One of the primary scientific objectives of the Apollo program was the return of lunar material. Why was this so important? What can be learned from samples? Are they still of value now?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170326480332">
+<problem id="fs-id1170326327070">
+<para id="fs-id1170326095860">Apollo astronaut David Scott dropped a hammer and a feather together on the Moon, and both reached the ground at the same time. What are the two distinct advantages that this experiment on the Moon had over the same kind of experiment as performed by Galileo on Earth?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170326126300">
+<problem id="fs-id1170326528675">
+<para id="fs-id1170326458087">Galileo thought the lunar maria might be seas of water. If you had no better telescope than the one he had, could you demonstrate that they are not composed of water?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170326325862">
+<problem id="fs-id1170326463060">
+<para id="fs-id1170323796787">Why did it take so long for geologists to recognize that the lunar craters had an impact origin rather than a volcanic one?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170326272866">
+<problem id="fs-id1170326133286">
+<para id="fs-id1170323909750">How might a crater made by the impact of a comet with the Moon differ from a crater made by the impact of an asteroid?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170326539543">
+<problem id="fs-id1170326057785">
+<para id="fs-id1170324057098">Why are the lunar mountains smoothly rounded rather than having sharp, pointed peaks (as they were almost always depicted in science-fiction illustrations and films before the first lunar landings)?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170326574855">
+<problem id="fs-id1170326114326">
+<para id="fs-id1170321660720">The lunar highlands have about ten times more craters in a given area than do the maria. Does this mean that the highlands are 10 times older? Explain your reasoning.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170321673138">
+<problem id="fs-id1170326347502">
+<para id="fs-id1170326398108">At the end of the section on the lunar surface, your authors say that lunar night and day each last about two Earth weeks. After looking over the information in <link document="m59781">Earth, Moon, and Sky</link> and this chapter about the motions of the Moon, can you explain why? (It helps to draw a diagram for yourself.)</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170324055064">
+<problem id="fs-id1170326245480">
+<para id="fs-id1170321696936">Give several reasons Mercury would be a particularly unpleasant place to build an astronomical observatory.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170326178117">
+<problem id="fs-id1170323818758">
+<para id="fs-id1170323911980">If, in the remote future, we establish a base on Mercury, keeping track of time will be a challenge. Discuss how to define a year on Mercury, and the two ways to define a day. Can you come up with ways that humans raised on Earth might deal with time cycles on Mercury?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170324069424">
+<problem id="fs-id1170326531510">
+<para id="fs-id1170323927273">The Moon has too little iron, Mercury too much. How can both of these anomalies be the result of giant impacts? Explain how the same process can yield such apparently contradictory results.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1170326483867" class="figuring-for-yourself">
+<title>Figuring for Yourself</title>
+<exercise id="fs-id1170326097804">
+<problem id="fs-id1170323856861">
+<para id="fs-id1170326176302">In the future, astronomers discover a solid moon around a planet orbiting one of the nearest stars. This moon has a diameter of 1948 km and a mass of 1.6 × 10<sup>22</sup> kg. What is its density?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170326217239">
+<problem id="fs-id1170323979991">
+<para id="fs-id1170326100048">The Moon was once closer to Earth than it is now. When it was at half its present distance, how long was its period of revolution? (See <link document="m59773">Orbits and Gravity</link> for the formula to use.)</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170326574788">
+<problem id="fs-id1170326190063">
+<para id="fs-id1170326043113">Astronomers believe that the deposit of lava in the giant mare basins did not happen in one flow but in many different eruptions spanning some time. Indeed, in any one mare, we find a variety of rock ages, typically spanning about 100 million years. The individual lava flows as seen in Hadley Rille by the Apollo 15 astronauts were about 4 m thick. Estimate the average time interval between the beginnings of successive lava flows if the total depth of the lava in the mare is 2 km.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1170324021422">
+<problem id="fs-id1170326169209">
+<para id="fs-id1170326126294">The Moon requires about 1 month (0.08 year) to orbit Earth. Its distance from us is about 400,000 km (0.0027 AU). Use Kepler’s third law, as modified by Newton, to calculate the mass of Earth relative to the Sun.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

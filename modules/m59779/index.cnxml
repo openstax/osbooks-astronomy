@@ -1,0 +1,60 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Motions of Satellites and Spacecraft</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59779</md:content-id>
+  <md:title>Motions of Satellites and Spacecraft</md:title>
+  <md:abstract/>
+  <md:uuid>b5a9fa3d-f23f-4c86-9ed9-50bfc39fd05b</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1163975392822" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-id1168980721285">By the end of this section, you will be able to:</para>
+<list id="fs-id1163975292046">
+<item>Explain how an object (such as a satellite) can be put into orbit around Earth</item>
+<item>Explain how an object (such as a planetary probe) can escape from orbit</item>
+</list>
+</section>
+<para id="fs-id1163975577864">Newton’s universal law of gravitation and Kepler’s laws describe the motions of Earth <term class="no-emphasis">satellite</term>s and interplanetary spacecraft as well as the planets. Sputnik, the first artificial Earth satellite, was launched by what was then called the Soviet Union on October 4, 1957. Since that time, thousands of satellites have been placed into orbit around Earth, and spacecraft have also orbited the Moon, Venus, Mars, Jupiter, Saturn, and a number of asteroids and comets.</para>
+<para id="fs-id1163975567638">Once an artificial satellite is in orbit, its behavior is no different from that of a natural satellite, such as our Moon. If the satellite is high enough to be free of atmospheric friction, it will remain in orbit forever. However, although there is no difficulty in maintaining a satellite once it is in orbit, a great deal of energy is required to lift the spacecraft off Earth and accelerate it to orbital speed.</para>
+<para id="fs-id1163975339343">To illustrate how a satellite is launched, imagine a gun firing a bullet horizontally from the top of a high mountain, as in <link target-id="OSC_Astro_03_05_Firing"/>, which has been adapted from a similar diagram by Newton. Imagine, further, that the friction of the air could be removed and that nothing gets in the bullet’s way. Then the only force that acts on the bullet after it leaves the muzzle is the gravitational force between the bullet and Earth.</para>
+<figure id="OSC_Astro_03_05_Firing">
+<title>Firing a Bullet into Orbit.</title>
+<media id="fs-id1163975534692" alt="Firing a Bullet into Orbit. In panel (a), at left, a figure is drawn at the “top” of the Earth and is pointing a pistol to the left. The first bullet is fired with velocity Va (illustrated with a short arrow at top) and travels only about 1/8 of the way around the globe before hitting the ground. The second bullet is fired with velocity Vb (illustrated with a longer arrow at top) and travels about 1/4 of the way around the globe before hitting the ground. Finally, the final bullet is fired with velocity Vc (illustrated with a long arrow at top) and travels all the way around the globe, striking the unfortunate marksman in the back. Panel (b), at right, shown a similar illustration by Isaac Newton.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_03_05_Firing.jpg"/>
+</media>
+<caption>(a) For paths <emphasis effect="italics">a</emphasis> and <emphasis effect="italics">b</emphasis>, the velocity is not enough to prevent gravity from pulling the bullet back to Earth; in case <emphasis effect="italics">c</emphasis>, the velocity allows the bullet to fall completely around Earth. (b) This diagram by Newton in his <emphasis effect="italics">De Mundi Systemate</emphasis>, 1731 edition, illustrates the same concept shown in (a).</caption>
+</figure>
+<para id="fs-id1163975555917">If the bullet is fired with a velocity we can call <emphasis effect="italics">v<sub>a</sub></emphasis>, the gravitational force acting upon it pulls it downward toward Earth, where it strikes the ground at point <emphasis effect="italics">a</emphasis>. However, if it is given a higher muzzle velocity, <emphasis effect="italics">v<sub>b</sub></emphasis>, its higher speed carries it farther before it hits the ground at point <emphasis effect="italics">b</emphasis>.</para>
+<para id="fs-id1163975577803">If our bullet is given a high enough muzzle velocity, <emphasis effect="italics">v</emphasis><sub>c</sub>, the curved surface of Earth causes the ground to remain the same distance from the bullet so that the bullet falls <emphasis effect="italics">around</emphasis> Earth in a complete circle. The speed needed to do this—called the circular satellite velocity—is about 8 kilometers per second, or about 17,500 miles per hour in more familiar units.</para>
+
+<note id="mountainsim" class="astronomy link-to-learning"><para id="mountainsimpara">Use the <link url="https://openstax.org/l/30newmtnsim">Newton’s Mountain simulator</link> to see for yourself the effects of increasing an object’s speed. You can raise the speed until you find the speed that is just fast enough for an object to orbit the Earth, the circular satellite velocity, and also the speed at which an object leaves the Earth forever, or the escape speed.</para></note>
+<para id="fs-id1163975533417">Each year, more than 50 new satellites are launched into orbit by such nations as Russia, the United States, China, Japan, India, and Israel, as well as by the European Space Agency (ESA), a consortium of European nations (<link target-id="OSC_Astro_03_05_Satellite"/>). Today, these satellites are used for weather tracking, ecology, global positioning systems, communications, and military purposes, to name a few uses. Most satellites are launched into low Earth orbit, since this requires the minimum launch energy. At the orbital speed of 8 kilometers per second, they circle the planet in about 90 minutes. Some of the very low Earth orbits are not indefinitely stable because, as Earth’s atmosphere swells from time to time, a frictional drag is generated by the atmosphere on these satellites, eventually leading to a loss of energy and “decay” of the orbit.</para>
+<figure id="OSC_Astro_03_05_Satellite">
+<title>Satellites in Earth Orbit.</title>
+<media id="fs-id1163975409407" alt="Satellites in Earth Orbit. The thousands of objects orbiting the Earth are represented as white dots surrounding the planet in this illustration. Most of the objects are in low Earth orbit, roughly between about 100 to 1000 miles.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_03_05_Satellite.jpg"/>
+</media>
+<caption>This figure shows the larger pieces of orbital debris that are being tracked by NASA in Earth’s orbit. (credit: NASA/JSC)</caption>
+</figure>
+<section id="fs-id1163975409644">
+<title>Interplanetary Spacecraft</title>
+<para id="fs-id1163975546782">The exploration of the solar system has been carried out largely by robot spacecraft sent to the other planets. To escape Earth, these craft must achieve <term>escape speed</term>, the speed needed to move away from Earth forever, which is about 11 kilometers per second (about 25,000 miles per hour). After escaping Earth, these craft coast to their targets, subject only to minor trajectory adjustments provided by small thruster rockets on board. In interplanetary flight, these spacecraft follow orbits around the Sun that are modified only when they pass near one of the planets.</para>
+<para id="fs-id1163975493095">As it comes close to its target, a spacecraft is deflected by the planet’s gravitational force into a modified orbit, either gaining or losing energy in the process. Spacecraft controllers have actually been able to use a planet’s gravity to redirect a flyby spacecraft to a second target. For example, Voyager 2 used a series of gravity-assisted encounters to yield successive flybys of Jupiter (1979), Saturn (1980), Uranus (1986), and Neptune (1989). The Galileo spacecraft, launched in 1989, flew past Venus once and Earth twice to gain the energy required to reach its ultimate goal of orbiting Jupiter.</para>
+<para id="fs-id1163975562754">If we wish to orbit a planet, we must slow the spacecraft with a rocket when the spacecraft is near its destination, allowing it to be captured into an elliptical orbit. Additional rocket thrust is required to bring a vehicle down from orbit for a landing on the surface. Finally, if a return trip to Earth is planned, the landed payload must include enough propulsive power to repeat the entire process in reverse.</para>
+</section>
+<section id="fs-id1163975546665" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-id1163975391175">The orbit of an artificial satellite depends on the circumstances of its launch. The circular satellite velocity needed to orbit Earth’s surface is 8 kilometers per second, and the escape speed from our planet is 11 kilometers per second. There are many possible interplanetary trajectories, including those that use gravity-assisted flybys of one object to redirect the spacecraft toward its next target.</para>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id1163975623635">
+<term>escape speed</term>
+<meaning id="fs-id1163975475846">the speed a body must achieve to break away from the gravity of another body</meaning>
+</definition>
+</glossary>
+
+</document>

@@ -1,0 +1,228 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>The Electromagnetic Spectrum</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59798</md:content-id>
+  <md:title>The Electromagnetic Spectrum</md:title>
+  <md:abstract/>
+  <md:uuid>15eec1a9-5e3c-4e2b-abac-8cd61748d4a0</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1163976907869" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-id1168583100991">By the end of this section, you will be able to:</para>
+<list id="fs-id1163976526096">
+<item>Understand the bands of the electromagnetic spectrum and how they differ from one another</item>
+<item>Understand how each part of the spectrum interacts with Earth’s atmosphere</item>
+<item>Explain how and why the light emitted by an object depends on its temperature</item>
+</list>
+</section>
+<para id="fs-id1163976960475">Objects in the universe send out an enormous range of electromagnetic radiation. Scientists call this range the <term>electromagnetic spectrum</term>, which they have divided into a number of categories. The spectrum is shown in <link target-id="OSC_Astro_05_02_Radiation2"/>, with some information about the waves in each part or band.</para>
+<figure id="OSC_Astro_05_02_Radiation2">
+<title>Radiation and Earth’s Atmosphere.</title>
+<media id="fs-id1163976455619" alt="This figure depicts radiation and the Earth’s atmosphere. Vertically from bottom to top, the Troposphere (weather), Stratosphere (ozone layer at 20 – 30 km; jets fly at 10 km), Mesosphere (meteors burn up), and Thermosphere (auroras)” are labeled. At the top of the figure, from shorter waves to longer waves, the different kinds of waves are labeled: “Gamma”, “X-ray”, “Ultraviolet (UV)”, “Visible”, “Infrared (IR)”, “Microwave”, and “Radio”. Under visible light is an observatory, labeled “Optical window”. Under radio is a radio telescope, labeled “Radio window”.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_05_02_Radiation2.jpg"/>
+</media>
+<caption>This figure shows the bands of the electromagnetic spectrum and how well Earth’s atmosphere transmits them. Note that high-frequency waves from space do not make it to the surface and must therefore be observed from space. Some infrared and microwaves are absorbed by water and thus are best observed from high altitudes. Low-frequency radio waves are blocked by Earth’s ionosphere. (credit: modification of work by STScI/JHU/NASA)</caption>
+</figure>
+<section id="fs-id1163976732543">
+<title>Types of Electromagnetic Radiation</title>
+<para id="fs-id1163973157175">Electromagnetic radiation with the shortest wavelengths, no longer than 0.01 nanometer, is categorized as <term>gamma rays</term> (1 nanometer = 10<sup>–9</sup> meters; see <link document="m59996">Appendix D</link>). The name <emphasis effect="italics">gamma</emphasis> comes from the third letter of the Greek alphabet: gamma rays were the third kind of radiation discovered coming from radioactive atoms when physicists first investigated their behavior. Because gamma rays carry a lot of energy, they can be dangerous for living tissues. Gamma radiation is generated deep in the interior of stars, as well as by some of the most violent phenomena in the universe, such as the deaths of stars and the merging of stellar corpses. Gamma rays coming to Earth are absorbed by our atmosphere before they reach the ground (which is a good thing for our health); thus, they can only be studied using instruments in space.</para>
+<para id="fs-id1163976486564">Electromagnetic radiation with wavelengths between 0.01 nanometer and 20 nanometers is referred to as <term>X-rays</term>. Being more energetic than visible light, X-rays are able to penetrate soft tissues but not bones, and so allow us to make images of the shadows of the bones inside us. While X-rays can penetrate a short length of human flesh, they are stopped by the large numbers of atoms in Earth’s atmosphere with which they interact. Thus, X-ray astronomy (like gamma-ray astronomy) could not develop until we invented ways of sending instruments above our atmosphere (<link target-id="OSC_Astro_05_02_XRaysky"/>).</para>
+<figure id="OSC_Astro_05_02_XRaysky">
+<title>X-Ray Sky.</title>
+<media id="fs-id1163976405039" alt="A false color image of the entire sky seen in x-rays, with different colors representing different x-ray energies. The image shows the disk of the Milky Way galaxy in blue running horizontally through the center of the image, with a few point sources scattered along its length. A diffuse, cloudy shape of blue and yellow emanates from the center of the galaxy and extends above and below the disk. This represents distant x-ray sources near the center of the Milky Way. And finally, a red diffuse glow covers most of the image and depicts the hot gas in our local vicinity of the galaxy.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_05_02_XRaysky.jpg"/>
+</media>
+<caption>This is a map of the sky tuned to certain types of X-rays (seen from above Earth’s atmosphere). The map tilts the sky so that the disk of our Milky Way Galaxy runs across its center. It was constructed and artificially colored from data gathered by the European ROSAT satellite. Each color (red, yellow, and blue) shows X-rays of different frequencies or energies. For example, red outlines the glow from a hot local bubble of gas all around us, blown by one or more exploding stars in our cosmic vicinity. Yellow and blue show more distant sources of X-rays, such as remnants of other exploded stars or the active center of our Galaxy (in the middle of the picture). (credit: modification of work by NASA)</caption>
+</figure>
+<para id="fs-id1163976526536">Radiation intermediate between X-rays and visible light is <term>ultraviolet</term> (meaning higher energy than violet). Outside the world of science, ultraviolet light is sometimes called “black light” because our eyes cannot see it. Ultraviolet radiation is mostly blocked by the ozone layer of Earth’s atmosphere, but a small fraction of ultraviolet rays from our Sun do penetrate to cause sunburn or, in extreme cases of overexposure, skin cancer in human beings. Ultraviolet astronomy is also best done from space.</para>
+<para id="fs-id1163976465086">Electromagnetic radiation with wavelengths between roughly 400 and 700 nm is called <term>visible light</term> because these are the waves that human vision can perceive. This is also the band of the electromagnetic spectrum that most readily reaches Earth’s surface. These two observations are not coincidental: human eyes evolved to see the kinds of waves that arrive from the Sun most effectively. Visible light penetrates Earth’s atmosphere effectively, except when it is temporarily blocked by clouds.</para>
+<para id="fs-id1163976746531">Between visible light and radio waves are the wavelengths of <term>infrared</term> or heat radiation. Astronomer William Herschel first discovered infrared in 1800 while trying to measure the temperatures of different colors of sunlight spread out into a spectrum. He noticed that when he accidently positioned his thermometer beyond the reddest color, it still registered heating due to some invisible energy coming from the Sun. This was the first hint about the existence of the other (invisible) bands of the electromagnetic spectrum, although it would take many decades for our full understanding to develop.</para>
+<para id="fs-id1163973052534">A heat lamp radiates mostly infrared radiation, and the nerve endings in our skin are sensitive to this band of the electromagnetic spectrum. Infrared waves are absorbed by water and carbon dioxide molecules, which are more concentrated low in Earth’s atmosphere. For this reason, infrared astronomy is best done from high mountaintops, high-flying airplanes, and spacecraft.</para>
+<para id="fs-id1163976700922">After infrared comes the familiar <term>microwave</term>, used in short-wave communication and microwave ovens. (Wavelengths vary from 1 millimeter to 1 meter and are absorbed by water vapor, which makes them effective in heating foods.) The “micro-” prefix refers to the fact that microwaves are small in comparison to radio waves, the next on the spectrum. You may remember that tea—which is full of water—heats up quickly in your microwave oven, while a ceramic cup—from which water has been removed by baking—stays cool in comparison.</para>
+<para id="fs-id1163976429782">All electromagnetic waves longer than microwaves are called <term>radio waves</term>, but this is so broad a category that we generally divide it into several subsections. Among the most familiar of these are radar waves, which are used in radar guns by traffic officers to determine vehicle speeds, and AM radio waves, which were the first to be developed for broadcasting. The wavelengths of these different categories range from over a meter to hundreds of meters, and other radio radiation can have wavelengths as long as several kilometers.</para>
+<para id="fs-id1163973121882">With such a wide range of wavelengths, not all radio waves interact with Earth’s atmosphere in the same way. FM and TV waves are not absorbed and can travel easily through our atmosphere. AM radio waves are absorbed or reflected by a layer in Earth’s atmosphere called the ionosphere (the ionosphere is a layer of charged particles at the top of our atmosphere, produced by interactions with sunlight and charged particles that are ejected from the Sun).</para>
+<para id="fs-id1163976404954">We hope this brief survey has left you with one strong impression: although visible light is what most people associate with astronomy, the light that our eyes can see is only a tiny fraction of the broad range of waves generated in the universe. Today, we understand that judging some astronomical phenomenon by using only the light we can see is like hiding under the table at a big dinner party and judging all the guests by nothing but their shoes. There’s a lot more to each person than meets our eye under the table. It is very important for those who study astronomy today to avoid being “visible light chauvinists”—to respect only the information seen by their eyes while ignoring the information gathered by instruments sensitive to other bands of the electromagnetic spectrum.</para>
+<para id="fs-id1163976462900"><link target-id="fs-id1163976650195"/> summarizes the bands of the electromagnetic spectrum and indicates the temperatures and typical astronomical objects that emit each kind of electromagnetic radiation. While at first, some of the types of radiation listed in the table may seem unfamiliar, you will get to know them better as your astronomy course continues. You can return to this table as you learn more about the types of objects astronomers study.</para>
+<table id="fs-id1163976650195" class="top-titled" summary="This table has 4 columns and 7 rows. The columns are labeled: “Type of Radiation”, “Wavelength Range (nm)”, “Radiated by Objects at This Temperature”, and “Typical Sources”. Under the “Type of Radiation” column are the values “Gamma Rays”, “X-rays”, “Ultraviolet”, “Visible”, “Infrared”, “Microwave”, and “Radio”. Under “Wavelength Range (nm)” are “Less than 0.01”, “0.01–20”, “20–400”, “400–700”, “103–106”, “106 – 109”, and “More than 109”. Under “Radiated by Objects at This Temperature” are “More than 108 K”, “106–108 K”, “104–106 K”, “103–104 K”, “10–103 K”, “Less than 10 K”, and “Less than 10 K”. And finally under “Typical Sources” are “Produced in nuclear reactions; requires very-high energy processes”, “Gas in clusters of galaxies; supernova remnants; solar corona”, “Supernova remnants; very hot stars”, “Stars”, “Cool clouds of dust and gas; planets; satellites”, “Active galaxies, pulsars, cosmic background radiation”, and “Supernova remnants, pulsars, cold gas”.">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Types of Electromagnetic Radiation</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Type of Radiation</entry>
+<entry valign="top" align="center">Wavelength Range (nm)</entry>
+<entry valign="top" align="center">Radiated by Objects at This Temperature</entry>
+<entry valign="top" align="center">Typical Sources</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Gamma rays</entry>
+<entry valign="top" align="left">Less than 0.01</entry>
+<entry valign="top" align="left">More than 10<sup>8</sup> K</entry>
+<entry valign="top" align="left">Produced in nuclear reactions; require very high-energy processes</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">X-rays</entry>
+<entry valign="top" align="left">0.01–20</entry>
+<entry valign="top" align="left">10<sup>6</sup>–10<sup>8</sup> K</entry>
+<entry valign="top" align="left">Gas in clusters of galaxies, supernova remnants, solar corona</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Ultraviolet</entry>
+<entry valign="top" align="left">20–400</entry>
+<entry valign="top" align="left">10<sup>4</sup>–10<sup>6</sup> K</entry>
+<entry valign="top" align="left">Supernova remnants, very hot stars</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Visible</entry>
+<entry valign="top" align="left">400–700</entry>
+<entry valign="top" align="left">10<sup>3</sup>–10<sup>4</sup> K</entry>
+<entry valign="top" align="left">Stars</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Infrared</entry>
+<entry valign="top" align="left">10<sup>3</sup>–10<sup>6</sup></entry>
+<entry valign="top" align="left">10–10<sup>3</sup> K</entry>
+<entry valign="top" align="left">Cool clouds of dust and gas, planets, moons</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Microwave</entry>
+<entry valign="top" align="left">10<sup>6</sup>–10<sup>9</sup></entry>
+<entry valign="top" align="left">Less than 10 K</entry>
+<entry valign="top" align="left">Active galaxies, pulsars, cosmic background radiation</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Radio</entry>
+<entry valign="top" align="left">More than 10<sup>9</sup></entry>
+<entry valign="top" align="left">Less than 10 K</entry>
+<entry valign="top" align="left">Supernova remnants, pulsars, cold gas</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+<section id="fs-id1163976683218">
+<title>Radiation and Temperature</title>
+<para id="fs-id1163973080388">Some astronomical objects emit mostly infrared radiation, others mostly visible light, and still others mostly ultraviolet radiation. What determines the type of electromagnetic radiation emitted by the Sun, stars, and other dense astronomical objects? The answer often turns out to be their <emphasis effect="italics">temperature</emphasis>.</para>
+<para id="fs-id1163976719143">At the microscopic level, everything in nature is in motion. A solid is composed of molecules and atoms in continuous vibration: they move back and forth in place, but their motion is much too small for our eyes to make out. A gas consists of atoms and/or molecules that are flying about freely at high speed, continually bumping into one another and bombarding the surrounding matter. The hotter the solid or gas, the more rapid the motion of its molecules or atoms. The temperature of something is thus a measure of the average motion energy of the particles that make it up.</para>
+<para id="fs-id1163973090867">This motion at the microscopic level is responsible for much of the electromagnetic radiation on Earth and in the universe. As atoms and molecules move about and collide, or vibrate in place, their electrons give off electromagnetic radiation. The characteristics of this radiation are determined by the temperature of those atoms and molecules. In a hot material, for example, the individual particles vibrate in place or move rapidly from collisions, so the emitted waves are, on average, more energetic. And recall that higher energy waves have a higher frequency. In very cool material, the particles have low-energy atomic and molecular motions and thus generate lower-energy waves.</para>
+<note id="fs-id1163976543491" class="astronomy link-to-learning">
+<para id="fs-id1163973078635">Check out the <link url="https://openstax.org/l/30elmagsp1">NASA briefing</link> or <link url="https://openstax.org/l/30elmagsp2">NASA’s 5-minute introductory video</link> to learn more about the electromagnetic spectrum.</para></note>
+</section>
+<section id="fs-id1163973212790">
+<title>Radiation Laws</title>
+<para id="fs-id1163976547422">To understand, in more quantitative detail, the relationship between temperature and electromagnetic radiation, we imagine an idealized object called a <term>blackbody</term>. Such an object (unlike your sweater or your astronomy instructor’s head) does not reflect or scatter any radiation, but absorbs all the electromagnetic energy that falls onto it. The energy that is absorbed causes the atoms and molecules in it to vibrate or move around at increasing speeds. As it gets hotter, this object will radiate electromagnetic waves until absorption and radiation are in balance. We want to discuss such an idealized object because, as you will see, stars behave in very nearly the same way.</para>
+<para id="fs-id1163976732087">The radiation from a blackbody has several characteristics, as illustrated in <link target-id="OSC_Astro_05_02_Illustrate"/>. The graph shows the power emitted at each wavelength by objects of different temperatures. In science, the word <emphasis effect="italics">power</emphasis> means the energy coming off per second (and it is typically measured in <emphasis effect="italics">watts</emphasis>, which you are probably familiar with from buying lightbulbs).</para>
+<figure id="OSC_Astro_05_02_Illustrate">
+<title>Radiation Laws Illustrated.</title>
+<media id="fs-id1163976928232" alt="Graph of radiation laws. The horizontal axis shows wavelength ranging from 1000 to 3000 nanometers. The vertical axis shows intensity in arbitrary units. Four different curves are shown, each corresponding to an object at a certain temperature in degrees Kelvin. The highest point of each curve is labeled with a dot that indicates the wavelength corresponding to the peak energy emitted by the object at that temperature. The 3000 K curve peaks at 1200 nm in the infrared. The 4000 K object peaks at 900 nm in the near-infrared, the 5000 K curve peaks at 700 nm in the visible-red, and the 6000 K object peaks at about 500 nm in the yellow part of the visible spectrum.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_05_02_Illustrate.jpg"/>
+</media>
+<caption>This graph shows in arbitrary units how many photons are given off at each wavelength for objects at four different temperatures. The wavelengths corresponding to visible light are shown by the colored bands. Note that at hotter temperatures, more energy (in the form of photons) is emitted at all wavelengths. The higher the temperature, the shorter the wavelength at which the peak amount of energy is radiated (this is known as Wien’s law).</caption>
+</figure>
+<para id="fs-id1163976908769">First of all, notice that the curves show that, at each temperature, our blackbody object emits radiation (photons) at all wavelengths (all colors). This is because in any solid or denser gas, some molecules or atoms vibrate or move between collisions slower than average and some move faster than average. So when we look at the electromagnetic waves emitted, we find a broad range, or spectrum, of energies and wavelengths. More energy is emitted at the average vibration or motion rate (the highest part of each curve), but if we have a large number of atoms or molecules, some energy will be detected at each wavelength.</para>
+<para id="fs-id1163973474827">Second, note that an object at a higher temperature emits more power at all wavelengths than does a cooler one. In a hot gas (the taller curves in <link target-id="OSC_Astro_05_02_Illustrate"/>), for example, the atoms have more collisions and give off more energy. In the real world of stars, this means that hotter stars give off more energy at every wavelength than do cooler stars.</para>
+<para id="fs-id1163973217224">Third, the graph shows us that the higher the temperature, the shorter the wavelength at which the maximum power is emitted. Remember that a shorter wavelength means a higher frequency and energy. It makes sense, then, that hot objects give off a larger fraction of their energy at shorter wavelengths (higher energies) than do cool objects. You may have observed examples of this rule in everyday life. When a burner on an electric stove is turned on low, it emits only heat, which is infrared radiation, but does not glow with visible light. If the burner is set to a higher temperature, it starts to glow a dull red. At a still-higher setting, it glows a brighter orange-red (shorter wavelength). At even higher temperatures, which cannot be reached with ordinary stoves, metal can appear brilliant yellow or even blue-white.</para>
+<para id="fs-id1163973116313">We can use these ideas to come up with a rough sort of “thermometer” for measuring the temperatures of stars. Because many stars give off most of their energy in visible light, the color of light that dominates a star’s appearance is a rough indicator of its temperature. If one star looks red and another looks blue, which one has the higher temperature? Because blue is the shorter-wavelength color, it is the sign of a hotter star. (Note that the temperatures we associate with different colors in science are not the same as the ones artists use. In art, red is often called a “hot” color and blue a “cool” color. Likewise, we commonly see red on faucet or air conditioning controls to indicate hot temperatures and blue to indicate cold temperatures. Although these are common uses to us in daily life, in nature, it’s the other way around.)</para>
+<para id="fs-id1163973498699">We can develop a more precise star thermometer by measuring how much energy a star gives off at each wavelength and by constructing diagrams like <link target-id="OSC_Astro_05_02_Illustrate"/>. The location of the peak (or maximum) in the power curve of each star can tell us its temperature. The average temperature at the surface of the Sun, which is where the radiation that we see is emitted, turns out to be 5800 K. (Throughout this text, we use the kelvin or absolute temperature scale. On this scale, water freezes at 273 K and boils at 373 K. All molecular motion ceases at 0 K. The various temperature scales are described in <link document="m59996">Appendix D</link>.) There are stars cooler than the Sun and stars hotter than the Sun.</para>
+<para id="fs-id1163976520530">The wavelength at which maximum power is emitted can be calculated according to the equation</para>
+<equation id="fs-id1163975345216" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mtext>λ</m:mtext><m:mrow><m:mtext>max</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>6</m:mn></m:msup></m:mrow><m:mrow><m:mi>T</m:mi></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-id1163976674221">where the wavelength is in nanometers (one billionth of a meter) and the temperature is in K (the constant 3 x 10^6 has units of nm × K). This relationship is called <term>Wien’s law</term>. For the Sun, the wavelength at which the maximum energy is emitted is 520 nanometers, which is near the middle of that portion of the electromagnetic spectrum called visible light. Characteristic temperatures of other astronomical objects, and the wavelengths at which they emit most of their power, are listed in <link target-id="fs-id1163976650195"/>.</para><example id="fs-id1163976933187">
+<para id="fs-id1163976769035"><title>Calculating the Temperature of a Blackbody</title>
+We can use Wien’s law to calculate the temperature of a star provided we know the wavelength of peak intensity for its spectrum. If the emitted radiation from a red dwarf star has a wavelength of maximum power at 1200 nm, what is the temperature of this star, assuming it is a blackbody?</para>
+<para id="fs-id1163973111543"><title>Solution</title>
+Solving Wien’s law for temperature gives:</para>
+<equation id="fs-id1163974313489" class="unnumbered"><label/><m:math><m:mrow><m:mi>T</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>6</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>nm K</m:mtext></m:mrow><m:mrow><m:msub><m:mtext>λ</m:mtext><m:mrow><m:mtext>max</m:mtext></m:mrow></m:msub></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>6</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>nm K</m:mtext></m:mrow><m:mrow><m:mtext>1200 nm</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>2500</m:mn><m:mspace width="0.2em"/><m:mtext>K</m:mtext></m:mrow></m:math></equation>
+<para id="fs-id1163976933900"><title>Check Your Learning</title>
+What is the temperature of a star whose maximum light is emitted at a much shorter wavelength of 290 nm?</para>
+<note id="fs-id1163976549707">
+<title>Answer:</title>
+<para id="fs-id1163973183545"><m:math><m:mrow><m:mi>T</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>6</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>nm K</m:mtext></m:mrow><m:mrow><m:msub><m:mtext>λ</m:mtext><m:mrow><m:mtext>max</m:mtext></m:mrow></m:msub></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>6</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>nm K</m:mtext></m:mrow><m:mrow><m:mn>290</m:mn><m:mspace width="0.2em"/><m:mtext>nm</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>10,300</m:mn><m:mspace width="0.2em"/><m:mtext>K</m:mtext></m:mrow></m:math></para>
+</note>
+</example>
+<para id="fs-id1163976806398">Since this star has a peak wavelength that is at a shorter wavelength (in the ultraviolet part of the spectrum) than that of our Sun (in the visible part of the spectrum), it should come as no surprise that its surface temperature is much hotter than our Sun’s.</para>
+<para id="fs-id1163976653865">We can also describe our observation that hotter objects radiate more power at all wavelengths in a mathematical form. If we sum up the contributions from all parts of the electromagnetic spectrum, we obtain the total energy emitted by a blackbody. What we usually measure from a large object like a star is the <term>energy flux</term>, the power emitted per square meter. The word <emphasis effect="italics">flux</emphasis> means “flow” here: we are interested in the flow of power into an area (like the area of a telescope mirror). It turns out that the energy flux from a blackbody at temperature <emphasis effect="italics">T</emphasis> is proportional to the fourth power of its absolute temperature. This relationship is known as the <term>Stefan-Boltzmann law</term> and can be written in the form of an equation as</para>
+<equation id="fs-id1163974408824" class="unnumbered"><label/><m:math><m:mrow><m:mi>F</m:mi><m:mo>=</m:mo><m:mtext>σ</m:mtext><m:msup><m:mi>T</m:mi><m:mn>4</m:mn></m:msup></m:mrow></m:math></equation>
+<para id="fs-id1163976424523">where <emphasis effect="italics">F</emphasis> stands for the energy flux (in units of watts per square meter), T is given in Kelvins, and σ (Greek letter sigma) is a constant number (5.67 × 10<sup>-8</sup>).</para><para id="fs-id1163976415318">Notice how impressive this result is. Increasing the temperature of a star would have a tremendous effect on the power it radiates. If the Sun, for example, were twice as hot—that is, if it had a temperature of 11,600 K—it would radiate 2<sup>4</sup>, or 16 times more power than it does now. Tripling the temperature would raise the power output 81 times. Hot stars really shine away a tremendous amount of energy.</para>
+<example id="fs-id1163976523576">
+<para id="fs-id1163973297021"><title>Calculating the Power of a Star</title>
+While energy flux tells us how much power a star emits per square meter, we would often like to know how much total power is emitted by the star. We can determine that by multiplying the energy flux by the number of square meters on the surface of the star. Stars are mostly spherical, so we can use the formula 4π<emphasis effect="italics">R</emphasis><sup>2</sup> for the surface area, where <emphasis effect="italics">R</emphasis> is the radius of the star. The total power emitted by the star (which we call the star’s “absolute luminosity”) can be found by multiplying the formula for energy flux and the formula for the surface area:</para>
+<equation id="fs-id1163975577762" class="unnumbered"><label/><m:math><m:mrow><m:mi>L</m:mi><m:mo>=</m:mo><m:mn>4</m:mn><m:mtext>π</m:mtext><m:msup><m:mi>R</m:mi><m:mn>2</m:mn></m:msup><m:mtext>σ</m:mtext><m:msup><m:mi>T</m:mi><m:mn>4</m:mn></m:msup></m:mrow></m:math></equation><para id="fs-id1163976592756">Two stars have the same size and are the same distance from us. Star A has a surface temperature of 6000 K, and star B has a surface temperature twice as high, 12,000 K. How much more luminous is star B compared to star A?</para>
+<para id="fs-id1163976875145"><title>Solution</title></para>
+<equation id="fs-id1163975438772" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>L</m:mi><m:mtext>A</m:mtext></m:msub><m:mo>=</m:mo><m:mn>4</m:mn><m:mtext>π</m:mtext><m:msup><m:mrow><m:msub><m:mrow><m:mi>R</m:mi></m:mrow><m:mrow><m:mtext>A</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:mn>2</m:mn></m:mrow></m:msup><m:mtext>σ</m:mtext><m:msup><m:mrow><m:msub><m:mrow><m:mi>T</m:mi></m:mrow><m:mrow><m:mtext>A</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:mn>4</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>and</m:mtext><m:mspace width="0.2em"/><m:msub><m:mi>L</m:mi><m:mtext>B</m:mtext></m:msub><m:mo>=</m:mo><m:mn>4</m:mn><m:mtext>π</m:mtext><m:msup><m:mrow><m:msub><m:mrow><m:mi>R</m:mi></m:mrow><m:mrow><m:mtext>B</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:mn>2</m:mn></m:mrow></m:msup><m:mtext>σ</m:mtext><m:msup><m:mrow><m:msub><m:mrow><m:mi>T</m:mi></m:mrow><m:mrow><m:mtext>B</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:mn>4</m:mn></m:mrow></m:msup></m:mrow></m:math></equation>
+<para id="fs-id1163973118342">Take the ratio of the luminosity of Star A to Star B:</para>
+<equation id="fs-id1163975293570" class="unnumbered"><label/><m:math><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>L</m:mi><m:mtext>B</m:mtext></m:msub></m:mrow><m:mrow><m:msub><m:mi>L</m:mi><m:mtext>A</m:mtext></m:msub></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>4</m:mn><m:mtext>π</m:mtext><m:msup><m:mrow><m:msub><m:mrow><m:mi>R</m:mi></m:mrow><m:mrow><m:mtext>B</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:mn>2</m:mn></m:mrow></m:msup><m:mtext>σ</m:mtext><m:msup><m:mrow><m:msub><m:mrow><m:mi>T</m:mi></m:mrow><m:mrow><m:mtext>B</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:mn>4</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:mn>4</m:mn><m:mtext>π</m:mtext><m:msup><m:mrow><m:msub><m:mrow><m:mi>R</m:mi></m:mrow><m:mrow><m:mtext>A</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:mn>2</m:mn></m:mrow></m:msup><m:mtext>σ</m:mtext><m:msup><m:mrow><m:msub><m:mrow><m:mi>T</m:mi></m:mrow><m:mrow><m:mtext>A</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:mn>4</m:mn></m:mrow></m:msup></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:msup><m:mrow><m:msub><m:mrow><m:mi>R</m:mi></m:mrow><m:mrow><m:mtext>B</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:mn>2</m:mn></m:mrow></m:msup><m:msup><m:mrow><m:msub><m:mrow><m:mi>T</m:mi></m:mrow><m:mrow><m:mtext>B</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:mn>4</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:msup><m:mrow><m:msub><m:mrow><m:mi>R</m:mi></m:mrow><m:mrow><m:mtext>A</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:mn>2</m:mn></m:mrow></m:msup><m:msup><m:mrow><m:msub><m:mrow><m:mi>T</m:mi></m:mrow><m:mrow><m:mtext>A</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:mn>4</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-id1163976414481">Because the two stars are the same size, <emphasis effect="italics">R</emphasis><sub>A</sub> = <emphasis effect="italics">R</emphasis><sub>B</sub>, leaving</para>
+<equation id="fs-id1163974185036" class="unnumbered"><label/><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mrow><m:msub><m:mrow><m:mi>T</m:mi></m:mrow><m:mrow><m:mtext>B</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:mn>4</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:msup><m:mrow><m:msub><m:mrow><m:mi>T</m:mi></m:mrow><m:mrow><m:mtext>A</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:mn>4</m:mn></m:mrow></m:msup></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>12,000</m:mn><m:mspace width="0.2em"/><m:mtext>K</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>4</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>6000</m:mn><m:mspace width="0.2em"/><m:mtext>K</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>4</m:mn></m:msup></m:mrow></m:mfrac><m:mo>=</m:mo><m:msup><m:mn>2</m:mn><m:mn>4</m:mn></m:msup><m:mo>=</m:mo><m:mn>16</m:mn></m:mrow></m:math></equation><para id="fs-id1163976748565"><title>Check Your Learning</title>
+Two stars with identical diameters are the same distance away. One has a temperature of 8700 K and the other has a temperature of 2900 K. Which is brighter? How much brighter is it?</para>
+<note id="fs-id1163976804285">
+<title>Answer:</title>
+<para id="fs-id1163976730328">The 8700 K star has triple the temperature, so it is 3<sup>4</sup> = 81 times brighter.</para></note>
+<note id="blackbodysim" class="astronomy link-to-learning"><para id="blackbodypara">You can use the <link url="https://openstax.org/l/30blackbodysim">Blackbody Spectrum simulator</link> to explore the relationship between an object’s temperature, peak wavelength, overall brightness, and apparent color.  </para></note>
+</example>
+</section>
+<section id="fs-id1163976463708" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-id1163976519701">The electromagnetic spectrum consists of gamma rays, X-rays, ultraviolet radiation, visible light, infrared, and radio radiation. Many of these wavelengths cannot penetrate the layers of Earth’s atmosphere and must be observed from space, whereas others—such as visible light, FM radio and TV—can penetrate to Earth’s surface. The emission of electromagnetic radiation is intimately connected to the temperature of the source. The higher the temperature of an idealized emitter of electromagnetic radiation, the shorter is the wavelength at which the maximum amount of radiation is emitted. The mathematical equation describing this relationship is known as Wien’s law: λ<sub>max</sub> = (3 × 10<sup>6</sup>)/<emphasis effect="italics">T</emphasis>. The total power emitted per square meter increases with increasing temperature. The relationship between emitted energy flux and temperature is known as the Stefan-Boltzmann law: <emphasis effect="italics">F</emphasis> = σ<emphasis effect="italics">T</emphasis><sup>4</sup>.</para>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id1163976683274">
+<term>blackbody</term>
+<meaning id="fs-id1163976447604">an idealized object that absorbs all electromagnetic energy that falls onto it</meaning>
+</definition>
+<definition id="fs-id1163976792940">
+<term>electromagnetic spectrum</term>
+<meaning id="fs-id1163973081004">the whole array or family of electromagnetic waves, from radio to gamma rays</meaning>
+</definition>
+<definition id="fs-id1163976946159">
+<term>energy flux</term>
+<meaning id="fs-id1163976519301">the amount of energy passing through a unit area (for example, 1 square meter) per second; the units of flux are watts per square meter</meaning>
+</definition>
+<definition id="fs-id1163976462052">
+<term>gamma rays</term>
+<meaning id="fs-id1163976420896">photons (of electromagnetic radiation) of energy with wavelengths no longer than 0.01 nanometer; the most energetic form of electromagnetic radiation</meaning>
+</definition>
+<definition id="fs-id1163973129732">
+<term>infrared</term>
+<meaning id="fs-id1163976959227">electromagnetic radiation of wavelength 10<sup>3</sup>–10<sup>6</sup> nanometers; longer than the longest (red) wavelengths that can be perceived by the eye, but shorter than radio wavelengths</meaning>
+</definition>
+<definition id="fs-id1163976461800">
+<term>microwave</term>
+<meaning id="fs-id1163976512725">electromagnetic radiation of wavelengths from 1 millimeter to 1 meter; longer than infrared but shorter than radio waves</meaning>
+</definition>
+<definition id="fs-id1163976556313">
+<term>radio waves</term>
+<meaning id="fs-id1163973453312">all electromagnetic waves longer than microwaves, including radar waves and AM radio waves</meaning>
+</definition>
+<definition id="fs-id1163976598643">
+<term>Stefan-Boltzmann law</term>
+<meaning id="fs-id1163973102568">a formula from which the rate at which a blackbody radiates energy can be computed; the total rate of energy emission from a unit area of a blackbody is proportional to the fourth power of its absolute temperature: <emphasis effect="italics">F</emphasis> = σ<emphasis effect="italics">T</emphasis><sup>4</sup></meaning>
+</definition>
+<definition id="fs-id1163976631536">
+<term>ultraviolet</term>
+<meaning id="fs-id1163976496580">electromagnetic radiation of wavelengths 10 to 400 nanometers; shorter than the shortest visible wavelengths</meaning>
+</definition>
+<definition id="fs-id1163973214760">
+<term>visible light</term>
+<meaning id="fs-id1163976444441">electromagnetic radiation with wavelengths of roughly 400–700 nanometers; visible to the human eye</meaning>
+</definition>
+<definition id="fs-id1163976439249">
+<term>Wien’s law</term>
+<meaning id="fs-id1163976774974">formula that relates the temperature of a blackbody to the wavelength at which it emits the greatest intensity of radiation</meaning>
+</definition>
+<definition id="fs-id1163976790109">
+<term>X-rays</term>
+<meaning id="fs-id1163973269942">electromagnetic radiation with wavelengths between 0.01 nanometer and 20 nanometers; intermediate between those of ultraviolet radiation and gamma rays</meaning>
+</definition>
+</glossary>
+</document>

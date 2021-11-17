@@ -1,0 +1,43 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Origin of the Moon</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59834</md:content-id>
+  <md:title>The Origin of the Moon</md:title>
+  <md:abstract/>
+  <md:uuid>f11291b8-079b-49fa-a302-4139c51133f9</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1170325421520" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-id1168584296071">By the end of this section, you will be able to:</para>
+<list id="fs-id1170325095833">
+<item>Describe the top three early hypotheses of the formation of the Moon</item>
+<item>Summarize the current “giant impact” concept of how the Moon formed</item>
+</list>
+</section>
+<section id="fs-id1170325055292">
+<title>Ideas for the Origin of the Moon</title>
+<para id="eip-356">It is characteristic of modern science to ask how things originated. Understanding the origin of the <term class="no-emphasis">Moon</term> has proven to be challenging for planetary scientists, however. Part of the difficulty is simply that we know so much about the Moon (quite the opposite of our usual problem in astronomy). As we will see, one key problem is that the Moon is both tantalizingly similar to Earth and frustratingly different.</para><para id="fs-id1170322789811">Most of the earlier hypotheses for the <term class="no-emphasis">Moon’s origin</term> followed one of three general ideas:</para>
+<list id="fs-id1170325257272" list-type="enumerated" number-style="arabic">
+<item>The fission theory—the Moon was once part of Earth, but somehow separated from it early in their history.</item>
+<item>The sister theory—the Moon formed together with (but independent of) Earth, as we believe many moons of the outer planets formed.</item>
+<item>The capture theory—the Moon formed elsewhere in the solar system and was captured by Earth.</item>
+</list>
+<para id="fs-id1170325056566">Unfortunately, there seem to be fundamental problems with each of these ideas. Perhaps the easiest hypothesis to reject is the capture theory. Its primary drawback is that no one knows of any way that early Earth could have captured such a large moon from elsewhere. One body approaching another cannot go into orbit around it without a substantial loss of energy; this is the reason that spacecraft destined to orbit other planets are equipped with retro-rockets. Furthermore, if such a capture did take place, the captured object would go into a very eccentric orbit rather than the nearly circular orbit our Moon occupies today. Finally, there are too many compositional similarities between Earth and the Moon, particularly an identical fraction of the major isotopes<footnote id="fs-id1170325289433">Remember from the <link document="m59791">Radiation and Spectra</link> chapter that the term isotope means a different “version” of an element. Specifically, different isotopes of the same element have equal numbers of protons but different numbers of neutrons (as in carbon-12 versus carbon-14.)</footnote> of oxygen, to justify seeking a completely independent origin.</para>
+<para id="fs-id1170325049198">The fission hypothesis, which states that the Moon separated from Earth, was suggested in the late nineteenth century. Modern calculations have shown that this sort of spontaneous fission or splitting is impossible. Furthermore, it is difficult to understand how a Moon made out of terrestrial material in this way could have developed the many distinctive chemical differences now known to characterize our neighbor.</para>
+<para id="fs-id1170325272621">Scientists were therefore left with the sister hypothesis—that the Moon formed alongside Earth—or with some modification of the fission hypothesis that can find a more acceptable way for the lunar material to have separated from Earth. But the more we learned about our Moon, the less these old ideas seem to fit the bill.</para>
+</section>
+<section id="fs-id1170325069882">
+<title>The Giant Impact Hypothesis</title>
+<para id="fs-id1170325097916">In an effort to resolve these apparent contradictions, scientists developed a fourth hypothesis for the origin of the Moon, one that involves a giant impact early in Earth’s history. There is increasing evidence that large chunks of material—objects of essentially planetary mass—were orbiting in the inner solar system at the time that the terrestrial planets formed. The <term class="no-emphasis">giant impact hypothesis</term> envisions Earth being struck obliquely by an object approximately one-tenth Earth’s mass—a “bullet” about the size of Mars. This is very nearly the largest impact Earth could experience without being shattered.</para>
+<para id="fs-id1170325449591">Such an impact would disrupt much of Earth and eject a vast amount of material into space, releasing almost enough energy to break the planet apart. Computer simulations indicate that material totaling several percent of Earth’s mass could be ejected in such an impact. Most of this material would be from the stony mantles of Earth and the impacting body, not from their metal cores. This ejected rock vapor then cooled and formed a ring of material orbiting Earth. It was this ring that ultimately condensed into the Moon.</para>
+<para id="fs-id1170322744614">While we do not have any current way of showing that the giant impact hypothesis is the correct model of the Moon’s origin, it does offer potential solutions to most of the major problems raised by the chemistry of the Moon. First, since the Moon’s raw material is derived from the mantles of Earth and the projectile, the absence of metals is easily understood. Second, most of the volatile elements would have been lost during the high-temperature phase following the impact, explaining the lack of these materials on the Moon. Yet, by making the Moon primarily of terrestrial mantle material, it is also possible to understand similarities such as identical abundances of various oxygen isotopes.</para>
+</section>
+<section id="fs-id1170325205788" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-id1170322777923">The three standard hypotheses for the origin of the Moon were the fission hypothesis, the sister hypothesis, and the capture hypothesis. All have problems, and they have been supplanted by the giant impact hypothesis, which ascribes the origin of the Moon to the impact of a Mars-sized projectile with Earth 4.5 billion years ago. The debris from the impact made a ring around Earth which condensed and formed the Moon.</para>
+</section>
+ </content>
+</document>

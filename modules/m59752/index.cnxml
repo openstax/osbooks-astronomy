@@ -1,0 +1,27 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Consequences of Light Travel Time</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59752</md:content-id>
+  <md:title>Consequences of Light Travel Time</md:title>
+  <md:abstract/>
+  <md:uuid>72f7108d-f806-4f54-80ac-eed5976266e2</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1167471026413">There is another reason the speed of light is such a natural unit of distance for astronomers. Information about the universe comes to us almost exclusively through various forms of light, and all such light travels at the speed of light—that is, 1 light-year every year. This sets a limit on how quickly we can learn about events in the universe. If a star is 100 light-years away, the light we see from it tonight left that star 100 years ago and is just now arriving in our neighborhood. The soonest we can learn about any changes in that star is 100 years after the fact. For a star 500 light-years away, the light we detect tonight left 500 years ago and is carrying 500-year-old news.</para>
+<para id="fs-id1167471071669">Because many of us are accustomed to instant news from the Internet, some might find this frustrating.</para>
+<para id="fs-id1167466083098">“You mean, when I see that star up there,” you ask, “I won’t know what’s actually happening there for another 500 years?”</para>
+<para id="fs-id1167470591403">But this isn’t the most helpful way to think about the situation. For astronomers, <emphasis effect="italics">now</emphasis> is when the light reaches us here on Earth. There is no way for us to know anything about that star (or other object) until its light reaches us.</para>
+<para id="fs-id1167470940707">But what at first may seem a great frustration is actually a tremendous benefit in disguise. If astronomers really want to piece together what has happened in the universe since its beginning, they must find evidence about each epoch (or period of time) of the past. Where can we find evidence today about cosmic events that occurred billions of years ago?</para>
+<para id="fs-id1167467337229">The delay in the arrival of light provides an answer to this question. The farther out in space we look, the longer the light has taken to get here, and the longer ago it left its place of origin. By looking billions of light-years out into space, astronomers are actually seeing billions of years into the past. In this way, we can reconstruct the history of the cosmos and get a sense of how it has evolved over time.</para>
+<para id="fs-id1167470941279">This is one reason why astronomers strive to build telescopes that can collect more and more of the faint light in the universe. The more light we collect, the fainter the objects we can observe. On average, fainter objects are farther away and can, therefore, tell us about periods of time even deeper in the past. Instruments such as the Hubble Space Telescope (<link target-id="OSC_Astro_01_05_Orbit"/>) and the Very Large Telescope in Chile (which you will learn about in the chapter on <link document="m59802">Astronomical Instruments</link>), are giving astronomers views of deep space and deep time better than any we have had before.</para>
+<figure id="OSC_Astro_01_05_Orbit">
+<title>Telescope in Orbit.</title>
+<media id="fs-id1167470995799" alt="Image of the Hubble Space Telescope in orbit, seen against the bright surface of the Earth.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_01_05_Orbit.jpg"/>
+</media>
+<caption>The Hubble Space Telescope, shown here in orbit around Earth, is one of many astronomical instruments in space. (credit: modification of work by European Space Agency)</caption>
+</figure>
+ </content>
+</document>

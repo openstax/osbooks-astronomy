@@ -1,0 +1,152 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Orbits in the Solar System</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59778</md:content-id>
+  <md:title>Orbits in the Solar System</md:title>
+  <md:abstract/>
+  <md:uuid>e2c6b1d7-f6ec-4586-9648-770769fb9b34</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1163975572867" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-id1168979569927">By the end of this section, you will be able to:</para>
+<list id="fs-id1163975429192">
+<item>Compare the orbital characteristics of the planets in the solar system</item>
+<item>Compare the orbital characteristics of asteroids and comets in the solar system</item>
+</list>
+</section>
+<para id="fs-id1163975551490">Recall that the path of an object under the influence of gravity through space is called its orbit, whether that object is a spacecraft, planet, star, or galaxy. An orbit, once determined, allows the future positions of the object to be calculated.</para>
+<para id="fs-id1163975548187">Two points in any orbit in our solar system have been given special names. The place where the planet is closest to the Sun (<emphasis effect="italics">helios</emphasis> in Greek) and moves the fastest is called the <term>perihelion</term> of its orbit, and the place where it is farthest away and moves the most slowly is the <term>aphelion</term>. For the Moon or a satellite orbiting Earth (<emphasis effect="italics">gee</emphasis> in Greek), the corresponding terms are <term>perigee</term> and <term>apogee</term>. (In this book, we use the word <emphasis effect="italics">moon</emphasis> for a natural object that goes around a planet and the word <term>satellite</term> to mean a human-made object that revolves around a planet.)</para>
+<section id="fs-id1163975557819">
+<title>Orbits of the Planets</title>
+<para id="fs-id1163975369497">Today, Newton’s work enables us to calculate and predict the orbits of the planets with marvelous precision. We know eight planets, beginning with Mercury closest to the Sun and extending outward to Neptune. The average orbital data for the planets are summarized in <link target-id="fs-id1163975563522"/>. (Ceres is the largest of the <emphasis effect="italics">asteroids,</emphasis> now considered a dwarf planet.)</para>
+<para id="fs-id1163975365984">According to Kepler’s laws, Mercury must have the shortest orbital period (88 Earth-days); thus, it has the highest orbital speed, averaging 48 kilometers per second. At the opposite extreme, Neptune has a period of 165 years and an average orbital speed of just 5 kilometers per second.</para>
+<para id="fs-id1163975308884">All the planets have orbits of rather low eccentricity. The most eccentric orbit is that of Mercury (0.21); the rest have eccentricities smaller than 0.1. It is fortunate that among the rest, Mars has an eccentricity greater than that of many of the other planets. Otherwise the pre-telescopic observations of Brahe would not have been sufficient for Kepler to deduce that its orbit had the shape of an ellipse rather than a circle.</para>
+<para id="fs-id1163975578893">The planetary orbits are also confined close to a common plane, which is near the plane of Earth’s orbit (called the ecliptic). The strange orbit of the dwarf planet Pluto is inclined about 17° to the ecliptic, and that of the dwarf planet Eris (orbiting even farther away from the Sun than Pluto) by 44°, but all the major planets lie within 10° of the common plane of the solar system.</para>
+<note id="fs-id1163975570578" class="astronomy link-to-learning">
+<para id="fs-id1163975330879">JavaLab’s <link url="https://openstax.org/l/30solarsim">solar system simulator</link> allows you to explore the size and speed of the planets’ orbits, and view the orbits from different perspectives.</para>
+</note>
+</section>
+<section id="fs-id1163975294972">
+<title>Orbits of Asteroids and Comets</title>
+<para id="fs-id1163975464516">In addition to the eight planets, there are many smaller objects in the solar system. Some of these are moons (natural satellites) that orbit all the planets except Mercury and Venus. In addition, there are two classes of smaller objects in heliocentric orbits: <emphasis effect="italics">asteroids</emphasis> and <emphasis effect="italics">comets</emphasis>. Both asteroids and comets are believed to be small chunks of material left over from the formation process of the solar system.</para>
+<para id="fs-id1163975373682">In general, asteroids have orbits with smaller semimajor axes than do comets (<link target-id="OSC_Astro_03_04_Solar"/>). The majority of them lie between 2.2 and 3.3 AU, in the region known as the <term>asteroid belt</term> (see <link document="m59865">Comets and Asteroids: Debris of the Solar System</link>). As you can see in <link target-id="fs-id1163975563522"/>, the asteroid belt (represented by its largest member, Ceres) is in the middle of a gap between the orbits of Mars and Jupiter. It is because these two planets are so far apart that stable orbits of small bodies can exist in the region between them.</para>
+<figure id="OSC_Astro_03_04_Solar">
+<title>Solar System Orbits.</title>
+<media id="fs-id1163975481052" alt="Solar System Orbits. At the center of this illustration is the Sun, with the orbits of the inner planets drawn as black circles. The elliptical orbits of the comets Halley, Kopff, and Encke are shown in red. Encke’s orbit extends across the orbits of Mercury, Venus, Earth and Mars, while the orbits of Kopff and Halley extend beyond the orbit of Jupiter. The circular orbits of the asteroids Ceres, Pallas, Vesta, and Hygeia are shown in blue, and fall mostly between the orbits of Earth and Jupiter.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_03_04_Solar.jpg"/>
+</media>
+<caption>We see the orbits of typical comets and asteroids compared with those of the planets Mercury, Venus, Earth, Mars, and Jupiter (black circles). Shown in red are three comets: Halley, Kopff, and Encke. In blue are the four largest asteroids: <term class="no-emphasis">Ceres</term>, Pallas, <term class="no-emphasis">Vesta</term>, and Hygeia.</caption>
+</figure>
+<table id="fs-id1163975563522" class="top-titled" summary="This table contains four columns and ten rows. The first row is a header row and it labels each column: “Planet”, “Semimajor Axis (AU)”, “Period (yr)” and “Eccentricity”. Under the “Planet” column are the values: “Mercury”, “Venus”, “Earth”, “(Ceres)”, “Jupiter”, “Saturn”, “Uranus” and “Neptune”. Under the “Semimajor Axis (AU)” column are the values: “0.39”, “0.72”, “1.00”, “1.52”, “2.77”, “5.20”, “9.54”, “19.19” and “30.06”. Under the “Period (yr)” column are the values: “0.24”, “0.62”, “1.00”, “1.88”, “4.60”, “11.86”, “29.46”, “84.07” and “164.80”. Finally, under the “Eccentricity” column are the values: “0.21”, “0.01”, “0.02”, “0.09”, “0.08”, “0.05”, “0.06”, “0.05” and “0.01”.">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Orbital Data for the Planets</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Planet</entry>
+<entry valign="top" align="center">Semimajor Axis (AU)</entry>
+<entry valign="top" align="center">Period (y)</entry>
+<entry valign="top" align="center">Eccentricity</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis">Mercury</term></entry>
+<entry valign="top" align="left">0.39</entry>
+<entry valign="top" align="left">0.24</entry>
+<entry valign="top" align="left">0.21</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis">Venus</term></entry>
+<entry valign="top" align="left">0.72</entry>
+<entry valign="top" align="left">0.6</entry>
+<entry valign="top" align="left">0.01</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis">Earth</term></entry>
+<entry valign="top" align="left">1</entry>
+<entry valign="top" align="left">1.00</entry>
+<entry valign="top" align="left">0.02</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis">Mars</term></entry>
+<entry valign="top" align="left">1.52</entry>
+<entry valign="top" align="left">1.88</entry>
+<entry valign="top" align="left">0.09</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">(<term class="no-emphasis">Ceres</term>)</entry>
+<entry valign="top" align="left">2.77</entry>
+<entry valign="top" align="left">4.6</entry>
+<entry valign="top" align="left">0.08</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis">Jupiter</term></entry>
+<entry valign="top" align="left">5.20</entry>
+<entry valign="top" align="left">11.86</entry>
+<entry valign="top" align="left">0.05</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis">Saturn</term></entry>
+<entry valign="top" align="left">9.54</entry>
+<entry valign="top" align="left">29.46</entry>
+<entry valign="top" align="left">0.06</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis">Uranus</term></entry>
+<entry valign="top" align="left">19.19</entry>
+<entry valign="top" align="left">84.01</entry>
+<entry valign="top" align="left">0.05</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis">Neptune</term></entry>
+<entry valign="top" align="left">30.06</entry>
+<entry valign="top" align="left">164.82</entry>
+<entry valign="top" align="left">0.01</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1163975512242">Comets generally have orbits of larger size and greater eccentricity than those of the asteroids. Typically, the eccentricity of their orbits is 0.8 or higher. According to Kepler’s second law, therefore, they spend most of their time far from the Sun, moving very slowly. As they approach perihelion, the comets speed up and whip through the inner parts of their orbits more rapidly.</para>
+</section>
+<section id="fs-id1163975338096" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-id1163975475145">The closest point in a satellite orbit around Earth is its perigee, and the farthest point is its apogee (corresponding to perihelion and aphelion for an orbit around the Sun). The planets follow orbits around the Sun that are nearly circular and in the same plane. Most asteroids are found between Mars and Jupiter in the asteroid belt, whereas comets generally follow orbits of high eccentricity.</para>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id1163975475929">
+<term>aphelion</term>
+<meaning id="fs-id1163975409955">the point in its orbit where a planet (or other orbiting object) is farthest from the Sun</meaning>
+</definition>
+<definition id="fs-id1163975371610">
+<term>apogee</term>
+<meaning id="fs-id1163975409823">the point in its orbit where an Earth satellite is farthest from Earth</meaning>
+</definition>
+<definition id="fs-id1163975563387">
+<term>asteroid belt</term>
+<meaning id="fs-id1163975317127">the region of the solar system between the orbits of Mars and Jupiter in which most asteroids are located; the main belt, where the orbits are generally the most stable, extends from 2.2 to 3.3 AU from the Sun</meaning>
+</definition>
+<definition id="fs-id1163975560308">
+<term>perigee</term>
+<meaning id="fs-id1163975288644">the point in its orbit where an Earth satellite is closest to Earth</meaning>
+</definition>
+<definition id="fs-id1163975383423">
+<term>perihelion</term>
+<meaning id="fs-id1163975558534">the point in its orbit where a planet (or other orbiting object) is nearest to the Sun</meaning>
+</definition>
+<definition id="fs-id1163975555280">
+<term>satellite</term>
+<meaning id="fs-id1163975310302">an object that revolves around a planet</meaning>
+</definition>
+</glossary>
+
+</document>

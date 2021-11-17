@@ -1,0 +1,361 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11992</md:content-id>
+    <md:title>Astronomy</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>2e737be8-ea65-48c3-aa0a-9f35b4c6a966</md:uuid>
+<md:slug>astronomy</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m63293"/>
+    <col:subcollection>
+      <md:title>Science and the Universe: A Brief Tour</md:title>
+      <col:content>
+        <col:module document="m59743"/>
+        <col:module document="m59747"/>
+        <col:module document="m59755"/>
+        <col:module document="m59750"/>
+        <col:module document="m59751"/>
+        <col:module document="m59752"/>
+        <col:module document="m59753"/>
+        <col:module document="m59754"/>
+        <col:module document="m59760"/>
+        <col:module document="m59762"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Observing the Sky: The Birth of Astronomy</md:title>
+      <col:content>
+        <col:module document="m59769"/>
+        <col:module document="m59770"/>
+        <col:module document="m59763"/>
+        <col:module document="m59772"/>
+        <col:module document="m59765"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Orbits and Gravity</md:title>
+      <col:content>
+        <col:module document="m59773"/>
+        <col:module document="m59775"/>
+        <col:module document="m59776"/>
+        <col:module document="m59777"/>
+        <col:module document="m59778"/>
+        <col:module document="m59779"/>
+        <col:module document="m59780"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Earth, Moon, and Sky</md:title>
+      <col:content>
+        <col:module document="m59781"/>
+        <col:module document="m59783"/>
+        <col:module document="m59785"/>
+        <col:module document="m59786"/>
+        <col:module document="m59787"/>
+        <col:module document="m59788"/>
+        <col:module document="m59789"/>
+        <col:module document="m59790"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Radiation and Spectra</md:title>
+      <col:content>
+        <col:module document="m59791"/>
+        <col:module document="m59792"/>
+        <col:module document="m59798"/>
+        <col:module document="m59793"/>
+        <col:module document="m59794"/>
+        <col:module document="m59795"/>
+        <col:module document="m59799"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Astronomical Instruments</md:title>
+      <col:content>
+        <col:module document="m59802"/>
+        <col:module document="m59803"/>
+        <col:module document="m59805"/>
+        <col:module document="m59821"/>
+        <col:module document="m59809"/>
+        <col:module document="m59811"/>
+        <col:module document="m59812"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Other Worlds: An Introduction to the Solar System</md:title>
+      <col:content>
+        <col:module document="m59814"/>
+        <col:module document="m59816"/>
+        <col:module document="m59819"/>
+        <col:module document="m59820"/>
+        <col:module document="m59823"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Earth as a Planet</md:title>
+      <col:content>
+        <col:module document="m59824"/>
+        <col:module document="m59825"/>
+        <col:module document="m59826"/>
+        <col:module document="m59827"/>
+        <col:module document="m59828"/>
+        <col:module document="m59829"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Cratered Worlds</md:title>
+      <col:content>
+        <col:module document="m59830"/>
+        <col:module document="m59831"/>
+        <col:module document="m59832"/>
+        <col:module document="m59833"/>
+        <col:module document="m59834"/>
+        <col:module document="m59835"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Earthlike Planets: Venus and Mars</md:title>
+      <col:content>
+        <col:module document="m59836"/>
+        <col:module document="m59845"/>
+        <col:module document="m59838"/>
+        <col:module document="m59840"/>
+        <col:module document="m59843"/>
+        <col:module document="m59856"/>
+        <col:module document="m59847"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Giant Planets</md:title>
+      <col:content>
+        <col:module document="m59850"/>
+        <col:module document="m59853"/>
+        <col:module document="m59858"/>
+        <col:module document="m59859"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Rings, Moons, and Pluto</md:title>
+      <col:content>
+        <col:module document="m59860"/>
+        <col:module document="m59861"/>
+        <col:module document="m59862"/>
+        <col:module document="m59863"/>
+        <col:module document="m59864"/>
+        <col:module document="m62178"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Comets and Asteroids: Debris of the Solar System</md:title>
+      <col:content>
+        <col:module document="m59865"/>
+        <col:module document="m59866"/>
+        <col:module document="m59867"/>
+        <col:module document="m59868"/>
+        <col:module document="m59869"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Cosmic Samples and the Origin of the Solar System</md:title>
+      <col:content>
+        <col:module document="m59870"/>
+        <col:module document="m59871"/>
+        <col:module document="m59872"/>
+        <col:module document="m59873"/>
+        <col:module document="m59874"/>
+        <col:module document="m59875"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Sun: A Garden-Variety Star</md:title>
+      <col:content>
+        <col:module document="m59876"/>
+        <col:module document="m59877"/>
+        <col:module document="m59878"/>
+        <col:module document="m59879"/>
+        <col:module document="m59884"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Sun: A Nuclear Powerhouse</md:title>
+      <col:content>
+        <col:module document="m59880"/>
+        <col:module document="m59895"/>
+        <col:module document="m59886"/>
+        <col:module document="m59887"/>
+        <col:module document="m59888"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Analyzing Starlight</md:title>
+      <col:content>
+        <col:module document="m59889"/>
+        <col:module document="m59890"/>
+        <col:module document="m59891"/>
+        <col:module document="m59892"/>
+        <col:module document="m59896"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Stars: A Celestial Census</md:title>
+      <col:content>
+        <col:module document="m59897"/>
+        <col:module document="m59898"/>
+        <col:module document="m59899"/>
+        <col:module document="m59900"/>
+        <col:module document="m59901"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Celestial Distances</md:title>
+      <col:content>
+        <col:module document="m59902"/>
+        <col:module document="m59904"/>
+        <col:module document="m59905"/>
+        <col:module document="m59906"/>
+        <col:module document="m59907"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Between the Stars: Gas and Dust in Space</md:title>
+      <col:content>
+        <col:module document="m59908"/>
+        <col:module document="m59909"/>
+        <col:module document="m59910"/>
+        <col:module document="m59911"/>
+        <col:module document="m59912"/>
+        <col:module document="m59913"/>
+        <col:module document="m59914"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Birth of Stars and the Discovery of Planets outside the Solar System</md:title>
+      <col:content>
+        <col:module document="m59915"/>
+        <col:module document="m59923"/>
+        <col:module document="m59918"/>
+        <col:module document="m59920"/>
+        <col:module document="m59921"/>
+        <col:module document="m62183"/>
+        <col:module document="m62187"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Stars from Adolescence to Old Age</md:title>
+      <col:content>
+        <col:module document="m59924"/>
+        <col:module document="m59925"/>
+        <col:module document="m59926"/>
+        <col:module document="m59927"/>
+        <col:module document="m59928"/>
+        <col:module document="m59930"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Death of Stars</md:title>
+      <col:content>
+        <col:module document="m59931"/>
+        <col:module document="m59932"/>
+        <col:module document="m59933"/>
+        <col:module document="m59934"/>
+        <col:module document="m59935"/>
+        <col:module document="m59936"/>
+        <col:module document="m59937"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Black Holes and Curved Spacetime</md:title>
+      <col:content>
+        <col:module document="m59938"/>
+        <col:module document="m59939"/>
+        <col:module document="m59940"/>
+        <col:module document="m59941"/>
+        <col:module document="m59942"/>
+        <col:module document="m59943"/>
+        <col:module document="m59944"/>
+        <col:module document="m59945"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Milky Way Galaxy</md:title>
+      <col:content>
+        <col:module document="m59947"/>
+        <col:module document="m59948"/>
+        <col:module document="m59954"/>
+        <col:module document="m59950"/>
+        <col:module document="m59951"/>
+        <col:module document="m59952"/>
+        <col:module document="m59955"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Galaxies</md:title>
+      <col:content>
+        <col:module document="m59956"/>
+        <col:module document="m59964"/>
+        <col:module document="m59958"/>
+        <col:module document="m59959"/>
+        <col:module document="m59960"/>
+        <col:module document="m62195"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Active Galaxies, Quasars, and Supermassive Black Holes</md:title>
+      <col:content>
+        <col:module document="m59961"/>
+        <col:module document="m59962"/>
+        <col:module document="m59965"/>
+        <col:module document="m59966"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Evolution and Distribution of Galaxies</md:title>
+      <col:content>
+        <col:module document="m59969"/>
+        <col:module document="m59970"/>
+        <col:module document="m59971"/>
+        <col:module document="m59972"/>
+        <col:module document="m59973"/>
+        <col:module document="m59974"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Big Bang</md:title>
+      <col:content>
+        <col:module document="m59975"/>
+        <col:module document="m59976"/>
+        <col:module document="m59977"/>
+        <col:module document="m59978"/>
+        <col:module document="m59979"/>
+        <col:module document="m59980"/>
+        <col:module document="m59981"/>
+        <col:module document="m59982"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Life in the Universe</md:title>
+      <col:content>
+        <col:module document="m59984"/>
+        <col:module document="m59988"/>
+        <col:module document="m59989"/>
+        <col:module document="m59990"/>
+        <col:module document="m59993"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m59991"/>
+    <col:module document="m59994"/>
+    <col:module document="m59995"/>
+    <col:module document="m59996"/>
+    <col:module document="m59997"/>
+    <col:module document="m59998"/>
+    <col:module document="m59999"/>
+    <col:module document="m60000"/>
+    <col:module document="m60002"/>
+    <col:module document="m60003"/>
+    <col:module document="m60004"/>
+    <col:module document="m60005"/>
+    <col:module document="m60006"/>
+  </col:content>
+</col:collection>

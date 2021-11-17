@@ -1,0 +1,176 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Nearest Planets: An Overview</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59845</md:content-id>
+  <md:title>The Nearest Planets: An Overview</md:title>
+  <md:abstract/>
+  <md:uuid>c76a2699-5934-4efd-b059-3213342d048c</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1168048319384" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-id1168583217687">By the end of this section, you will be able to:</para>
+<list id="fs-id1168048326554">
+<item>Explain why it’s difficult to learn about <term class="no-emphasis">Venus</term> from Earth-based observation alone</item>
+<item>Describe the history of our interest in <term class="no-emphasis">Mars</term> before the Space Age</item>
+<item>Compare the basic physical properties of Earth, Mars, and Venus, including their orbits</item>
+</list>
+</section>
+<para id="fs-id1168048336569">As you might expect from close neighbors, Mars and Venus are among the brightest objects in the night sky. The average distance of Mars from the Sun is 227 million kilometers (1.52 AU), or about half again as far from the Sun as Earth. Venus’ orbit is very nearly circular, at a distance of 108 million kilometers (0.72 AU) from the Sun. Like Mercury, Venus sometimes appears as an “evening star” and sometimes as a “morning star.” Venus approaches Earth more closely than does any other planet: at its nearest, it is only 40 million kilometers from us. The closest Mars ever gets to Earth is about 56 million kilometers.</para>
+<section id="fs-id1168048646434">
+<title>Appearance</title>
+<para id="fs-id1168048646404"><term class="no-emphasis">Venus</term> appears very bright, and even a small telescope reveals that it goes through phases like the Moon. Galileo discovered that Venus displays a full range of phases, and he used this as an argument to show that Venus must circle the Sun and not Earth. The planet’s actual surface is not visible because it is shrouded by dense clouds that reflect about 70% of the sunlight that falls on them, frustrating efforts to study the underlying surface, even with cameras in orbit around the planet (<link target-id="OSC_Astro_10_01_Venus"/>).</para>
+<figure id="OSC_Astro_10_01_Venus">
+<title>Venus as Photographed by the Pioneer Venus Orbiter.</title>
+<media id="fs-id1168048258753" alt="Image of Venus in ultraviolet light. Only cloud-tops, which cover the entire planet, are visible in this image.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_10_01_Venus.jpg"/>
+</media>
+<caption>This ultraviolet image shows an upper-atmosphere cloud structure that would be invisible at visible wavelengths. Note that there is not even a glimpse of the planet’s surface. (credit: modification of work by NASA)</caption>
+</figure>
+<para id="fs-id1168048514212">In contrast, Mars is more tantalizing as seen through a telescope (<link target-id="OSC_Astro_10_01_Mars"/>). The planet is distinctly red, due (as we now know) to the presence of iron oxides in its soil. This color may account for its association with war (and blood) in the legends of early cultures. The best resolution obtainable from telescopes on the ground is about 100 kilometers, or about the same as what we can see on the Moon with the unaided eye. At this resolution, no hint of topographic structure can be detected: no mountains, no valleys, not even impact craters. On the other hand, bright polar ice caps can be seen easily, together with dusky surface markings that sometimes change in outline and intensity from season to season.</para>
+<figure id="OSC_Astro_10_01_Mars">
+<title>Mars as Seen from Earth’s Surface.</title>
+<media id="fs-id1168048512105" alt="The entire surface of Mars in four photographs. The white polar ice cap is visible at the top of each image along with several cloud formations and dark surface markings.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_10_01_Mars.jpg"/>
+</media>
+<caption>These are among the best Earth-based photos of <term class="no-emphasis">Mars</term>, taken in 1988 when the planet was exceptionally close to Earth. The polar caps and dark surface markings are evident, but not topographic features. (credit: modification of work by Steve Larson, Lunar and Planetary Laboratory, University of Arizona)</caption>
+</figure>
+<para id="fs-id1168048363254">For a few decades around the turn of the twentieth century, some astronomers believed that they saw evidence of an intelligent civilization on Mars. The controversy began in 1877, when Italian astronomer Giovanni <term class="no-emphasis">Schiaparelli</term> (1835–1910) announced that he could see long, faint, straight lines on Mars that he called <emphasis effect="italics">canale</emphasis>, or channels. In English-speaking countries, the term was mistakenly translated as “canals,” implying an artificial origin.</para>
+<para id="fs-id1168048348434">Even before Schiaparelli’s observations, astronomers had watched the bright polar caps change size with the seasons and had seen variations in the dark surface features. With a little imagination, it was not difficult to picture the canals as long fields of crops bordering irrigation ditches that brought water from the melting polar ice to the parched deserts of the red planet. (They assumed the polar caps were composed of water ice, which isn’t exactly true, as we will see shortly.)</para>
+<para id="fs-id1168048473454">Until his death in 1916, the most effective proponent of intelligent life on Mars was Percival <term class="no-emphasis">Lowell</term>, a self-made American astronomer and member of the wealthy Lowell family of Boston (see the feature box on <link target-id="fs-id1168048373241">Percival Lowell: Dreaming of an Inhabited Mars</link>). A skilled author and speaker, Lowell made what seemed to the public to be a convincing case for intelligent Martians, who had constructed the huge canals to preserve their civilization in the face of a deteriorating climate (<link target-id="OSC_Astro_10_01_MarsGlobe"/>).</para><figure id="OSC_Astro_10_01_MarsGlobe">
+<title>Lowell’s Mars Globe.</title>
+<media id="fs-id1168048515637" alt="Image of Lowell’s Mars globe. Lowell’s globe, based on his visual observations, is crisscrossed with straight lines which he claimed were canals. Dark areas corresponding to actual features are also depicted.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_10_01_MarsGlobe.jpg"/>
+</media>
+<caption>One of the remarkable globes of Mars prepared by Percival Lowell, showing a network of dozens of canals, oases, and triangular water reservoirs that he claimed were visible on the red planet.</caption>
+</figure>
+<para id="fs-id1168048516936">The argument for a race of intelligent Martians, however, hinged on the reality of the canals, a matter that remained in serious dispute among astronomers. The canal markings were always difficult to study, glimpsed only occasionally because atmospheric conditions caused the tiny image of Mars to shimmer in the telescope. Lowell saw canals everywhere (even a few on Venus), but many other observers could not see them at all and remained unconvinced of their existence. When telescopes larger than Lowell’s failed to confirm the presence of canals, the skeptics felt vindicated. Now it is generally accepted that the straight lines were an optical illusion, the result of the human mind’s tendency to see order in random features that are glimpsed dimly at the limits of the eye’s resolution. When we see small, dim dots of surface markings, our minds tend to connect those dots into straight lines.</para>
+<note id="fs-id1168048373241" class="astronomy voyagers-in-astronomy">
+<title>Percival Lowell: Dreaming of an Inhabited Mars</title>
+<para id="fs-id1168048359862">Percival <term class="no-emphasis">Lowell</term> was born into the well-to-do Massachusetts family about whom John Bossidy made the famous toast:</para>
+<quote id="fs-id1168048351911"><para id="fs-id1168048258812">And this is good old Boston,<newline/>
+The home of the bean and the cod,<newline/>
+Where the Lowells talk to the Cabots<newline/>
+And the Cabots talk only to God.</para>
+</quote>
+<para id="fs-id1168048315338">Percival’s brother Lawrence became president of Harvard University, and his sister, Amy, became a distinguished poet. Percival was already interested in astronomy as a boy: he made observations of Mars at age 13. His undergraduate thesis at Harvard dealt with the origin of the solar system, but he did not pursue this interest immediately. Instead, he entered the family business and traveled extensively in Asia. In 1892, however, he decided to dedicate himself to carrying on Schiaparelli’s work and solving the mysteries of the martian canals.</para>
+<para id="fs-id1168048258108">In 1894, with the help of astronomers at Harvard but using his own funds, Lowell built an observatory on a high plateau in Flagstaff, Arizona, where he hoped the seeing would be clear enough to show him Mars in unprecedented detail. He and his assistants quickly accumulated a tremendous number of drawings and maps, purporting to show a vast network of martian canals (see <link target-id="OSC_Astro_10_01_MarsGlobe"/>). He elaborated his ideas about the inhabitants of the red planet in several books, including <emphasis effect="italics">Mars</emphasis> (1895) and <emphasis effect="italics">Mars and Its Canals</emphasis> (1906), and in hundreds of articles and speeches.</para>
+<para id="fs-id1168048324305">As Lowell put it,</para>
+<quote id="fs-id1168048336884"><para id="fs-id1168048277699">A mind of no mean order would seem to have presided over the system we see—a mind certainly of considerably more comprehensiveness than that which presides over the various departments of our own public works. Party politics, at all events, have had no part in them; for the system is planet-wide. . . . Certainly what we see hints at the existence of beings who are in advance of, not behind us, in the journey of life.</para>
+</quote>
+<para id="fs-id1168048334344">Lowell’s views captured the public imagination and inspired many novels and stories, the most famous of which was H. G. Wells’ <emphasis effect="italics">War of the Worlds</emphasis> (1897). In this famous “invasion” novel, the thirsty inhabitants of a dying planet Mars (based entirely on Lowell’s ideas) come to conquer Earth with advanced technology.</para>
+<para id="fs-id1168048488155">Although the Lowell Observatory first became famous for its work on the martian canals, both Lowell and the observatory eventually turned to other projects as well. He became interested in the search for a ninth (and then undiscovered) planet in the solar system. In 1930, Pluto was found at the Lowell Observatory, and it is not a coincidence that the name selected for the new planet starts with Lowell’s initials. It was also at the Lowell Observatory that the first measurements were made of the great speed at which galaxies are moving away from us, observations that would ultimately lead to our modern view of an expanding universe.</para>
+<para id="fs-id1168048344845">Lowell (<link target-id="OSC_Astro_10_01_Lowell"/>) continued to live at his observatory, marrying at age 53 and publishing extensively. He relished the debate his claims about Mars caused far more than the astronomers on the other side, who often complained that Lowell’s work was making planetary astronomy a less respectable field. At the same time, the public fascination with the planets fueled by Lowell’s work (and its interpreters) may, several generations later, have helped fan support for the space program and the many missions whose results grace the pages of our text.</para>
+<figure id="OSC_Astro_10_01_Lowell">
+<title>Percival Lowell (1855–1916).</title>
+<media id="fs-id1168048291692" alt="This is a photograph of Percival Lowell seated at the eyepiece of the 24-inch refractor near Flagstaff, Arizona.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_10_01_Lowell.jpg"/>
+</media>
+<caption>This 1914 photograph shows Percival <term class="no-emphasis">Lowell</term> observing Venus with his 24-inch telescope at Flagstaff, Arizona.</caption>
+</figure>
+</note>
+<note id="fs-id1168048486300" class="astronomy link-to-learning">
+<para id="fs-id1168048507273">In October 1938, the Mercury Theater of the Air on radio dramatized <emphasis effect="italics">The War of the Worlds</emphasis> as a series of radio news reports. This <link url="https://openstax.org/l/30WarofWorlds">broadcast</link> scared many people into thinking that Lowell’s Martians were really invading New Jersey, and caused something of a panic. You can listen to the original radio broadcast if you scroll down to “War of the Worlds.”</para>
+</note>
+</section>
+<section id="fs-id1168048292612">
+<title>Rotation of the Planets</title>
+<para id="fs-id1168048593904">Astronomers have determined the rotation period of <term class="no-emphasis">Mars</term> with great accuracy by watching the motion of permanent surface markings; its sidereal day is 24 hours 37 minutes 23 seconds, just a little longer than the rotation period of Earth. This high precision is not obtained by watching Mars for a single rotation, but by noting how many turns it makes over a long period of time. Good observations of Mars date back more than 200 years, a period during which tens of thousands of martian days have passed. As a result, the rotation period can be calculated to within a few hundredths of a second.</para>
+<para id="fs-id1168048299780">The rotational axis of Mars has a tilt of about 25°, similar to the tilt of Earth’s axis. Thus, Mars experiences seasons very much like those on Earth. Because of the longer martian year (almost two Earth years), however, each season there lasts about six of our months.</para>
+<para id="fs-id1168048338980">The situation with <term class="no-emphasis">Venus</term> is different. Since no surface detail can be seen through Venus’ clouds, its rotation period can be found only by bouncing radar signals off the planet (as explained for Mercury in the <link document="m59830">Cratered Worlds</link> chapter). The first radar observations of Venus’ rotation were made in the early 1960s. Later, topographical surface features were identified on the planet that showed up in the reflected radar signals. The rotation period of Venus, precisely determined from the motion of such “radar features” across its disk, is 243 days. Even more surprising than how <emphasis effect="italics">long</emphasis> Venus takes to rotate is the fact that it spins in a backward or retrograde direction (east to west).</para>
+<para id="fs-id1168048321990">Stop for a moment and think about how odd this slow rotation makes the calendar on Venus. The planet takes 225 Earth days to orbit the Sun and 243 Earth days to spin on its axis. So the day on Venus (as defined by its spinning once) is longer than the year! As a result, the time the Sun takes to return to the same place in Venus’ sky—another way we might define the meaning of a day—turns out to be 117 Earth days. (If you say “See you tomorrow” on Venus, you’ll have a long time to wait.) Although we do not know the reason for Venus’ slow backward rotation, we can guess that it may have suffered one or more extremely powerful collisions during the formation process of the solar system.</para>
+</section>
+<section id="fs-id1168048243522">
+<title>Basic Properties of Venus and Mars</title>
+<para id="fs-id1168048335370">Before discussing each planet individually, let us compare some of their basic properties with each other and with Earth (<link target-id="fs-id1168048335165"/>). <term class="no-emphasis">Venus</term> is in many ways Earth’s twin, with a mass 0.82 times the mass of Earth and an almost identical density. The average amount of geological activity has been also relatively high, almost as high as on Earth. On the other hand, with a surface pressure nearly 100 times greater than ours, Venus’ atmosphere is not at all like that of Earth. The surface of Venus is also remarkably hot, with a temperature of 730 K (over 850 °F), hotter than the self-cleaning cycle of your oven. One of the major challenges presented by Venus is to understand why the atmosphere and surface environment of this twin have diverged so sharply from those of our own planet.</para>
+<table id="fs-id1168048335165" summary="This table contains four columns and eleven rows. The first row is a header row, and it labels each column, “Property,” “Earth,” “Venus,” and “Mars.” Under the “Property” column are the values: “Semimajor axis (A U),” “Period (year),” “Mass (Earth = 1),” “Diameter (k m),” “Density (g / c m3).” “Surface gravity (Earth = 1).” “Escape velocity (k m / s),” “Rotation period (hours or days),” “Surface area (Earth = 1),” and “Atmospheric pressure (bar).” Under the “Earth” column are the values: “1.00,” “1.00,” “1.00,” “12,756,” “5.5,” “1.00,” “11.2,” “23.9 h,” “1.00,” and “1.00.” Under the “Venus” column are the values: “0.72,” “0.61,” “0.82,” “12,102,” “5.3,” “0.91,” “10.4,” “243 d,” “0.90,” and “90.” Finally, under the “Mars” column are the values: “1.52,” “1.88,” “0.11,” “6,790,” “3.9,” “0.38,” “5.0,” “24.6 h,” “0.28,” and “0.007.”" class="top-titled">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Properties of Earth, Venus, and Mars</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Property</entry>
+<entry valign="top" align="center">Earth</entry>
+<entry valign="top" align="center">Venus</entry>
+<entry valign="top" align="center">Mars</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Semimajor axis (AU)</entry>
+<entry valign="top" align="left">1.00</entry>
+<entry valign="top" align="left">0.72</entry>
+<entry valign="top" align="left">1.52</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Period (year)</entry>
+<entry valign="top" align="left">1.00</entry>
+<entry valign="top" align="left">0.61</entry>
+<entry valign="top" align="left">1.88</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mass (Earth = 1)</entry>
+<entry valign="top" align="left">1.00</entry>
+<entry valign="top" align="left">0.82</entry>
+<entry valign="top" align="left">0.11</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Diameter (km)</entry>
+<entry valign="top" align="left">12,756</entry>
+<entry valign="top" align="left">12,102</entry>
+<entry valign="top" align="left">6,790</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Density (g/cm<sup>3</sup>)</entry>
+<entry valign="top" align="left">5.5</entry>
+<entry valign="top" align="left">5.3</entry>
+<entry valign="top" align="left">3.9</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Surface gravity (Earth = 1)</entry>
+<entry valign="top" align="left">1.00</entry>
+<entry valign="top" align="left">0.91</entry>
+<entry valign="top" align="left">0.38</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Escape velocity (km/s)</entry>
+<entry valign="top" align="left">11.2</entry>
+<entry valign="top" align="left">10.4</entry>
+<entry valign="top" align="left">5.0</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Rotation period (hours or days)</entry>
+<entry valign="top" align="left">23.9 h</entry>
+<entry valign="top" align="left">243 d</entry>
+<entry valign="top" align="left">24.6 h</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Surface area (Earth = 1)</entry>
+<entry valign="top" align="left">1.00</entry>
+<entry valign="top" align="left">0.90</entry>
+<entry valign="top" align="left">0.28</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Atmospheric pressure (bar)</entry>
+<entry valign="top" align="left">1.00</entry>
+<entry valign="top" align="left">90</entry>
+<entry valign="top" align="left">0.007</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1168048274036"><term class="no-emphasis">Mars</term>, by contrast, is rather small, with a mass only 0.11 times the mass of Earth. It is larger than either the Moon or Mercury, however, and, unlike them, it retains a thin atmosphere. Mars is also large enough to have supported considerable geological activity in the distant past. But the most fascinating thing about Mars is that long ago it probably had a thick atmosphere and seas of liquid water—the conditions we associate with development of life. There is even a chance that some form of life persists today in protected environments below the martian surface.</para>
+</section>
+<section id="fs-id1168048517238" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-id1168048363606">Venus, the nearest planet, is a great disappointment through the telescope because of its impenetrable cloud cover. Mars is more tantalizing, with dark markings and polar caps. Early in the twentieth century, it was widely believed that the “canals” of Mars indicated intelligent life there. Mars has only 11% the mass of Earth, but Venus is nearly our twin in size and mass. Mars rotates in 24 hours and has seasons like Earth; Venus has a retrograde rotation period of 243 days. Both planets have been extensively explored by spacecraft.</para>
+</section>
+ </content>
+</document>

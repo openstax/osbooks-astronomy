@@ -1,0 +1,99 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Colors of Stars</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59891</md:content-id>
+  <md:title>Colors of Stars</md:title>
+  <md:abstract/>
+  <md:uuid>ae03b328-30e7-4be5-a3fb-f1ea6f56407e</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1170326115608" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-id1168583080161">By the end of this section, you will be able to:</para>
+<list id="fs-id1170326461496">
+<item>Compare the relative temperatures of stars based on their colors</item>
+<item>Understand how astronomers use color indexes to measure the temperatures of stars</item>
+</list>
+</section>
+<para id="fs-id1170326380518">Look at the beautiful picture of the stars in the Sagittarius Star Cloud shown in <link target-id="OSC_Astro_17_02_Stars"/>. The stars show a multitude of colors, including red, orange, yellow, white, and blue. As we have seen, stars are not all the same color because they do not all have identical temperatures. To define <emphasis effect="italics">color</emphasis> precisely, astronomers have devised quantitative methods for characterizing the color of a star and then using those colors to determine stellar temperatures. In the chapters that follow, we will provide the temperature of the stars we are describing, and this section tells you how those temperatures are determined from the colors of light the stars give off.</para>
+<figure id="OSC_Astro_17_02_Stars">
+<title>Sagittarius Star Cloud.</title>
+<media id="fs-id1170326092676" alt="Hubble Space Telescope image of the Sagittarius Star Cloud. The image shows many stars of various colors, white, blue, red and yellow spread over a black background. The most common star colors in this image are red and yellow.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_17_02_Stars.jpg"/>
+</media>
+<caption>This image, which was taken by the Hubble Space Telescope, shows stars in the direction toward the center of the Milky Way Galaxy. The bright stars glitter like colored jewels on a black velvet background. The color of a star indicates its temperature. Blue-white stars are much hotter than the Sun, whereas red stars are cooler. On average, the stars in this field are at a distance of about 25,000 light-years (which means it takes light 25,000 years to traverse the distance from them to us) and the width of the field is about 13.3 light-years. (credit: Hubble Heritage Team (AURA/STScI/NASA))</caption>
+</figure>
+<section id="fs-id1170323799468">
+<title>Color and Temperature</title>
+<para id="fs-id1170326279356">As we learned in <link document="m59798">The Electromagnetic Spectrum</link> section, Wien’s law relates <term class="no-emphasis">stellar color</term> to <term class="no-emphasis">stellar temperature</term>. Blue colors dominate the visible light output of very hot stars (with much additional radiation in the ultraviolet). On the other hand, cool stars emit most of their visible light energy at red wavelengths (with more radiation coming off in the infrared) (<link target-id="fs-id1170326126997"/>). The color of a star therefore provides a measure of its intrinsic or true surface temperature (apart from the effects of reddening by interstellar dust, which will be discussed in <link document="m59908">Between the Stars: Gas and Dust in Space</link>). Color does not depend on the distance to the object. This should be familiar to you from everyday experience. The color of a traffic signal, for example, appears the same no matter how far away it is. If we could somehow take a star, observe it, and then move it much farther away, its apparent brightness (magnitude) would change. But this change in brightness is the same for all wavelengths, and so its color would remain the same.</para>
+<table id="fs-id1170326126997" summary="This table has 3 columns and 5 rows. The first row is the header and it labels each column, “Star Color”, “Approximate Temperature”, and “Example”. The column labeled “Star Color” has the values, “Blue”, “White”, “Yellow”, “Orange”, and “Red”. The column labeled “Approximate Temperature” has the values, “25,000 K”, “10,000 K”, “6000 K”, “4000 K”, and “3000 K”. The column labeled “Example” has the values, “Spica”, “Vega”, “The Sun”, “Aldebaran”, and “Betelgeuse”." class="top-titled">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3" align="center">Example Star Colors and Corresponding Approximate Temperatures</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Star Color</entry>
+<entry valign="top" align="center">Approximate Temperature</entry>
+<entry valign="top" align="center">Example</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Blue</entry>
+<entry valign="top" align="left">25,000 K</entry>
+<entry valign="top" align="left">Spica</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">White</entry>
+<entry valign="top" align="left">10,000 K</entry>
+<entry valign="top" align="left"><term class="no-emphasis">Vega</term></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Yellow</entry>
+<entry valign="top" align="left">6000 K</entry>
+<entry valign="top" align="left"><term class="no-emphasis">Sun</term></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Orange</entry>
+<entry valign="top" align="left">4000 K</entry>
+<entry valign="top" align="left">Aldebaran</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Red</entry>
+<entry valign="top" align="left">3000 K</entry>
+<entry valign="top" align="left"><term class="no-emphasis">Betelgeuse</term></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id11703265310300" class="astronomy link-to-learning">
+<para id="fs-id1170326514007">Go to this <link url="https://openstax.org/l/30UofCsimstar">interactive simulation from the University of Colorado</link> to see the color of a star changing as the temperature is changed.</para>
+</note>
+<para id="fs-id1170326575416">The hottest stars have temperatures of over 40,000 K, and the coolest stars have temperatures of about 2000 K. Our Sun’s surface temperature is about 6000 K; its peak wavelength color is a slightly greenish-yellow. In space, the Sun would look white, shining with about equal amounts of reddish and bluish wavelengths of light. It looks somewhat yellow as seen from Earth’s surface because our planet’s nitrogen molecules scatter some of the shorter (i.e., blue) wavelengths out of the beams of sunlight that reach us, leaving more long wavelength light behind. This also explains why the sky is blue: the blue sky is sunlight scattered by Earth’s atmosphere.</para>
+</section>
+<section id="fs-id1170326254396">
+<title>Color Indices</title>
+<para id="fs-id1170326311329">In order to specify the exact color of a star, astronomers normally measure a star’s <term class="no-emphasis">apparent brightness</term> through filters, each of which transmits only the light from a particular narrow band of wavelengths (colors). A crude example of a filter in everyday life is a green-colored, plastic, soft drink bottle, which, when held in front of your eyes, lets only the green colors of light through.</para>
+<para id="fs-id1170326486995">One commonly used set of filters in astronomy measures stellar brightness at three wavelengths corresponding to ultraviolet, blue, and yellow light. The filters are named: U (ultraviolet), B (blue), and V (visual, for yellow). These filters transmit light near the wavelengths of 360 nanometers (nm), 420 nm, and 540 nm, respectively. The brightness measured through each filter is usually expressed in magnitudes. The difference between any two of these magnitudes—say, between the blue and the visual magnitudes (B–V)—is called a <term>color index</term>.</para>
+
+<para id="fs-id1170326291708">By agreement among astronomers, the ultraviolet, blue, and visual magnitudes of the UBV system are adjusted to give a color index of 0 to a star with a surface temperature of about 10,000 K, such as <term class="no-emphasis">Vega</term>. The B–V color indexes of stars range from −0.4 for the bluest stars, with temperatures of about 40,000 K, to +2.0 for the reddest stars, with temperatures of about 2000 K. The B–V index for the Sun is about +0.65. Note that, by convention, the <term class="no-emphasis">B–V index</term> is always the “bluer” minus the “redder” color.</para>
+<para id="fs-id1170326495574">Why use a color index if it ultimately implies temperature? Because the brightness of a star through a filter is what astronomers actually measure, and we are always more comfortable when our statements have to do with measurable quantities.</para>
+</section>
+<section id="fs-id1170323846036" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-id1170324001083">Stars have different colors, which are indicators of temperature. The hottest stars tend to appear blue or blue-white, whereas the coolest stars are red. A color index of a star is the difference in the magnitudes measured at any two wavelengths and is one way that astronomers measure and express the temperature of stars.</para>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1170326524074">
+<term>color index</term>
+<meaning id="fs-id1170326470535">difference between the magnitudes of a star or other object measured in light of two different spectral regions—for example, blue minus visual (B–V) magnitudes</meaning>
+</definition>
+</glossary>
+</document>

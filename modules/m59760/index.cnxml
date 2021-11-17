@@ -1,0 +1,91 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Universe of the Very Small</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59760</md:content-id>
+  <md:title>The Universe of the Very Small</md:title>
+  <md:abstract/>
+  <md:uuid>15fa90be-da2d-48d6-bae9-f3b84d1d3960</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1167470911704">The foregoing discussion has likely impressed on you that the universe is extraordinarily large and extraordinarily empty. On average, it is 10,000 times more empty than our Galaxy. Yet, as we have seen, even the Galaxy is mostly empty space. The air we breathe has about 10<sup>19</sup> atoms in each cubic centimeter—and we usually think of air as empty space. In the interstellar gas of the Galaxy, there is about one atom in every cubic centimeter. Intergalactic space is filled so sparsely that to find one atom, on average, we must search through a cubic meter of space. Most of the universe is fantastically empty; places that are dense, such as the human body, are tremendously rare.</para>
+<para id="fs-id1167467265057">Even our most familiar solids are mostly space. If we could take apart such a solid, piece by piece, we would eventually reach the tiny molecules from which it is formed. Molecules are the smallest particles into which any matter can be divided while still retaining its chemical properties. A molecule of water (H<sub>2</sub>O), for example, consists of two hydrogen atoms and one oxygen atom bonded together.</para>
+<para id="fs-id1167470981808">Molecules, in turn, are built of atoms, which are the smallest particles of an element that can still be identified as that element. For example, an atom of gold is the smallest possible piece of gold. Nearly 100 different kinds of atoms (elements) exist in nature. Most of them are rare, and only a handful account for more than 99% of everything with which we come in contact. The most abundant elements in the cosmos today are listed in <link target-id="fs-id1167470992433"/>; think of this table as the “greatest hits” of the universe when it comes to elements. Note that the list includes the four elements most common in life on Earth—hydrogen, carbon, nitrogen, and oxygen.</para>
+<table id="fs-id1167470992433" summary="This table has 3 columns and 11 rows. The first row is a header row and it labels each column, “Element”, “Symbol”, and “Number of Atoms per Million Hydrogen Atoms”. A footnote in the “Elements” column reads: “This list of elements is arranged in order of the atomic number, which is the number of protons in each nucleus”. Under the “Elements” column are the values, “Hydrogen”, “Helium”, “Carbon”, “Nitrogen”, “Oxygen”, “Neon”, “Magnesium”, “Silicon”, “Sulfur”, and “Iron”. Under the “Symbol” column are the values, “H”, “He”, “C”, “N”, “O”, “Ne”, “Mg”, “Si”, “S”, and “Fe”. Under the “Number of Atoms per Million Hydrogen Atoms” column are the values, “1,000,000”, “80,000”, “450”, “92”, “740”, “130”, “40”, “37”, “19”, and “32”." class="top-titled">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3" align="center">The Cosmically Abundant Elements</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Element<footnote id="fs-id1167467339794">This list of elements is arranged in order of the atomic number, which is the number of protons in each nucleus.</footnote></entry>
+<entry valign="top" align="center">Symbol</entry>
+<entry valign="top" align="center">Number of Atoms per<newline/>Million Hydrogen Atoms</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Hydrogen</entry>
+<entry valign="top" align="left">H</entry>
+<entry valign="top" align="left">1,000,000</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Helium</entry>
+<entry valign="top" align="left">He</entry>
+<entry valign="top" align="left">80,000</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Carbon</entry>
+<entry valign="top" align="left">C</entry>
+<entry valign="top" align="left">450</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Nitrogen</entry>
+<entry valign="top" align="left">N</entry>
+<entry valign="top" align="left">92</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Oxygen</entry>
+<entry valign="top" align="left">O</entry>
+<entry valign="top" align="left">740</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Neon</entry>
+<entry valign="top" align="left">Ne</entry>
+<entry valign="top" align="left">130</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Magnesium</entry>
+<entry valign="top" align="left">Mg</entry>
+<entry valign="top" align="left">40</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Silicon</entry>
+<entry valign="top" align="left">Si</entry>
+<entry valign="top" align="left">37</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Sulfur</entry>
+<entry valign="top" align="left">S</entry>
+<entry valign="top" align="left">19</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Iron</entry>
+<entry valign="top" align="left">Fe</entry>
+<entry valign="top" align="left">32</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1167470762978">All atoms consist of a central, positively charged nucleus surrounded by negatively charged electrons. The bulk of the matter in each atom is found in the nucleus, which consists of positive protons and electrically neutral neutrons all bound tightly together in a very small space. Each element is defined by the number of protons in its atoms. Thus, any atom with 6 protons in its nucleus is called <emphasis effect="italics">carbon</emphasis>, any with 50 protons is called <emphasis effect="italics">tin</emphasis>, and any with 70 protons is called <emphasis effect="italics">ytterbium</emphasis>. (For a list of the elements, see <link document="m60004">Appendix K</link>.)</para>
+<para id="fs-id1167467389296">The distance from an atomic nucleus to its electrons is typically 100,000 times the size of the nucleus itself. This is why we say that even solid matter is mostly space. The typical atom is far emptier than the solar system out to Neptune. (The distance from Earth to the Sun, for example, is only 100 times the size of the Sun.) This is one reason atoms are not like miniature solar systems.</para>
+<para id="fs-id1167467579681">Remarkably, physicists have discovered that everything that happens in the universe, from the smallest atomic nucleus to the largest superclusters of galaxies, can be explained through the action of only four forces: gravity, electromagnetism (which combines the actions of electricity and magnetism), and two forces that act at the nuclear level. The fact that there are four forces (and not a million, or just one) has puzzled physicists and astronomers for many years and has led to a quest for a unified picture of nature.</para>
+<note id="fs-id1167470923282" class="astronomy link-to-learning">
+<para id="fs-id1167470696965">To construct an atom, particle by particle, check out this <link url="https://openstax.org/l/30buildanatom">guided animation</link> for building an atom.</para>
+</note>
+ </content>
+</document>

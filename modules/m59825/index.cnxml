@@ -1,0 +1,158 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Global Perspective</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59825</md:content-id>
+  <md:title>The Global Perspective</md:title>
+  <md:abstract/>
+  <md:uuid>7c4fae08-3cc6-4e08-9ee0-12158c0f3071</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1170326532478" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-id1168584187044">By the end of this section, you will be able to:</para>
+<list id="fs-id1170326271344">
+<item>Describe the components of Earth’s interior and explain how scientists determined its structure</item>
+<item>Specify the origin, size, and extent of Earth’s magnetic field</item>
+</list>
+</section>
+<para id="fs-id1170326339941"><term class="no-emphasis">Earth</term> is a medium-size planet with a diameter of approximately 12,760 kilometers (<link target-id="OSC_Astro_08_01_PlanetEar"/>). As one of the inner or terrestrial planets, it is composed primarily of heavy elements such as iron, silicon, and oxygen—very different from the composition of the Sun and stars, which are dominated by the light elements hydrogen and helium. Earth’s orbit is nearly circular, and Earth is warm enough to support liquid water on its surface. It is the only planet in our solar system that is neither too hot nor too cold, but “just right” for the development of life as we know it. Some of the basic properties of Earth are summarized in <link target-id="fs-id1170324015901"/>.</para>
+<figure id="OSC_Astro_08_01_PlanetEar">
+<title>Blue Marble.</title>
+<media id="fs-id1170323965161" alt="Image of Earth from Space. This photograph shows Africa, the Arabian Peninsula, Madagascar, and Antarctica surrounded by the Atlantic &amp; Indian oceans. Numerous cloud formations are scattered across the globe.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_08_01_PlanetEar.jpg"/>
+</media>
+<caption>This image of Earth from space, taken by the Apollo 17 astronauts, is known as the “Blue Marble.” This is one of the rare images of a full Earth taken during the Apollo program; most images show only part of Earth’s disk in sunlight. (credit: modification of work by NASA)</caption>
+</figure>
+<table id="fs-id1170324015901" summary="This table has 2 columns and 10 rows. There is no header row. The first column has the values, “Semimajor axis”, “Period”, “Mass”, “Diameter”, “Radius”, “Escape velocity”, “Rotational period”, “Surface area”, “Density”, and “Atmospheric pressure”. The second column has the values, “1.00 AU”, “1.00 year”, “5.98 × 1024 kg”, “12,756 km”, “6378 km”, “11.2 km/s”, “23 h 56 m 4 s”, “5.1 × 108 km2”, “5.514 g/cm3”, and “1.00 bar”." class="top-titled">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry namest="c1" nameend="c2" align="center">Some Properties of Earth</entry>
+</row>
+<row valign="top">
+<entry align="center">Property</entry>
+<entry align="center">Measurement</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Semimajor axis</entry>
+<entry valign="top" align="left">1.00 AU</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Period</entry>
+<entry valign="top" align="left">1.00 year</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mass</entry>
+<entry valign="top" align="left">5.98 × 10<sup>24</sup> kg</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Diameter</entry>
+<entry valign="top" align="left">12,756 km</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Radius</entry>
+<entry valign="top" align="left">6378 km</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Escape velocity</entry>
+<entry valign="top" align="left">11.2 km/s</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Rotational period</entry>
+<entry valign="top" align="left">23 h 56 m 4 s</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Surface area</entry>
+<entry valign="top" align="left">5.1 × 10<sup>8</sup> km<sup>2</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Density</entry>
+<entry valign="top" align="left">5.514 g/cm<sup>3</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Atmospheric pressure</entry>
+<entry valign="top" align="left">1.00 bar</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<section id="fs-id1170323971898">
+<title>Earth’s Interior</title>
+<para id="fs-id1170326126734">The interior of a planet—even our own Earth—is difficult to study, and its composition and structure must be determined indirectly. Our only direct experience is with the outermost skin of Earth<sup>’</sup>s crust, a layer no more than a few kilometers deep. It is important to remember that, in many ways, we know less about our own planet 5 kilometers beneath our feet than we do about the surfaces of Venus and Mars.</para>
+<para id="fs-id1170323965842">Earth is composed largely of metal and silicate rock (see the <link document="m59819">Composition and Structure of Planets</link> section). Most of this material is in a solid state, but some of it is hot enough to be molten. The structure of material in <term class="no-emphasis">Earth’s interior</term> has been probed in considerable detail by measuring the transmission of <term>seismic waves</term> through Earth. These are waves that spread through the interior of Earth from earthquakes or explosion sites.</para>
+<para id="fs-id1170326576267">Seismic waves travel through a planet rather like sound waves through a struck bell. Just as the sound frequencies vary depending on the material the bell is made of and how it is constructed, so a planet<sup>’</sup>s response depends on its composition and structure. By monitoring the seismic waves in different locations, scientists can learn about the layers through which the waves have traveled. Some of these vibrations travel along the surface; others pass directly through the interior. Seismic studies have shown that Earth’s interior consists of several distinct layers with different compositions, illustrated in <link target-id="OSC_Astro_08_01_Interior"/>. As waves travel through different materials in Earth’s interior, the waves—just like light waves in telescope lenses—bend (or refract) so that some seismic stations on Earth receive the waves and others are in “shadows.” Detecting the waves in a network of seismographs helps scientists construct a model of Earth’s interior, showing liquid and solid layers. This type of seismic imaging is not unlike that used in ultrasound, a type of imaging used to see inside the body.</para>
+<figure id="OSC_Astro_08_01_Interior">
+<title>Interior Structure of Earth.</title>
+<media id="fs-id1170324091064" alt="Cut-away View of the Interior of the Earth. This illustration shows the globe of the Earth with a wedge-shaped portion removed to reveal the interior. The inner core is labeled and represented as a small yellow sphere at the center. Next, the core is shown in orange and surrounds the inner core. The larger mantle surrounds the core and is drawn in taupe. Finally, the crust is indicated as a thin blue line.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_08_01_Interior.jpg"/>
+</media>
+<caption>The crust, mantle, and inner and outer cores (solid and liquid, respectively) as shown as revealed by seismic studies.</caption>
+</figure>
+<para id="fs-id1170323968044">The top layer is the <term>crust</term>, the part of Earth we know best (<link target-id="OSC_Astro_08_01_Generate"/>). Oceanic crust covers 55% of <term class="no-emphasis">Earth’s surface</term> and lies mostly submerged under the oceans. It is typically about 6 kilometers thick and is composed of volcanic rocks called <term>basalt</term>. Produced by the cooling of volcanic lava, basalts are made primarily of the elements silicon, oxygen, iron, aluminum, and magnesium. The continental crust covers 45% of the surface, some of which is also beneath the oceans. The continental crust is 20 to 70 kilometers thick and is composed predominantly of a different volcanic class of silicates (rocks made of silicon and oxygen) called <term>granite</term>. These crustal rocks, both oceanic and continental, typically have densities of about 3 g/cm<sup>3</sup>. (For comparison, the density of water is 1 g/cm<sup>3</sup>.) The crust is the easiest layer for geologists to study, but it makes up only about 0.3% of the total mass of Earth.</para>
+<figure id="OSC_Astro_08_01_Generate">
+<title>Earth’s Crust.</title>
+<media id="fs-id1170323979144" alt="Computer-generated image of the entire Earth’s crust, including the details of the ocean floor.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_08_01_Generate.jpg"/>
+</media>
+<caption>This computer-generated image shows the surface of <term class="no-emphasis">Earth’s crust</term> as determined from satellite images and ocean floor radar mapping. Oceans and lakes are shown in blue, with darker areas representing depth. Dry land is shown in shades of green and brown, and the Greenland and Antarctic ice sheets are depicted in shades of white. (credit: modification of work by C. Amante, B. W. Eakins, National Geophysical Data Center, NOAA)</caption>
+</figure>
+<para id="fs-id1170326532249">The largest part of the solid Earth, called the <term>mantle</term>, stretches from the base of the crust downward to a depth of 2900 kilometers. The mantle is more or less solid, but at the temperatures and pressures found there, mantle rock can deform and flow slowly. The density in the mantle increases downward from about 3.5 g/cm<sup>3</sup> to more than 5 g/cm<sup>3</sup> as a result of the compression produced by the weight of overlying material. Samples of upper mantle material are occasionally ejected from volcanoes, permitting a detailed analysis of its chemistry.</para>
+<para id="fs-id1170326129739">Beginning at a depth of 2900 kilometers, we encounter the dense metallic <term>core</term> of Earth. With a diameter of 7000 kilometers, our core is substantially larger than the entire planet Mercury. The outer core is liquid, but the innermost part of the core (about 2400 kilometers in diameter) is probably solid. In addition to iron, the core probably also contains substantial quantities of nickel and sulfur, all compressed to a very high density.</para>
+<para id="fs-id1170326114874">The separation of Earth into layers of different densities is an example of <emphasis effect="italics">differentiation,</emphasis> the process of sorting the major components of a planet by density. The fact that Earth is differentiated suggests that it was once warm enough for its interior to melt, permitting the heavier metals to sink to the center and form the dense core. Evidence for differentiation comes from comparing the planet’s bulk density (5.5 g/cm<sup>3</sup>) with the surface materials (3 g/cm<sup>3</sup>) to suggest that denser material must be buried in the core.</para>
+</section>
+<section id="fs-id1170326097257">
+<title>Magnetic Field and Magnetosphere</title>
+<para id="fs-id1170326254336">We can find additional clues about Earth’s interior from its magnetic field. Our planet behaves in some ways as if a giant bar magnet were inside it, aligned approximately with the rotational poles of Earth. This magnetic field is generated by moving material in Earth’s liquid metallic core. As the liquid metal inside Earth circulates, it sets up a circulating electric current. When many charged particles are moving together like that—in the laboratory or on the scale of an entire planet—they produce a magnetic field.</para>
+<para id="fs-id1170326576651"><term class="no-emphasis">Earth’s magnetic field</term> extends into surrounding space. When a charged particle encounters a magnetic field in space, it becomes trapped in the magnetic zone. Above Earth’s atmosphere, our field is able to trap small quantities of electrons and other atomic particles. This region, called the <term>magnetosphere</term>, is defined as the zone within which Earth’s magnetic field dominates over the weak interplanetary magnetic field that extends outward from the Sun (<link target-id="OSC_Astro_08_01_Magnetosph"/>).</para>
+<figure id="OSC_Astro_08_01_Magnetosph">
+<title>Earth’s Magnetosphere.</title>
+<media id="fs-id1170323807559" alt="Illustration of the Earth’s Magnetosphere. At left an arrow points leftward indicating the direction of the Sun. The Solar wind is drawn as numerous particles coming from the left. Slightly off-center to the right the Earth is shown, with an arrow for the north pole pointing upward, and one pointing down for the south pole. To the left and right of the Earth are two nested purple crescents with their points touching the poles of the Earth. These areas are labeled as the Van Allen belts. Outside the Van Allen belts the lines of the magnetic field are drawn in white. On the left side of the Earth (facing the Sun in this diagram), the lines originate at the north pole and curve out away from the surface then curve back to end at the south pole. Four of these curves are shown, each extending further out into space than the one proceeding it. On the right side of the Earth (facing away from the Sun), the magnetic field lines are also drawn, but have very different shapes than those on the left. The innermost line on the right looks very similar to the innermost line of the left. But each successive line moves further and further out into space before returning to the poles. Thus the magnetic field is much more elongated in shape on the side of the Earth facing away from the Sun.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_08_01_Magnetosph.jpg"/>
+</media>
+<caption>A cross-sectional view of our magnetosphere (or zone of magnetic influence), as revealed by numerous spacecraft missions. Note how the wind of charged particles from the Sun “blows” the magnetic field outward like a wind sock.</caption>
+</figure>
+<para id="fs-id1170326358332">Where do the charged particles trapped in our magnetosphere come from? They flow outward from the hot surface of the Sun; this is called the <emphasis effect="italics">solar wind</emphasis>. It not only provides particles for Earth’s magnetic field to trap, it also stretches our field in the direction pointing away from the Sun. Typically, <term class="no-emphasis">Earth’s magnetosphere</term> extends about 60,000 kilometers, or 10 Earth radii, in the direction of the Sun. But, in the direction away from the Sun, the magnetic field can reach as far as the orbit of the Moon, and sometimes farther.</para>
+<para id="fs-id1170326285503">The magnetosphere was discovered in 1958 by instruments on the first US Earth satellite, <emphasis effect="italics">Explorer 1</emphasis>, which recorded the ions (charged particles) trapped in its inner part. The regions of high-energy ions in the magnetosphere are often called the <emphasis effect="italics">Van Allen belts</emphasis> in recognition of the University of Iowa professor who built the scientific instrumentation for <emphasis effect="italics">Explorer 1</emphasis>. Since 1958, hundreds of spacecraft have explored various regions of the magnetosphere. You can read more about its interaction with the Sun in a later chapter.</para>
+</section>
+<section id="fs-id1164755101280" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-id1164754899150">Earth is the prototype terrestrial planet. Its interior composition and structure are probed using seismic waves. Such studies reveal that Earth has a metal core and a silicate mantle. The outer layer, or crust, consists primarily of oceanic basalt and continental granite. A global magnetic field, generated in the core, produces Earth’s magnetosphere, which can trap charged atomic particles.</para>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id1170326254498">
+<term>basalt</term>
+<meaning id="fs-id1170326285800">igneous rock produced by the cooling of lava; makes up most of Earth’s oceanic crust and is found on other planets that have experienced extensive volcanic activity</meaning>
+</definition>
+<definition id="fs-id1170326274954">
+<term>core</term>
+<meaning id="fs-id1170326451131">the central part of the planet; consists of higher density material</meaning>
+</definition>
+<definition id="fs-id1170326318543">
+<term>crust</term>
+<meaning id="fs-id1170326274980">the outer layer of a terrestrial planet</meaning>
+</definition>
+<definition id="fs-id1170326036772">
+<term>granite</term>
+<meaning id="fs-id1170326445646">a type of igneous silicate rock that makes up most of Earth’s continental crust</meaning>
+</definition>
+<definition id="fs-id1170326160888">
+<term>magnetosphere</term>
+<meaning id="fs-id1170326085382">the region around a planet in which its intrinsic magnetic field dominates the interplanetary field carried by the solar wind; hence, the region within which charged particles can be trapped by the planetary magnetic field</meaning>
+</definition>
+<definition id="fs-id1170326450163">
+<term>mantle</term>
+<meaning id="fs-id1170326176944">the largest part of Earth’s interior; lies between the crust and the core</meaning>
+</definition>
+<definition id="fs-id1170326029903">
+<term>seismic wave</term>
+<meaning id="fs-id1170326563665">a vibration that travels through the interior of Earth or any other object; on Earth, these are generally caused by earthquakes</meaning>
+</definition>
+</glossary>
+</document>

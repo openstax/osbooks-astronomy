@@ -1,0 +1,220 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Exploring the Outer Planets</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59853</md:content-id>
+  <md:title>Exploring the Outer Planets</md:title>
+  <md:abstract/>
+  <md:uuid>d9cfd957-5241-4611-abff-426e7b4f7a0c</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1168466277658" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-id1168584108202">By the end of this section, you will be able to:</para>
+<list id="fs-id1168466150866">
+<item>Provide an overview of the composition of the giant planets</item>
+<item>Chronicle the robotic exploration of the outer solar system</item>
+<item>Summarize the missions sent to orbit the gas giants</item>
+</list>
+</section>
+<para id="fs-id1168469859612">The <term class="no-emphasis">giant planets</term> hold most of the mass in our planetary system. Jupiter alone exceeds the mass of all the other planets combined (<link target-id="OSC_Astro_11_01_Jupiter"/>). The material available to build these planets can be divided into three classes by what they are made of: “gases,” “ices,” and “rocks” (see <link target-id="fs-id1168466145735"/>). The “gases” are primarily hydrogen and helium, the most abundant elements in the universe. The way it is used here, the term “ices” refers to composition only and not whether a substance is actually in a solid state. “Ices” means compounds that form from the next most abundant elements: oxygen, carbon, and nitrogen. Common ices are water, methane, and ammonia, but ices may also include carbon monoxide, carbon dioxide, and others. “Rocks” are even less abundant than ices, and include everything else: magnesium, silicon, iron, and so on.</para>
+<figure id="OSC_Astro_11_01_Jupiter">
+<title>Jupiter.</title>
+<media id="fs-id1168469706458" alt="Photograph of Jupiter. Taken from the Cassini spacecraft, the alternating light and dark cloud bands are visible over the entire planet. The Great Red Spot is at lower right. Also seen is the shadow of the moon Europa at lower left.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_11_01_Jupiter.jpg"/>
+</media>
+<caption>The Cassini spacecraft imaged <term class="no-emphasis">Jupiter</term> on its way to Saturn in 2012. The giant storm system called the Great Red Spot is visible to the lower right. The dark spot to the lower left is the shadow of Jupiter’s moon Europa. (credit: modification of work by NASA/JPL)</caption>
+</figure>
+<table id="fs-id1168466145735" summary="This table has three columns and seven rows. The first row is a header row and it labels each column, “Type of material”, “Name” and “Percent (by mass)”. Under the “Type of material” column are the values: “Gas”, “Gas”, “Ice”, “Ice”, “Ice”, “Rock”. Under the “Name” column are the values: “Hydrogen (H2)”, “Helium (He)”, “Water (H2O)”, “Methane (CH4)”, “Ammonia (NH3)” and “Magnesium (Mg), Iron (Fe), Silicon (Si)”. Under the “Percent (by mass)” column are the values: “75”, “24”, “0.6”, “0.4”, “0.1” and “0.3”." class="top-titled">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3" align="center">Abundances in the Outer Solar System</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Type of Material</entry>
+<entry valign="top" align="center">Name</entry>
+<entry valign="top" align="center">Approximate % (by Mass)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Gas</entry>
+<entry valign="top" align="left">Hydrogen (H<sub>2</sub>)</entry>
+<entry valign="top" align="left">75</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Gas</entry>
+<entry valign="top" align="left">Helium (He)</entry>
+<entry valign="top" align="left">24</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Ice</entry>
+<entry valign="top" align="left">Water (H<sub>2</sub>O)</entry>
+<entry valign="top" align="left">0.6</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Ice</entry>
+<entry valign="top" align="left">Methane (CH<sub>4</sub>)</entry>
+<entry valign="top" align="left">0.4</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Ice</entry>
+<entry valign="top" align="left">Ammonia (NH<sub>3</sub>)</entry>
+<entry valign="top" align="left">0.1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Rock</entry>
+<entry valign="top" align="left">Magnesium (Mg), iron (Fe), silicon (Si)</entry>
+<entry valign="top" align="left">0.3</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1168469639668">In the outer solar system, gases dominate the two largest planets, <term class="no-emphasis">Jupiter</term> and <term class="no-emphasis">Saturn</term>, hence their nickname “gas giants.” <term class="no-emphasis">Uranus</term> and <term class="no-emphasis">Neptune</term> are called “ice giants” because their interiors contain far more of the “ice” component than their larger cousins. The chemistry for all four giant planet atmospheres is dominated by hydrogen. This hydrogen caused the chemistry of the outer solar system to become <emphasis effect="italics">reducing,</emphasis> meaning that other elements tend to combine with hydrogen first. In the early solar system, most of the oxygen combined with hydrogen to make H<sub>2</sub>O and was thus unavailable to form the kinds of oxidized compounds with other elements that are more familiar to us in the inner solar system (such as CO<sub>2</sub>). As a result, the compounds detected in the atmosphere of the giant planets are mostly hydrogen-based gases such as methane (CH<sub>4</sub>) and ammonia (NH<sub>3</sub>), or more complex hydrocarbons (combinations of hydrogen and carbon) such as ethane (C<sub>2</sub>H<sub>6</sub>) and acetylene (C<sub>2</sub>H<sub>2</sub>).</para>
+<section id="fs-id1168469838200">
+<title>Exploration of the Outer Solar System So Far</title>
+<para id="fs-id1168466338754">Eight spacecraft, seven from the United States and one from Europe, have penetrated beyond the asteroid belt into the realm of the giants. <link target-id="fs-id1168466163447"/> summarizes the spacecraft missions to the outer solar system.</para>
+<table id="fs-id1168466163447" summary="This table has four columns and sixteen rows. The first row is a header row and it labels each column, “Planet”, “Spacecraft1”, “Encounter Date” and ‘Type”. Under the “Planet” column are the values: “Jupiter”, nothing, nothing, nothing, nothing, nothing, nothing, nothing, nothing, “Saturn”, nothing, nothing, nothing, “Uranus” and “Neptune”. Under the “Spacecraft1” column are the values: “Pioneer 10”, “Pioneer 11”, “Voyager 1”, “Voyager 2”, “Ulysses”, “Galileo”, “Cassini”, “New Horizons”, “Juno”, “Pioneer 11”, “Voyager 1”, “Voyager 2”, “Cassini”, “Voyager 2” and “Voyager 2”. Under the “Encounter Date” column are the values: “December 1973”, “December 1974”, “March 1979”, “July 1979”, “February 1992”, “December 1995”, “December 2002”, “February 2007”, “July 2016”, “September 1979”, “November 1980”, “August 1981”, “July 2004. Saturn orbit injection 2000”, “January 1986” and “August 1989”. Under the “Type” column are the values: “Flyby”, “Flyby”, “Flyby”, “Flyby”, “Flyby during gravity assist”, “Orbiter and probe”, “Flyby”, “Flyby during gravity assist”, “Orbiter”, “Flyby”, “Flyby”, “Flyby”, “Orbiter”, “Flyby” and “Flyby”." class="top-titled">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c4" align="center">Missions to the Giant Planets</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Planet</entry>
+<entry valign="top" align="center">Spacecraft<footnote id="fs-id1168466162585">Both the Ulysses and the New Horizons spacecraft (designed to study the Sun and Pluto, respectively) flew past Jupiter for a gravity boost (gaining energy by “stealing” a little bit from the giant planet’s rotation).</footnote></entry>
+<entry valign="top" align="center">Encounter Date</entry>
+<entry valign="top" align="center">Type</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" morerows="8"><term class="no-emphasis">Jupiter</term></entry>
+<entry valign="top" align="left">Pioneer 10</entry>
+<entry valign="top" align="left">December 1973</entry>
+<entry valign="top" align="left">Flyby</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Pioneer 11</entry>
+<entry valign="top" align="left">December 1974</entry>
+<entry valign="top" align="left">Flyby</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Voyager 1</entry>
+<entry valign="top" align="left">March 1979</entry>
+<entry valign="top" align="left">Flyby</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Voyager 2</entry>
+<entry valign="top" align="left">July 1979</entry>
+<entry valign="top" align="left">Flyby</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Ulysses</entry>
+<entry valign="top" align="left">February 1992</entry>
+<entry valign="top" align="left">Flyby during gravity assist</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Galileo</entry>
+<entry valign="top" align="left">December 1995</entry>
+<entry valign="top" align="left">Orbiter and probe</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Cassini</entry>
+<entry valign="top" align="left">December 2002</entry>
+<entry valign="top" align="left">Flyby</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">New Horizons</entry>
+<entry valign="top" align="left">February 2007</entry>
+<entry valign="top" align="left">Flyby during gravity assist</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Juno</entry>
+<entry valign="top" align="left">July 2016</entry>
+<entry valign="top" align="left">Orbiter</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="3"><term class="no-emphasis">Saturn</term></entry>
+<entry valign="top" align="left">Pioneer 11</entry>
+<entry valign="top" align="left">September 1979</entry>
+<entry valign="top" align="left">Flyby</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Voyager 1</entry>
+<entry valign="top" align="left">November 1980</entry>
+<entry valign="top" align="left">Flyby</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Voyager 2</entry>
+<entry valign="top" align="left">August 1981</entry>
+<entry valign="top" align="left">Flyby</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Cassini</entry>
+<entry valign="top" align="left">July 2004</entry>
+<entry valign="top" align="left">Orbiter</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis">Uranus</term></entry>
+<entry valign="top" align="left">Voyager 2</entry>
+<entry valign="top" align="left">January 1986</entry>
+<entry valign="top" align="left">Flyby</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis">Neptune</term></entry>
+<entry valign="top" align="left">Voyager 2</entry>
+<entry valign="top" align="left">August 1989</entry>
+<entry valign="top" align="left">Flyby</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1168466094544">The challenges of exploring so far away from Earth are considerable. Flight times to the giant planets are measured in years to decades, rather than the months required to reach Venus or Mars. Even at the speed of light, messages take hours to pass between Earth and the spacecraft. If a problem develops near Saturn, for example, a wait of hours for the alarm to reach Earth and for instructions to be routed back to the spacecraft could spell disaster. Spacecraft to the outer solar system must therefore be highly reliable and capable of a greater degree of independence and autonomy. Outer solar system missions also must carry their own power sources since the Sun is too far away to provide enough energy. Heaters are required to keep instruments at proper operating temperatures, and spacecraft must have radio transmitters powerful enough to send their data to receivers on distant Earth.</para>
+<para id="fs-id1168469428508">The first spacecraft to investigate the regions past Mars were the NASA Pioneers 10 and 11, launched in 1972 and 1973 as pathfinders to <term class="no-emphasis">Jupiter</term>. One of their main objectives was simply to determine whether a spacecraft could actually navigate through the belt of asteroids that lies beyond Mars without getting destroyed by collisions with asteroidal dust. Another objective was to measure the radiation hazards in the <emphasis effect="italics">magnetosphere</emphasis> (or zone of magnetic influence) of Jupiter. Both spacecraft passed through the <term class="no-emphasis">asteroid belt</term> without incident, but the energetic particles in Jupiter’s magnetic field nearly wiped out their electronics, providing information necessary for the safe design of subsequent missions.</para>
+<para id="fs-id1168469450139"><term class="no-emphasis">Pioneer 10</term> flew past Jupiter in 1973, after which it sped outward toward the limits of the solar system. <term class="no-emphasis">Pioneer 11</term> undertook a more ambitious program, using the gravity of Jupiter to aim for Saturn, which it reached in 1979. The twin Voyager spacecraft launched the next wave of outer planet exploration in 1977. Voyagers 1 and 2 each carried 11 scientific instruments, including cameras and spectrometers, as well as devices to measure the characteristics of planetary magnetospheres. Since they kept going outward after their planetary encounters, these are now the most distant spacecraft ever launched by humanity.</para>
+<para id="fs-id1168469874620">Voyager 1 reached Jupiter in 1979 and used a gravity assist from that planet to take it on to Saturn in 1980. Voyager 2 arrived at Jupiter four months later, but then followed a different path to visit all the outer planets, reaching Saturn in 1981, Uranus in 1986, and Neptune in 1989. This trajectory was made possible by the approximate alignment of the four giant planets on the same side of the Sun. About once every 175 years, these planets are in such a position, and it allows a single spacecraft to visit them all by using gravity-assisted flybys to adjust course for each subsequent encounter; such a maneuver has been nicknamed a “Grand Tour” by astronomers.</para>
+<note id="fs-id1168469492215" class="astronomy link-to-learning">
+<para id="fs-id1168469480110">The Jet Propulsion Laboratory has a nice video called <link url="https://openstax.org/l/30JPLGrandT">Voyager: The Grand Tour</link> that describes the Voyager mission and what it found.</para>
+</note>
+<note id="fs-id1168469466433" class="astronomy making-connections">
+<title>Engineering and Space Science: Teaching an Old Spacecraft New Tricks</title>
+<para id="fs-id1168466278077">By the time <term class="no-emphasis">Voyager 2</term> arrived at <term class="no-emphasis">Neptune</term> in 1989, 12 years after its launch, the spacecraft was beginning to show signs of old age. The arm on which the camera and other instruments were located was “arthritic”: it could no longer move easily in all directions. The communications system was “hard of hearing”: part of its radio receiver had stopped working. The “brains” had significant “memory loss”: some of the onboard computer memory had failed. And the whole spacecraft was beginning to run out of energy: its generators had begun showing serious signs of wear.</para>
+<para id="fs-id1168469474648">To make things even more of a challenge, Voyager’s mission at Neptune was in many ways the most difficult of all four flybys. For example, since sunlight at Neptune is 900 times weaker than at Earth, the onboard camera had to take much longer exposures in this light-starved environment. This was a nontrivial requirement, given that the spacecraft was hurtling by Neptune at ten times the speed of a rifle bullet.</para>
+<para id="fs-id1168469408112">The solution was to swivel the camera backward at exactly the rate that would compensate for the forward motion of the spacecraft. Engineers had to preprogram the ship’s computer to execute an incredibly complex series of maneuvers for each image. The beautiful Voyager images of Neptune are a testament to the ingenuity of spacecraft engineers.</para>
+<para id="fs-id1168469384909">The sheer distance of the craft from its controllers on Earth was yet another challenge. Voyager 2 received instructions and sent back its data via on-board radio transmitter. The distance from Earth to Neptune is about 4.8 billion kilometers. Over this vast distance, the power that reached us from Voyager 2 at Neptune was approximately10<sup>–16</sup> watts, or 20 billion times less power than it takes to operate a digital watch. Thirty-eight different antennas on four continents were used by NASA to collect the faint signals from the spacecraft and decode the precious information about Neptune that they contained.</para>
+</note>
+</section>
+<section id="fs-id1168469440698">
+<title>Enter the Orbiters: Galileo, Cassini, and Juno</title><para id="fs-id1168469613798">The Pioneer and Voyager missions were flybys of the giant planets: they each produced only quick looks before the spacecraft sped onward. For more detailed studies of these worlds, we require spacecraft that can go into orbit around a planet. For Jupiter and Saturn, these orbiters were the Galileo, Cassini, and Juno spacecraft. To date, no orbiter missions have been started for Uranus and Neptune, although planetary scientists have expressed keen interest.</para><para id="fs-id1168466109936">The Galileo spacecraft was launched toward Jupiter in 1989 and arrived in 1995. Galileo began its investigations by deploying an entry probe into Jupiter, for the first direct studies of the planet’s outer atmospheric layers.</para>
+<para id="fs-id1168469470254">The probe plunged at a shallow angle into Jupiter’s atmosphere, traveling at a speed of 50 kilometers <emphasis effect="italics">per second</emphasis>—that’s fast enough to fly from New York to San Francisco in 100 seconds! This was the highest speed at which any probe has so far entered the atmosphere of a planet, and it put great demands on the heat shield protecting it. The high entry speed was a result of acceleration by the strong gravitational attraction of Jupiter.</para>
+<para id="fs-id1168469472634">Atmospheric friction slowed the probe within 2 minutes, producing temperatures at the front of its heat shield as high as 15,000 °C. As the probe’s speed dropped to 2500 kilometers per hour, the remains of the glowing heat shield were jettisoned, and a parachute was deployed to lower the instrumented probe spacecraft more gently into the atmosphere (<link target-id="OSC_Astro_11_01_Galileo"/>). The data from the probe instruments were relayed to Earth via the main Galileo spacecraft.</para><figure id="OSC_Astro_11_01_Galileo"><title>Galileo Probe Falling into Jupiter. Galileo Probe and Juno Image of Jupiter’s South Pole.</title><media id="fs-id1168469681076" alt="Artist’s depiction of the Galileo Probe entering Jupiter’s atmosphere. At upper left the parachute is seen, connected by a cable to the spherical-shaped probe near the center of the illustration. At lower right, the protective heat shield falls ahead of the probe, protecting it from the heat of entry.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_11_01_Galileo_new.jpg"/>
+</media>
+
+<caption> (a) This artist’s depiction shows the Galileo probe descending into the clouds via parachute just after the protective heat shield separated. The probe made its measurements of Jupiter’s atmosphere on December 7, 1995. (b) This Juno image, taken in 2017 from about 100,000 kilometers above the cloudtops, shows the south polar region of Jupiter with its dramatic complex of storms and clouds. The enhanced-color image was processed for NASA/JPL by citizen scientist John Landino. (credit a:
+modification of work by NASA/Ames Research Center; credit b: modification of work by NASA/JPL-Caltech/SwRI/MSSS/John Landino)</caption></figure><para id="fs-id1168469521131">The probe continued to operate for an hour, descending 200 kilometers into the atmosphere. A few minutes later the polyester parachute melted, and within a few hours the main aluminum and titanium structure of the probe vaporized to become a part of Jupiter itself. About 2 hours after receipt of the final probe data, the main spacecraft fired its retro-rockets so it could be captured into orbit around the planet, where its primary objectives were to study Jupiter’s large and often puzzling moons.</para>
+<para id="fs-id1168466282630">The <term class="no-emphasis">Cassini</term> mission to <term class="no-emphasis">Saturn</term> (<link target-id="OSC_Astro_11_01_ECassini"/>), a cooperative venture between NASA and the European Space Agency, was similar to Galileo in its two-fold approach. Launched in 1997, Cassini arrived in 2004 and went into orbit around Saturn, beginning extensive studies of its rings and moons, as well as the planet itself. In January 2005, Cassini deployed an entry probe into the atmosphere of Saturn’s large moon, <term class="no-emphasis">Titan</term>, where it successfully landed on the surface. (We’ll discuss the probe and what it found in the chapter on <link document="m59860">Rings, Moons, and Pluto</link>.)</para>
+<para id="eip-173">The Voyager and Galileo missions to Jupiter were primarily designed to study the moons and the atmosphere of the planet. The next NASA mission, an orbiter called Juno, arrived at Jupiter in July 2016. In order to meet its objectives of studying the jovian magnetosphere, it has a very elongated (eccentric) 55-day orbit, that takes it from 4 thousand kilometers above the cloud tops out to 76 thousand kilometers. The orbit takes the craft over Jupiter’s poles, giving us remarkable close-ups of the polar regions (previous spacecraft viewed the planet from lower latitudes).</para><para id="eip-307">Juno was originally designed without a camera, but fortunately scientists rectified this omission, adding a simple downward-looking color camera to use during close passes by Jupiter. Recognizing the value of such images, both scientific and artistic, it was decided to post the raw images and encourage “citizen scientists” to process them. The product has been many dramatic, brightly colored views of Jupiter, such as <link target-id="OSC_Astro_11_01_Galileo"/>.</para><figure id="OSC_Astro_11_01_ECassini">
+<title>Earth as Seen from Saturn.</title>
+<media id="fs-id1168469494784" alt="Image of the Earth from Saturn. The Earth appears in the distance as a pale blue dot (arrowed at lower right) below Saturn’s rings in this dramatic image from the Cassini orbiter. The night side of Saturn is seen at upper left, with the backlit rings covering the remaining top half of the image.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_11_01_ECassini.jpg"/>
+</media>
+<caption>This popular Cassini image shows Earth as a tiny dot (marked with an arrow) seen below <term class="no-emphasis">Saturn’s rings</term>. It was taken in July 2013, when Saturn was 1.4 billion kilometers from <term class="no-emphasis">Earth</term>. (credit: modification of work by NASA/JPL-Caltech/Space Science Institute)</caption>
+</figure>
+</section>
+<section id="fs-id1168469877088" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-id1168469384418">The outer solar system contains the four giant planets: Jupiter, Saturn, Uranus, and Neptune. The gas giants Jupiter and Saturn have overall compositions similar to that of the Sun. These planets have been explored by the Pioneer, Voyager, Galileo, and Cassini spacecraft. Voyager 2, perhaps the most successful of all space-science missions, explored Jupiter (1979), Saturn (1981), Uranus (1986), and Neptune (1989)—a grand tour of the giant planets—and these flybys have been the only explorations to date of the ice giants Uranus and Neptune. The Galileo and Cassini missions were long-lived orbiters, and each also deployed an entry probe, one into Jupiter and one into Saturn’s moon Titan.</para>
+</section>
+ </content>
+</document>

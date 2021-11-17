@@ -1,0 +1,474 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="appendix">
+
+<title>The Nearest Stars, Brown Dwarfs, and White Dwarfs</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m60002</md:content-id>
+  <md:title>The Nearest Stars, Brown Dwarfs, and White Dwarfs</md:title>
+  <md:abstract/>
+  <md:uuid>d648a9b8-e2a5-4b2d-8979-1a075cb91899</md:uuid>
+</metadata>
+
+<content class="appendix">
+<table id="fs-id1172468044848" class="top-titled" summary="A table titled “The Nearest Stars, Brown Dwarfs, and White Dwarfs” with eight columns and forty rows. The first row is a header row and labels the columns “Star”, “System”, “Discovery Name”, “Distance (light-year)”, “Spectral Type”, “Location: RA footnote: Location (right ascension) given for Epoch 2000.0”, “Location: Dec footnote: Location (declination) given for Epoch 2000.0”, “Luminosity (Sun = 1)”. The second row reads “blank”, “blank”, “Sun”, “blank”, “G2 V”, “blank”, “blank”, “1”. The third row reads “1”, “1”, “Proxima Centauri”, “4.2”, “M5.5 V”, “14 29”, “negative 62 40”, “5 times 10 to the negative 5”. The fourth row reads “2”, “2”, “Alpha Centauri A”, “4.4”, “G2 V”, “14 39”, “negative 60 50”, “1.5”. The fifth row reads “3”, “Alpha Centauri B”, “4.4”, “K2 IV”, “14 39”, “negative 60 50”, “0.5”. The sixth row reads “4”, “3”, “Barnard’s Star “, “6.0”, “M4 V”, “17 57”, “+04 42”, “4.4 times 10 to the negative 4”. The seventh row reads “5”, “4”, “Wolf 359 “, “7.8”, “M6 V”, “10 56”, “+07 00”, “2 times 10 to the negative 5”. The eighth row reads “6”, “5”, “Lalande 21 185 “, “8.3”, “M2 V”, “11 03”, “+35 58”, “5.7 times 10 to the negative 3”. The ninth row reads “7”, “6”, “Sirius A”, “8.6”, “A1 V”, “06 45”, “negative 16 42”, “23.1”. The tenth row reads “8”, “Sirius B”, “8.6”, “DA2 footnote: White dwarf stellar remnant”, “06 45”, “negative 16 43”, “2.5 times 10 to the negative 3”. The eleventh row reads “9”, “7”, “Luyten 726-8 A “, “8.7”, “M5.5 V”, “01 39”, “negative 17 57”, “6 times 10 to the negative 5”. The twelfth row reads “10”, “Luyten 726-8 B (UV Ceti)”, “8.7”, “M6 V”, “01 39”, “negative 17 57”, “4 times 10 to the negative 5”. The thirteenth row reads “11”, “8”, “Ross 154”, “9.7”, “M.05 V”, “18 49”, “negative 23 50”, “5 times 10 to the negative 4”. The fourteenth row reads “12”, “9”, “Ross 248 (HH Andromedae)”, “10.3”, “M5.5 V”, “23 41”, “+44 10”, “1.0 times 10 to the negative 4”. The fifteenth row reads “13”, “10”, “Epsilon Eridani “, “10.5”, “K2 V”, “03 32”, “negative 09 27”, “0.29”. The sixteenth row reads “14”, “11”, “Lacaille 9352 “, “10.7”, “M0.5 V”, “23 05”, “negative 35 51”, “0.011”. The seventeenth row reads “15”, “12”, “Ross 128 (FI Virginis)”, “10.9”, “M4 V”, “11 47”, “+00 48”, “3.4 times 10 to the negative 4”. The eighteenth row reads “16”, “13”, “Luyten 789-6 A (EZ Aquarii A)”, “11.3”, “M5 V”, “22 38”, “negative 15 17”, “5 times 10 to the negative 5”. The nineteenth row reads “17”, “Luyten 789-6 B (EZ Aquarii B)”, “11.3”, “M5.5 V”, “22 38”, “negative 15 15”, “5 times 10 to the negative 5”. The twentieth row reads “18”, “Luyten 789-6 C (EZ Aquarii C)”, “11.3”, “M6.5 V”, “22 38”, “negative 15 17”, “2 times 10 to the negative 5”. The twenty-first row reads “19”, “14”, “61 Cygni A “, “11.4”, “K5 V”, “21 06”, “+38 44”, “0.086”. The twenty-second row reads “20”, “61 Cygni B”, “11.4”, “K7 V”, “21 06”, “+38 44”, “0.041”. The twenty-third row reads “21”, “15”, “Procyon A”, “11.4”, “F51V”, “07 39”, “+05 13”, “7.38”. The twenty-fourth row reads “22”, “Procyon B”, “11.4”, “wd footnote: White dwarf stellar remnant”, “07 39”, “+05 13”, “5.5 times 10 to the negative 4”. The twenty-fifth row reads “23”, “16”, “Sigma 2398 A”, “11.5”, “M3 V”, “18 42”, “+59 37”, “0.003”. The twenty-sixth row reads “24”, “Sigma 2398 B”, “11.5”, “M3.5 V”, “18 42”, “+59 37”, “1.4 times 10 to the negative 3”. The twenty-seventh row reads “25”, “17”, “Groombridge 34 A (GX Andromedae)”, “11.6”, “M1.5 V”, “00 18”, “+44 01”, “6.4 times 10 to the negative 3”. The twenty-eighth row reads “26”, “Groombridge 34 B (GQ Andromedae)”, “11.6”, “M3.5 V”, “00 18”, “+44 01”, “4.1 times 10 to the negative 4”. The twenty-ninth row reads “27”, “18”, “Epsilon Indi A”, “11.8”, “K5 V”, “22 03”, “negative 56 46”, “0.150”. The thirtieth row reads “28”, “Epsilon Indi Ba”, “11.7”, “T1 footnote: Brown dwarf”, “22 04”, “negative 56 46”, “blank”. The thirty-first row reads “29”, “Epsilon Indi Bb”, “11.7”, “T6 footnote: Brown dwarf”, “22 04”, “negative 56 46”, “blank”. The thirty-second row reads “30”, “19”, “G 51-15 (DX Cancri)”, “11.8”, “M6.5 V”, “08 29”, “+26 46”, “1 times 10 to the negative 5”. The thirty-third row reads “31”, “20”, “Tau Ceti “, “11.9”, “G8.5 V”, “01 44”, “negative 15 56”, “0.458”. The thirty-fourth row reads “32”, “21”, “Luyten 372-58”, “12.0”, “M5 V”, “03 35”, “negative 44 30”, “7 times 10 to the negative 5”. The thirty-fifth row reads “33”, “22”, “Luyten 725-32 (YZ Ceti)”, “12.1”, “M4.5 V”, “01 12”, “negative 16 59”, “1.8 times 10 to the negative 4”. The thirty-sixth row reads “34”, “23”, “Luyten’s Star”, “12.4”, “M3.5 V”, “07 27”, “+05 13”, “1.4 times 10 to the negative 3”. The thirty-seventh row reads “35”, “24”, “SCR J184-6357 A”, “12.6”, “M8.5 V”, “18 45 footnote: Brown dwarf”, “negative 63 57”, “1 times 10 to the negative 6”. The thirty-eighth row reads “37”, “25”, “Teegarden’s Star”, “12.5”, “M6 V”, “02 53”, “+16 52”, “1 times 10 to the negative 5”. The thirty-ninth row reads “38”, “26”, “Kapteyn’s Star”, “12.8”, “M1 V”, “05 11”, “negative 45 01”, “3.8 times 10 to the negative 3”. The fortieth row reads “39”, “27”, “Lacaille 8760 (AX Microscopium)”, “12.9”, “K7 V”, “21 17”, “negative 38 52”, “0.029”.">
+<tgroup cols="8"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<colspec colnum="8" colname="c8"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c8">The Nearest Stars, Brown Dwarfs, and White Dwarfs</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Star</entry>
+<entry valign="top" align="center">System</entry>
+<entry valign="top" align="center">Discovery Name</entry>
+<entry valign="top" align="center">Distance (light-year)</entry>
+<entry valign="top" align="center">Spectral Type</entry>
+<entry valign="top" align="center">Location: RA<footnote id="fs-id1172468376593">Location (right ascension) given for Epoch 2000.0</footnote></entry>
+<entry valign="top" align="center">Location: Dec<footnote id="fs-id1172468047432">Location (declination) given for Epoch 2000.0</footnote></entry>
+<entry valign="top" align="center">Luminosity (Sun = 1)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left"/>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Sun</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">G2 V</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">1</entry>
+<entry valign="top" align="left">1</entry>
+<entry valign="top" align="left">Proxima Centauri</entry>
+<entry valign="top" align="left">4.2</entry>
+<entry valign="top" align="left">M5.5 V</entry>
+<entry valign="top" align="left">14 29</entry>
+<entry valign="top" align="left">−62 40</entry>
+<entry valign="top" align="left">5 × 10<sup>−5</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">2</entry>
+<entry valign="top" align="left">2</entry>
+<entry valign="top" align="left">Alpha Centauri A</entry>
+<entry valign="top" align="left">4.4</entry>
+<entry valign="top" align="left">G2 V</entry>
+<entry valign="top" align="left">14 39</entry>
+<entry valign="top" align="left">−60 50</entry>
+<entry valign="top" align="left">1.5</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">3</entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Alpha Centauri B</entry>
+<entry valign="top" align="left">4.4</entry>
+<entry valign="top" align="left">K2 IV</entry>
+<entry valign="top" align="left">14 39</entry>
+<entry valign="top" align="left">−60 50</entry>
+<entry valign="top" align="left">0.5</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">4</entry>
+<entry valign="top" align="left">3</entry>
+<entry valign="top" align="left">Barnard’s Star</entry>
+<entry valign="top" align="left">6.0</entry>
+<entry valign="top" align="left">M4 V</entry>
+<entry valign="top" align="left">17 57</entry>
+<entry valign="top" align="left">+04 42</entry>
+<entry valign="top" align="left">4.4 × 10<sup>−4</sup></entry>
+</row>
+
+<row valign="top">
+<entry valign="top" align="left">5</entry>
+<entry valign="top" align="left">4</entry>
+<entry valign="top" align="left">Luhman 16A</entry>
+<entry valign="top" align="left">6.5</entry>
+<entry valign="top" align="left">L8</entry>
+<entry valign="top" align="left">10 49</entry>
+<entry valign="top" align="left">–53 19</entry>
+<entry valign="top" align="left"/>
+</row>
+<row valign="top">
+<entry valign="top" align="left">6</entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Luhman 16B</entry>
+<entry valign="top" align="left">6.5</entry>
+<entry valign="top" align="left">T1</entry>
+<entry valign="top" align="left">10 40</entry>
+<entry valign="top" align="left">–53 19</entry>
+<entry valign="top" align="left"/>
+</row>
+<row valign="top">
+<entry valign="top" align="left">7</entry>
+<entry valign="top" align="left">5</entry>
+<entry valign="top" align="left">WISE 0855-0714</entry>
+<entry valign="top" align="left">7.3</entry>
+<entry valign="top" align="left">Y2</entry>
+<entry valign="top" align="left">08 55</entry>
+<entry valign="top" align="left">–07 15</entry>
+<entry valign="top" align="left"/>
+</row>
+<row valign="top">
+<entry valign="top" align="left">8</entry>
+<entry valign="top" align="left">4</entry>
+<entry valign="top" align="left">Wolf 359</entry>
+<entry valign="top" align="left">7.8</entry>
+<entry valign="top" align="left">M6 V</entry>
+<entry valign="top" align="left">10 56</entry>
+<entry valign="top" align="left">+07 00</entry>
+<entry valign="top" align="left">2 × 10<sup>−5</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">9</entry>
+<entry valign="top" align="left">5</entry>
+<entry valign="top" align="left">Lalande 21 185</entry>
+<entry valign="top" align="left">8.3</entry>
+<entry valign="top" align="left">M2 V</entry>
+<entry valign="top" align="left">11 03</entry>
+<entry valign="top" align="left">+35 58</entry>
+<entry valign="top" align="left">5.7 × 10<sup>−3</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">10</entry>
+<entry valign="top" align="left">6</entry>
+<entry valign="top" align="left">Sirius A</entry>
+<entry valign="top" align="left">8.6</entry>
+<entry valign="top" align="left">A1 V</entry>
+<entry valign="top" align="left">06 45</entry>
+<entry valign="top" align="left">−16 42</entry>
+<entry valign="top" align="left">23.1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">11</entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Sirius B</entry>
+<entry valign="top" align="left">8.6</entry>
+<entry valign="top" align="left">DA2<footnote id="fs-id1172468261565">White dwarf stellar remnant</footnote></entry>
+<entry valign="top" align="left">06 45</entry>
+<entry valign="top" align="left">−16 43</entry>
+<entry valign="top" align="left">2.5 × 10<sup>−3</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">12</entry>
+<entry valign="top" align="left">7</entry>
+<entry valign="top" align="left">Luyten 726-8 A</entry>
+<entry valign="top" align="left">8.7</entry>
+<entry valign="top" align="left">M5.5 V</entry>
+<entry valign="top" align="left">01 39</entry>
+<entry valign="top" align="left">−17 57</entry>
+<entry valign="top" align="left">6 × 10<sup>−5</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">13</entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Luyten 726-8 B (UV Ceti)</entry>
+<entry valign="top" align="left">8.7</entry>
+<entry valign="top" align="left">M6 V</entry>
+<entry valign="top" align="left">01 39</entry>
+<entry valign="top" align="left">−17 57</entry>
+<entry valign="top" align="left">4 × 10<sup>−5</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">14</entry>
+<entry valign="top" align="left">8</entry>
+<entry valign="top" align="left">Ross 154</entry>
+<entry valign="top" align="left">9.7</entry>
+<entry valign="top" align="left">M3.5 V</entry>
+<entry valign="top" align="left">18 49</entry>
+<entry valign="top" align="left">−23 50</entry>
+<entry valign="top" align="left">5 × 10<sup>−4</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">15</entry>
+<entry valign="top" align="left">9</entry>
+<entry valign="top" align="left">Ross 248 (HH Andromedae)</entry>
+<entry valign="top" align="left">10.3</entry>
+<entry valign="top" align="left">M5.5 V</entry>
+<entry valign="top" align="left">23 41</entry>
+<entry valign="top" align="left">+44 10</entry>
+<entry valign="top" align="left">1.0 × 10<sup>−4</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">16</entry>
+<entry valign="top" align="left">10</entry>
+<entry valign="top" align="left">Epsilon Eridani</entry>
+<entry valign="top" align="left">10.5</entry>
+<entry valign="top" align="left">K2 V</entry>
+<entry valign="top" align="left">03 32</entry>
+<entry valign="top" align="left">−09 27</entry>
+<entry valign="top" align="left">0.29</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">17</entry>
+<entry valign="top" align="left">11</entry>
+<entry valign="top" align="left">Lacaille 9352</entry>
+<entry valign="top" align="left">10.7</entry>
+<entry valign="top" align="left">M0.5 V</entry>
+<entry valign="top" align="left">23 05</entry>
+<entry valign="top" align="left">−35 51</entry>
+<entry valign="top" align="left">0.011</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">18</entry>
+<entry valign="top" align="left">12</entry>
+<entry valign="top" align="left">Ross 128 (FI Virginis)</entry>
+<entry valign="top" align="left">10.9</entry>
+<entry valign="top" align="left">M4 V</entry>
+<entry valign="top" align="left">11 47</entry>
+<entry valign="top" align="left">+00 48</entry>
+<entry valign="top" align="left">3.4 × 10<sup>−4</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">19</entry>
+<entry valign="top" align="left">13</entry>
+<entry valign="top" align="left">Luyten 789-6 A (EZ Aquarii A)</entry>
+<entry valign="top" align="left">11.3</entry>
+<entry valign="top" align="left">M5 V</entry>
+<entry valign="top" align="left">22 38</entry>
+<entry valign="top" align="left">−15 17</entry>
+<entry valign="top" align="left">5 × 10<sup>−5</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">20</entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Luyten 789-6 B (EZ Aquarii B)</entry>
+<entry valign="top" align="left">11.3</entry>
+<entry valign="top" align="left">M5.5 V</entry>
+<entry valign="top" align="left">22 38</entry>
+<entry valign="top" align="left">−15 15</entry>
+<entry valign="top" align="left">5 × 10<sup>−5</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">21</entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Luyten 789-6 C (EZ Aquarii C)</entry>
+<entry valign="top" align="left">11.3</entry>
+<entry valign="top" align="left">M6.5 V</entry>
+<entry valign="top" align="left">22 38</entry>
+<entry valign="top" align="left">−15 17</entry>
+<entry valign="top" align="left">2 × 10<sup>−5</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">22</entry>
+<entry valign="top" align="left">14</entry>
+<entry valign="top" align="left">61 Cygni A</entry>
+<entry valign="top" align="left">11.4</entry>
+<entry valign="top" align="left">K5 V</entry>
+<entry valign="top" align="left">21 06</entry>
+<entry valign="top" align="left">+38 44</entry>
+<entry valign="top" align="left">0.086</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">23</entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">61 Cygni B</entry>
+<entry valign="top" align="left">11.4</entry>
+<entry valign="top" align="left">K7 V</entry>
+<entry valign="top" align="left">21 06</entry>
+<entry valign="top" align="left">+38 44</entry>
+<entry valign="top" align="left">0.041</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">24</entry>
+<entry valign="top" align="left">15</entry>
+<entry valign="top" align="left">Procyon A</entry>
+<entry valign="top" align="left">11.4</entry>
+<entry valign="top" align="left">F5 IV</entry>
+<entry valign="top" align="left">07 39</entry>
+<entry valign="top" align="left">+05 13</entry>
+<entry valign="top" align="left">7.38</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">25</entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Procyon B</entry>
+<entry valign="top" align="left">11.4</entry>
+<entry valign="top" align="left">wd<footnote id="fs-id1172468013558">White dwarf stellar remnant</footnote></entry>
+<entry valign="top" align="left">07 39</entry>
+<entry valign="top" align="left">+05 13</entry>
+<entry valign="top" align="left">5.5 × 10<sup>−4</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">26</entry>
+<entry valign="top" align="left">16</entry>
+<entry valign="top" align="left">Sigma 2398 A</entry>
+<entry valign="top" align="left">11.5</entry>
+<entry valign="top" align="left">M3 V</entry>
+<entry valign="top" align="left">18 42</entry>
+<entry valign="top" align="left">+59 37</entry>
+<entry valign="top" align="left">0.003</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">27</entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Sigma 2398 B</entry>
+<entry valign="top" align="left">11.5</entry>
+<entry valign="top" align="left">M3.5 V</entry>
+<entry valign="top" align="left">18 42</entry>
+<entry valign="top" align="left">+59 37</entry>
+<entry valign="top" align="left">1.4 × 10<sup>−3</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">28</entry>
+<entry valign="top" align="left">17</entry>
+<entry valign="top" align="left">Groombridge 34 A (GX Andromedae)</entry>
+<entry valign="top" align="left">11.6</entry>
+<entry valign="top" align="left">M1.5 V</entry>
+<entry valign="top" align="left">00 18</entry>
+<entry valign="top" align="left">+44 01</entry>
+<entry valign="top" align="left">6.4 × 10<sup>−3</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">29</entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Groombridge 34 B (GQ Andromedae)</entry>
+<entry valign="top" align="left">11.6</entry>
+<entry valign="top" align="left">M3.5 V</entry>
+<entry valign="top" align="left">00 18</entry>
+<entry valign="top" align="left">+44 01</entry>
+<entry valign="top" align="left">4.1 × 10<sup>−4</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">30</entry>
+<entry valign="top" align="left">18</entry>
+<entry valign="top" align="left">Epsilon Indi A</entry>
+<entry valign="top" align="left">11.8</entry>
+<entry valign="top" align="left">K5 V</entry>
+<entry valign="top" align="left">22 03</entry>
+<entry valign="top" align="left">−56 46</entry>
+<entry valign="top" align="left">0.150</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">31</entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Epsilon Indi Ba</entry>
+<entry valign="top" align="left">11.7</entry>
+<entry valign="top" align="left">T1<footnote id="fs-id1172468293376">Brown dwarf</footnote></entry>
+<entry valign="top" align="left">22 04</entry>
+<entry valign="top" align="left">−56 46</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">32</entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Epsilon Indi Bb</entry>
+<entry valign="top" align="left">11.7</entry>
+<entry valign="top" align="left">T6<footnote id="fs-id1172468018797">Brown dwarf</footnote></entry>
+<entry valign="top" align="left">22 04</entry>
+<entry valign="top" align="left">−56 46</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">33</entry>
+<entry valign="top" align="left">19</entry>
+<entry valign="top" align="left">G 51-15 (DX Cancri)</entry>
+<entry valign="top" align="left">11.8</entry>
+<entry valign="top" align="left">M6.5 V</entry>
+<entry valign="top" align="left">08 29</entry>
+<entry valign="top" align="left">+26 46</entry>
+<entry valign="top" align="left">1 × 10<sup>−5</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">34</entry>
+<entry valign="top" align="left">20</entry>
+<entry valign="top" align="left">Tau Ceti</entry>
+<entry valign="top" align="left">11.9</entry>
+<entry valign="top" align="left">G8.5 V</entry>
+<entry valign="top" align="left">01 44</entry>
+<entry valign="top" align="left">−15 56</entry>
+<entry valign="top" align="left">0.458</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">35</entry>
+<entry valign="top" align="left">21</entry>
+<entry valign="top" align="left">Luyten 372-58</entry>
+<entry valign="top" align="left">12.0</entry>
+<entry valign="top" align="left">M5 V</entry>
+<entry valign="top" align="left">03 35</entry>
+<entry valign="top" align="left">−44 30</entry>
+<entry valign="top" align="left">7 × 10<sup>−5</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">36</entry>
+<entry valign="top" align="left">22</entry>
+<entry valign="top" align="left">Luyten 725-32 (YZ Ceti)</entry>
+<entry valign="top" align="left">12.1</entry>
+<entry valign="top" align="left">M4.5 V</entry>
+<entry valign="top" align="left">01 12</entry>
+<entry valign="top" align="left">−16 59</entry>
+<entry valign="top" align="left">1.8 × 10<sup>−4</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">37</entry>
+<entry valign="top" align="left">23</entry>
+<entry valign="top" align="left">Luyten’s Star</entry>
+<entry valign="top" align="left">12.4</entry>
+<entry valign="top" align="left">M3.5 V</entry>
+<entry valign="top" align="left">07 27</entry>
+<entry valign="top" align="left">+05 13</entry>
+<entry valign="top" align="left">1.4 × 10<sup>−3</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">38</entry>
+<entry valign="top" align="left">24</entry>
+<entry valign="top" align="left">SCR J184-6357 A</entry>
+<entry valign="top" align="left">12.6</entry>
+<entry valign="top" align="left">M8.5 V</entry>
+<entry valign="top" align="left">18 45</entry>
+<entry valign="top" align="left">−63 57</entry>
+<entry valign="top" align="left">1 × 10<sup>−6</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">39</entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">SCR J184-6357 B</entry>
+<entry valign="top" align="left">12.7</entry>
+<entry valign="top" align="left">T6<footnote id="fs-id1172467962338">Brown dwarf</footnote></entry>
+<entry valign="top" align="left">18 45</entry>
+<entry valign="top" align="left">−63 57</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">40</entry>
+<entry valign="top" align="left">25</entry>
+<entry valign="top" align="left">Teegarden’s Star</entry>
+<entry valign="top" align="left">12.5</entry>
+<entry valign="top" align="left">M6 V</entry>
+<entry valign="top" align="left">02 53</entry>
+<entry valign="top" align="left">+16 52</entry>
+<entry valign="top" align="left">1 × 10<sup>−5</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">41</entry>
+<entry valign="top" align="left">26</entry>
+<entry valign="top" align="left">Kapteyn’s Star</entry>
+<entry valign="top" align="left">12.8</entry>
+<entry valign="top" align="left">M1 V</entry>
+<entry valign="top" align="left">05 11</entry>
+<entry valign="top" align="left">−45 01</entry>
+<entry valign="top" align="left">3.8 × 10<sup>−3</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">42</entry>
+<entry valign="top" align="left">27</entry>
+<entry valign="top" align="left">Lacaille 8760 (AX Microscopium)</entry>
+<entry valign="top" align="left">12.9</entry>
+<entry valign="top" align="left">K7 V</entry>
+<entry valign="top" align="left">21 17</entry>
+<entry valign="top" align="left">−38 52</entry>
+<entry valign="top" align="left">0.029</entry>
+</row>
+</tbody>
+
+
+
+</tgroup>
+</table></content>
+</document>

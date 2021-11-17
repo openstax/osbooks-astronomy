@@ -1,0 +1,670 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>The H–R Diagram</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59901</md:content-id>
+  <md:title>The H–R Diagram</md:title>
+  <md:abstract/>
+  <md:uuid>11581e86-b3c6-45ea-bd3e-0d55a8f12ab8</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1164755043822" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-id1168583487547">By the end of this section, you will be able to:</para>
+<list id="fs-id1164754873184">
+<item>Identify the physical characteristics of stars that are used to create an H–R diagram, and describe how those characteristics vary among groups of stars</item>
+<item>Discuss the physical properties of most stars found at different locations on the H–R diagram, such as radius, and for main sequence stars, mass</item>
+</list>
+</section>
+<para id="fs-id1164755043750">In this chapter and <link document="m59889">Analyzing Starlight</link>, we described some of the characteristics by which we might classify stars and how those are measured. These ideas are summarized in <link target-id="fs-id1164755038804"/>. We have also given an example of a relationship between two of these characteristics in the mass-luminosity relation. When the characteristics of large numbers of stars were measured at the beginning of the twentieth century, astronomers were able to begin a deeper search for patterns and relationships in these data.</para>
+<table id="fs-id1164755038804" summary="This table is titled “Measuring the Characteristics of Stars” and has 2 columns and 8 rows. The first row is a header row and it labels each column, “Characteristic” and “Technique”. Under the “Characteristic” column are the values, “Surface temperature”, “Chemical composition”, “Luminosity”, “Radial velocity”, “Rotation”, “Mass” and “Diameter”. Under the “Technique” column are the values, “1. Determine the color (very rough). 2. Measure the spectrum and get the spectral type.”, “Determine which lines are present in the spectrum.”, “Measure the apparent brightness and compensate for distance.”, “Measure the Doppler shift in the spectrum.”, “Measure the width of spectral lines.”, “Measure the period and radial-velocity curves of spectroscopic binary stars.” and “1. Measure the way a star’s light is blocked by the Moon. 2. Measure the light curves and Doppler shifts for eclipsing binary stars.”" class="top-titled">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c2" align="center">Measuring the Characteristics of Stars</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Characteristic</entry>
+<entry valign="top" align="center">Technique</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Surface temperature</entry>
+<entry valign="top" align="left"><para id="fs-id1164754986804">1. Determine the color (very rough).</para>
+<para id="fs-id1164754896265">2. Measure the spectrum and get the spectral type.</para></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Chemical composition</entry>
+<entry valign="top" align="left">Determine which lines are present in the spectrum.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Luminosity</entry>
+<entry valign="top" align="left">Measure the apparent brightness and compensate for distance.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Radial velocity</entry>
+<entry valign="top" align="left">Measure the Doppler shift in the spectrum.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Rotation</entry>
+<entry valign="top" align="left">Measure the width of spectral lines.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mass</entry>
+<entry valign="top" align="left">Measure the period and radial velocity curves of spectroscopic binary stars.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Diameter</entry>
+<entry valign="top" align="left"><para id="fs-id1164754936599">1. Measure the way a star’s light is blocked by the Moon.</para>
+<para id="fs-id1164754867630">2. Measure the light curves and Doppler shifts for eclipsing binary stars.</para></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1164754921421">To help understand what sorts of relationships might be found, let’s look briefly at a range of data about human beings. If you want to understand humans by comparing and contrasting their characteristics—without assuming any previous knowledge of these strange creatures—you could try to determine which characteristics lead you in a fruitful direction. For example, you might plot the heights of a large sample of humans against their weights (which is a measure of their mass). Such a plot is shown in <link target-id="OSC_Astro_18_04_Plot"/> and it has some interesting features. In the way we have chosen to present our data, height increases upward, whereas weight increases to the left. Notice that humans are not randomly distributed in the graph. Most points fall along a sequence that goes from the upper left to the lower right.</para>
+<figure id="OSC_Astro_18_04_Plot">
+<title>Height versus Weight.</title>
+<media id="fs-id1164755031089" alt="Graph of Height Versus Weight. The vertical axis is labeled “Height” in arbitrary units. The horizontal axis is labeled “Weight” in arbitrary units. A plot of dots shows a general trend of weight increasing as height increases, with a few outliers above and below.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_18_04_Plot.jpg"/>
+</media>
+<caption>The plot of the heights and weights of a representative group of human beings. Most points lie along a “main sequence” representing most people, but there are a few exceptions.</caption>
+</figure>
+<para id="fs-id1164754908886">We can conclude from this graph that human height and weight are related. Generally speaking, taller human beings weigh more, whereas shorter ones weigh less. This makes sense if you are familiar with the structure of human beings. Typically, if we have bigger bones, we have more flesh to fill out our larger frame. It’s not mathematically exact—there is a wide range of variation—but it’s not a bad overall rule. And, of course, there are some dramatic exceptions. You occasionally see a short human who is very overweight and would thus be more to the bottom left of our diagram than the average sequence of people. Or you might have a very tall, skinny fashion model with great height but relatively small weight, who would be found near the upper right.</para>
+<para id="fs-id1164754920163">A similar diagram has been found extremely useful for understanding the lives of stars. In 1913, American astronomer Henry Norris <term class="no-emphasis">Russell</term> plotted the luminosities of stars against their spectral classes (a way of denoting their surface temperatures). This investigation, and a similar independent study in 1911 by Danish astronomer Ejnar <term class="no-emphasis">Hertzsprung</term>, led to the extremely important discovery that the temperature and luminosity of stars are related (<link target-id="OSC_Astro_18_04_Russell"/>).</para>
+<figure id="OSC_Astro_18_04_Russell">
+<title>Hertzsprung (1873–1967) and Russell (1877–1957).</title>
+<media id="fs-id1164754871069" alt="Photographs of (a) Ejnar Hertzsprung and (b) Henry Norris Russell.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_18_04_Russell.jpg"/>
+</media>
+<caption>(a) Ejnar Hertzsprung and (b) Henry Norris Russell independently discovered the relationship between the luminosity and surface temperature of stars that is summarized in what is now called the H–R diagram.</caption>
+</figure>
+<note id="fs-id1164754910007" class="astronomy voyagers-in-astronomy">
+<title>Henry Norris Russell</title>
+<para id="fs-id1164754868000">When Henry Norris <term class="no-emphasis">Russell</term> graduated from Princeton University, his work had been so brilliant that the faculty decided to create a new level of honors degree beyond “summa cum laude” for him. His students later remembered him as a man whose thinking was three times faster than just about anybody else’s. His memory was so phenomenal, he could correctly quote an enormous number of poems and limericks, the entire Bible, tables of mathematical functions, and almost anything he had learned about astronomy. He was nervous, active, competitive, critical, and very articulate; he tended to dominate every meeting he attended. In outward appearance, he was an old-fashioned product of the nineteenth century who wore high-top black shoes and high starched collars, and carried an umbrella every day of his life. His 264 papers were enormously influential in many areas of astronomy.</para>
+<para id="fs-id1164755015876">Born in 1877, the son of a Presbyterian minister, Russell showed early promise. When he was 12, his family sent him to live with an aunt in Princeton so he could attend a top preparatory school. He lived in the same house in that town until his death in 1957 (interrupted only by a brief stay in Europe for graduate work). He was fond of recounting that both his mother and his maternal grandmother had won prizes in mathematics, and that he probably inherited his talents in that field from their side of the family.</para>
+<para id="fs-id1164754948440">Before Russell, American astronomers devoted themselves mainly to surveying the stars and making impressive catalogs of their properties, especially their spectra (as described in <link document="m59889">Analyzing Starlight</link>. Russell began to see that interpreting the spectra of stars required a much more sophisticated understanding of the physics of the atom, a subject that was being developed by European physicists in the 1910s and 1920s. Russell embarked on a lifelong quest to ascertain the physical conditions inside stars from the clues in their spectra; his work inspired, and was continued by, a generation of astronomers, many trained by Russell and his collaborators.</para>
+<para id="fs-id1164754872780">Russell also made important contributions in the study of binary stars and the measurement of star masses, the origin of the solar system, the atmospheres of planets, and the measurement of distances in astronomy, among other fields. He was an influential teacher and popularizer of astronomy, writing a column on astronomical topics for <emphasis effect="italics">Scientific American</emphasis> magazine for more than 40 years. He and two colleagues wrote a textbook for college astronomy classes that helped train astronomers and astronomy enthusiasts over several decades. That book set the scene for the kind of textbook you are now reading, which not only lays out the facts of astronomy but also explains how they fit together. Russell gave lectures around the country, often emphasizing the importance of understanding modern physics in order to grasp what was happening in astronomy.</para>
+<para id="fs-id1164755012180">Harlow Shapley, director of the Harvard College Observatory, called Russell “the dean of American astronomers.” Russell was certainly regarded as the leader of the field for many years and was consulted on many astronomical problems by colleagues from around the world. Today, one of the highest recognitions that an astronomer can receive is an award from the American Astronomical Society called the Russell Prize, set up in his memory.</para>
+</note>
+<section id="fs-id1164755024160">
+<title>Features of the H–R Diagram</title>
+<para id="fs-id1164754969298">Following Hertzsprung and Russell, let us plot the temperature (or spectral class) of a selected group of nearby stars against their luminosity and see what we find (<link target-id="OSC_Astro_18_04_Sample"/>). Such a plot is frequently called the <emphasis effect="italics">Hertzsprung–Russell diagram</emphasis>, abbreviated <term>H–R diagram</term>. It is one of the most important and widely used diagrams in astronomy, with applications that extend far beyond the purposes for which it was originally developed more than a century ago.</para>
+<figure id="OSC_Astro_18_04_Sample">
+<title>H–R Diagram for a Selected Sample of Stars.</title>
+<media id="fs-id1164754916979" alt="An H–R Diagram for a Selected Sample of Stars. In this graph the vertical axis is labeled “Luminosity (LSun)”, running from 10-4 to 104 in increments of 102. The horizontal axis is labeled “Spectral class”, and is divided into seven equal length units. From left to right they are labeled “O”, “B”, “A”, “F”, “G”, “K” and “M”. The horizontal axis is also labeled “Temperature (K)”, running from 25,000 on the left to 3,000 on the right. The background of the graph is colored to represent temperature. The O-B section is blue, the A and most of F is green, G is yellow and the K-M section is red. The stars plotted in the diagram fall into four distinct groups. At lower left between spectral types A and F are the “White Dwarfs”. Running diagonally across the entire diagram from upper left to lower right is the “Main Sequence”, where most stars lie. The “Giants” lie on a horizontal line at 102 L(Sun) between spectral types G and M. The “Supergiants” are in the upper right. Many well-known stars are plotted in this diagram. The “Companion of Sirius” is among the white dwarfs. Along the main sequence, from left to right, are ”Spica”, “Vega”, “Sirius”, “Procyon”, “Alpha Centauri A”, “Sun”, “Tau Ceti”, “Barnard’s Star” and “Proxima Centauri”. Along the giant branch from left to right we find “Capella”, “Arcturus” and “Aldebaran”. Finally, the supergiants from left to right, “Rigel”, “Canopus”, “Betelgeuse” and “Antares”.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_18_04_Sample.jpg"/>
+</media>
+<caption>In such diagrams, luminosity is plotted along the vertical axis. Along the horizontal axis, we can plot either temperature or spectral type (also sometimes called spectral class). Several of the brightest stars are identified by name. Most stars fall on the main sequence.</caption>
+</figure>
+<para id="fs-id1164754914170">It is customary to plot H–R diagrams in such a way that temperature increases toward the left and luminosity toward the top. Notice the similarity to our plot of height and weight for people (<link target-id="OSC_Astro_18_04_Plot"/>). Stars, like people, are not distributed over the diagram at random, as they would be if they exhibited all combinations of luminosity and temperature. Instead, we see that the stars cluster into certain parts of the H–R diagram. The great majority are aligned along a narrow sequence running from the upper left (hot, highly luminous) to the lower right (cool, less luminous). This band of points is called the <term>main sequence</term>. It represents a relationship between <emphasis effect="italics">temperature</emphasis> and <emphasis effect="italics">luminosity</emphasis> that is followed by most stars. We can summarize this relationship by saying that hotter stars are more luminous than cooler ones.</para>
+<para id="fs-id1164754918619">A number of stars, however, lie above the main sequence on the H–R diagram, in the upper-right region, where stars have low temperature and high luminosity. How can a star be at once cool, meaning each square meter on the star does not put out all that much energy, and yet very luminous? The only way is for the star to be enormous—to have so many square meters on its surface that the <emphasis effect="italics">total</emphasis> energy output is still large. These stars must be <emphasis effect="italics">giants</emphasis> or <emphasis effect="italics">supergiants</emphasis>, the stars of huge diameter we discussed earlier.</para>
+<para id="fs-id1164754962482">There are also some stars in the lower-left corner of the diagram, which have high temperature and low luminosity. If they have high surface temperatures, each square meter on that star puts out a lot of energy. How then can the overall star be dim? It must be that it has a very small total surface area; such stars are known as <term>white dwarfs</term> (white because, at these high temperatures, the colors of the electromagnetic radiation that they emit blend together to make them look bluish-white). We will say more about these puzzling objects in a moment. <link target-id="OSC_Astro_18_04_HR"/> is a schematic H–R diagram for a large sample of stars, drawn to make the different types more apparent.</para>
+<figure id="OSC_Astro_18_04_HR">
+<title>Schematic H–R Diagram for Many Stars.</title>
+<media id="fs-id1164754963235" alt="Schematic H–R Diagram for Many Stars. In this graph the vertical axis is labeled “Luminosity (LSun)”, running from 10-4 to 106 in increments of 102. The horizontal axis is labeled “Spectral class”, and is divided into seven equal length units. From left to right they are labeled “O”, “B”, “A”, “F”, “G”, “K” and “M”. The horizontal axis is also labeled “Temperature (K)”, running from 25,000 on the left to 3,000 on the right. The five main classes of stars are plotted. Beginning at lower left is an isolated group of stars labeled “White Dwarfs”. The majority of stars lie on the “Main Sequence”, which runs diagonally from upper left to lower right. The lower right part of the main sequence is labeled “Red dwarfs”. Running horizontally from the center of the graph to the right is the narrow band of “Red giants”. Finally, a small number of stars running horizontally across the entire top of the graph are the “Supergiants”.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_18_04_HR.jpg"/>
+</media>
+<caption>Ninety percent of all stars on such a diagram fall along a narrow band called the main sequence. A minority of stars are found in the upper right; they are both cool (and hence red) and bright, and must be giants. Some stars fall in the lower left of the diagram; they are both hot and dim, and must be white dwarfs.</caption>
+</figure>
+<para id="fs-id1164754874785">Now, think back to our discussion of star surveys. It is difficult to plot an H–R diagram that is truly representative of all stars because most stars are so faint that we cannot see those outside our immediate neighborhood. The stars plotted in <link target-id="OSC_Astro_18_04_Sample"/> were selected because their distances are known. This sample omits many intrinsically faint stars that are nearby but have not had their distances measured, so it shows fewer faint main-sequence stars than a “fair” diagram would. To be truly representative of the stellar population, an H–R diagram should be plotted for all stars within a certain distance. Unfortunately, our knowledge is reasonably complete only for stars within 10 to 20 light-years of the Sun, among which there are no giants or supergiants. Still, from many surveys (and more can now be done with new, more powerful telescopes), we estimate that about 90% of the true stars overall (excluding brown dwarfs) in our part of space are main-sequence stars, about 10% are white dwarfs, and fewer than 1% are giants or supergiants.</para>
+<para id="fs-id1164754898053">These estimates can be used directly to understand the lives of stars. Permit us another quick analogy with people. Suppose we survey people just like astronomers survey stars, but we want to focus our attention on the location of young people, ages 6 to 18 years. Survey teams fan out and take data about where such youngsters are found at all times during a 24-hour day. Some are found in the local pizza parlor, others are asleep at home, some are at the movies, and many are in school. After surveying a very large number of young people, one of the things that the teams determine is that, averaged over the course of the 24 hours, one-third of all youngsters are found in school.</para>
+<para id="fs-id1164754920602">How can they interpret this result? Does it mean that two-thirds of students are truants and the remaining one-third spend all their time in school? No, we must bear in mind that the survey teams counted youngsters throughout the full 24-hour day. Some survey teams worked at night, when most youngsters were at home asleep, and others worked in the late afternoon, when most youngsters were on their way home from school (and more likely to be enjoying a pizza). If the survey was truly representative, we <emphasis effect="italics">can</emphasis> conclude, however, that if an average of one-third of all youngsters are found in school, then humans ages 6 to 18 years must spend about one-third of <emphasis effect="italics">their time</emphasis> in school.</para>
+<para id="fs-id1164755040740">We can do something similar for stars. We find that, on average, 90% of all stars are located on the main sequence of the H–R diagram. If we can identify some activity or life stage with the main sequence, then it follows that stars must spend 90% of their lives in that activity or life stage.</para>
+</section>
+<section id="fs-id1164754964802">
+<title>Understanding the Main Sequence</title>
+<para id="fs-id1164754963249">In <link document="m59880">The Sun: A Nuclear Powerhouse</link>, we discussed the Sun as a representative star. We saw that what stars such as the Sun “do for a living” is to convert protons into helium deep in their interiors via the process of nuclear fusion, thus producing energy. The fusion of protons to helium is an excellent, long-lasting source of energy for a star because the bulk of every star consists of hydrogen atoms, whose nuclei are protons.</para>
+<para id="fs-id1164754973422">Our computer models of how stars evolve over time show us that a typical star will spend about 90% of its life fusing the abundant hydrogen in its core into helium. This then is a good explanation of why 90% of all stars are found on the main sequence in the H–R diagram. But if all the stars on the <term class="no-emphasis">main sequence</term> are doing the same thing (fusing hydrogen), why are they distributed along a sequence of points? That is, why do they differ in luminosity and surface temperature (which is what we are plotting on the H–R diagram)?</para>
+<para id="fs-id1164754979264">To help us understand how main-sequence stars differ, we can use one of the most important results from our studies of model stars. Astrophysicists have been able to show that the structure of stars that are in equilibrium and derive all their energy from nuclear fusion is completely and uniquely determined by just two quantities: the <emphasis effect="italics">total mass</emphasis> and the <emphasis effect="italics">composition</emphasis> of the star. This fact provides an interpretation of many features of the H–R diagram.</para>
+<para id="fs-id1164755031742">Imagine a cluster of stars forming from a cloud of interstellar “raw material” whose chemical composition is similar to the Sun’s. (We’ll describe this process in more detail in <link document="m59915">The Birth of Stars and Discovery of Planets outside the Solar System</link>, but for now, the details will not concern us.) In such a cloud, all the clumps of gas and dust that become stars begin with the same chemical composition and differ from one another only in mass. Now suppose that we compute a model of each of these stars for the time at which it becomes stable and derives its energy from nuclear reactions, but before it has time to alter its composition appreciably as a result of these reactions.</para>
+<para id="fs-id1164754897108">The models calculated for these stars allow us to determine their luminosities, temperatures, and sizes. If we plot the results from the models—one point for each model star—on the H–R diagram, we get something that looks just like the main sequence we saw for real stars.</para>
+<para id="fs-id1164755024469">And here is what we find when we do this. The model stars with the largest masses are the hottest and most luminous, and they are located at the upper left of the diagram.</para>
+<para id="fs-id1164754917569">The least-massive model stars are the coolest and least luminous, and they are placed at the lower right of the plot. The other model stars all lie along a line running diagonally across the diagram. In other words, <emphasis effect="italics">the main sequence turns out to be a sequence of stellar masses</emphasis>.</para>
+<para id="fs-id1164755043934">This makes sense if you think about it. The most massive stars have the most gravity and can thus compress their centers to the greatest degree. This means they are the hottest inside and the best at generating energy from nuclear reactions deep within. As a result, they shine with the greatest luminosity and have the hottest surface temperatures. The stars with lowest mass, in turn, are the coolest inside and least effective in generating energy. Thus, they are the least luminous and wind up being the coolest on the surface. Our Sun lies somewhere in the middle of these extremes (as you can see in <link target-id="OSC_Astro_18_04_Sample"/>). The characteristics of representative <term class="no-emphasis">main-sequence stars</term> (excluding brown dwarfs, which are not true stars) are listed in <link target-id="fs-id1164755015460"/>.</para>
+<table id="fs-id1164755015460" summary="This table is titled “Characteristics of Main-Sequence Stars” and contains 5 columns and 8 rows. The first row is a header row and it labels each column, “Spectral Type”, “Mass (Sun = 1)”, “Luminosity (Sun = 1)”, “Temperature” and “Radius (Sun = 1)”. Under the “Spectral Type” column are the values, “O5”, “B0”, “A0”, “F0”, “G0”, “K0” and “M0”. Under the “Mass (Sun = 1)” column are the values, “40”, “16”, “3.3”, “1.7”, “1.1”, “0.8” and “0.4”. Under the “Luminosity (Sun = 1)” column are the values, “7 × 105”, “2.7 × 105”, “55”, “5”, “1.4”, “0.35” and “0.05”. Under the “Temperature” column are the values, “40,000 K”, “28,000 K”, “10,000 K”, “7500 K”, “6000 K”, “5000 K” and “3500 K”. Finally, under the “Radius (Sun = 1)” column are the values, “18”, “7”, “2.5”, “1.4”, “1.1”, “0.8” and “0.6”." class="top-titled">
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c5" align="center">Characteristics of Main-Sequence Stars</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Spectral Type</entry>
+<entry valign="top" align="center">Mass (Sun = 1)</entry>
+<entry valign="top" align="center">Luminosity (Sun = 1)</entry>
+<entry valign="top" align="center">Temperature</entry>
+<entry valign="top" align="center">Radius (Sun = 1)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">O5</entry>
+<entry valign="top" align="left">40</entry>
+<entry valign="top" align="left">7 × 10<sup>5</sup></entry>
+<entry valign="top" align="left">40,000 K</entry>
+<entry valign="top" align="left">18</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">B0</entry>
+<entry valign="top" align="left">16</entry>
+<entry valign="top" align="left">2.7 × 10<sup>5</sup></entry>
+<entry valign="top" align="left">28,000 K</entry>
+<entry valign="top" align="left">7</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">A0</entry>
+<entry valign="top" align="left">3.3</entry>
+<entry valign="top" align="left">55</entry>
+<entry valign="top" align="left">10,000 K</entry>
+<entry valign="top" align="left">2.5</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">F0</entry>
+<entry valign="top" align="left">1.7</entry>
+<entry valign="top" align="left">5</entry>
+<entry valign="top" align="left">7500 K</entry>
+<entry valign="top" align="left">1.4</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">G0</entry>
+<entry valign="top" align="left">1.1</entry>
+<entry valign="top" align="left">1.4</entry>
+<entry valign="top" align="left">6000 K</entry>
+<entry valign="top" align="left">1.1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">K0</entry>
+<entry valign="top" align="left">0.8</entry>
+<entry valign="top" align="left">0.35</entry>
+<entry valign="top" align="left">5000 K</entry>
+<entry valign="top" align="left">0.8</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">M0</entry>
+<entry valign="top" align="left">0.4</entry>
+<entry valign="top" align="left">0.05</entry>
+<entry valign="top" align="left">3500 K</entry>
+<entry valign="top" align="left">0.6</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1164754979364">Note that we’ve seen this 90% figure come up before. This is exactly what we found earlier when we examined the mass-luminosity relation (<link target-id="OSC_Astro_18_02_Mass" document="m59899"/>). We observed that 90% of all stars seem to follow the relationship; these are the 90% of all stars that lie on the main sequence in our H–R diagram. Our models and our observations agree.</para>
+<para id="fs-id1164755049188">What about the other stars on the H–R diagram—the giants and supergiants, and the white dwarfs? As we will see in the next few chapters, these are what main-sequence stars turn into as they age: They are the later stages in a star’s life. As a star consumes its nuclear fuel, its source of energy changes, as do its chemical composition and interior structure. These changes cause the star to alter its luminosity and surface temperature so that it no longer lies on the main sequence on our diagram. Because stars spend much less time in these later stages of their lives, we see fewer stars in those regions of the H–R diagram.</para>
+</section>
+<section id="fs-id1164754997938">
+<title>Extremes of Stellar Luminosities, Diameters, and Densities</title>
+<para id="fs-id1164755012037">We can use the H–R diagram to explore the extremes in size, luminosity, and density found among the stars. Such extreme stars are not only interesting to fans of the <emphasis effect="italics">Guinness Book of World Records</emphasis>; they can teach us a lot about how stars work. For example, we saw that the most massive main-sequence stars are the most luminous ones. We know of a few extreme stars that are a million times more luminous than the Sun, with masses that exceed 100 times the Sun’s mass. These superluminous stars, which are at the upper left of the H–R diagram, are exceedingly hot, very blue stars of spectral type O. These are the stars that would be the most conspicuous at vast distances in space.</para>
+<para id="fs-id1164755016804">The cool supergiants in the upper corner of the H–R diagram are as much as 10,000 times as luminous as the Sun. In addition, these stars have diameters very much larger than that of the Sun. As discussed above, some supergiants are so large that if the solar system could be centered in one, the star’s surface would lie beyond the orbit of Mars (see <link target-id="OSC_Astro_18_04_SizeCompare"/>). We will have to ask, in coming chapters, what process can make a star swell up to such an enormous size, and how long these “swollen” stars can last in their distended state.</para>
+<figure id="OSC_Astro_18_04_SizeCompare">
+<title>The Sun and a Supergiant.</title>
+<media id="fs-id1164755024620" alt="Illustration of the Sun and a Supergiant Star. At left, the supergiant star VY Canis Majoris is shown as a large yellow sphere. At the bottom left edge of the supergiant a small rectangle is drawn. This area is enlarged in the inset at right. The Sun is shown as a tiny dot surrounded by a dashed circle representing Earth’s orbit. The surface of the supergiant is drawn running diagonally across the upper right half of the enlargement. The Sun and the orbit of Earth would fit inside VY Canis Majoris many times over.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_18_04_SizeCompare.jpg"/>
+</media>
+<caption>Here you see how small the Sun looks in comparison to one of the largest known stars: VY Canis Majoris, a supergiant.</caption>
+</figure>
+<para id="fs-id1164755007489">In contrast, the very common red, cool, low-luminosity stars at the lower end of the main sequence are much smaller and more compact than the Sun. An example of such a red dwarf is Ross 614B, with a surface temperature of 2700 K and only 1/2000 of the Sun’s luminosity. We call such a star a dwarf because its diameter is only 1/10 that of the Sun. A star with such a low luminosity also has a low mass (about 1/12 that of the Sun). This combination of mass and diameter means that it is so compressed that the star has an average density about 80 times that of the Sun. Its density must be higher, in fact, than that of any known solid found on the surface of Earth. (Despite this, the star is made of gas throughout because its center is so hot.)</para>
+<para id="fs-id1164755024621">The faint, red, main-sequence stars are not the stars of the most extreme densities, however. The white dwarfs, at the lower-left corner of the H–R diagram, have densities many times greater still.</para>
+</section>
+<section id="fs-id1164755047022">
+<title>The White Dwarfs</title>
+<para id="fs-id1164755020363">The first <term class="no-emphasis">white dwarf</term> star was detected in 1862. Called <term class="no-emphasis">Sirius</term> B, it forms a binary system with Sirius A, the brightest-appearing star in the sky. It eluded discovery and analysis for a long time because its faint light tends to be lost in the glare of nearby Sirius A (<link target-id="OSC_Astro_18_04_Sirius"/>). (Since Sirius is often called the Dog Star—being the brightest star in the constellation of Canis Major, the big dog—Sirius B is sometimes nicknamed the Pup.)</para>
+<figure id="OSC_Astro_18_04_Sirius">
+<title>Two Views of Sirius and Its White Dwarf Companion.</title>
+<media id="fs-id1164754988271" alt="Two Views of Sirius and Its White Dwarf Companion. (a) A visible light image taken by the Hubble Space Telescope. Sirius B is the faint speck in the lower left had quadrant of the image, and nearly lost in the glare of bright Sirius A. (b) X-ray image from the Chandra X-ray telescope. Sirius B is much brighter in X-rays and is the bright object at the center of the image. Above and slightly to the right is Sirius A.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_18_04_Sirius.jpg"/>
+</media>
+<caption>(a) The (visible light) image, taken with the Hubble Space Telescope, shows bright Sirius A, and, below it and off to its left, faint Sirius B. (b) This image of the <term class="no-emphasis">Sirius</term> star system was taken with the Chandra X-Ray Telescope. Now, the bright object is the white dwarf companion, Sirius B. Sirius A is the faint object above it; what we are seeing from Sirius is probably not actually X-ray radiation but rather ultraviolet light that has leaked into the detector. Note that the ultraviolet intensities of these two objects are completely reversed from the situation in visible light because Sirius B is hotter and emits more higher-frequency radiation. (credit a: modification of work by NASA, H.E. Bond and E. Nelan (Space Telescope Science Institute), M. Barstow and M. Burleigh (University of Leicester) and J.B. Holberg (University of Arizona); credit b: modification of work by NASA/SAO/CXC)</caption>
+</figure>
+<para id="fs-id1164755043950">We have now found thousands of white dwarfs. <link target-id="fs-id1164754878917" document="m59898"/> shows that about 7% of the true stars (spectral types O–M) in our local neighborhood are white dwarfs. A good example of a typical white dwarf is the nearby star 40 Eridani B. Its surface temperature is a relatively hot 12,000 K, but its luminosity is only 1/275 <emphasis effect="italics">L</emphasis><sub>Sun</sub>. Calculations show that its radius is only 1.4% of the Sun’s, or about the same as that of Earth, and its volume is 2.5 × 10<sup>–6</sup> that of the Sun. Its mass, however, is 0.57 times the Sun’s mass, just a little more than half. To fit such a substantial mass into so tiny a volume, the star’s density must be about 210,000 times the density of the Sun, or more than 300,000 g/cm<sup>3</sup>. A teaspoonful of this material would have a mass of some 1.6 tons! At such enormous densities, matter cannot exist in its usual state; we will examine the particular behavior of this type of matter in <link document="m59931">The Death of Stars</link>. For now, we just note that white dwarfs are dying stars, reaching the end of their productive lives and ready for their stories to be over.</para><para id="fs-id1164754998767">The British astrophysicist (and science popularizer) Arthur <term class="no-emphasis">Eddington</term> (1882–1944) described the first known white dwarf this way:</para>
+<quote id="fs-id1166568961029"><para id="fs-id1164754918889">The message of the companion of <term class="no-emphasis">Sirius</term>, when decoded, ran: “I am composed of material three thousand times denser than anything you’ve ever come across. A ton of my material would be a little nugget you could put in a matchbox.” What reply could one make to something like that? Well, the reply most of us made in 1914 was, “Shut up; don’t talk nonsense.”</para></quote>
+<para id="fs-id1164755031779">Today, however, astronomers not only accept that stars as dense as white dwarfs exist but (as we will see) have found even denser and stranger objects in their quest to understand the evolution of different types of stars.</para>
+<note id="he-094845" class="astronomy link-to-learning"><para id="sd-9448832">Use this <link url="https://openstax.org/l/30interhr">interactive H-R diagram</link> to explore the sizes of stars based on their placement. Overlay the closest stars and the brightest stars, and consider where they lie on the figure. How many stars are among both the closest and brightest stars?</para></note>
+</section>
+<section id="fs-id1164755025686" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-id1164755046641">The Hertzsprung–Russell diagram, or H–R diagram, is a plot of stellar luminosity against surface temperature. Most stars lie on the main sequence, which extends diagonally across the H–R diagram from high temperature and high luminosity to low temperature and low luminosity. The position of a star along the main sequence is determined by its mass. High-mass stars emit more energy and are hotter than low-mass stars on the main sequence. Main-sequence stars derive their energy from the fusion of protons to helium. About 90% of the stars lie on the main sequence. Only about 10% of the stars are white dwarfs, and fewer than 1% are giants or supergiants.</para>
+</section>
+<section id="fs-id1164754948633" class="further-exploration">
+<title>For Further Exploration</title>
+<section id="fs-id1164754963958">
+<title>Articles</title>
+<para id="fs-id1164755037320">Croswell, K. “The Periodic Table of the Cosmos.” <emphasis effect="italics">Scientific American</emphasis> (July 2011):45–49. A brief introduction to the history and uses of the H–R diagram.</para>
+<para id="fs-id1164755058674">Davis, J. “Measuring the Stars.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (October 1991): 361. The article explains direct measurements of stellar diameters.</para>
+<para id="fs-id1164755035939">DeVorkin, D. “Henry Norris Russell.” <emphasis effect="italics">Scientific American</emphasis> (May 1989): 126.</para>
+<para id="fs-id1164754998363">Kaler, J. “Journeys on the H–R Diagram.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (May 1988): 483.</para>
+<para id="fs-id1164754995030">McAllister, H. “Twenty Years of Seeing Double.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (November 1996): 28. An update on modern studies of binary stars.</para>
+<para id="fs-id1164755006391">Parker, B. “Those Amazing White Dwarfs.” <emphasis effect="italics">Astronomy</emphasis> (July 1984): 15. The article focuses on the history of their discovery.</para>
+<para id="fs-id1164754969857">Pasachoff, J. “The H–R Diagram’s 100th Anniversary.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (June 2014): 32.</para>
+<para id="fs-id1164754979318">Roth, J., and Sinnott, R. “Our Studies of Celestial Neighbors.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (October 1996): 32. A discussion is provided on finding the nearest stars.</para>
+</section>
+<section id="fs-id1164754998856">
+<title>Websites</title>
+<para id="fs-id1164755038198">Eclipsing Binary Stars: <link url="http://www.midnightkite.com/index.aspx?URL=Binary">http://www.midnightkite.com/index.aspx?URL=Binary</link>. Dan Bruton at Austin State University has created this collection of animations, articles, and links showing how astronomers use eclipsing binary light curves.</para>
+<para id="fs-id1164755025621">Henry Norris Russell: <link url="http://www.phys-astro.sonoma.edu/brucemedalists/russell/RussellBio.pdf">http://www.phys-astro.sonoma.edu/brucemedalists/russell/RussellBio.pdf</link>. A Bruce Medal profile of Russell.</para><para id="fs-id1164755053770">Hertzsprung–Russell Diagram: <link url="http://skyserver.sdss.org/dr1/en/proj/advanced/hr/">http://skyserver.sdss.org/dr1/en/proj/advanced/hr/</link>. This site from the Sloan Digital Sky Survey introduces the H–R diagram and gives you information for making your own. You can go step by step by using the menu at the left. Note that in the project instructions, the word “here” is a link and takes you to the data you need.</para><para id="fs-id1164755014423">Stars of the Week: <link url="http://stars.astro.illinois.edu/sow/sowlist.html">http://stars.astro.illinois.edu/sow/sowlist.html</link>. Astronomer James Kaler does “biographical summaries” of famous stars—not the Hollywood type, but ones in the real sky.</para></section>
+<section id="fs-id1164755041433">
+<title>Videos</title>
+<para id="gkkk2999999">Constructing a Hertzsprung-Russell Diagram for a Globular Star Cluster: <link url="https://www.youtube.com/watch?v=HWQslu4S5eQ">https://www.youtube.com/watch?v=HWQslu4S5eQ</link>.</para>
+<para id="fs-id1164755011506">WISE Mission Surveys Nearby Stars: <link url="http://www.jpl.nasa.gov/video/details.php?id=1089">http://www.jpl.nasa.gov/video/details.php?id=1089</link>. Short video about the WISE telescope survey of brown dwarfs and M dwarfs in our immediate neighborhood (1:21).</para></section>
+</section>
+<section id="fs-id1164755031829" class="group-activities">
+<title>Collaborative Group Activities</title>
+<list id="fs-id1164755027973" list-type="enumerated" number-style="upper-alpha">
+<item>Two stars are seen close together in the sky, and your group is given the task of determining whether they are a visual binary or whether they just happen to be seen in nearly the same direction. You have access to a good observatory. Make a list of the types of measurements you would make to determine whether they orbit each other.</item>
+<item>Your group is given information about five main sequence stars that are among the brightest-appearing stars in the sky and yet are pretty far away. Where would these stars be on the H–R diagram and why? Next, your group is given information about five main-sequence stars that are typical of the stars closest to us. Where would these stars be on the H–R diagram and why?</item>
+<item>A very wealthy (but eccentric) alumnus of your college donates a lot of money for a fund that will help in the search for more brown dwarfs. Your group is the committee in charge of this fund. How would you spend the money? (Be as specific as you can, listing instruments and observing programs.)</item>
+<item>Use the internet to search for information about the stars with the largest known diameter. What star is considered the record holder (this changes as new measurements are made)? Read about some of the largest stars on the web. Can your group list some reasons why it might be hard to know which star is the largest?</item>
+<item>Use the internet to search for information about stars with the largest mass. What star is the current “mass champion” among stars? Try to research how the mass of one or more of the most massive stars was measured, and report to the group or the whole class.</item>
+</list>
+</section>
+<section id="fs-id1164754919299" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-id1164755026623">
+<problem id="fs-id1164755026625">
+<para id="fs-id1164754950879">How does the mass of the Sun compare with that of other stars in our local neighborhood?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164755047492">
+<problem id="fs-id1164755030492">
+<para id="fs-id1164755030494">Name and describe the three types of binary systems.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754947853">
+<problem id="fs-id1164755019610">
+<para id="fs-id1164755019612">Describe two ways of determining the diameter of a star.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754998307">
+<problem id="fs-id1164754998309">
+<para id="fs-id1164755030056">What are the largest- and smallest-known values of the mass, luminosity, surface temperature, and diameter of stars (roughly)?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164755031805">
+<problem id="fs-id1164755031808">
+<para id="fs-id1164754988859">You are able to take spectra of both stars in an eclipsing binary system. List all properties of the stars that can be measured from their spectra and light curves.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754987786">
+<problem id="fs-id1164754987788">
+<para id="fs-id1164755020164">Sketch an H–R diagram. Label the axes. Show where cool supergiants, white dwarfs, the Sun, and main-sequence stars are found.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754898958">
+<problem id="fs-id1164754898960">
+<para id="fs-id1164755010365">Describe what a typical star in the Galaxy would be like compared to the Sun.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754983321">
+<problem id="fs-id1164754983323">
+<para id="fs-id1164754997606">How do we distinguish stars from brown dwarfs? How do we distinguish brown dwarfs from planets?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164755004692">
+<problem id="fs-id1164755011814">
+<para id="fs-id1164755011816">Describe how the mass, luminosity, surface temperature, and radius of main-sequence stars change in value going from the “bottom” to the “top” of the main sequence.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754989811">
+<problem id="fs-id1164754995346">
+<para id="fs-id1164754995348">One method to measure the diameter of a star is to use an object like the Moon or a planet to block out its light and to measure the time it takes to cover up the object. Why is this method used more often with the Moon rather than the planets, even though there are more planets?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164755045730">
+<problem id="fs-id1164755045732">
+<para id="fs-id1164755045194">We discussed in the chapter that about half of stars come in pairs, or multiple star systems, yet the first eclipsing binary was not discovered until the eighteenth century. Why?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1164754994780" class="thought-questions">
+<title>Thought Questions</title>
+<exercise id="fs-id1164755043764">
+<problem id="fs-id1164755043766">
+<para id="fs-id1164755043737">Is the Sun an average star? Why or why not?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754987531">
+<problem id="fs-id1164754994709">
+<para id="fs-id1164754994711">Suppose you want to determine the average educational level of people throughout the nation. Since it would be a great deal of work to survey every citizen, you decide to make your task easier by asking only the people on your campus. Will you get an accurate answer? Will your survey be distorted by a selection effect? Explain.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754986112">
+<problem id="fs-id1164755013024">
+<para id="fs-id1164755013026">Why do most known visual binaries have relatively long periods and most spectroscopic binaries have relatively short periods?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164755049646">
+<problem id="fs-id1164755011924">
+<para id="fs-id1164755011926"><link target-id="OSC_Astro_18_03_Light" document="m59900"/> shows the light curve of a hypothetical eclipsing binary star in which the light of one star is completely blocked by another. What would the light curve look like for a system in which the light of the smaller star is only partially blocked by the larger one? Assume the smaller star is the hotter one. Sketch the relative positions of the two stars that correspond to various portions of the light curve.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164755026198">
+<problem id="fs-id1164755021565">
+<para id="fs-id1164755021567">There are fewer eclipsing binaries than spectroscopic binaries. Explain why.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164755016006">
+<problem id="fs-id1164755016008">
+<para id="fs-id1164755016010">Within 50 light-years of the Sun, visual binaries outnumber eclipsing binaries. Why?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164755036371">
+<problem id="fs-id1164755036374">
+<para id="fs-id1164755031052">Which is easier to observe at large distances—a spectroscopic binary or a visual binary?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754917800">
+<problem id="fs-id1164754917802">
+<para id="fs-id1164754917804">The eclipsing binary Algol drops from maximum to minimum brightness in about 4 hours, remains at minimum brightness for 20 minutes, and then takes another 4 hours to return to maximum brightness. Assume that we view this system exactly edge-on, so that one star crosses directly in front of the other. Is one star much larger than the other, or are they fairly similar in size? (Hint: Refer to the diagrams of eclipsing binary light curves.)</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754944429">
+<problem id="fs-id1164754988642">
+<para id="fs-id1164754988644">Review this spectral data for five stars.</para>
+<table id="fs-id1164754988647" summary="This table has 2 columns and 6 rows. The first row is a header row and it labels each column, “Star” and “Spectrum”. Under the “Star” column are the values, “1”, “2”, “3”, “4” and “5”. Under the “Spectrum” column are the values, “G, main sequence”, “K, giant”, “K, main sequence”, “O, main sequence” and “M, main sequence”." class="unnumbered">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3" align="center">Table A</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Star</entry>
+<entry valign="top" align="center">Spectrum</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">1</entry>
+<entry valign="top" align="left">G, main sequence</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">2</entry>
+<entry valign="top" align="left">K, giant</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">3</entry>
+<entry valign="top" align="left">K, main sequence</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">4</entry>
+<entry valign="top" align="left">O, main sequence</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">5</entry>
+<entry valign="top" align="left">M, main sequence</entry>
+</row>
+</tbody>
+
+
+
+</tgroup>
+</table><para id="fs-id1164755024576">Which is the hottest? Coolest? Most luminous? Least luminous? In each case, give your reasoning.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754988622">
+<problem id="fs-id1164754988624">
+<para id="fs-id1164754988627">Which changes by the largest factor along the main sequence from spectral types O to M—mass or luminosity?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754998798">
+<problem id="fs-id1164754998800">
+<para id="fs-id1164755019684">Suppose you want to search for brown dwarfs using a space telescope. Will you design your telescope to detect light in the ultraviolet or the infrared part of the spectrum? Why?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754930914">
+<problem id="fs-id1164754963702">
+<para id="fs-id1164754963704">An astronomer discovers a type-M star with a large luminosity. How is this possible? What kind of star is it?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164755016800">
+<problem id="fs-id1164755014306">
+<para id="fs-id1164755014308">Approximately 9000 stars are bright enough to be seen without a telescope. Are any of these white dwarfs? Use the information given in this chapter to explain your reasoning.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754897807">
+<problem id="fs-id1164754897809">
+<para id="fs-id1164754897811">Use the data in <link document="m60003">Appendix J</link> to plot an H–R diagram for the brightest stars. Use the data from <link target-id="fs-id1164755015460"/> to show where the main sequence lies. Do 90% of the brightest stars lie on or near the main sequence? Explain why or why not.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164755027119">
+<problem id="fs-id1164755027122">
+<para id="fs-id1164755027124">Use the diagram you have drawn for <link target-id="fs-id1164754897807"/> to answer the following questions: Which star is more massive—Sirius or Alpha Centauri? Rigel and Regulus have nearly the same spectral type. Which is larger? Rigel and Betelgeuse have nearly the same luminosity. Which is larger? Which is redder?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164755019710">
+<problem id="fs-id1164755019712">
+<para id="fs-id1164755029868">Use the data in <link document="m60002">Appendix I</link> to plot an H–R diagram for this sample of nearby stars. How does this plot differ from the one for the brightest stars in <link target-id="fs-id1164754897807"/>? Why?</para></problem>
+</exercise>
+<exercise id="fs-id1164754998571">
+<problem id="fs-id1164754998573">
+<para id="fs-id1164754988588">If a visual binary system were to have two equal-mass stars, how would they be located relative to the center of the mass of the system? What would you observe as you watched these stars as they orbited the center of mass, assuming very circular orbits, and assuming the orbit was face on to your view?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754975934">
+<problem id="fs-id1164754975937">
+<para id="fs-id1164755029098">Two stars are in a visual binary star system that we see face on. One star is very massive whereas the other is much less massive. Assuming circular orbits, describe their relative orbits in terms of orbit size, period, and orbital velocity.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754986406">
+<problem id="fs-id1164754986408">
+<para id="fs-id1164754986410">Describe the spectra for a spectroscopic binary for a system comprised of an F-type and L-type star. Assume that the system is too far away to be able to easily observe the L-type star.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754918133">
+<problem id="fs-id1164754918135">
+<para id="fs-id1164754917203"><link target-id="OSC_Astro_18_02_Radial" document="m59899"/> shows the velocity of two stars in a spectroscopic binary system. Which star is the most massive? Explain your reasoning.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754987732">
+<problem id="fs-id1164755028029">
+<para id="fs-id1164755028031">You go out stargazing one night, and someone asks you how far away the brightest stars we see in the sky without a telescope are. What would be a good, general response? (Use <link document="m60003">Appendix J</link> for more information.)</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164755007288">
+<problem id="fs-id1164755007291">
+<para id="fs-id1164755007293">If you were to compare three stars with the same surface temperature, with one star being a giant, another a supergiant, and the third a main-sequence star, how would their radii compare to one another?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754963756">
+<problem id="fs-id1164755022397">
+<para id="fs-id1164755022399">Are supergiant stars also extremely massive? Explain the reasoning behind your answer.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164755039439">
+<problem id="fs-id1164755031713">
+<para id="fs-id1164755031715">Consider the following data on four stars:</para>
+<table id="fs-id1164755045201" class="unnumbered" summary="This table contains 3 columns and 5 rows. The first row is a header row and it labels each column, “Star”, “Luminosity (in LSun)” and “Type”. Under the “Star” column are the values, “1”, “2”, “3” and “4”. Under the “Luminosity (in LSun)” column are the values “100”, “1/100”, “1/100” and “100”. Finally, under the “Type” column are the values, “B, Main Sequence”, “B, White Dwarf”, “M, Main Sequence” and “M, Giant”.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+
+<row>
+<entry namest="c1" nameend="c3" align="center">Table B</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Star</entry>
+<entry valign="top" align="center">Luminosity (in <emphasis effect="italics">L</emphasis><sub>Sun</sub>)</entry>
+<entry valign="top" align="center">Type</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">1</entry>
+<entry valign="top" align="left">100</entry>
+<entry valign="top" align="left">B, main sequence</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">2</entry>
+<entry valign="top" align="left">1/100</entry>
+<entry valign="top" align="left">B, white dwarf</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">3</entry>
+<entry valign="top" align="left">1/100</entry>
+<entry valign="top" align="left">M, main sequence</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">4</entry>
+<entry valign="top" align="left">100</entry>
+<entry valign="top" align="left">M, giant</entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table><para id="fs-id1164755049009">Which star would have the largest radius? Which star would have the smallest radius? Which star is the most common in our area of the Galaxy? Which star is the least common?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1164754988506" class="figuring-for-yourself">
+<title>Figuring for Yourself</title>
+<exercise id="fs-id1164755053746">
+<problem id="fs-id1164755053749">
+<para id="fs-id1164754998886">If two stars are in a binary system with a combined mass of 5.5 solar masses and an orbital period of 12 years, what is the average distance between the two stars?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164755016419">
+<problem id="fs-id1164755026601">
+<para id="fs-id1164755026603">It is possible that stars as much as 200 times the Sun’s mass or more exist. What is the luminosity of such a star based upon the mass-luminosity relation?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164755051534">
+<problem id="fs-id1164755051536">
+<para id="fs-id1164754948201">The lowest mass for a true star is 1/12 the mass of the Sun. What is the luminosity of such a star based upon the mass-luminosity relationship?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164755029081">
+<problem id="fs-id1164755029083">
+<para id="fs-id1164755026353">Spectral types are an indicator of temperature. For the first 10 stars in <link document="m60003">Appendix J</link>, the list of the brightest stars in our skies, estimate their temperatures from their spectral types. Use information in the figures and/or tables in this chapter and describe how you made the estimates.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164755048763">
+<problem id="fs-id1164755048766">
+<para id="fs-id1164755048768">We can estimate the masses of most of the stars in <link document="m60003">Appendix J</link> from the mass-luminosity relationship in <link target-id="OSC_Astro_18_02_Mass" document="m59899"/>. However, remember this relationship works only for main sequence stars. Determine which of the first 10 stars in <link document="m60003">Appendix J</link> are main sequence stars. Use one of the figures in this chapter. Make a table of stars’ masses.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754988704">
+<problem id="fs-id1164754988706">
+<para id="fs-id1164754988708">In <link document="m59900">Diameters of Stars</link>, the relative diameters of the two stars in the Sirius system were determined. Let’s use this value to explore other aspects of this system. This will be done through several steps, each in its own exercise. Assume the temperature of the Sun is 5800 K, and the temperature of Sirius A, the larger star of the binary, is<newline/>10,000 K. The luminosity of Sirius A can be found in <link document="m60003">Appendix J</link>, and is given as about 23 times that of the Sun. Using the values provided, calculate the radius of Sirius A relative to that of the Sun.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754988973">
+<problem id="fs-id1164754988975">
+<para id="fs-id1164754988977">Now calculate the radius of Sirius’ white dwarf companion, Sirius B, to the Sun.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164755021267">
+<problem id="fs-id1164755021269">
+<para id="fs-id1164755021271">How does this radius of Sirius B compare with that of Earth?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754962490">
+<problem id="fs-id1164754962492">
+<para id="fs-id1164754962494">From the previous calculations and the results from <link document="m59900">Diameters of Stars</link>, it is possible to calculate the density of Sirius B relative to the Sun. It is worth noting that the radius of the companion is very similar to that of Earth, whereas the mass is very similar to the Sun’s. How does the companion’s density compare to that of the Sun? Recall that density = mass/volume, and the volume of a sphere = (4/3)π<emphasis effect="italics">R</emphasis><sup>3</sup>. How does this density compare with that of water and other materials discussed in this text? Can you see why astronomers were so surprised and puzzled when they first determined the orbit of the companion to Sirius?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164755031814">
+<problem id="fs-id1164755031816">
+<para id="fs-id1164755031818">How much would you weigh if you were suddenly transported to the white dwarf Sirius B? You may use your own weight (or if don’t want to own up to what it is, assume you weigh 70 kg or 150 lb). In this case, assume that the companion to Sirius has a mass equal to that of the Sun and a radius equal to that of Earth. Remember Newton’s law of gravity:<newline/>
+<m:math><m:mrow><m:mi>F</m:mi><m:mo>=</m:mo><m:mi>G</m:mi><m:msub><m:mi>M</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>M</m:mi><m:mn>2</m:mn></m:msub><m:mtext>/</m:mtext><m:msup><m:mi>R</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math><newline/>
+and that your weight is proportional to the force that you feel. What kind of star should you travel to if you want to <emphasis effect="italics">lose</emphasis> weight (and not gain it)?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754988917">
+<problem id="fs-id1164754988919">
+<para id="fs-id1164754988921">The star Betelgeuse has a temperature of 3400 K and a luminosity of 13,200 <emphasis effect="italics">L</emphasis><sub>Sun</sub>. Calculate the radius of Betelgeuse relative to the Sun.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754994296">
+<problem id="fs-id1164754994298">
+<para id="fs-id1164754994300">Using the information provided in <link target-id="fs-id1164754878917" document="m59898"/>, what is the average stellar density in our part of the Galaxy? Use only the true stars (types O–M) and assume a spherical distribution with radius of 26 light-years.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164754997822">
+<problem id="fs-id1164754997824">
+<para id="fs-id1164754997826">Confirm that the angular diameter of the Sun of 1/2° corresponds to a linear diameter of 1.39 million km. Use the average distance of the Sun and Earth to derive the answer. (Hint: This can be solved using a trigonometric function.)</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164755011949">
+<problem id="fs-id1164755011951">
+<para id="fs-id1164755011953">An eclipsing binary star system is observed with the following contact times for the main eclipse:</para>
+<table id="fs-id1164755011960" class="unnumbered" summary="This table contains 3 rows and 4 columns. There is no header row. The first column contains the values, “First contact”, “Second contact”, “Third contact” and “Fourth contact”. The second column contains the values, “12:00 p.m.”, “4:00 p.m.”, “9:00 a.m.” and “1:00 p.m.”. The last column contains the values, “March 12”, “March 13”, “March 18” and “March 19”.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+
+<row>
+<entry namest="c1" nameend="c3" align="center">Table C</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Contact</entry>
+<entry valign="top" align="left">Time</entry>
+<entry valign="top" align="left">Date</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">First contact</entry>
+<entry valign="top" align="left">12:00 p.m.</entry>
+<entry valign="top" align="left">March 12</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Second contact</entry>
+<entry valign="top" align="left">4:00 p.m.</entry>
+<entry valign="top" align="left">March 13</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Third contact</entry>
+<entry valign="top" align="left">9:00 a.m.</entry>
+<entry valign="top" align="left">March 18</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Fourth contact</entry>
+<entry valign="top" align="left">1:00 p.m.</entry>
+<entry valign="top" align="left">March 19</entry>
+</row>
+</tbody>
+
+
+
+</tgroup>
+</table><para id="fs-id1164755011562">The orbital velocity of the smaller star relative to the larger is 62,000 km/h. Determine the diameters for each star in the system.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164755011584">
+<problem id="fs-id1164755011586">
+<para id="fs-id1164755011588">If a 100 solar mass star were to have a luminosity of 10<sup>7</sup> times the Sun’s luminosity, how would such a star’s density compare when it is on the main sequence as an O-type star, and when it is a cool supergiant (M-type)? Use values of temperature from <link target-id="OSC_Astro_18_04_Sample"/> or <link target-id="OSC_Astro_18_04_HR"/> and the relationship between luminosity, radius, and temperature as given in <link target-id="fs-id1164754994296"/>.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164755030406">
+<problem id="fs-id1164755030408">
+<para id="fs-id1164755030410">If Betelgeuse had a mass that was 25 times that of the Sun, how would its average density compare to that of the Sun? Use the definition of <m:math><m:mrow><m:mtext>density</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mtext>mass</m:mtext></m:mrow><m:mrow><m:mtext>volume</m:mtext></m:mrow></m:mfrac></m:mrow></m:math>, where the volume is that of a sphere.</para>
+</problem>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1164755048920">
+<term>H–R diagram</term>
+<meaning id="fs-id1164755006295">(Hertzsprung–Russell diagram) a plot of luminosity against surface temperature (or spectral type) for a group of stars</meaning>
+</definition>
+<definition id="fs-id1164755006300">
+<term>main sequence</term>
+<meaning id="fs-id1164755006305">a sequence of stars on the Hertzsprung–Russell diagram, containing the majority of stars, that runs diagonally from the upper left to the lower right</meaning>
+</definition>
+<definition id="fs-id1164755006313">
+<term>white dwarf</term>
+<meaning id="fs-id1164755006318">a low-mass star that has exhausted most or all of its nuclear fuel and has collapsed to a very small size; such a star is near its final state of life</meaning>
+</definition>
+</glossary>
+</document>

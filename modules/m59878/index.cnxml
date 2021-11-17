@@ -1,0 +1,107 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Solar Cycle</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59878</md:content-id>
+  <md:title>The Solar Cycle</md:title>
+  <md:abstract/>
+  <md:uuid>f4a8969d-bbef-4f5d-a2ef-fa45a3625aa4</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1163975482365" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-id1168584141571">By the end of this section, you will be able to:</para>
+<list id="fs-id1163974168968">
+<item>Describe the sunspot cycle and, more generally, the <term class="no-emphasis">solar cycle</term></item>
+<item>Explain how magnetism is the source of solar activity</item>
+</list>
+</section>
+<para id="fs-id1163974252613">Before the invention of the telescope, the <term class="no-emphasis">Sun</term> was thought to be an unchanging and perfect sphere. We now know that the Sun is in a perpetual state of change: its surface is a seething, bubbling cauldron of hot gas. Areas that are darker and cooler than the rest of the surface come and go. Vast plumes of gas erupt into the chromosphere and corona. Occasionally, there are even giant explosions on the Sun that send enormous streamers of charged particles and energy hurtling toward Earth. When they arrive, these can cause power outages and other serious effects on our planet.</para>
+<section id="fs-id1163975781806">
+<title>Sunspots</title>
+<para id="fs-id1163974216091">The first evidence that the Sun changes came from studies of <term>sunspots</term>, which are large, dark features seen on the surface of the Sun caused by increased magnetic activity. They look darker because the spots are typically at a temperature of about 3800 K, whereas the bright regions that surround them are at about 5800 K (<link target-id="OSC_Astro_15_02_Sunspot"/>). Occasionally, these spots are large enough to be visible to the unaided eye, and we have records going back over a thousand years from observers who noticed them when haze or mist reduced the Sun’s intensity. (We emphasize what your parents have surely told you: looking at the Sun for even a brief time can cause permanent eye damage. This is the one area of astronomy where we don’t encourage you to do your own observing without getting careful instructions or filters from your instructor.)</para>
+<figure id="OSC_Astro_15_02_Sunspot"><title>Sunspots.</title><media id="fs-id1163974600324" alt="a) An image of a series of sunspots, dark blobs on the surface of the Sun. b) Detailed shot of a sunspot taken by the Daniel Inouye Solar Telescope. The single sunspot is shown to be roughly the size of the United States.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_15_02_Sunspot.jpg"/>
+</media>
+
+<caption>a) Image of sunspots, cooler and thus darker regions on the Sun, taken in July 2012. You can see the dark, central region of each sunspot (called the umbra) surrounded by a less dark region (the penumbra). The largest spot shown here is about 11 Earths wide. b) The new Daniel Inouye Solar Telescope took the most detailed image of a sunspot ever recorded in January 2020. A map of the United States is shown to scale. Although sunspots appear dark when seen next to the hotter gases of the photosphere, an average sunspot, cut out of the solar surface and left standing in the night sky, would be about as bright as the full moon. The mottled appearance of the Sun’s surface is granulation. (credit a: modification of work by NASA Goddard Space Flight Center, Alan Friedman; credit b: modification of work by NSO/AURA/NSF)</caption></figure><para id="fs-id1163974432299">While we understand that sunspots look darker because they are cooler, they are nevertheless hotter than the surfaces of many stars. If they could be removed from the Sun, they would shine brightly. They appear dark only in contrast with the hotter, brighter photosphere around them.</para>
+<para id="fs-id1163974320672">Individual sunspots come and go, with lifetimes that range from a few hours to a few months. If a spot lasts and develops, it usually consists of two parts: an inner darker core, the <emphasis effect="italics">umbra</emphasis>, and a surrounding less dark region, the <emphasis effect="italics">penumbra</emphasis>. Many spots become much larger than Earth, and a few, like the largest one shown in <link target-id="OSC_Astro_15_02_Sunspot"/>, have reached diameters over 140,000 kilometers. Frequently, spots occur in groups of 2 to 20 or more. The largest groups are very complex and may have over 100 spots. Like storms on Earth, sunspots are not fixed in position, but they drift slowly compared with the Sun’s rotation.</para>
+<para id="fs-id1163974400587">By recording the apparent motions of the sunspots as the turning Sun carried them across its disk (<link target-id="OSC_Astro_15_02_Rotate"/>), <term class="no-emphasis">Galileo</term>, in 1612, demonstrated that the Sun rotates on its axis with a rotation period of approximately 1 month. Our star turns in a west-to-east direction, like the orbital motions of the planets. The Sun, however, is a gas and does not have to rotate rigidly, the way a solid body like Earth does. Modern observations show that the speed of rotation of the Sun varies according to latitude, that is, it’s different as you go north or south of the Sun’s equator. The rotation period is about 25 days at the equator, 28 days at latitude 40°, and 36 days at latitude 80°. We call this behavior <term>differential rotation</term>.<emphasis effect="italics"/></para>
+<figure id="OSC_Astro_15_02_Rotate">
+<title>Sunspots Rotate Across Sun’s Surface.</title>
+<media id="fs-id1163974503721" alt="An image of the rotation of sunspots across the sun’s surface. A series of images at the top shows the movement of sunspots over time. A enlarged view of the top portion of the sun is shown at bottom, with a black dot labeled “Approximate size of Earth”.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_15_02_Rotate.jpg"/>
+</media>
+<caption>This sequence of photographs of the Sun’s surface tracks the movement of sunspots across the visible hemisphere of the Sun. On March 30, 2001, this group of sunspots extended across an area about 13 times the diameter of Earth. This region produced many flares and coronal mass ejections. (credit: modification of work by SOHO/NASA/ESA)</caption>
+</figure>
+</section>
+<section id="fs-id1163974541833">
+<title>The Sunspot Cycle</title>
+<para id="fs-id1163975472699">Between 1826 and 1850, Heinrich <term class="no-emphasis">Schwabe</term>, a German pharmacist and amateur astronomer, kept daily records of the number of sunspots. What he was really looking for was a planet inside the orbit of Mercury, which he hoped to find by observing its dark silhouette as it passed between the Sun and Earth. He failed to find the hoped-for planet, but his diligence paid off with an even-more important discovery: the <term>sunspot cycle</term>. He found that the number of sunspots varied systematically, in cycles about a decade long.</para>
+<para id="fs-id1163975655822">What Schwabe observed was that, although individual spots are short lived, the total number visible on the Sun at any one time was likely to be very much greater at certain times—the periods of <emphasis effect="italics">sunspot maximum</emphasis>—than at other times—the periods of <emphasis effect="italics">sunspot minimum</emphasis>. We now know that sunspot maxima occur at an <emphasis effect="italics">average</emphasis> interval of 11 years, but the intervals between successive maxima have ranged from as short as 9 years to as long as 14 years. During <term class="no-emphasis">sunspot maxima</term>, more than 100 spots can often be seen at once. Even then, less than one-half of one percent of the Sun’s surface is covered by spots (<link target-id="OSC_Astro_15_02_Cycle" document="m59879"/>). During <term class="no-emphasis">sunspot minima</term>, sometimes no spots are visible. The Sun’s activity reached its most recent maximum in 2014.</para>
+<note id="fs-id1163975375820" class="astronomy link-to-learning">
+<para id="fs-id1163975539960">Watch this brief <link url="https://openstax.org/l/30SolarCyc">video</link> from NASA’s Goddard Space Flight Center that explains the sunspot cycle.</para>
+<para id="newsunspot">Explore the <link url="https://openstax.org/l/30numsunspots">number of sunspots</link> measured each year going back to 1707. Point your cursor at any year, and the diagram tells you the number of sunspots.</para></note>
+</section>
+<section id="fs-id1163975540609">
+<title>Magnetism and the Solar Cycle</title>
+<para id="fs-id1163975468433">Now that we have discussed the Sun’s activity cycle, you might be asking, “Why does the Sun change in such a regular way?” Astronomers now understand that it is the Sun’s changing magnetic field that drives solar activity.</para>
+<para id="fs-id1163975365984">The solar magnetic field is measured using a property of atoms called the <emphasis effect="italics">Zeeman effect</emphasis>. Recall from <link document="m59791">Radiation and Spectra</link> that an atom has many energy levels and that spectral lines are formed when electrons shift from one level to another. If each energy level is precisely defined, then the difference between them is also quite precise. As an electron changes levels, the result is a sharp, narrow <term class="no-emphasis">spectral line</term> (either an absorption or emission line, depending on whether the electron’s energy increases or decreases in the transition).</para>
+<para id="fs-id1163974245198">In the presence of a strong magnetic field, however, each energy level is separated into several levels very close to one another. The separation of the levels is proportional to the strength of the field. As a result, spectral lines formed in the presence of a magnetic field are not single lines but a series of very closely spaced lines corresponding to the subdivisions of the atomic energy levels. This splitting of lines in the presence of a magnetic field is what we call the <term class="no-emphasis">Zeeman effect</term> (after the Dutch scientist who first discovered it in 1896).</para>
+<para id="fs-id1163974450047">Measurements of the Zeeman effect in the spectra of the light from sunspot regions show them to have strong magnetic fields (<link target-id="OSC_Astro_15_02_Zeeman"/>). Bear in mind that magnets always have a north pole and a south pole. Whenever sunspots are observed in pairs, or in groups containing two principal spots, one of the spots usually has the magnetic polarity of a north-seeking magnetic pole and the other has the opposite polarity. Moreover, during a given cycle, the leading spots of pairs (or leading principle spots of groups) in the Northern Hemisphere all tend to have the same polarity, whereas those in the Southern Hemisphere all tend to have the opposite polarity.</para>
+<figure id="OSC_Astro_15_02_Zeeman">
+<title>Zeeman Effect.</title>
+<media id="fs-id1163975482571" alt="A figure illustrating the Zeeman Effect. On the left is a photograph of a sunspot, and on the right is a spectrograph.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_15_02_Zeeman.jpg"/>
+</media>
+<caption>These photographs show how magnetic fields in sunspots are measured by means of the <term class="no-emphasis">Zeeman effect</term>. (left) The vertical black line indicates the position of the spectrograph slit through which light is passed to obtain the spectrum in (right). (credit: modification of work by NSO/AURA/NSF)</caption>
+</figure>
+<para id="fs-id1163975294022">During the next <term class="no-emphasis">sunspot cycle</term>, however, the polarity of the leading spots is reversed in each hemisphere. For example, if during one cycle, the leading spots in the Northern Hemisphere all had the polarity of a north-seeking pole, then the leading spots in the Southern Hemisphere would have the polarity of a south-seeking pole. During the next cycle, the leading spots in the Northern Hemisphere would have south-seeking polarity, whereas those in the Southern Hemisphere would have north-seeking polarity. Therefore, strictly speaking, the sunspot cycle does not repeat itself in regard to magnetic polarity until two 11-year cycles have passed. A visual representation of the Sun’s magnetic fields, called a <emphasis effect="italics">magnetogram</emphasis>, can be used to see the relationship between sunspots and the Sun’s magnetic field (<link target-id="OSC_Astro_15_04_Magneto"/>).</para>
+<figure id="OSC_Astro_15_04_Magneto">
+<title>Magnetogram and Solar Cycle.</title>
+<media id="fs-id1163975468275" alt="A figure of a magnetogram and the solar cycle. On the left is a magnetogram of the sun, showing black areas of magnetism toward the core, and white areas of magnetism away from the core. On the right is a series of images of the sun’s magnetic field over a period of several years.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_15_04_Magneto.jpg"/>
+</media>
+<caption>In the image on the left, called a <term class="no-emphasis">magnetogram</term>, we see the magnetic polarity of sunspots. The black areas are where the magnetism is pointing toward the Sun’s core, whereas the white regions are where it is pointing away from the core, toward us. This dramatic sequence on the right shows the activity cycle of the Sun. The 10 maps of the magnetic field on the surface of the Sun span a period of 7.5 years. The two magnetic polarities (N and S) of the magnetic field are shown against a blue disk as dark blue to black (N) and as light blue to white (S). The earliest image, taken on January 8, 1992, is at the lower left and was taken just after <term class="no-emphasis">solar maximum</term>. Each image, from left to right around the arc, was taken one-half to one year after the preceding one. The last image was taken on July 25, 1999, as the Sun was approaching the next solar maximum. Note a few striking patterns in the magnetic maps: the direction from white to black polarity in the Southern Hemisphere is opposite from that in the Northern Hemisphere. (credit left: modification of work by NASA/SDO; credit right: modification of work by NASA/SOHO)</caption>
+</figure>
+<para id="fs-id1163975466163">Why is the Sun such a strong and complicated magnet? Astronomers have found that it is the Sun’s <emphasis effect="italics">dynamo</emphasis> that generates the magnetic field. A dynamo is a machine that converts kinetic energy (i.e., the energy of motion) into electricity. On Earth, dynamos are found in power plants where, for example, the energy from wind or flowing water is used to cause turbines to rotate. In the Sun, the source of kinetic energy is the churning of turbulent layers of ionized gas within the Sun’s interior that we mentioned earlier. These generate electric currents—moving electrons—which in turn generate magnetic fields.</para>
+<para id="fs-id1163974546353">Most solar researchers agree that the <term class="no-emphasis">solar dynamo</term> is located in the convection zone or in the interface layer between the convection zone and the radiative zone below it. As the magnetic fields from the Sun’s dynamo interact, they break, reconnect, and rise through the Sun’s surface.</para>
+<para id="fs-id1163974446981">We should say that, although we have good observations that show us <emphasis effect="italics">how</emphasis> the Sun changes during each <term class="no-emphasis">solar cycle</term>, it is still very difficult to build physical models of something as complicated as the Sun that can account satisfactorily for <emphasis effect="italics">why</emphasis> it changes. Researchers have not yet developed a generally accepted model that describes in detail the physical processes that control the solar cycle. Calculations do show that differential rotation (the idea that the Sun rotates at different rates at different latitudes) and convection just below the solar surface can twist and distort the magnetic fields. This causes them to grow and then decay, regenerating with opposite polarity approximately every 11 years. The calculations also show that as the fields grow stronger near solar maximum, they flow from the interior of the Sun toward its surface in the form of loops. When a large loop emerges from the solar surface, it creates regions of sunspot activity (<link target-id="OSC_Astro_15_02_DiffRot"/>).</para>
+<figure id="OSC_Astro_15_02_DiffRot">
+<title>Magnetic Field Lines Wind Up.</title>
+<media id="fs-id1163974240693" alt="A figure illustrating how the magnetic field lines on the sun wind up. Three illustrations of the sun are shown from left to right. On the left, the magnetic lines stretch from the bottom to the top of the sun. Arrows point to the left indicating differential rotation. As time increases in the middle figure, the arrows representing the magnetic lines are pulled to the right at the sun’s equator. At right the lines have morphed into loops.">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_15_02_DiffRot.jpg"/>
+</media>
+<caption>Because the Sun spins faster at the equator than near the poles, the magnetic fields in the Sun tend to wind up as shown, and after a while make loops. This is an idealized diagram; the real situation is much more complex.</caption>
+</figure>
+<para id="fs-id1163974597754">This idea of magnetic loops offers a natural explanation of why the leading and trailing sunspots in an active region have opposite polarity. The leading sunspot coincides with one end of the loop and the trailing spot with the other end. Magnetic fields also hold the key to explaining why sunspots are cooler and darker than the regions without strong magnetic fields. The forces produced by the magnetic field resist the motions of the bubbling columns of rising hot gases. Since these columns carry most of the heat from inside the Sun to the surface by means of convection, and strong magnetic fields inhibit this convection, the surface of the Sun is allowed to cool. As a result, these regions are seen as darker, cooler sunspots.</para>
+<para id="fs-id1163975413373">Beyond this general picture, researchers are still trying to determine why the magnetic fields are as large as they are, why the polarity of the field in each hemisphere flips from one cycle to the next, why the length of the solar cycle can vary from one cycle to the next, and why events like the Maunder Minimum occur.</para>
+<note id="fs-id1163974568823" class="astronomy link-to-learning">
+<para id="fs-id1163974266241">In this <link url="https://openstax.org/l/30MagField">video</link> solar scientist Holly Gilbert discusses the Sun’s magnetic field.</para>
+</note>
+</section>
+<section id="fs-id1163975575041" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-id1163971939494">Sunspots are dark regions where the temperature is up to 2000 K cooler than the surrounding photosphere. Their motion across the Sun’s disk allows us to calculate how fast the Sun turns on its axis. The Sun rotates more rapidly at its equator, where the rotation period is about 25 days, than near the poles, where the period is slightly longer than 36 days. The number of visible sunspots varies according to a sunspot cycle that averages 11 years in length. Spots frequently occur in pairs. During a given 11-year cycle, all leading spots in the Northern Hemisphere have the same magnetic polarity, whereas all leading sports in the Southern Hemisphere have the opposite polarity. In the subsequent 11-year cycle, the polarity reverses. For this reason, the magnetic activity cycle of the Sun is understood to last for 22 years. This activity cycle is connected with the behavior of the Sun’s magnetic field, but the exact mechanism is not yet understood.</para>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1163975476318">
+<term>differential rotation</term>
+<meaning id="fs-id1163974220173">the phenomenon that occurs when different parts of a rotating object rotate at different rates at different latitudes</meaning>
+</definition>
+<definition id="fs-id1163975307331">
+<term>Maunder Minimum</term>
+<meaning id="fs-id1163975328746">a period during the seventeenth century when the number of sunspots seen throughout the solar cycle was unusually low</meaning>
+</definition>
+<definition id="fs-id1163975722133">
+<term>sunspot</term>
+<meaning id="fs-id1163974272791">large, dark features seen on the surface of the Sun caused by increased magnetic activity</meaning>
+</definition>
+<definition id="fs-id1163975457027">
+<term>sunspot cycle</term>
+<meaning id="fs-id1163974267084">the semiregular 11-year period with which the frequency of sunspots fluctuates</meaning>
+</definition>
+</glossary>
+</document>
