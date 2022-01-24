@@ -18,7 +18,7 @@
 <item>Define the technique of interferometry and discuss the benefits of interferometers over single-dish telescopes</item>
 </list>
 </section>
-<para id="fs-id1167470614672">In addition to visible and infrared radiation, radio waves from astronomical objects can also be detected from the surface of Earth. In the early 1930s, Karl G. <term class="no-emphasis">Jansky</term>, an engineer at Bell Telephone Laboratories, was experimenting with antennas for long-range radio communication when he encountered some mysterious static—radio radiation coming from an unknown source (<link target-id="OSC_Astro_06_04_RTelescope"/>). He discovered that this radiation came in strongest about four minutes earlier on each successive day and correctly concluded that since Earth’s sidereal rotation period (how long it takes us to rotate relative to the stars) is four minutes shorter than a solar day, the radiation must be originating from some region fixed on the celestial sphere. Subsequent investigation showed that the source of this radiation was part of the <term class="no-emphasis">Milky Way Galaxy</term>; Jansky had discovered the first source of cosmic radio waves.</para>
+<para id="fs-id1167470614672">In addition to visible and infrared radiation, radio waves from astronomical objects can also be detected from the surface of Earth. In the early 1930s, Karl G. <term class="no-emphasis" id="term-00001">Jansky</term>, an engineer at Bell Telephone Laboratories, was experimenting with antennas for long-range radio communication when he encountered some mysterious static—radio radiation coming from an unknown source (<link target-id="OSC_Astro_06_04_RTelescope"/>). He discovered that this radiation came in strongest about four minutes earlier on each successive day and correctly concluded that since Earth’s sidereal rotation period (how long it takes us to rotate relative to the stars) is four minutes shorter than a solar day, the radiation must be originating from some region fixed on the celestial sphere. Subsequent investigation showed that the source of this radiation was part of the <term class="no-emphasis" id="term-00002">Milky Way Galaxy</term>; Jansky had discovered the first source of cosmic radio waves.</para>
 <figure id="OSC_Astro_06_04_RTelescope">
 <title>First Radio Telescope.</title>
 <media id="fs-id1167470603273" alt="Photograph of Jensky and his model.">
@@ -26,7 +26,7 @@
 </media>
 <caption>This rotating radio antenna was used by Jansky in his serendipitous discovery of radio radiation from the Milky Way.</caption>
 </figure>
-<para id="fs-id1167470932642">In 1936, Grote <term class="no-emphasis">Reber</term>, who was an amateur astronomer interested in radio communications, used galvanized iron and wood to build the first antenna specifically designed to receive cosmic radio waves. Over the years, Reber built several such antennas and used them to carry out pioneering surveys of the sky for celestial radio sources; he remained active in radio astronomy for more than 30 years. During the first decade, he worked practically alone because professional astronomers had not yet recognized the vast potential of radio astronomy.</para>
+<para id="fs-id1167470932642">In 1936, Grote <term class="no-emphasis" id="term-00003">Reber</term>, who was an amateur astronomer interested in radio communications, used galvanized iron and wood to build the first antenna specifically designed to receive cosmic radio waves. Over the years, Reber built several such antennas and used them to carry out pioneering surveys of the sky for celestial radio sources; he remained active in radio astronomy for more than 30 years. During the first decade, he worked practically alone because professional astronomers had not yet recognized the vast potential of radio astronomy.</para>
 <section id="fs-id1167471052220">
 <title>Detection of Radio Energy from Space</title>
 <para id="fs-id1167470637865">It is important to understand that radio waves cannot be “heard”: they are not the sound waves you hear coming out of the radio receiver in your home or car. Like light, radio waves are a form of electromagnetic radiation, but unlike light, we cannot detect them with our senses—we must rely on electronic equipment to pick them up. In commercial radio broadcasting, we encode sound information (music or a newscaster’s voice) into radio waves. These must be decoded at the other end and then turned back into sound by speakers or headphones.</para>
@@ -70,49 +70,49 @@
 <entry align="left" namest="c1" nameend="c4">Individual Radio Dishes</entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis">Five-hundred-meter Aperture Spherical radio Telescope (FAST)</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00004">Five-hundred-meter Aperture Spherical radio Telescope (FAST)</term></entry>
 <entry valign="top" align="left">Guizhou, China</entry>
 <entry valign="top" align="left">500-m fixed dish</entry>
 <entry valign="top" align="left">fast.bao.ac.cn/en/</entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis">Arecibo Observatory</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00005">Arecibo Observatory</term></entry>
 <entry valign="top" align="left">Arecibo, Puerto Rico</entry>
 <entry valign="top" align="left">305-m fixed dish</entry>
 <entry valign="top" align="left">www.naic.edu</entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis">Green Bank Telescope</term> (GBT)</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00006">Green Bank Telescope</term> (GBT)</entry>
 <entry valign="top" align="left">Green Bank, WV</entry>
 <entry valign="top" align="left">110 × 100-m steerable dish</entry>
 <entry valign="top" align="left">www.science.nrao.edu/facilities/gbt</entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis">Effelsberg 100-m Telescope</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00007">Effelsberg 100-m Telescope</term></entry>
 <entry valign="top" align="left">Bonn, Germany</entry>
 <entry valign="top" align="left">100-m steerable dish</entry>
 <entry valign="top" align="left">www.mpifr-bonn.mpg.de/en/effelsberg</entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis">Lovell Telescope</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00008">Lovell Telescope</term></entry>
 <entry valign="top" align="left">Manchester, England</entry>
 <entry valign="top" align="left">76-m steerable dish</entry>
 <entry valign="top" align="left">www.jb.man.ac.uk/aboutus/lovell</entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis">Canberra Deep Space Communication Complex</term> (CDSCC)</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00009">Canberra Deep Space Communication Complex</term> (CDSCC)</entry>
 <entry valign="top" align="left">Tidbinbilla, Australia</entry>
 <entry valign="top" align="left">70-m steerable dish</entry>
 <entry valign="top" align="left">www.cdscc.nasa.gov</entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis">Goldstone Deep Space Communications Complex</term> (GDSCC)</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00010">Goldstone Deep Space Communications Complex</term> (GDSCC)</entry>
 <entry valign="top" align="left">Barstow, CA</entry>
 <entry valign="top" align="left">70-m steerable dish</entry>
 <entry valign="top" align="left">www.gdscc.nasa.gov</entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis">Parkes Observatory</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00011">Parkes Observatory</term></entry>
 <entry valign="top" align="left">Parkes, Australia</entry>
 <entry valign="top" align="left">64-m steerable dish</entry>
 <entry valign="top" align="left">www.parkes.atnf.csiro.au</entry>
@@ -121,43 +121,43 @@
 <entry align="left" namest="c1" nameend="c4">Arrays of Radio Dishes</entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis">Square Kilometre Array</term> (SKA)</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00012">Square Kilometre Array</term> (SKA)</entry>
 <entry valign="top" align="left">South Africa and Western Australia</entry>
 <entry valign="top" align="left">Thousands of dishes, km<sup>2</sup> collecting area, partial array in 2020</entry>
 <entry valign="top" align="left">www.skatelescope.org</entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis">Atacama Large Millimeter/submillimeter Array</term> (ALMA)</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00013">Atacama Large Millimeter/submillimeter Array</term> (ALMA)</entry>
 <entry valign="top" align="left">Atacama desert, Northern Chile</entry>
 <entry valign="top" align="left">66 7-m and 12-m dishes</entry>
 <entry valign="top" align="left">www.almaobservatory.org</entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis">Jansky Very Large Array</term> (VLA)</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00014">Jansky Very Large Array</term> (VLA)</entry>
 <entry valign="top" align="left">Socorro, New Mexico</entry>
 <entry valign="top" align="left">27-element array of 25-m dishes (36-km baseline)</entry>
 <entry valign="top" align="left">www.science.nrao.edu/facilities/vla</entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis">Westerbork Synthesis Radio Telescope</term> (WSRT)</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00015">Westerbork Synthesis Radio Telescope</term> (WSRT)</entry>
 <entry valign="top" align="left">Westerbork, the Netherlands</entry>
 <entry valign="top" align="left">12-element array of 25-m dishes (1.6-km baseline)</entry>
 <entry valign="top" align="left">www.astron.nl/radio-observatory/public/public-0</entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis">Very Long Baseline Array</term> (VLBA)</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00016">Very Long Baseline Array</term> (VLBA)</entry>
 <entry valign="top" align="left">Ten US sites, HI to the Virgin Islands</entry>
 <entry valign="top" align="left">10-element array of 25-m dishes (9000 km baseline)</entry>
 <entry valign="top" align="left">www.science.nrao.edu/facilities/vlba</entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis">Australia Telescope Compact Array</term> (ATCA)</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00017">Australia Telescope Compact Array</term> (ATCA)</entry>
 <entry valign="top" align="left">Several sites in Australia</entry>
 <entry valign="top" align="left">8-element array (seven 22-m dishes plus Parkes 64 m)</entry>
 <entry valign="top" align="left">www.narrabri.atnf.csiro.au</entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis">Multi-Element Radio Linked Interferometer Network</term> (MERLIN)</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00018">Multi-Element Radio Linked Interferometer Network</term> (MERLIN)</entry>
 <entry valign="top" align="left">Cambridge, England, and other British sites</entry>
 <entry valign="top" align="left">Network of seven dishes (the largest is 32 m)</entry>
 <entry valign="top" align="left">www.e-merlin.ac.uk</entry>
@@ -166,25 +166,25 @@
 <entry align="left" namest="c1" nameend="c4">Millimeter-wave Telescopes</entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis">IRAM</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00019">IRAM</term></entry>
 <entry valign="top" align="left">Granada, Spain</entry>
 <entry valign="top" align="left">30-m steerable mm-wave dish</entry>
 <entry valign="top" align="left">www.iram-institute.org</entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis">James Clerk Maxwell Telescope</term> (JCMT)</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00020">James Clerk Maxwell Telescope</term> (JCMT)</entry>
 <entry valign="top" align="left">Maunakea, HI</entry>
 <entry valign="top" align="left">15-m steerable mm-wave dish</entry>
 <entry valign="top" align="left">www.eaobservatory.org/jcmt</entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis">Nobeyama Radio Observatory</term> (NRO)</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00021">Nobeyama Radio Observatory</term> (NRO)</entry>
 <entry valign="top" align="left">Minamimaki, Japan</entry>
 <entry valign="top" align="left">6-element array of 10-m wave dishes</entry>
 <entry valign="top" align="left">www.nro.nao.ac.jp/en</entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis">Hat Creek Radio Observatory</term> (HCRO)</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00022">Hat Creek Radio Observatory</term> (HCRO)</entry>
 <entry valign="top" align="left">Cassel, CA</entry>
 <entry valign="top" align="left">6-element array of 5-m wave dishes</entry>
 <entry valign="top" align="left">www.sri.com/research-development/specialized-facilities/hat-creek-radio-observatory</entry>
@@ -195,9 +195,9 @@
 </section>
 <section id="fs-id1167470853879">
 <title>Radio Interferometry</title>
-<para id="fs-id1167470615520">As we discussed earlier, a telescope’s ability to show us fine detail (its resolution) depends upon its aperture, but it also depends upon the wavelength of the radiation that the telescope is gathering. The longer the waves, the harder it is to resolve fine detail in the images or maps we make. Because radio waves have such long wavelengths, they present tremendous challenges for astronomers who need good resolution. In fact, even the largest radio dishes on Earth, operating alone, cannot make out as much detail as the typical small visible-light telescope used in a college astronomy lab. To overcome this difficulty, radio astronomers have learned to sharpen their images by linking two or more radio telescopes together electronically. Two or more telescopes linked together in this way are called an <term>interferometer</term>.</para>
-<para id="fs-id1167470755666">“Interferometer” may seem like a strange term because the telescopes in an interferometer work cooperatively; they don’t “interfere” with each other. <term>Interference</term>, however, is a technical term for the way that multiple waves interact with each other when they arrive in our instruments, and this interaction allows us to coax more detail out of our observations. The resolution of an interferometer depends upon the separation of the telescopes, not upon their individual apertures. Two telescopes separated by 1 kilometer provide the same resolution as would a single dish 1 kilometer across (although they are not, of course, able to collect as much radiation as a radio-wave bucket that is 1 kilometer across).</para>
-<para id="fs-id1167470758768">To get even better resolution, astronomers combine a large number of radio dishes into an <term>interferometer array</term>. In effect, such an array works like a large number of two-dish interferometers, all observing the same part of the sky together. Computer processing of the results permits the reconstruction of a high-resolution radio image. The most extensive such instrument in the United States is the National Radio Astronomy Observatory’s Jansky Very Large Array (VLA) near Socorro, New Mexico. It consists of 27 movable radio telescopes (on railroad tracks), each having an aperture of 25 meters, spread over a total span of about 36 kilometers. By electronically combining the signals from all of its individual telescopes, this array permits the radio astronomer to make pictures of the sky at radio wavelengths comparable to those obtained with a visible-light telescope, with a resolution of about 1 arcsecond.</para>
+<para id="fs-id1167470615520">As we discussed earlier, a telescope’s ability to show us fine detail (its resolution) depends upon its aperture, but it also depends upon the wavelength of the radiation that the telescope is gathering. The longer the waves, the harder it is to resolve fine detail in the images or maps we make. Because radio waves have such long wavelengths, they present tremendous challenges for astronomers who need good resolution. In fact, even the largest radio dishes on Earth, operating alone, cannot make out as much detail as the typical small visible-light telescope used in a college astronomy lab. To overcome this difficulty, radio astronomers have learned to sharpen their images by linking two or more radio telescopes together electronically. Two or more telescopes linked together in this way are called an <term id="term-00023">interferometer</term>.</para>
+<para id="fs-id1167470755666">“Interferometer” may seem like a strange term because the telescopes in an interferometer work cooperatively; they don’t “interfere” with each other. <term id="term-00024">Interference</term>, however, is a technical term for the way that multiple waves interact with each other when they arrive in our instruments, and this interaction allows us to coax more detail out of our observations. The resolution of an interferometer depends upon the separation of the telescopes, not upon their individual apertures. Two telescopes separated by 1 kilometer provide the same resolution as would a single dish 1 kilometer across (although they are not, of course, able to collect as much radiation as a radio-wave bucket that is 1 kilometer across).</para>
+<para id="fs-id1167470758768">To get even better resolution, astronomers combine a large number of radio dishes into an <term id="term-00025">interferometer array</term>. In effect, such an array works like a large number of two-dish interferometers, all observing the same part of the sky together. Computer processing of the results permits the reconstruction of a high-resolution radio image. The most extensive such instrument in the United States is the National Radio Astronomy Observatory’s Jansky Very Large Array (VLA) near Socorro, New Mexico. It consists of 27 movable radio telescopes (on railroad tracks), each having an aperture of 25 meters, spread over a total span of about 36 kilometers. By electronically combining the signals from all of its individual telescopes, this array permits the radio astronomer to make pictures of the sky at radio wavelengths comparable to those obtained with a visible-light telescope, with a resolution of about 1 arcsecond.</para>
 <para id="fs-id1167471083541">The Atacama Large Millimeter/submillimeter array (ALMA) in the Atacama Desert of Northern Chile (<link target-id="OSC_Astro_06_04_ALMA"/>), at an altitude of 16,400 feet, consists of 12 7-meter and 54 12-meter telescopes, and can achieve baselines up to 16 kilometers. Since it became operational in 2013, it has made observations at resolutions down to 6 milliarcseconds (0.006 arcseconds), a remarkable achievement for radio astronomy.</para>
 <figure id="OSC_Astro_06_04_ALMA">
 <title>Atacama Large Millimeter/Submillimeter Array (ALMA).</title>
@@ -240,28 +240,28 @@
 <tbody>
 <row>
 <entry valign="top" align="left">400</entry>
-<entry valign="top" align="left"><term class="no-emphasis">CHARA</term> Array (Center for High Angular Resolution Astronomy)</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00026">CHARA</term> Array (Center for High Angular Resolution Astronomy)</entry>
 <entry valign="top" align="left">Mount Wilson, CA</entry>
 <entry valign="top" align="left">Six 1-m telescopes</entry>
 <entry valign="top" align="left">Operational since 2004</entry>
 </row>
 <row>
 <entry valign="top" align="left">200</entry>
-<entry valign="top" align="left"><term class="no-emphasis">Very Large Telescope</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00027">Very Large Telescope</term></entry>
 <entry valign="top" align="left">Cerro Paranal, Chile</entry>
 <entry valign="top" align="left">Four 8.2-m telescopes</entry>
 <entry valign="top" align="left">Completed 2000</entry>
 </row>
 <row>
 <entry valign="top" align="left">85</entry>
-<entry valign="top" align="left"><term class="no-emphasis">Keck I and II</term> telescopes</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00028">Keck I and II</term> telescopes</entry>
 <entry valign="top" align="left">Maunakea, HI</entry>
 <entry valign="top" align="left">Two 10-m telescopes</entry>
 <entry valign="top" align="left">Operated from 2001 to 2012</entry>
 </row>
 <row>
 <entry valign="top" align="left">22.8</entry>
-<entry valign="top" align="left"><term class="no-emphasis">Large Binocular Telescope</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00029">Large Binocular Telescope</term></entry>
 <entry valign="top" align="left">Mount Graham, AZ</entry>
 <entry valign="top" align="left">Two 8.4-m telescopes</entry>
 <entry valign="top" align="left">First light 2004</entry>
@@ -272,9 +272,9 @@
 </section>
 <section id="fs-id1167470658378">
 <title>Radar Astronomy</title>
-<para id="fs-id1167470691541"><term>Radar</term> is the technique of transmitting radio waves to an object in our solar system and then detecting the radio radiation that the object reflects back. The time required for the round trip can be measured electronically with great precision. Because we know the speed at which radio waves travel (the speed of light), we can determine the distance to the object or a particular feature on its surface (such as a mountain).</para>
+<para id="fs-id1167470691541"><term id="term-00030">Radar</term> is the technique of transmitting radio waves to an object in our solar system and then detecting the radio radiation that the object reflects back. The time required for the round trip can be measured electronically with great precision. Because we know the speed at which radio waves travel (the speed of light), we can determine the distance to the object or a particular feature on its surface (such as a mountain).</para>
 <para id="fs-id1167470613198">Radar observations have been used to determine the distances to planets and how fast things are moving in the solar system (using the Doppler effect, discussed in the <link document="m59791">Radiation and Spectra</link> chapter). Radar waves have played important roles in navigating spacecraft throughout the solar system. In addition, as will be discussed in later chapters, radar observations have determined the rotation periods of Venus and Mercury, probed tiny Earth-approaching asteroids, and allowed us to investigate the mountains and valleys on the surfaces of Mercury, Venus, Mars, and the large moons of Jupiter.</para>
-<para id="fs-id1167470586562">Any radio dish can be used as a radar telescope if it is equipped with a powerful transmitter as well as a receiver. For many years, the most spectacular facility in the world for radar astronomy was the 1000-foot (305-meter) telescope at Arecibo in Puerto Rico (<link target-id="OSC_Astro_06_04_Largest"/>). The Arecibo telescope was too large to be pointed directly at different parts of the sky. Instead, it was constructed in a huge natural “bowl” (more than a mere dish) formed by several hills, and it was lined with reflecting metal panels. A limited ability to track astronomical sources was achieved by moving the receiver system, which was suspended on cables 100 meters above the surface of the bowl. Unfortunately, the telescope was seriously damaged in the powerful storms of 2020 and had to be decommissioned. An even larger (500-meter) radar telescope has recently gone into operation in China and is called the <term class="no-emphasis">Five-hundred-meter Aperture Spherical Telescope</term> (FAST).</para>
+<para id="fs-id1167470586562">Any radio dish can be used as a radar telescope if it is equipped with a powerful transmitter as well as a receiver. For many years, the most spectacular facility in the world for radar astronomy was the 1000-foot (305-meter) telescope at Arecibo in Puerto Rico (<link target-id="OSC_Astro_06_04_Largest"/>). The Arecibo telescope was too large to be pointed directly at different parts of the sky. Instead, it was constructed in a huge natural “bowl” (more than a mere dish) formed by several hills, and it was lined with reflecting metal panels. A limited ability to track astronomical sources was achieved by moving the receiver system, which was suspended on cables 100 meters above the surface of the bowl. Unfortunately, the telescope was seriously damaged in the powerful storms of 2020 and had to be decommissioned. An even larger (500-meter) radar telescope has recently gone into operation in China and is called the <term class="no-emphasis" id="term-00031">Five-hundred-meter Aperture Spherical Telescope</term> (FAST).</para>
 <figure id="OSC_Astro_06_04_Largest">
 <title>Largest Radio and Radar Dish.</title>
 <media id="fs-id1167470650793" alt="Photograph of Arecibo Observatory in Puerto Rico, seen from above. The huge 1000-ft metal dish is built into a natural depression in the mountains.">

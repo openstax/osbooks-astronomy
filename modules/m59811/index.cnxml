@@ -44,7 +44,7 @@
 </section>
 <section id="fs-id1167469790432">
 <title>Hubble Space Telescope</title>
-<para id="fs-id1167469822705">In April 1990, a great leap forward in astronomy was made with the launch of the <term class="no-emphasis">Hubble Space Telescope</term> (HST). With an aperture of 2.4 meters, this is the largest telescope put into space so far. (Its aperture was limited by the size of the payload bay in the Space Shuttle that served as its launch vehicle.) It was named for Edwin Hubble, the astronomer who discovered the expansion of the universe in the 1920s (whose work we will discuss in the chapters on <link document="m59956">Galaxies</link>).</para>
+<para id="fs-id1167469822705">In April 1990, a great leap forward in astronomy was made with the launch of the <term class="no-emphasis" id="term-00001">Hubble Space Telescope</term> (HST). With an aperture of 2.4 meters, this is the largest telescope put into space so far. (Its aperture was limited by the size of the payload bay in the Space Shuttle that served as its launch vehicle.) It was named for Edwin Hubble, the astronomer who discovered the expansion of the universe in the 1920s (whose work we will discuss in the chapters on <link document="m59956">Galaxies</link>).</para>
 <para id="fs-id1167469862569">HST is operated jointly by NASA’s Goddard Space Flight Center and the Space Telescope Science Institute in Baltimore. It was the first orbiting observatory designed to be serviced by Shuttle astronauts and, over the years since it was launched, they made several visits to improve or replace its initial instruments and to repair some of the systems that operate the spacecraft (<link target-id="OSC_Astro_06_00_HubbleST" document="m59802"/>)—though this repair program has now been discontinued, and no more visits or improvements will be made.</para>
 <para id="fs-id1167469710163">With the Hubble, astronomers have obtained some of the most detailed images of astronomical objects from the solar system outward to the most distant galaxies. Among its many great achievements is the Hubble Ultra-Deep Field, an image of a small region of the sky observed for almost 100 hours. It contains views of about 10,000 galaxies, some of which formed when the universe was just a few percent of its current age (<link target-id="OSC_Astro_06_05_HUDF"/>).</para>
 <figure id="OSC_Astro_06_05_HUDF">
@@ -60,7 +60,7 @@
 <section id="fs-id1167469524306">
 <title>High-Energy Observatories</title>
 <para id="fs-id1167469604874">Ultraviolet, X-ray, and direct gamma-ray (high-energy electromagnetic wave) observations can be made only from space. Such observations first became possible in 1946, with V2 rockets captured from Germany after World War II. The US Naval Research Laboratory put instruments on these rockets for a series of pioneering flights, used initially to detect ultraviolet radiation from the Sun. Since then, many other rockets have been launched to make X-ray and ultraviolet observations of the Sun, and later of other celestial objects.</para>
-<para id="fs-id1167468342724">Beginning in the 1960s, a steady stream of high-energy observatories has been launched into orbit to reveal and explore the universe at short wavelengths. Among recent X-ray telescopes is the Chandra X-ray Observatory, which was launched in 1999 (<link target-id="OSC_Astro_06_05_ChandraRay"/>). It is producing X-ray images with unprecedented resolution and sensitivity. Designing instruments that can collect and focus energetic radiation like X-rays and gamma rays is an enormous technological challenge. The 2002 Nobel Prize in physics was awarded to Riccardo <term class="no-emphasis">Giacconi</term>, a pioneer in the field of building and launching sophisticated X-ray instruments. In 2008, NASA launched the Fermi Gamma-ray Space Telescope, designed to measure cosmic gamma rays at energies greater than any previous telescope, and thus able to collect radiation from some of the most energetic events in the universe.</para>
+<para id="fs-id1167468342724">Beginning in the 1960s, a steady stream of high-energy observatories has been launched into orbit to reveal and explore the universe at short wavelengths. Among recent X-ray telescopes is the Chandra X-ray Observatory, which was launched in 1999 (<link target-id="OSC_Astro_06_05_ChandraRay"/>). It is producing X-ray images with unprecedented resolution and sensitivity. Designing instruments that can collect and focus energetic radiation like X-rays and gamma rays is an enormous technological challenge. The 2002 Nobel Prize in physics was awarded to Riccardo <term class="no-emphasis" id="term-00002">Giacconi</term>, a pioneer in the field of building and launching sophisticated X-ray instruments. In 2008, NASA launched the Fermi Gamma-ray Space Telescope, designed to measure cosmic gamma rays at energies greater than any previous telescope, and thus able to collect radiation from some of the most energetic events in the universe.</para>
 <figure id="OSC_Astro_06_05_ChandraRay">
 <title>Chandra X-Ray Satellite.</title>
 <media id="fs-id1167469499445" alt="Artist’s conception of the Chandra X-Ray Satellite, seen against the backdrop of a colorful gaseous nebula in space.">
@@ -91,70 +91,70 @@
 </thead>
 <tbody>
 <row valign="top">
-<entry valign="top" align="left"><term class="no-emphasis">Hubble Space Telescope</term> (HST)</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00003">Hubble Space Telescope</term> (HST)</entry>
 <entry valign="top" align="left">1990</entry>
 <entry valign="top" align="left">visible, UV, IR</entry>
 <entry valign="top" align="left">2.4-m mirror; images and spectra</entry>
 <entry valign="top" align="left">www.hubblesite.org</entry>
 </row>
 <row valign="top">
-<entry valign="top" align="left"><term class="no-emphasis">Chandra X-Ray Observatory</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00004">Chandra X-Ray Observatory</term></entry>
 <entry valign="top" align="left">1999</entry>
 <entry valign="top" align="left">X-rays</entry>
 <entry valign="top" align="left">X-ray images and spectra</entry>
 <entry valign="top" align="left">www.chandra.si.edu</entry>
 </row>
 <row valign="top">
-<entry valign="top" align="left"><term class="no-emphasis">XMM-Newton</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00005">XMM-Newton</term></entry>
 <entry valign="top" align="left">1999</entry>
 <entry valign="top" align="left">X-rays</entry>
 <entry valign="top" align="left">X-ray spectroscopy</entry>
 <entry valign="top" align="left">http://www.cosmos.esa.int/web/xmm-newton</entry>
 </row>
 <row valign="top">
-<entry valign="top" align="left"><term class="no-emphasis">International Gamma-Ray Astrophysics Laboratory</term> (INTEGRAL)</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00006">International Gamma-Ray Astrophysics Laboratory</term> (INTEGRAL)</entry>
 <entry valign="top" align="left">2002</entry>
 <entry valign="top" align="left">X- and gamma-rays</entry>
 <entry valign="top" align="left">higher resolution gamma-ray images</entry>
 <entry valign="top" align="left">http://sci.esa.int/integral/</entry>
 </row>
 <row valign="top">
-<entry valign="top" align="left"><term class="no-emphasis">Spitzer Space Telescope</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00007">Spitzer Space Telescope</term></entry>
 <entry valign="top" align="left">2003</entry>
 <entry valign="top" align="left">IR</entry>
 <entry valign="top" align="left">0.85-m telescope</entry>
 <entry valign="top" align="left">www.spitzer.caltech.edu</entry>
 </row>
 <row valign="top">
-<entry valign="top" align="left"><term class="no-emphasis">Fermi Gamma-ray Space Telescope</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00008">Fermi Gamma-ray Space Telescope</term></entry>
 <entry valign="top" align="left">2008</entry>
 <entry valign="top" align="left">gamma-rays</entry>
 <entry valign="top" align="left">first high-energy gamma-ray observations</entry>
 <entry valign="top" align="left">fermi.gsfc.nasa.gov</entry>
 </row>
 <row valign="top">
-<entry valign="top" align="left"><term class="no-emphasis">Kepler</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00009">Kepler</term></entry>
 <entry valign="top" align="left">2009</entry>
 <entry valign="top" align="left">visible-light</entry>
 <entry valign="top" align="left">planet finder</entry>
 <entry valign="top" align="left">http://kepler.nasa.gov</entry>
 </row>
 <row valign="top">
-<entry valign="top" align="left"><term class="no-emphasis">Wide-field Infrared Survey Explorer</term> (WISE)</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00010">Wide-field Infrared Survey Explorer</term> (WISE)</entry>
 <entry valign="top" align="left">2009</entry>
 <entry valign="top" align="left">IR</entry>
 <entry valign="top" align="left">whole-sky map, asteroid searches</entry>
 <entry valign="top" align="left">www.nasa.gov/mission_pages/WISE/main</entry>
 </row>
 <row valign="top">
-<entry valign="top" align="left"><term class="no-emphasis">Gaia</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00011">Gaia</term></entry>
 <entry valign="top" align="left">2013</entry>
 <entry valign="top" align="left">visible-light</entry>
 <entry valign="top" align="left">Precise map of the Milky Way</entry>
 <entry valign="top" align="left">http://sci.esa.int/gaia/</entry>
 </row>
 <row valign="top">
-<entry valign="top" align="left"><term class="no-emphasis">Transiting Exoplanet Survey Satellite (TESS)</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00012">Transiting Exoplanet Survey Satellite (TESS)</term></entry>
 <entry valign="top" align="left">2018</entry>
 <entry valign="top" align="left">visible-light</entry>
 <entry valign="top" align="left">Planet finder</entry>

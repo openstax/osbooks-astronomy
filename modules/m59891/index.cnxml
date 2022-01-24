@@ -27,7 +27,7 @@
 </figure>
 <section id="fs-id1170323799468">
 <title>Color and Temperature</title>
-<para id="fs-id1170326279356">As we learned in <link document="m59798">The Electromagnetic Spectrum</link> section, Wien’s law relates <term class="no-emphasis">stellar color</term> to <term class="no-emphasis">stellar temperature</term>. Blue colors dominate the visible light output of very hot stars (with much additional radiation in the ultraviolet). On the other hand, cool stars emit most of their visible light energy at red wavelengths (with more radiation coming off in the infrared) (<link target-id="fs-id1170326126997"/>). The color of a star therefore provides a measure of its intrinsic or true surface temperature (apart from the effects of reddening by interstellar dust, which will be discussed in <link document="m59908">Between the Stars: Gas and Dust in Space</link>). Color does not depend on the distance to the object. This should be familiar to you from everyday experience. The color of a traffic signal, for example, appears the same no matter how far away it is. If we could somehow take a star, observe it, and then move it much farther away, its apparent brightness (magnitude) would change. But this change in brightness is the same for all wavelengths, and so its color would remain the same.</para>
+<para id="fs-id1170326279356">As we learned in <link document="m59798">The Electromagnetic Spectrum</link> section, Wien’s law relates <term class="no-emphasis" id="term-00001">stellar color</term> to <term class="no-emphasis" id="term-00002">stellar temperature</term>. Blue colors dominate the visible light output of very hot stars (with much additional radiation in the ultraviolet). On the other hand, cool stars emit most of their visible light energy at red wavelengths (with more radiation coming off in the infrared) (<link target-id="fs-id1170326126997"/>). The color of a star therefore provides a measure of its intrinsic or true surface temperature (apart from the effects of reddening by interstellar dust, which will be discussed in <link document="m59908">Between the Stars: Gas and Dust in Space</link>). Color does not depend on the distance to the object. This should be familiar to you from everyday experience. The color of a traffic signal, for example, appears the same no matter how far away it is. If we could somehow take a star, observe it, and then move it much farther away, its apparent brightness (magnitude) would change. But this change in brightness is the same for all wavelengths, and so its color would remain the same.</para>
 <table id="fs-id1170326126997" summary="This table has 3 columns and 5 rows. The first row is the header and it labels each column, “Star Color”, “Approximate Temperature”, and “Example”. The column labeled “Star Color” has the values, “Blue”, “White”, “Yellow”, “Orange”, and “Red”. The column labeled “Approximate Temperature” has the values, “25,000 K”, “10,000 K”, “6000 K”, “4000 K”, and “3000 K”. The column labeled “Example” has the values, “Spica”, “Vega”, “The Sun”, “Aldebaran”, and “Betelgeuse”." class="top-titled">
 <tgroup cols="3">
 <colspec colnum="1" colname="c1"/>
@@ -52,12 +52,12 @@
 <row valign="top">
 <entry valign="top" align="left">White</entry>
 <entry valign="top" align="left">10,000 K</entry>
-<entry valign="top" align="left"><term class="no-emphasis">Vega</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00003">Vega</term></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Yellow</entry>
 <entry valign="top" align="left">6000 K</entry>
-<entry valign="top" align="left"><term class="no-emphasis">Sun</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00004">Sun</term></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Orange</entry>
@@ -67,7 +67,7 @@
 <row valign="top">
 <entry valign="top" align="left">Red</entry>
 <entry valign="top" align="left">3000 K</entry>
-<entry valign="top" align="left"><term class="no-emphasis">Betelgeuse</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00005">Betelgeuse</term></entry>
 </row>
 </tbody>
 </tgroup>
@@ -79,10 +79,10 @@
 </section>
 <section id="fs-id1170326254396">
 <title>Color Indices</title>
-<para id="fs-id1170326311329">In order to specify the exact color of a star, astronomers normally measure a star’s <term class="no-emphasis">apparent brightness</term> through filters, each of which transmits only the light from a particular narrow band of wavelengths (colors). A crude example of a filter in everyday life is a green-colored, plastic, soft drink bottle, which, when held in front of your eyes, lets only the green colors of light through.</para>
-<para id="fs-id1170326486995">One commonly used set of filters in astronomy measures stellar brightness at three wavelengths corresponding to ultraviolet, blue, and yellow light. The filters are named: U (ultraviolet), B (blue), and V (visual, for yellow). These filters transmit light near the wavelengths of 360 nanometers (nm), 420 nm, and 540 nm, respectively. The brightness measured through each filter is usually expressed in magnitudes. The difference between any two of these magnitudes—say, between the blue and the visual magnitudes (B–V)—is called a <term>color index</term>.</para>
+<para id="fs-id1170326311329">In order to specify the exact color of a star, astronomers normally measure a star’s <term class="no-emphasis" id="term-00006">apparent brightness</term> through filters, each of which transmits only the light from a particular narrow band of wavelengths (colors). A crude example of a filter in everyday life is a green-colored, plastic, soft drink bottle, which, when held in front of your eyes, lets only the green colors of light through.</para>
+<para id="fs-id1170326486995">One commonly used set of filters in astronomy measures stellar brightness at three wavelengths corresponding to ultraviolet, blue, and yellow light. The filters are named: U (ultraviolet), B (blue), and V (visual, for yellow). These filters transmit light near the wavelengths of 360 nanometers (nm), 420 nm, and 540 nm, respectively. The brightness measured through each filter is usually expressed in magnitudes. The difference between any two of these magnitudes—say, between the blue and the visual magnitudes (B–V)—is called a <term id="term-00007">color index</term>.</para>
 
-<para id="fs-id1170326291708">By agreement among astronomers, the ultraviolet, blue, and visual magnitudes of the UBV system are adjusted to give a color index of 0 to a star with a surface temperature of about 10,000 K, such as <term class="no-emphasis">Vega</term>. The B–V color indexes of stars range from −0.4 for the bluest stars, with temperatures of about 40,000 K, to +2.0 for the reddest stars, with temperatures of about 2000 K. The B–V index for the Sun is about +0.65. Note that, by convention, the <term class="no-emphasis">B–V index</term> is always the “bluer” minus the “redder” color.</para>
+<para id="fs-id1170326291708">By agreement among astronomers, the ultraviolet, blue, and visual magnitudes of the UBV system are adjusted to give a color index of 0 to a star with a surface temperature of about 10,000 K, such as <term class="no-emphasis" id="term-00008">Vega</term>. The B–V color indexes of stars range from −0.4 for the bluest stars, with temperatures of about 40,000 K, to +2.0 for the reddest stars, with temperatures of about 2000 K. The B–V index for the Sun is about +0.65. Note that, by convention, the <term class="no-emphasis" id="term-00009">B–V index</term> is always the “bluer” minus the “redder” color.</para>
 <para id="fs-id1170326495574">Why use a color index if it ultimately implies temperature? Because the brightness of a star through a filter is what astronomers actually measure, and we are always more comfortable when our statements have to do with measurable quantities.</para>
 </section>
 <section id="fs-id1170323846036" class="summary">

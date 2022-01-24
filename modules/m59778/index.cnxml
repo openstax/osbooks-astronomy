@@ -18,7 +18,7 @@
 </list>
 </section>
 <para id="fs-id1163975551490">Recall that the path of an object under the influence of gravity through space is called its orbit, whether that object is a spacecraft, planet, star, or galaxy. An orbit, once determined, allows the future positions of the object to be calculated.</para>
-<para id="fs-id1163975548187">Two points in any orbit in our solar system have been given special names. The place where the planet is closest to the Sun (<emphasis effect="italics">helios</emphasis> in Greek) and moves the fastest is called the <term>perihelion</term> of its orbit, and the place where it is farthest away and moves the most slowly is the <term>aphelion</term>. For the Moon or a satellite orbiting Earth (<emphasis effect="italics">gee</emphasis> in Greek), the corresponding terms are <term>perigee</term> and <term>apogee</term>. (In this book, we use the word <emphasis effect="italics">moon</emphasis> for a natural object that goes around a planet and the word <term>satellite</term> to mean a human-made object that revolves around a planet.)</para>
+<para id="fs-id1163975548187">Two points in any orbit in our solar system have been given special names. The place where the planet is closest to the Sun (<emphasis effect="italics">helios</emphasis> in Greek) and moves the fastest is called the <term id="term-00001">perihelion</term> of its orbit, and the place where it is farthest away and moves the most slowly is the <term id="term-00002">aphelion</term>. For the Moon or a satellite orbiting Earth (<emphasis effect="italics">gee</emphasis> in Greek), the corresponding terms are <term id="term-00003">perigee</term> and <term id="term-00004">apogee</term>. (In this book, we use the word <emphasis effect="italics">moon</emphasis> for a natural object that goes around a planet and the word <term id="term-00005">satellite</term> to mean a human-made object that revolves around a planet.)</para>
 <section id="fs-id1163975557819">
 <title>Orbits of the Planets</title>
 <para id="fs-id1163975369497">Today, Newton’s work enables us to calculate and predict the orbits of the planets with marvelous precision. We know eight planets, beginning with Mercury closest to the Sun and extending outward to Neptune. The average orbital data for the planets are summarized in <link target-id="fs-id1163975563522"/>. (Ceres is the largest of the <emphasis effect="italics">asteroids,</emphasis> now considered a dwarf planet.)</para>
@@ -32,13 +32,13 @@
 <section id="fs-id1163975294972">
 <title>Orbits of Asteroids and Comets</title>
 <para id="fs-id1163975464516">In addition to the eight planets, there are many smaller objects in the solar system. Some of these are moons (natural satellites) that orbit all the planets except Mercury and Venus. In addition, there are two classes of smaller objects in heliocentric orbits: <emphasis effect="italics">asteroids</emphasis> and <emphasis effect="italics">comets</emphasis>. Both asteroids and comets are believed to be small chunks of material left over from the formation process of the solar system.</para>
-<para id="fs-id1163975373682">In general, asteroids have orbits with smaller semimajor axes than do comets (<link target-id="OSC_Astro_03_04_Solar"/>). The majority of them lie between 2.2 and 3.3 AU, in the region known as the <term>asteroid belt</term> (see <link document="m59865">Comets and Asteroids: Debris of the Solar System</link>). As you can see in <link target-id="fs-id1163975563522"/>, the asteroid belt (represented by its largest member, Ceres) is in the middle of a gap between the orbits of Mars and Jupiter. It is because these two planets are so far apart that stable orbits of small bodies can exist in the region between them.</para>
+<para id="fs-id1163975373682">In general, asteroids have orbits with smaller semimajor axes than do comets (<link target-id="OSC_Astro_03_04_Solar"/>). The majority of them lie between 2.2 and 3.3 AU, in the region known as the <term id="term-00006">asteroid belt</term> (see <link document="m59865">Comets and Asteroids: Debris of the Solar System</link>). As you can see in <link target-id="fs-id1163975563522"/>, the asteroid belt (represented by its largest member, Ceres) is in the middle of a gap between the orbits of Mars and Jupiter. It is because these two planets are so far apart that stable orbits of small bodies can exist in the region between them.</para>
 <figure id="OSC_Astro_03_04_Solar">
 <title>Solar System Orbits.</title>
 <media id="fs-id1163975481052" alt="Solar System Orbits. At the center of this illustration is the Sun, with the orbits of the inner planets drawn as black circles. The elliptical orbits of the comets Halley, Kopff, and Encke are shown in red. Encke’s orbit extends across the orbits of Mercury, Venus, Earth and Mars, while the orbits of Kopff and Halley extend beyond the orbit of Jupiter. The circular orbits of the asteroids Ceres, Pallas, Vesta, and Hygeia are shown in blue, and fall mostly between the orbits of Earth and Jupiter.">
 <image mime-type="image/jpeg" src="../../media/OSC_Astro_03_04_Solar.jpg"/>
 </media>
-<caption>We see the orbits of typical comets and asteroids compared with those of the planets Mercury, Venus, Earth, Mars, and Jupiter (black circles). Shown in red are three comets: Halley, Kopff, and Encke. In blue are the four largest asteroids: <term class="no-emphasis">Ceres</term>, Pallas, <term class="no-emphasis">Vesta</term>, and Hygeia.</caption>
+<caption>We see the orbits of typical comets and asteroids compared with those of the planets Mercury, Venus, Earth, Mars, and Jupiter (black circles). Shown in red are three comets: Halley, Kopff, and Encke. In blue are the four largest asteroids: <term class="no-emphasis" id="term-00007">Ceres</term>, Pallas, <term class="no-emphasis" id="term-00008">Vesta</term>, and Hygeia.</caption>
 </figure>
 <table id="fs-id1163975563522" class="top-titled" summary="This table contains four columns and ten rows. The first row is a header row and it labels each column: “Planet”, “Semimajor Axis (AU)”, “Period (yr)” and “Eccentricity”. Under the “Planet” column are the values: “Mercury”, “Venus”, “Earth”, “(Ceres)”, “Jupiter”, “Saturn”, “Uranus” and “Neptune”. Under the “Semimajor Axis (AU)” column are the values: “0.39”, “0.72”, “1.00”, “1.52”, “2.77”, “5.20”, “9.54”, “19.19” and “30.06”. Under the “Period (yr)” column are the values: “0.24”, “0.62”, “1.00”, “1.88”, “4.60”, “11.86”, “29.46”, “84.07” and “164.80”. Finally, under the “Eccentricity” column are the values: “0.21”, “0.01”, “0.02”, “0.09”, “0.08”, “0.05”, “0.06”, “0.05” and “0.01”.">
 <tgroup cols="4">
@@ -59,55 +59,55 @@
 </thead>
 <tbody>
 <row valign="top">
-<entry valign="top" align="left"><term class="no-emphasis">Mercury</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00009">Mercury</term></entry>
 <entry valign="top" align="left">0.39</entry>
 <entry valign="top" align="left">0.24</entry>
 <entry valign="top" align="left">0.21</entry>
 </row>
 <row valign="top">
-<entry valign="top" align="left"><term class="no-emphasis">Venus</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00010">Venus</term></entry>
 <entry valign="top" align="left">0.72</entry>
 <entry valign="top" align="left">0.6</entry>
 <entry valign="top" align="left">0.01</entry>
 </row>
 <row valign="top">
-<entry valign="top" align="left"><term class="no-emphasis">Earth</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00011">Earth</term></entry>
 <entry valign="top" align="left">1</entry>
 <entry valign="top" align="left">1.00</entry>
 <entry valign="top" align="left">0.02</entry>
 </row>
 <row valign="top">
-<entry valign="top" align="left"><term class="no-emphasis">Mars</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00012">Mars</term></entry>
 <entry valign="top" align="left">1.52</entry>
 <entry valign="top" align="left">1.88</entry>
 <entry valign="top" align="left">0.09</entry>
 </row>
 <row valign="top">
-<entry valign="top" align="left">(<term class="no-emphasis">Ceres</term>)</entry>
+<entry valign="top" align="left">(<term class="no-emphasis" id="term-00013">Ceres</term>)</entry>
 <entry valign="top" align="left">2.77</entry>
 <entry valign="top" align="left">4.6</entry>
 <entry valign="top" align="left">0.08</entry>
 </row>
 <row valign="top">
-<entry valign="top" align="left"><term class="no-emphasis">Jupiter</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00014">Jupiter</term></entry>
 <entry valign="top" align="left">5.20</entry>
 <entry valign="top" align="left">11.86</entry>
 <entry valign="top" align="left">0.05</entry>
 </row>
 <row valign="top">
-<entry valign="top" align="left"><term class="no-emphasis">Saturn</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00015">Saturn</term></entry>
 <entry valign="top" align="left">9.54</entry>
 <entry valign="top" align="left">29.46</entry>
 <entry valign="top" align="left">0.06</entry>
 </row>
 <row valign="top">
-<entry valign="top" align="left"><term class="no-emphasis">Uranus</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00016">Uranus</term></entry>
 <entry valign="top" align="left">19.19</entry>
 <entry valign="top" align="left">84.01</entry>
 <entry valign="top" align="left">0.05</entry>
 </row>
 <row valign="top">
-<entry valign="top" align="left"><term class="no-emphasis">Neptune</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00017">Neptune</term></entry>
 <entry valign="top" align="left">30.06</entry>
 <entry valign="top" align="left">164.82</entry>
 <entry valign="top" align="left">0.01</entry>

@@ -13,7 +13,7 @@
 <title>Learning Objectives</title>
 <para id="fs-id1168581957337">By the end of this section, you will be able to:</para>
 <list id="fs-id1168047718174">
-<item>Explain how the <term class="no-emphasis">H–R diagram</term> of a star cluster can be related to the cluster’s age and the stages of evolution of its stellar members</item>
+<item>Explain how the <term class="no-emphasis" id="term-00001">H–R diagram</term> of a star cluster can be related to the cluster’s age and the stages of evolution of its stellar members</item>
 <item>Describe how the main-sequence turnoff of a cluster reveals its age</item>
 </list>
 </section>
@@ -66,7 +66,7 @@
 </section>
 <section id="fs-id1168047218982">
 <title>H–R Diagrams of Older Clusters</title>
-<para id="fs-id1168047341238">After 4 billion years have passed, many more stars, including stars that are only a few times more massive than the Sun, have left the main sequence (<link target-id="OSC_Astro_22_03_HRDiagram"/>). This means that no stars are left near the top of the main sequence; only the low-mass stars near the bottom remain. The older the cluster, the lower the point on the main sequence (and the lower the mass of the stars) where stars begin to move toward the red giant region. The location in the H–R diagram where the stars have begun to leave the main sequence is called the <term>main-sequence turnoff</term>.</para>
+<para id="fs-id1168047341238">After 4 billion years have passed, many more stars, including stars that are only a few times more massive than the Sun, have left the main sequence (<link target-id="OSC_Astro_22_03_HRDiagram"/>). This means that no stars are left near the top of the main sequence; only the low-mass stars near the bottom remain. The older the cluster, the lower the point on the main sequence (and the lower the mass of the stars) where stars begin to move toward the red giant region. The location in the H–R diagram where the stars have begun to leave the main sequence is called the <term id="term-00002">main-sequence turnoff</term>.</para>
 <figure id="OSC_Astro_22_03_HRDiagram">
 <title>H–R Diagram for an Older Cluster. </title>
 <media id="fs-id1168048059269" alt="Hypothetical H-R Diagram of an Older Cluster. In this plot titled “M 2001 Age: 4240 million years,” the vertical axis is labeled “Luminosity (LSun)” and goes from 0.1 at the bottom to 100,000 at the top. The horizontal axis is labeled “Surface Temperature (K)” and goes from 40,000 on the left to 3000 on the right. The zero-age main sequence is drawn as a red diagonal line starting just above 100,000 LSun at the top of the graph down to about 4000 K at the bottom. Over-plotted on the graph are black dots representing the individual stars in the cluster. Several of the stars are plotted above and to the right of the main sequence and represent the stars that have begun to enter the giant phase of their evolution. Below about 6500 K and 5 LSun the remaining stars lie on the main sequence.">
