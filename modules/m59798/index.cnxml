@@ -166,9 +166,9 @@ While energy flux tells us how much power a star emits per square meter, we woul
 Two stars with identical diameters are the same distance away. One has a temperature of 8700 K and the other has a temperature of 2900 K. Which is brighter? How much brighter is it?</para>
 <note id="fs-id1163976804285">
 <title>Answer:</title>
-<para id="fs-id1163976730328">The 8700 K star has triple the temperature, so it is 3<sup>4</sup> = 81 times brighter.</para></note>
+<para id="fs-id1163976730328">The 8700 K star has triple the temperature, so it is 3<sup>4</sup> = 81 times brighter.</para></note></example>
 <note id="blackbodysim" class="astronomy link-to-learning"><para id="blackbodypara">You can use the <link url="https://openstax.org/l/30blackbodysim">Blackbody Spectrum simulator</link> to explore the relationship between an object’s temperature, peak wavelength, overall brightness, and apparent color.  </para></note>
-</example>
+
 </section>
 <section id="fs-id1163976463708" class="summary">
 <title>Key Concepts and Summary</title>
