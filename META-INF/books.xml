@@ -1,3 +1,3 @@
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-    <book slug="astronomy" collection-id="col11992" href="../collections/astronomy.collection.xml" />
+    <book slug="astronomy" collection-id="col11992" style="astronomy" href="../collections/astronomy.collection.xml" />
 </container>
