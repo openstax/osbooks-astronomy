@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
 
 <title>Gravity with More Than Two Bodies</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
@@ -229,7 +229,7 @@ Let him count the star-swirls.</para></quote>
 </exercise>
 <exercise id="fs-id1163975409767">
 <problem id="fs-id1163975582364">
-<para id="fs-id1163975323250">A certain material has a mass of 565 g while occupying 50 cm<sup>3</sup> of space. What is this material? (Hint: Use <link target-id="fs-id1163976527872" document="m59776"/>.)</para>
+<para id="fs-id1163975323250">A certain material has a mass of 565 g while occupying <m:math><m:mrow><m:mn>50</m:mn><m:mspace width=".05em"/><m:msup><m:mi>cm</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:math> of space. What is this material? (Hint: Use <link target-id="fs-id1163976527872" document="m59776"/>.)</para>
 </problem>
 </exercise>
 <exercise id="fs-id1163975582477">
@@ -350,7 +350,7 @@ Let him count the star-swirls.</para></quote>
 </exercise>
 <exercise id="fs-id1163975577486">
 <problem id="fs-id1163975621003">
-<para id="fs-id1163975621005">If the major axis of an ellipse is 16 cm, what is the semimajor axis? If the eccentricity is 0.8, would this ellipse be best described as mostly circular or very elongated?</para>
+<para id="fs-id1163975621005">If the major axis of an ellipse is 16 cm, what is the semimajor axis? If the eccentricity is <m:math><m:mn>0.8</m:mn></m:math>, would this ellipse be best described as mostly circular or very elongated?</para>
 </problem>
 </exercise>
 <exercise id="fs-id1163975620776">

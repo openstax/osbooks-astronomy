@@ -60,18 +60,29 @@ By what factor would a person’s weight at the surface of Earth change if Earth
 <para id="fs-id1163975511810">Indeed, Newton’s reformulation of Kepler’s third law is one of the most powerful concepts in astronomy. Our ability to deduce the masses of objects from their motions is key to understanding the nature and evolution of many astronomical bodies. We will use this law repeatedly throughout this text in calculations that range from the orbits of comets to the interactions of galaxies.</para>
 <example id="fs-id1163975524896">
 <para id="fs-id1163975372753"><title>Calculating the Effects of Gravity</title>
-A planet like Earth is found orbiting its star at a distance of 1 AU in 0.71 Earth-year. Can you use Newton’s version of Kepler’s third law to find the mass of the star? (Remember that compared to the mass of a star, the mass of an earthlike planet can be considered negligible.)</para>
+A planet like Earth is found orbiting its star at a distance of 1 AU in <m:math><m:mn>0.71</m:mn></m:math> Earth-year. Can you use Newton’s version of Kepler’s third law to find the mass of the star? (Remember that compared to the mass of a star, the mass of an earthlike planet can be considered negligible.)</para>
 <para id="fs-id1163975582521"><title>Solution</title>
-In the formula <emphasis effect="italics">a</emphasis><sup>3</sup> = (<emphasis effect="italics">M</emphasis><sub>1</sub> + <emphasis effect="italics">M</emphasis><sub>2</sub>) × <emphasis effect="italics">P</emphasis><sup>2</sup>, the factor <emphasis effect="italics">M</emphasis><sub>1</sub> + <emphasis effect="italics">M</emphasis><sub>2</sub> would now be approximately equal to <emphasis effect="italics">M</emphasis><sub>1</sub> (the mass of the star), since the planet’s mass is so small by comparison. Then the formula becomes <emphasis effect="italics">a</emphasis><sup>3</sup> = <emphasis effect="italics">M</emphasis><sub>1</sub> × <emphasis effect="italics">P</emphasis><sup>2</sup>, and we can solve for <emphasis effect="italics">M</emphasis><sub>1</sub>:</para>
+In the formula <m:math><m:mrow>
+  <m:msup><m:mi>a</m:mi><m:mn>3</m:mn></m:msup><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:msub><m:mi>M</m:mi><m:mn>1</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi>M</m:mi><m:mn>2</m:mn></m:msub><m:mo>)</m:mo></m:mrow><m:mo>×</m:mo><m:msup><m:mi>P</m:mi><m:mn>2</m:mn></m:msup>
+</m:mrow></m:math>, the factor <m:math><m:mrow>
+<m:msub><m:mi>M</m:mi><m:mn>1</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi>M</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math> would now be approximately equal to <m:math><m:msub><m:mi>M</m:mi><m:mn>1</m:mn></m:msub></m:math> (the mass of the star), since the planet’s mass is so small by comparison. Then the formula becomes <m:math><m:mrow><m:msup><m:mi>a</m:mi><m:mn>3</m:mn></m:msup><m:mo>=</m:mo><m:msub><m:mi>M</m:mi><m:mn>1</m:mn></m:msub><m:mo>×</m:mo><m:msup><m:mi>P</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math>, and we can solve for <m:math><m:msup><m:mi>M</m:mi><m:mn>1</m:mn></m:msup></m:math>:</para>
 <equation id="fs-id1163975310867" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>M</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mfrac><m:mrow><m:msup><m:mi>a</m:mi><m:mn>3</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mi>P</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></equation>
-<para id="fs-id1163975330174">Since <emphasis effect="italics">a</emphasis> = 1, <emphasis effect="italics">a</emphasis><sup>3</sup> = 1, so</para>
+<para id="fs-id1163975330174">Since 
+  <m:math><m:mrow><m:mi>a</m:mi><m:mo>=</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:msup><m:mi>a</m:mi><m:mn>3</m:mn></m:msup><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math>, so</para>
 <equation id="fs-id1163975481052" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>M</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:msup><m:mi>P</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:msup><m:mrow><m:mn>0.71</m:mn></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>0.5</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>2</m:mn></m:mrow></m:math></equation>
 <para id="fs-id1163975571123">So the mass of the star is twice the mass of our Sun. (Remember that this way of expressing the law has units in terms of Earth and the Sun, so masses are expressed in units of the mass of our Sun.)</para>
 <para id="fs-id1163975480429"><title>Check Your Learning</title>
 Suppose a star with twice the mass of our Sun had an earthlike planet that took 4 years to orbit the star. At what distance (semimajor axis) would this planet orbit its star?</para>
 <note id="fs-id1163975294539">
 <title>Answer:</title>
-<para id="fs-id1163975292612">Again, we can neglect the mass of the planet. So <emphasis effect="italics">M</emphasis><sub>1</sub> = 2 and <emphasis effect="italics">P</emphasis> = 4 years. The formula is <emphasis effect="italics">a</emphasis><sup>3</sup> = <emphasis effect="italics">M</emphasis><sub>1</sub> × <emphasis effect="italics">P</emphasis><sup>2</sup>, so <emphasis effect="italics">a</emphasis><sup>3</sup> = 2 × 4<sup>2</sup> = 2 × 16 = 32. So <emphasis effect="italics">a</emphasis> is the cube root of 32. To find this, you can just ask Google, “What is the cube root of 32?” and get the answer 3.2 AU.</para>
+<para id="fs-id1163975292612">Again, we can neglect the mass of the planet. So <m:math><m:mrow>
+<m:msub><m:mi>M</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mn>2</m:mn></m:mrow></m:math> and 
+  <m:math><m:mrow><m:mi>P</m:mi><m:mo>=</m:mo><m:mn>4</m:mn></m:mrow></m:math> years. The formula is 
+  <m:math><m:mrow>
+    <m:msup><m:mi>a</m:mi><m:mn>3</m:mn></m:msup><m:mo>=</m:mo><m:msub><m:mi>M</m:mi><m:mn>1</m:mn></m:msub><m:mo>×</m:mo><m:msup><m:mi>P</m:mi><m:mn>2</m:mn></m:msup>
+  </m:mrow></m:math>, so 
+  <m:math><m:mrow>
+    <m:msup><m:mi>a</m:mi><m:mn>3</m:mn></m:msup><m:mo>=</m:mo><m:mn>2</m:mn><m:mo>×</m:mo><m:msup><m:mn>4</m:mn><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>2</m:mn><m:mo>×</m:mo><m:mn>16</m:mn><m:mo>=</m:mo><m:mn>32</m:mn></m:mrow></m:math>. So <emphasis effect="italics">a</emphasis> is the cube root of 32. To find this, you can just ask Google, “What is the cube root of 32?” and get the answer 3.2 AU.</para>
 </note>
 </example>
 <note id="fs-id1163975623738" class="astronomy link-to-learning">
