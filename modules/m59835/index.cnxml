@@ -44,7 +44,7 @@ The average density of a body equals its mass divided by its volume. For a spher
 <para id="fs-id1170326106123"><title>Solution</title>
 For a sphere,</para>
 <equation id="fs-id1170326578283" class="unnumbered"><label/><m:math><m:mrow><m:mtext>density</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mtext>mass</m:mtext></m:mrow><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>3</m:mn></m:mfrac><m:mtext>π</m:mtext><m:msup><m:mrow><m:mi>R</m:mi></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>7.35</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>22</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>kg</m:mtext></m:mrow><m:mrow><m:mn>4.2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>5.2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>18</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>m</m:mtext></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>3.4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>kg/m</m:mtext></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math></equation>
-<para id="fs-id1170326487901"><link target-id="fs-id1170324252656" document="m59831"/> gives a value of 3.3 g/cm<sup>3</sup>, which is 3.3 × 10<sup>3</sup> kg/m<sup>3</sup>.</para>
+<para id="fs-id1170326487901"><link target-id="fs-id1170324252656" document="m59831"/> gives a value of <m:math><m:mrow><m:mn>3.3</m:mn><m:msup><m:mtext> g/cm</m:mtext><m:mn>3</m:mn></m:msup></m:mrow></m:math>, which is <m:math><m:mrow><m:mn>3.3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>3</m:mn></m:msup><m:msup><m:mtext> kg/m</m:mtext><m:mn>3</m:mn></m:msup></m:mrow></m:math>.</para>
 <para id="fs-id1170326053402"><title>Check Your Learning</title>
 Using the information in this chapter, calculate the average density of Mercury. Show your work. Does your calculation agree with the figure we give in this chapter?</para>
 <note id="fs-id1170325239322">
@@ -339,7 +339,7 @@ Using the information in this chapter, calculate the average density of Mercury.
 <title>Figuring for Yourself</title>
 <exercise id="fs-id1170326097804">
 <problem id="fs-id1170323856861">
-<para id="fs-id1170326176302">In the future, astronomers discover a solid moon around a planet orbiting one of the nearest stars. This moon has a diameter of 1948 km and a mass of 1.6 × 10<sup>22</sup> kg. What is its density?</para>
+<para id="fs-id1170326176302">In the future, astronomers discover a solid moon around a planet orbiting one of the nearest stars. This moon has a diameter of 1948 km and a mass of <m:math><m:mrow><m:mn>1.6</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>22</m:mn></m:msup></m:mrow></m:math> kg. What is its density?</para>
 </problem>
 </exercise>
 <exercise id="fs-id1170326217239">
