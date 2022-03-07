@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
 
 <title>The Global Perspective</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
@@ -49,7 +49,7 @@
 </row>
 <row valign="top">
 <entry valign="top" align="left">Mass</entry>
-<entry valign="top" align="left">5.98 × 10<sup>24</sup> kg</entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>5.98</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>24</m:mn></m:msup><m:mtext> kg</m:mtext></m:mrow></m:math></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Diameter</entry>
@@ -69,7 +69,7 @@
 </row>
 <row valign="top">
 <entry valign="top" align="left">Surface area</entry>
-<entry valign="top" align="left">5.1 × 10<sup>8</sup> km<sup>2</sup></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>5.1</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup><m:msup><m:mi>km</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Density</entry>

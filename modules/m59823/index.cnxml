@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
 
 <title>Origin of the Solar System</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
@@ -338,7 +338,8 @@
 </exercise>
 <exercise id="fs-id1170325189993">
 <problem id="fs-id1170325236170">
-<para id="fs-id1170325236172">A radioactive nucleus has a half-life of 5 × 10<sup>8</sup> years. Assuming that a sample of rock (say, in an asteroid) solidified right after the solar system formed, approximately what fraction of the radioactive element should be left in the rock today?</para>
+<para id="fs-id1170325236172">A radioactive nucleus has a half-life of
+  <m:math><m:mrow><m:mn>5</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup></m:mrow></m:math> years. Assuming that a sample of rock (say, in an asteroid) solidified right after the solar system formed, approximately what fraction of the radioactive element should be left in the rock today?</para>
 </problem>
 </exercise>
 </section>

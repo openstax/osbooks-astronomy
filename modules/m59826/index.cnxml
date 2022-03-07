@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
 
 <title>Earth’s Crust</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
@@ -102,12 +102,14 @@
 <para id="fs-id1170326563248"><title>Fault Zones and Plate Motion</title>
 After scientists mapped the boundaries between tectonic plates in Earth’s crust and measured the annual rate at which the plates move (which is about 5 cm/year), we could estimate quite a lot about the rate at which the geology of Earth is changing. As an example, let’s suppose that the next slippage along the San Andreas Fault in southern California takes place in the year 2027 and that it completely relieves the accumulated strain in this region. How much slippage is required for this to occur?</para>
 <para id="fs-id1170326532220"><title>Solution</title>
-The speed of motion of the Pacific plate relative to the North American plate is 5 cm/y. That’s 500 cm (or 5 m) per century. The last southern California earthquake was in 1857. The time from 1857 to 2027 is<newline/>170 y, or 1.7 centuries, so the slippage to relieve the strain completely would be<newline/>5 m/century × 1.7 centuries = 8.5 m.</para>
+The speed of motion of the Pacific plate relative to the North American plate is 5 cm/y. That’s 500 cm (or 5 m) per century. The last southern California earthquake was in 1857. The time from 1857 to 2027 is<newline/>170 y, or 1.7 centuries, so the slippage to relieve the strain completely would be<newline/>
+<m:math><m:mrow><m:mn>5</m:mn><m:mtext> m/century </m:mtext><m:mo>×</m:mo><m:mn>1.7</m:mn><m:mtext> centuries </m:mtext><m:mo>=</m:mo><m:mn>8.5</m:mn><m:mtext> m</m:mtext></m:mrow></m:math>.</para>
 <para id="fs-id1170326129783"><title>Check Your Learning</title>
 If the next major southern California earthquake occurs in 2047 and only relieves one-half of the accumulated strain, how much slippage will occur?</para>
 <note id="fs-id1170326332553">
 <title>Answer:</title>
-<para id="fs-id1170326471582">The difference in time from 1857 to 2047 is 190 y, or 1.9 centuries. Because only half the strain is released, this is equivalent to half the annual rate of motion. The total slippage comes to<newline/>0.5 × 5 m/century × 1.9 centuries = 4.75 m.</para>
+<para id="fs-id1170326471582">The difference in time from 1857 to 2047 is 190 y, or 1.9 centuries. Because only half the strain is released, this is equivalent to half the annual rate of motion. The total slippage comes to<newline/>
+<m:math><m:mrow><m:mn>0.5</m:mn><m:mo>×</m:mo><m:mn>5</m:mn><m:mtext> m/century </m:mtext><m:mo>×</m:mo><m:mn>1.9</m:mn><m:mtext> centuries </m:mtext><m:mo>=</m:mo><m:mn>4.75</m:mn><m:mtext> m</m:mtext></m:mrow></m:math>.</para>
 </note>
 </example>
 <para id="fs-id1170326113668">When two continental masses are moving on a collision course, they push against each other under great pressure. Earth buckles and folds, dragging some rock deep below the surface and raising other folds to heights of many kilometers. This is the way many, but not all, of the mountain ranges on Earth were formed. The Alps, for example, are a result of the African plate bumping into the Eurasian plate. As we will see, however, quite different processes produced the mountains on other planets.</para>

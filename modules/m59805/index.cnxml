@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
 
 <title>Telescopes Today</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
@@ -71,7 +71,8 @@
 <entry valign="top" align="left">www.gmto.org</entry>
 </row>
 <row valign="top">
-<entry valign="top" align="left">11.1 × 9.9</entry>
+<entry valign="top" align="left">
+  <m:math><m:mrow><m:mn>11.1</m:mn><m:mo>×</m:mo><m:mn>9.9</m:mn></m:mrow></m:math></entry>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00004">Southern African Large Telescope</term> (SALT)</entry>
 <entry valign="top" align="left">Sutherland, South Africa</entry>
 <entry valign="top" align="left">2005</entry>
