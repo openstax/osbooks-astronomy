@@ -286,7 +286,8 @@ where <emphasis effect="italics">T</emphasis> is the lifetime of a main-sequence
 </exercise>
 <exercise id="fs-id1168047611987">
 <problem id="fs-id1168047593704">
-<para id="fs-id1168047696518">You can estimate the age of the planetary nebula in image (c) in <link target-id="OSC_Astro_22_04_Gallery" document="m59928"/>. The diameter of the nebula is 600 times the diameter of our own solar system, or about 0.8 light-year. The gas is expanding away from the star at a rate of about 25 mi/s. Considering that distance = velocity <m:math><m:mo>×</m:mo></m:math> time, calculate how long ago the gas left the star if its speed has been constant the whole time. Make sure you use consistent units for time, speed, and distance.</para>
+<para id="fs-id1168047696518">You can estimate the age of the planetary nebula in image (c) in <link target-id="OSC_Astro_22_04_Gallery" document="m59928"/>. The diameter of the nebula is 600 times the diameter of our own solar system, or about 0.8 light-year. The gas is expanding away from the star at a rate of about 25 mi/s. Considering that 
+  <m:math><m:mrow><m:mtext>distance</m:mtext><m:mo>=</m:mo><m:mtext>velocity</m:mtext><m:mo>×</m:mo><m:mtext>time</m:mtext></m:mrow></m:math>, calculate how long ago the gas left the star if its speed has been constant the whole time. Make sure you use consistent units for time, speed, and distance.</para>
 </problem>
 </exercise>
 <exercise id="fs-id1168047524946">

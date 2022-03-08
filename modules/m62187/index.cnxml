@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
 
 <title>New Perspectives on Planet Formation</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
@@ -239,7 +239,8 @@
 </exercise>
 <exercise id="fs-id1163976789902">
 <problem id="fs-id1163973091006">
-<para id="fs-id1163976433867">Kepler’s third law says that the orbital period (in years) is proportional to the square root of the cube of the mean distance (in AU) from the Sun (<emphasis effect="italics">P</emphasis> ∝ <emphasis effect="italics">a</emphasis><sup>1.5</sup>). For mean distances from 0.1 to 32 AU, calculate and plot a curve showing the expected Keplerian period. For each planet in our solar system, look up the mean distance from the Sun in AU and the orbital period in years and overplot these data on the theoretical Keplerian curve.</para>
+<para id="fs-id1163976433867">Kepler’s third law says that the orbital period (in years) is proportional to the square root of the cube of the mean distance (in AU) from the Sun 
+  <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>P</m:mi><m:mo>∝</m:mo><m:msup><m:mi>a</m:mi><m:mn>1.5</m:mn></m:msup><m:mo stretchy="false">)</m:mo></m:mrow></m:math>. For mean distances from 0.1 to 32 AU, calculate and plot a curve showing the expected Keplerian period. For each planet in our solar system, look up the mean distance from the Sun in AU and the orbital period in years and overplot these data on the theoretical Keplerian curve.</para>
 </problem>
 </exercise>
 <exercise id="fs-id1163976420157">

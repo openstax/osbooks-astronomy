@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
 
 <title>Evolution from the Main Sequence to Red Giants</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
@@ -146,7 +146,7 @@ If the rate of fusion of a star increased 256 times, by what factor would the te
 </thead>
 <tbody>
 <row valign="top">
-<entry valign="top" align="left">Mass (2 × 10<sup>33</sup> g)</entry>
+<entry valign="top" align="left">Mass <m:math><m:mrow><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>33</m:mn></m:msup><m:mtext> g</m:mtext><m:mo>)</m:mo></m:mrow></m:math></entry>
 <entry valign="top" align="left">1</entry>
 <entry valign="top" align="left">16</entry>
 </row>
@@ -166,14 +166,14 @@ If the rate of fusion of a star increased 256 times, by what factor would the te
 <entry valign="top" align="left">160,000,000</entry>
 </row>
 <row valign="top">
-<entry valign="top" align="left">Luminosity (4 × 10<sup>26</sup> W)</entry>
+<entry valign="top" align="left">Luminosity <m:math><m:mrow><m:mo>(</m:mo><m:mn>4</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>26</m:mn></m:msup><m:mtext> W</m:mtext><m:mo>)</m:mo></m:mrow></m:math></entry>
 <entry valign="top" align="left">1</entry>
 <entry valign="top" align="left">46,000</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Average density (g/cm<sup>3</sup>)</entry>
 <entry valign="top" align="left">1.4</entry>
-<entry valign="top" align="left">1.3 × 10<sup>–7</sup></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>1.3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>7</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Age (millions of years)</entry>
