@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
 
 <title>The Solar Interior: Observations</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
@@ -266,7 +266,7 @@
 </exercise>
 <exercise id="fs-id1170326096125">
 <problem id="fs-id1170326452171">
-<para id="fs-id1170326112993">The Sun converts 4 × 10<sup>9</sup> kg of mass to energy every second. How many years would it take the Sun to convert a mass equal to the mass of Earth to energy?</para>
+<para id="fs-id1170326112993">The Sun converts <m:math><m:mrow><m:mn>4</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>9</m:mn></m:msup></m:mrow></m:math> kg of mass to energy every second. How many years would it take the Sun to convert a mass equal to the mass of Earth to energy?</para>
 </problem>
 </exercise>
 <exercise id="fs-id1170326087952">
@@ -286,7 +286,7 @@
 </exercise>
 <exercise id="fs-id1170326331832">
 <problem id="fs-id1170326166084">
-<para id="fs-id1170326171201">Models of the Sun indicate that only about 10% of the total hydrogen in the Sun will participate in nuclear reactions, since it is only the hydrogen in the central regions that is at a high enough temperature. Use the total energy radiated per second by the Sun, 3.8 × 10<sup>26</sup> watts, alongside the exercises and information given here to estimate the lifetime of the Sun. (Hint: Make sure you keep track of the units: if the luminosity is the energy radiated per second, your answer will also be in seconds. You should convert the answer to something more meaningful, such as years.)</para>
+<para id="fs-id1170326171201">Models of the Sun indicate that only about 10% of the total hydrogen in the Sun will participate in nuclear reactions, since it is only the hydrogen in the central regions that is at a high enough temperature. Use the total energy radiated per second by the Sun, <m:math><m:mrow><m:mn>3.8</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>26</m:mn></m:msup></m:mrow></m:math> watts, alongside the exercises and information given here to estimate the lifetime of the Sun. (Hint: Make sure you keep track of the units: if the luminosity is the energy radiated per second, your answer will also be in seconds. You should convert the answer to something more meaningful, such as years.)</para>
 </problem>
 </exercise>
 <exercise id="fs-id1170326146398">
@@ -296,7 +296,7 @@
 </exercise>
 <exercise id="fs-id1170326032347">
 <problem id="fs-id1170323937112">
-<para id="fs-id1170323811683">Every second, the Sun converts 4 million tons of matter to energy. How long will it take the Sun to reduce its mass by 1% (the mass of the Sun is 2 × 10<sup>30</sup> kg)? Compare your answer with the lifetime of the Sun so far.</para></problem>
+<para id="fs-id1170323811683">Every second, the Sun converts 4 million tons of matter to energy. How long will it take the Sun to reduce its mass by 1% (the mass of the Sun is <m:math><m:mrow><m:mn>2</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>30</m:mn></m:msup></m:mrow></m:math> kg)? Compare your answer with the lifetime of the Sun so far.</para></problem>
 </exercise>
 <exercise id="fs-id1170326331012">
 <problem id="fs-id1170323847927">
@@ -304,7 +304,7 @@
 <list id="fs-id1170326428922" list-type="enumerated" number-style="upper-alpha">
 <item>How many days would he have to run the experiment for 1% of his tank to be filled with argon atoms?</item>
 <item>Convert your answer from A. into years.</item>
-<item>Compare this answer to the age of the universe, which is approximately 14 billion years (1.4 × 10<sup>10</sup> y).</item>
+<item>Compare this answer to the age of the universe, which is approximately 14 billion years (<m:math><m:mrow><m:mn>1.4</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>10</m:mn></m:msup><m:mi>y</m:mi></m:mrow></m:math>).</item>
 <item>What does this tell you about how frequently neutrinos interact with matter?</item>
 </list>
 </problem>
