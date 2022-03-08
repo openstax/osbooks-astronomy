@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
 
 <title>Interstellar Matter around the Sun</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
@@ -279,7 +279,7 @@
 </exercise>
 <exercise id="fs-id1168047608941">
 <problem id="fs-id1168047494489">
-<para id="fs-id1168047209761">How would the density inside a cold cloud (<emphasis effect="italics">T</emphasis> = 10 K) compare with the density of the ultra-hot interstellar gas (<emphasis effect="italics">T</emphasis> = 10<sup>6</sup> K) if they were in pressure equilibrium? (It takes a large cloud to be able to shield its interior from heating so that it can be at such a low temperature.) (Hint: In pressure equilibrium, the two regions must have <emphasis effect="italics">nT</emphasis> equal, where <emphasis effect="italics">n</emphasis> is the number of particles per unit volume and <emphasis effect="italics">T</emphasis> is the temperature.) Which region do you think is more suitable for the creation of new stars? Why?</para>
+<para id="fs-id1168047209761">How would the density inside a cold cloud <m:math><m:mrow><m:mo>(</m:mo><m:mi>T</m:mi><m:mo>=</m:mo><m:mn>10</m:mn><m:mtext> K</m:mtext><m:mo>)</m:mo></m:mrow></m:math> compare with the density of the ultra-hot interstellar gas <m:math><m:mrow><m:mo>(</m:mo><m:mi>T</m:mi><m:mo>=</m:mo><m:msup><m:mn>10</m:mn><m:mn>6</m:mn></m:msup><m:mtext> K</m:mtext><m:mo>)</m:mo></m:mrow></m:math> if they were in pressure equilibrium? (It takes a large cloud to be able to shield its interior from heating so that it can be at such a low temperature.) (Hint: In pressure equilibrium, the two regions must have <emphasis effect="italics">nT</emphasis> equal, where <emphasis effect="italics">n</emphasis> is the number of particles per unit volume and <emphasis effect="italics">T</emphasis> is the temperature.) Which region do you think is more suitable for the creation of new stars? Why?</para>
 </problem>
 </exercise>
 <exercise id="fs-id1168047579716">

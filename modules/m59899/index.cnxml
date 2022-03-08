@@ -118,7 +118,7 @@ In the previous section, we determined the sum of the masses of the two stars in
 <title>Answer:</title>
 <para id="fs-id1168583481514">In <link document="m60003">Appendix J</link>, Sirius is listed with a luminosity 23 times that of the Sun. This value can be inserted into the mass-luminosity relationship to get the mass of Sirius:<newline/>
 <m:math><m:mrow><m:mi>M</m:mi><m:mtext>/</m:mtext><m:msub><m:mi>M</m:mi><m:mrow><m:mtext>Sun</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:msup><m:mrow><m:mn>23</m:mn></m:mrow><m:mrow><m:mn>0.25</m:mn></m:mrow></m:msup><m:mo>=</m:mo><m:mn>2.2</m:mn></m:mrow></m:math><newline/>
-The mass of the companion star to Sirius is then 3.2 – 2.2 = 1.0 solar mass.</para>
+The mass of the companion star to Sirius is then <m:math><m:mrow><m:mn>3.2</m:mn><m:mo>-</m:mo><m:mn>2.2</m:mn><m:mo>=</m:mo><m:mn>1.0</m:mn></m:mrow></m:math> solar mass.</para>
 </note>
 </example>
 <para id="fs-id1164754917579">Notice how good this mass-luminosity relationship is. Most stars (see <link target-id="OSC_Astro_18_02_Mass"/>) fall along a line running from the lower-left (low mass, low luminosity) corner of the diagram to the upper-right (high mass, high luminosity) corner. About 90% of all stars obey the mass-luminosity relation. Later, we will explore why such a relationship exists and what we can learn from the roughly 10% of stars that “disobey” it.</para>

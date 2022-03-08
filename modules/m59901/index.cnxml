@@ -148,14 +148,14 @@
 <row valign="top">
 <entry valign="top" align="left">O5</entry>
 <entry valign="top" align="left">40</entry>
-<entry valign="top" align="left">7 × 10<sup>5</sup></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>7</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>5</m:mn></m:msup></m:mrow></m:math></entry>
 <entry valign="top" align="left">40,000 K</entry>
 <entry valign="top" align="left">18</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">B0</entry>
 <entry valign="top" align="left">16</entry>
-<entry valign="top" align="left">2.7 × 10<sup>5</sup></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>2.7</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>5</m:mn></m:msup></m:mrow></m:math></entry>
 <entry valign="top" align="left">28,000 K</entry>
 <entry valign="top" align="left">7</entry>
 </row>

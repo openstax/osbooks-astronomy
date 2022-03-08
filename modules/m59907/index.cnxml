@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
 
 <title>The H–R Diagram and Cosmic Distances</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
@@ -267,7 +267,7 @@
 </exercise>
 <exercise id="fs-id1165720784018">
 <problem id="fs-id1165720726719">
-<para id="fs-id1165721199052">The New Horizons probe flew past Pluto in July 2015. At the time, Pluto was about 32 AU from Earth. How long did it take for communication from the probe to reach Earth, given that the speed of light in km/hr is 1.08 × 10<sup>9</sup>?</para>
+<para id="fs-id1165721199052">The New Horizons probe flew past Pluto in July 2015. At the time, Pluto was about 32 AU from Earth. How long did it take for communication from the probe to reach Earth, given that the speed of light in km/hr is <m:math><m:mrow><m:mn>1.08</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>9</m:mn></m:msup></m:mrow></m:math>?</para>
 </problem>
 </exercise>
 <exercise id="fs-id1165720716176">
