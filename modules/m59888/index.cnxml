@@ -304,7 +304,7 @@
 <list id="fs-id1170326428922" list-type="enumerated" number-style="upper-alpha">
 <item>How many days would he have to run the experiment for 1% of his tank to be filled with argon atoms?</item>
 <item>Convert your answer from A. into years.</item>
-<item>Compare this answer to the age of the universe, which is approximately 14 billion years (<m:math><m:mrow><m:mn>1.4</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>10</m:mn></m:msup><m:mi>y</m:mi></m:mrow></m:math>).</item>
+<item>Compare this answer to the age of the universe, which is approximately 14 billion years <m:math><m:mrow><m:mo>(</m:mo><m:mn>1.4</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>10</m:mn></m:msup><m:mi>y</m:mi><m:mo>)</m:mo></m:mrow></m:math>.</item>
 <item>What does this tell you about how frequently neutrinos interact with matter?</item>
 </list>
 </problem>
