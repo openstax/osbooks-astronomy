@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
 
 <title>Supernova Observations</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
@@ -84,44 +84,53 @@
 <tbody>
 <row valign="top">
 <entry valign="top" align="left">Hydrogen fusion</entry>
-<entry valign="top" align="left">40 × 10<sup>6</sup></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>40</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>6</m:mn></m:msup>
+  </m:mrow></m:math></entry>
 <entry valign="top" align="left">5</entry>
-<entry valign="top" align="left">8 × 10<sup>6</sup> years</entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>8</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>6</m:mn></m:msup>
+  </m:mrow></m:math> years</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Helium fusion</entry>
-<entry valign="top" align="left">190 × 10<sup>6</sup></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>190</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>6</m:mn></m:msup>
+  </m:mrow></m:math></entry>
 <entry valign="top" align="left">970</entry>
 <entry valign="top" align="left">10<sup>6</sup> years</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Carbon fusion</entry>
-<entry valign="top" align="left">870 × 10<sup>6</sup></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>870</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>6</m:mn></m:msup>
+  </m:mrow></m:math></entry>
 <entry valign="top" align="left">170,000</entry>
 <entry valign="top" align="left">2000 years</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Neon fusion</entry>
-<entry valign="top" align="left">1.6 × 10<sup>9</sup></entry>
-<entry valign="top" align="left">3.0 × 10<sup>6</sup></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>1.6</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>9</m:mn></m:msup>
+  </m:mrow></m:math></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>3.0</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>6</m:mn></m:msup>
+  </m:mrow></m:math></entry>
 <entry valign="top" align="left">6 months</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Oxygen fusion</entry>
-<entry valign="top" align="left">2.0 × 10<sup>9</sup></entry>
-<entry valign="top" align="left">5.6 × 10<sup>6</sup></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>2.0</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>9</m:mn></m:msup></m:mrow></m:math></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>5.6</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>6</m:mn></m:msup>
+  </m:mrow></m:math></entry>
 <entry valign="top" align="left">1 year</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Silicon fusion</entry>
-<entry valign="top" align="left">3.3 × 10<sup>9</sup></entry>
-<entry valign="top" align="left">4.3 × 10<sup>7</sup></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>3.3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>9</m:mn></m:msup></m:mrow></m:math></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>4.3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>7</m:mn></m:msup>
+  </m:mrow></m:math></entry>
 <entry valign="top" align="left">Days</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Core collapse</entry>
-<entry valign="top" align="left">200 × 10<sup>9</sup></entry>
-<entry valign="top" align="left">2 × 10<sup>14</sup></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>200</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>9</m:mn></m:msup>
+  </m:mrow></m:math></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>2</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>14</m:mn></m:msup></m:mrow></m:math></entry>
 <entry valign="top" align="left">Tenths of a second</entry>
 </row>
 </tbody>

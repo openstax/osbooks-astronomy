@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
 
 <title>Pulsars and the Discovery of Neutron Stars</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
@@ -48,7 +48,8 @@
 </row>
 <row valign="top">
 <entry valign="top" align="left">Density</entry>
-<entry valign="top" align="left">8 × 10<sup>5</sup> g/cm<sup>3</sup></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>8</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>5</m:mn></m:msup>
+  </m:mrow></m:math> g/cm<sup>3</sup></entry>
 <entry valign="top" align="left">10<sup>14</sup> g/cm<sup>3</sup></entry>
 </row>
 </tbody>

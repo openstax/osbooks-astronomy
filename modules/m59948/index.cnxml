@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
 
 <title>The Architecture of the Galaxy</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
@@ -113,15 +113,16 @@
 <tbody>
 <row valign="top">
 <entry valign="middle" align="left">Stellar mass</entry>
-<entry valign="middle" align="left">4 × 10<sup>10</sup> <emphasis effect="italics">M</emphasis><sub>Sun</sub></entry>
+<entry valign="middle" align="left"><m:math><m:mrow><m:mn>4</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>10</m:mn></m:msup>
+  </m:mrow></m:math> <emphasis effect="italics">M</emphasis><sub>Sun</sub></entry>
 <entry valign="middle" align="left">A few percent of the thin disk mass</entry>
 <entry valign="middle" align="left">10<sup>10</sup> <emphasis effect="italics">M</emphasis><sub>Sun</sub></entry>
 </row>
 <row valign="top">
 <entry valign="middle" align="left">Luminosity</entry>
-<entry valign="middle" align="left">3 × 10<sup>10</sup> <emphasis effect="italics">L</emphasis><sub>Sun</sub></entry>
+<entry valign="middle" align="left"><m:math><m:mrow><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>10</m:mn></m:msup></m:mrow></m:math> <emphasis effect="italics">L</emphasis><sub>Sun</sub></entry>
 <entry valign="middle" align="left">A few percent of the thin disk luminosity</entry>
-<entry valign="middle" align="left">8 × 10<sup>8</sup> <emphasis effect="italics">L</emphasis><sub>Sun</sub></entry>
+<entry valign="middle" align="left"><m:math><m:mrow><m:mn>8</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup></m:mrow></m:math> <emphasis effect="italics">L</emphasis><sub>Sun</sub></entry>
 </row>
 <row valign="top">
 <entry valign="middle" align="left">Typical age of stars</entry>
