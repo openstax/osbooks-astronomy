@@ -223,7 +223,7 @@
 </exercise>
 <exercise id="fs-id1163975655088">
 <problem id="fs-id1163975433445">
-<para id="fs-id1163975741435">Following up on <link target-id="fs-id1163974406483"/> calculate the energy of a typical photon. Assume for this approximate calculation that each photon has the wavelength calculated in <link target-id="fs-id1163974406483"/>. The energy of a photon is given by <m:math><m:mrow><m:mi>E</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>h</m:mi><m:mi>c</m:mi></m:mrow><m:mtext>λ</m:mtext></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> where <emphasis effect="italics">h</emphasis> is Planck’s constant and is equal to 6.626 × 10<sup>–34</sup> J × s, <emphasis effect="italics">c</emphasis> is the speed of light in m/s, and λ is the wavelength in m.</para></problem>
+<para id="fs-id1163975741435">Following up on <link target-id="fs-id1163974406483"/> calculate the energy of a typical photon. Assume for this approximate calculation that each photon has the wavelength calculated in <link target-id="fs-id1163974406483"/>. The energy of a photon is given by <m:math><m:mrow><m:mi>E</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>h</m:mi><m:mi>c</m:mi></m:mrow><m:mtext>λ</m:mtext></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> where <emphasis effect="italics">h</emphasis> is Planck’s constant and is equal to <m:math><m:mrow><m:mn>6.626</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>34</m:mn></m:mrow></m:msup><m:mtext> J</m:mtext><m:mo>×</m:mo><m:mtext>s</m:mtext><m:mo>,</m:mo><m:mi>c</m:mi></m:mrow></m:math> is the speed of light in m/s, and λ is the wavelength in m.</para></problem>
 </exercise>
 <exercise id="fs-id1163974369405">
 <problem id="fs-id1163974220870">
@@ -231,7 +231,7 @@
 </exercise>
 <exercise id="fs-id1163975364885">
 <problem id="fs-id1163974361252">
-<para id="fs-id1163975454003">Continuing the thinking in the last three exercises, convert this energy to an equivalent in mass, use Einstein’s equation <emphasis effect="italics">E</emphasis> = <emphasis effect="italics">mc</emphasis><sup>2</sup>. Hint: Divide the energy per m<sup>3</sup> calculated in <link target-id="fs-id1163974369405"/> by the speed of light squared. Check your units; you should have an answer in kg/m<sup>3</sup>. Now compare this answer with the critical density. Your answer should be several powers of 10 smaller than the critical density. In other words, you have found for yourself that the contribution of the CMB photons to the overall density of the universe is much, much smaller than the contribution made by stars and galaxies.</para>
+<para id="fs-id1163975454003">Continuing the thinking in the last three exercises, convert this energy to an equivalent in mass, use Einstein’s equation <m:math><m:mrow><m:mi>E</m:mi><m:mo>=</m:mo><m:msup><m:mtext>mc</m:mtext><m:mn>2</m:mn></m:msup></m:mrow></m:math>. Hint: Divide the energy per m<sup>3</sup> calculated in <link target-id="fs-id1163974369405"/> by the speed of light squared. Check your units; you should have an answer in kg/m<sup>3</sup>. Now compare this answer with the critical density. Your answer should be several powers of 10 smaller than the critical density. In other words, you have found for yourself that the contribution of the CMB photons to the overall density of the universe is much, much smaller than the contribution made by stars and galaxies.</para>
 </problem>
 </exercise>
 <exercise id="fs-id1163975727734">

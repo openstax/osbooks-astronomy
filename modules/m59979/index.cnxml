@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
 
 <title>The Cosmic Microwave Background</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
@@ -103,10 +103,10 @@
 </figure>
 <para id="fs-id1163974429581">Key numbers from an analysis of the Planck data give us the best values currently available for some of the basic properties of the universe:</para>
 <list id="fs-id1163974175043" list-type="bulleted" bullet-style="bullet">
-<item>Age of universe: 13.799 ± 0.038 billion years (Note: That means we know the age of the universe to within 38 million years. Amazing!)</item>
-<item>Hubble constant: 67.31 ± 0.96 kilometers/second/million parsecs (in the units we’ve been using, 20.65 kilometers/second/million light-years)</item>
-<item>Fraction of universe’s content that is “dark energy”: 68.5% ± 1.3%</item>
-<item>Fraction of the universe’s content that is matter: 31.5% ± 1.3%</item>
+<item>Age of universe: <m:math><m:mrow><m:mn>13.799</m:mn><m:mo>±</m:mo><m:mn>0.038</m:mn></m:mrow></m:math> billion years (Note: That means we know the age of the universe to within 38 million years. Amazing!)</item>
+<item>Hubble constant: <m:math><m:mrow><m:mn>67.31</m:mn><m:mo>±</m:mo><m:mn>0.96</m:mn></m:mrow></m:math> kilometers/second/million parsecs (in the units we’ve been using, 20.65 kilometers/second/million light-years)</item>
+<item>Fraction of universe’s content that is “dark energy”: <m:math><m:mrow><m:mn>68.5</m:mn><m:mo>%</m:mo><m:mo>±</m:mo><m:mn>1.3</m:mn><m:mo>%</m:mo></m:mrow></m:math></item>
+<item>Fraction of the universe’s content that is matter: <m:math><m:mrow><m:mn>31.5</m:mn><m:mo>%</m:mo><m:mo>±</m:mo><m:mn>1.3</m:mn><m:mo>%</m:mo></m:mrow></m:math></item>
 </list>
 <para id="fs-id1163975383566">Note that this value for the <term class="no-emphasis" id="term-00010">Hubble constant</term> is slightly smaller than the value of 70 kilometers/second/million parsecs that we have adopted in this book. In fact, the value derived from measurements of redshifts is 73 kilometers/second/million parsecs. So precise is modern cosmology these days that scientists are working hard to resolve this discrepancy. The fact that the difference between these two independent measurements is so small is actually a remarkable achievement. Only a few decades ago, astronomers were arguing about whether the Hubble constant was around 50 kilometers/second/million parsecs or 100 kilometers/second/million parsecs.</para>
 <para id="fs-id1163975394577">Analysis of Planck data also shows that ordinary matter (mainly protons and neutrons) makes up 4.9% of the total density. Dark matter plus normal matter add up to 31.5% of the total density. Dark energy contributes the remaining 68.5%. The age of the universe at decoupling—that is, when the CMB was emitted—was 380,000 years.</para>
