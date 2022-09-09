@@ -29,16 +29,6 @@
 </thead>
 <tbody>
 <row valign="top">
-<entry valign="top" align="left">June 10, 2021</entry>
-<entry valign="top" align="left">Annular</entry>
-<entry valign="top" align="left">N Canada, Greenland</entry>
-</row>
-<row valign="top">
-<entry valign="top" align="left">December 4, 2021</entry>
-<entry valign="top" align="left">Total</entry>
-<entry valign="top" align="left">Only in Antarctica</entry>
-</row>
-<row valign="top">
 <entry valign="top" align="left">April 20, 2023</entry>
 <entry valign="top" align="left">Total<footnote id="fs-id1172468260721">This is a so-called hybrid eclipse, which is total in some places and annular in others.</footnote></entry>
 <entry valign="top" align="left">Mostly in Indian and Pacific oceans, Indonesia</entry>
@@ -109,14 +99,6 @@
 </thead>
 <tbody>
 <row valign="top">
-<entry valign="top" align="left">May 26, 2021</entry>
-<entry valign="top" align="left">E Asia, Australia, Pacific Ocean, W North America, W South America</entry>
-</row>
-<row valign="top">
-<entry valign="top" align="left">May 16, 2022</entry>
-<entry valign="top" align="left">N America, S America, Europe, Africa</entry>
-</row>
-<row valign="top">
 <entry valign="top" align="left">November 8, 2022</entry>
 <entry valign="top" align="left">Asia, Australia, Pacific Ocean, N America, S America</entry>
 </row>
@@ -147,7 +129,9 @@
 <section id="fs-id1172468131399">
 <title>Additional Resources</title>
 <para id="fs-id1172468277150">For more information and detailed maps about eclipses, see these resources.</para>
-<list id="fs-id1172467999995" list-type="bulleted" bullet-style="bullet"><item>NASA’s Eclipse Site: <link url="http://eclipse.gsfc.nasa.gov/">http://eclipse.gsfc.nasa.gov/</link></item>
+<list id="fs-id1172467999995" list-type="bulleted" bullet-style="bullet">
+  <item>American Astronomical Society Eclipse Site: <link url="https://eclipse.aas.org/">https://eclipse.aas.org/</link></item>
+  <item>NASA’s Eclipse Site: <link url="http://eclipse.gsfc.nasa.gov/">http://eclipse.gsfc.nasa.gov/</link></item>
 <item>Mr. Eclipse site for beginners by Dr. Fred Espenak: <link url="http://www.mreclipse.com/">http://www.mreclipse.com/</link></item>
 <item>Eclipse Weather and Maps by Meteorologist Jay Anderson: <link url="http://eclipsophile.com">http://eclipsophile.com</link></item>
 <item>Eclipse Maps by Michael Zeiler: <link url="http://www.eclipse-maps.com/Eclipse-Maps/Welcome.html">http://www.eclipse-maps.com/Eclipse-Maps/Welcome.html</link></item>
