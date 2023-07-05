@@ -76,12 +76,6 @@
 <entry valign="top" align="left">fast.bao.ac.cn/en/</entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis" id="term-00005">Arecibo Observatory</term></entry>
-<entry valign="top" align="left">Arecibo, Puerto Rico</entry>
-<entry valign="top" align="left">305-m fixed dish</entry>
-<entry valign="top" align="left">www.naic.edu</entry>
-</row>
-<row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00006">Green Bank Telescope</term> (GBT)</entry>
 <entry valign="top" align="left">Green Bank, WV</entry>
 <entry valign="top" align="left">110 × 100-m steerable dish</entry>
@@ -284,7 +278,7 @@
 </figure>
 </section>
 <section id="fs-id1167470881669" class="summary">
-<para id="fs-id1167470732320">In the 1930s, radio astronomy was pioneered by Karl G. Jansky and Grote Reber. A radio telescope is basically a radio antenna (often a large, curved dish) connected to a receiver. Significantly enhanced resolution can be obtained with interferometers, including interferometer arrays like the 27-element VLA and the 66-element ALMA. Expanding to very long baseline interferometers, radio astronomers can achieve resolutions as precise as 0.0001 arcsecond. Radar astronomy involves transmitting as well as receiving. The largest radar telescope currently in operation is a 305-meter bowl at Arecibo.</para>
+<para id="fs-id1167470732320">In the 1930s, radio astronomy was pioneered by Karl G. Jansky and Grote Reber. A radio telescope is basically a radio antenna (often a large, curved dish) connected to a receiver. Significantly enhanced resolution can be obtained with interferometers, including interferometer arrays like the 27-element VLA and the 66-element ALMA. Expanding to very long baseline interferometers, radio astronomers can achieve resolutions as precise as 0.0001 arcsecond. Radar astronomy involves transmitting as well as receiving. The largest radio telescope dish currently in operation is the 500-meter FAST bowl in China."</para>
 </section>
  </content>
 <glossary>
