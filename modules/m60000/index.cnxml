@@ -28,21 +28,7 @@
 </row>
 </thead>
 <tbody>
-<row valign="top">
-<entry valign="top" align="left">April 20, 2023</entry>
-<entry valign="top" align="left">Total<footnote id="fs-id1172468260721">This is a so-called hybrid eclipse, which is total in some places and annular in others.</footnote></entry>
-<entry valign="top" align="left">Mostly in Indian and Pacific oceans, Indonesia</entry>
-</row>
-<row valign="top">
-<entry valign="top" align="left">October 14, 2023</entry>
-<entry valign="top" align="left">Annular</entry>
-<entry valign="top" align="left">OR, NV, UT, NM, TX, C America, Colombia, Brazil</entry>
-</row>
-<row valign="top">
-<entry valign="top" align="left">April 8, 2024</entry>
-<entry valign="top" align="left">Total</entry>
-<entry valign="top" align="left">N Mexico, U.S. (TX to ME), SE Canada and oceans on either side</entry>
-</row>
+
 <row valign="top">
 <entry valign="top" align="left">October 2, 2024</entry>
 <entry valign="top" align="left">Annular</entry>
@@ -78,6 +64,21 @@
 <entry valign="top" align="left">Total</entry>
 <entry valign="top" align="left">Indian Ocean, Australia, New Zealand, South Pacific Ocean</entry>
 </row>
+<row valign="top">
+  <entry valign="top" align="left">November 25, 2030</entry>
+  <entry valign="top" align="left">Total</entry>
+  <entry valign="top" align="left">Botswana, South Africa, Australia</entry>
+  </row>
+  <row valign="top">
+    <entry valign="top" align="left">March 30, 2033</entry>
+    <entry valign="top" align="left">Total</entry>
+    <entry valign="top" align="left">Alaska, Russia</entry>
+    </row>
+    <row valign="top">
+      <entry valign="top" align="left">March 20, 2034</entry>
+      <entry valign="top" align="left">Total</entry>
+      <entry valign="top" align="left">Africa, Saudi Arabia, Pakistan</entry>
+      </row>
 </tbody>
 </tgroup>
 </table>
@@ -99,10 +100,6 @@
 </thead>
 <tbody>
 <row valign="top">
-<entry valign="top" align="left">November 8, 2022</entry>
-<entry valign="top" align="left">Asia, Australia, Pacific Ocean, N America, S America</entry>
-</row>
-<row valign="top">
 <entry valign="top" align="left">March 14, 2025</entry>
 <entry valign="top" align="left">Pacific Ocean, N America, S America, Atlantic Ocean, W Europe, W Africa</entry>
 </row>
@@ -122,6 +119,14 @@
 <entry valign="top" align="left">December 20, 2029</entry>
 <entry valign="top" align="left">E North America, E South America, Atlantic Ocean, Europe, Africa, Asia</entry>
 </row>
+<row valign="top">
+  <entry valign="top" align="left">April 25, 2032</entry>
+  <entry valign="top" align="left">Asia, Australia, much of N America</entry>
+  </row>
+  <row valign="top">
+    <entry valign="top" align="left">April 14, 2033</entry>
+    <entry valign="top" align="left">Europe, Asia, Australia, Africa</entry>
+    </row>
 </tbody>
 </tgroup>
 </table>
