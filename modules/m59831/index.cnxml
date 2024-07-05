@@ -187,7 +187,7 @@
 <caption>One of the unused Saturn 5 rockets built to go to the Moon is now a tourist attraction at NASA’s Johnson Space Center in Houston, although it has been moved indoors since this photo was taken. (credit: modification of work by David Morrison)</caption>
 </figure>
 <para id="fs-id1170326569797">Lunar exploration has become an international enterprise with many robotic spacecraft focusing on lunar science. The USSR sent a number in the 1960s, including robot sample returns, and recently China has been active, with three landers and a sample return mission. Of special interest is the search for accessible water ice near the lunar South Pole. <link target-id="fs-id1170326243317"/> lists some of the most recent <term class="no-emphasis" id="term-00007">lunar missions</term>.</para>
-<table id="fs-id1170326243317" summary="This table is titled “Some International Missions to the Moon” and contains 4 columns and 13 rows. The first row is a header row and it labels each column, “Launch Year”, “Spacecraft”, “Type of Mission” and “Agency”. Under the “Launch Year” column are the values, “1994”, “1998”, “2003”, “2007”, “2007”, “2008”, “2009”, “2009”, “2010”, “2011”, “2013” and “2013”. Under the “Spacecraft” column are the values, “Clementine”, “Lunar Prospector”, “SMART-1”, “SELENE 1”, “Chang’e 1”, “Chandrayaan-1”, “LRO”, “LCROSS”, “Chang’e 2”, “GRAIL”, “LADEE” and “Chang’e 3”. Under the “Type of Mission” column are the values, “Orbiter”, “Orbiter”, “Orbiter”, “Orbiter”, “Orbiter”, “Orbiter”, “Orbiter”, “Impactor”, “Orbiter”, “Twin orbiters”, “Orbiter” and “Lander/Rover”. Finally, under the “Agancy” column are the values, “US (USAF/NASA)”, “US (NASA)”, “Europe (ESA)”, “Japan (JAXA)”, “China (CNSA)”, “India (ISRO)”, “US (NASA)”, “US (NASA)”, “China (CNSA)”, “US (NASA)”, “US (NASA)” and “China (CNSA)”." class="top-titled">
+<table id="fs-id1170326243317" summary="This table is titled “Some Robotic Missions to the Moon” and contains 4 columns and 13 rows. The first row is a header row and it labels each column, “Launch Year”, “Spacecraft”, “Type of Mission” and “Agency”. Under the “Launch Year” column are the values, “1994”, “1998”, “2003”, “2007”, “2007”, “2008”, “2009”, “2009”, “2010”, “2011”, “2013” and “2013”. Under the “Spacecraft” column are the values, “Clementine”, “Lunar Prospector”, “SMART-1”, “SELENE 1”, “Chang’e 1”, “Chandrayaan-1”, “LRO”, “LCROSS”, “Chang’e 2”, “GRAIL”, “LADEE” and “Chang’e 3”. Under the “Type of Mission” column are the values, “Orbiter”, “Orbiter”, “Orbiter”, “Orbiter”, “Orbiter”, “Orbiter”, “Orbiter”, “Impactor”, “Orbiter”, “Twin orbiters”, “Orbiter” and “Lander/Rover”. Finally, under the “Agancy” column are the values, “US (USAF/NASA)”, “US (NASA)”, “Europe (ESA)”, “Japan (JAXA)”, “China (CNSA)”, “India (ISRO)”, “US (NASA)”, “US (NASA)”, “China (CNSA)”, “US (NASA)”, “US (NASA)” and “China (CNSA)”." class="top-titled">
 <tgroup cols="4">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
@@ -195,7 +195,7 @@
 <colspec colnum="4" colname="c4"/>
 <thead>
 <row>
-<entry namest="c1" nameend="c4" align="center">Some International Missions to the Moon</entry>
+<entry namest="c1" nameend="c4" align="center">Some Robotic Missions to the Moon</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="center">Launch Year</entry>
@@ -280,12 +280,54 @@
 <row><entry valign="top" align="left">2019</entry>
   <entry valign="top" align="left">Chang-e 4</entry>
     <entry valign="top" align="left">Lander/Rover (far side)</entry>
-      <entry valign="top" align="left">China(CNSA)</entry></row>
+      <entry valign="top" align="left">China (CNSA)</entry></row>
       <row>
-<entry valign="top" align="left">2020</entry>
-  <entry valign="top" align="left">Chang-e 5 </entry>
-  <entry valign="top" align="left">Lander/Sample Return</entry>
-    <entry valign="top" align="left">China(CNSA)</entry></row>
+        <entry valign="top" align="left">2019</entry>
+          <entry valign="top" align="left">Chandrayaan-2</entry>
+          <entry valign="top" align="left">Orbiter</entry>
+            <entry valign="top" align="left">India (ISRO)</entry></row>
+        
+        <row>
+        <entry valign="top" align="left">2020</entry>
+          <entry valign="top" align="left">Chang-e 5</entry>
+          <entry valign="top" align="left">Lander/Sample Return</entry>
+            <entry valign="top" align="left">China (CNSA)</entry></row>
+        
+        <row>
+        <entry valign="top" align="left">2022</entry>
+          <entry valign="top" align="left">Danuri</entry>
+          <entry valign="top" align="left">Orbiter</entry>
+            <entry valign="top" align="left">South Korea (KARI)</entry></row>
+        
+        <row>
+        <entry valign="top" align="left">2022</entry>
+          <entry valign="top" align="left">CAPSTONE</entry>
+          <entry valign="top" align="left">Orbiter (Cubesat)</entry>
+            <entry valign="top" align="left">US (NASA)</entry></row>
+        
+        <row>
+        <entry valign="top" align="left">2023</entry>
+          <entry valign="top" align="left">SLIM</entry>
+          <entry valign="top" align="left">Lander</entry>
+            <entry valign="top" align="left">Japan (JAXA)</entry></row>
+        
+        <row>
+        <entry valign="top" align="left">2023</entry>
+          <entry valign="top" align="left">Chandrayaan-3</entry>
+          <entry valign="top" align="left">Lander</entry>
+            <entry valign="top" align="left">India (ISRO)</entry></row>
+        
+        <row>
+        <entry valign="top" align="left">2024</entry>
+          <entry valign="top" align="left">Quegiao-2</entry>
+          <entry valign="top" align="left">Orbiter (Communications Relay)</entry>
+            <entry valign="top" align="left">China (CNSA)</entry></row>
+        
+        <row>
+        <entry valign="top" align="left">2024</entry>
+          <entry valign="top" align="left">Chang-e 6</entry>
+          <entry valign="top" align="left">Lander/sample return</entry>
+            <entry valign="top" align="left">China (CNSA)</entry></row>        
 </tbody>
 </tgroup>
 </table>
