@@ -76,7 +76,7 @@
 <equation id="fs-id1164754950852" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>M</m:mi><m:mn>1</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi>M</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>8000</m:mn></m:mrow><m:mrow><m:mn>2500</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>3.2</m:mn></m:mrow></m:math></equation>
 <para id="fs-id1164754891854">Therefore, the sum of masses of the two stars in the Sirius binary system is 3.2 times the Sun’s mass. In order to determine the individual mass of each star, we would need the velocities of the two stars and the orientation of the orbit relative to our line of sight.</para>
 <note id="fs-id1164754873184" class="astronomy link-to-learning">
-<para id="fs-id1164755046551">This <link url="https://openstax.org/l/30binstaranim">animation</link> lets you follow the orbits of a binary star system in various combinations of the masses of the two stars. You can specify a mass for each star and the orbital characteristics, hit enter, and then see how the orbit and the light curve will change.</para>
+<para id="fs-id1164755046551">This <link url="https://openstax.org/l/30binstaranim">animation</link> lets you follow the orbits of a binary star system in various combinations of the masses of the two stars. You can specify a mass for each star and the orbital characteristics, hit enter, and then see how the orbit changes, and relate that to how the absorption lines’ Doppler shifts change over time.</para>
 </note>
 </section>
 <section id="fs-id1164754989310">
