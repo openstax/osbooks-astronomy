@@ -80,7 +80,7 @@
 </section>
 <section id="fs-id1172468005168">
 <title>Future Total Lunar Eclipses</title>
-<table id="fs-id1172468380328" class="top-titled" summary="A table titled “Future Total Lunar Eclipses” with two columns and eleven rows. The first row is a header row and labels each column “Date”, and “Location on Earth”. The eighth row reads “September 7, 2025”, “Europe, Africa, Asia, Australia, Indian Ocean”. The ninth row reads “March 3, 2026”, “E Asia, Australia, Pacific Ocean, N America, C America”. The tenth row reads “June 26, 2029”, “E North America, S America, Atlantic Ocean, W Europe, W Africa”. The eleventh row reads “December 20, 2029”, “E North America, E South America, Atlantic Ocean, Europe, Africa, Asia”.">
+<table id="fs-id1172468380328" class="top-titled" summary="A table titled “Future Total Lunar Eclipses” with two columns and eleven rows. The first row is a header row and labels each column “Date”, and “Location on Earth”. The first row reads “March 3, 2026”, “E Asia, Australia, Pacific Ocean, N America, C America”. The second row reads “June 26, 2029”, “E North America, S America, Atlantic Ocean, W Europe, W Africa”. The third row reads “December 20, 2029”, “E North America, E South America, Atlantic Ocean, Europe, Africa, Asia”.">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
@@ -95,10 +95,7 @@
 </thead>
 <tbody>
 
-<row valign="top">
-<entry valign="top" align="left">September 7, 2025</entry>
-<entry valign="top" align="left">Europe, Africa, Asia, Australia, Indian Ocean</entry>
-</row>
+
 <row valign="top">
 <entry valign="top" align="left">March 3, 2026</entry>
 <entry valign="top" align="left">E Asia, Australia, Pacific Ocean, N America, C America</entry>
