@@ -206,8 +206,8 @@ Using the occultations of stars by the rings of Saturn, astronomers have been ab
 <para id="fs-id1163976498573"><title>Solution</title>
 To solve this problem, we use the “small-angle formula” to relate angular and linear diameters in the sky. For angles in the sky that are small, the formula is usually written as</para>
 <equation id="fs-id1163976791608" class="unnumbered"><label/><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>angular diameter</m:mtext></m:mrow><m:mrow><m:mn>206,265</m:mn><m:mspace width="0.2em"/><m:mtext>arcsec</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mtext>linear diameter</m:mtext></m:mrow><m:mrow><m:mtext>distance</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></equation>
-<para id="fs-id1163973358516">where angular diameter is expressed in arcsec. The distance of Saturn near opposition is about<newline/><m:math><m:mrow><m:mn>9</m:mn><m:mtext> AU</m:mtext><m:mo>=</m:mo><m:mn>1.4</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>9</m:mn></m:msup><m:mtext> km</m:mtext></m:mrow></m:math>. Substituting in the above formula and solving for the angular resolution, we get</para>
-<equation id="fs-id1163976562549" class="unnumbered"><label/><m:math><m:mrow><m:mtext>angular resolution</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>206,265</m:mn><m:mspace width="0.2em"/><m:mtext>arcsec</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>10 km</m:mn></m:mrow><m:mrow><m:mn>1.4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>9</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>km</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-id1163973358516">where angular diameter is expressed in arcsec. The distance of Saturn near opposition is about<newline/><m:math><m:mrow><m:mn>9</m:mn><m:mtext> AU</m:mtext><m:mo>=</m:mo><m:mn>1.4</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>9</m:mn></m:msup><m:mtext> km</m:mtext></m:mrow></m:math>. Substituting in the above formula and solving for the angular resolution, we get</para>
+<equation id="fs-id1163976562549" class="unnumbered"><label/><m:math><m:mrow><m:mtext>angular resolution</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>206,265</m:mn><m:mspace width="0.2em"/><m:mtext>arcsec</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>10 kmjp</m:mn></m:mrow><m:mrow><m:mn>1.4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>9</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>km</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></equation>
 <para id="fs-id1163976776820">which is about <m:math><m:mrow><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:mrow></m:math> arcsec, or a milliarcsec. This is not possible for our telescopes to achieve. For comparison, the best resolution from either the Hubble Space Telescope or ground-based telescopes is about 0.1 arcsec, or 100 times worse than what we would need. This is why such occultation measurements are so useful for astronomers.</para>
 <para id="fs-id1163976466142"><title>Check Your Learning</title>
 How close to Saturn would a spacecraft have to be to make out detail in its rings as small as 20 km, if its camera has an angular resolution of 5 arcsec?</para>
@@ -250,58 +250,58 @@ So, the distance is about 825,000 km.</para>
 <title><emphasis effect="italics">Moons</emphasis></title>
 <para id="para-00002">Cable, M. &amp; Spilker, L. “The Enigma of Enceladus.” <emphasis effect="italics">Astronomy</emphasis> (September 2019): 50. On the evidence for oceans and possible life. </para>
 <para id="para-00003">Cable, M. “What Does Titan Smell Like.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (September 2020): 28. On the conditions and chemistry there. </para>
-<para id="para-00004">Carroll, M. “Titan: What We’ve Learned about a Strange New World.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (March 2010): 30. Nice review of Cassini mission results.</para>
+<para id="para-00004">Carroll, M. “Titan: What We’ve Learned about a Strange New World.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (March 2010): 30. Nice review of Cassini mission results.</para>
 <para id="para-00005">Carroll, M. “Voyage to the Bottom of an Alien Sea.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (July 2018): 44. Exploring Europa and Titan with submarines.</para>
 <para id="para-00006">Consolmagno, G. &amp; Graney, C. “Slipping on Jupiter’s Moons.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (October 2020): 34. A history of how we discovered the properties of Europa, Ganymede, and Callisto.</para>
 <para id="para-00007">Davies, A. “Io, the Volcanic Rosetta Stone.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (July 2020): 14. Good review of what we know about Jupiter’s innermost large moon.</para>
-<para id="para-00008">Elliot, J. “The Warming Wisps of Triton.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (February 1999): 42. About Neptune’s intriguing moon.</para>
-<para id="para-00009">Hayes, A., “Secrets from Titan’s Seas.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (October 2015): 24. Good review of what we now know and what puzzles us about the hydrocarbon lakes of Titan.</para>
+<para id="para-00008">Elliot, J. “The Warming Wisps of Triton.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (February 1999): 42. About Neptune’s intriguing moon.</para>
+<para id="para-00009">Hayes, A., “Secrets from Titan’s Seas.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (October 2015): 24. Good review of what we now know and what puzzles us about the hydrocarbon lakes of Titan.</para>
 <para id="para-00010">Horst, S. “Titan’s Veil.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (February 2019): 22. What the Cassini/Huygens mission revealed about conditions on the giant moon.</para>
 <para id="para-00011">Johnson-Groh, M. “How We Might Find Life on Europa.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (September 2019): 30. On why we think there might be life there and how future missions will look for it.</para>
 <para id="para-00012">Lopes, R. “Ice Volcanoes.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (August 2020): 32. Survey of several giant planet moons.</para>
 <para id="para-00013">Redd, N. “What Lies Beneath Triton’s Ice.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (September 2019): 56. On the geysers on this moon and what they might tell us about a possible ocean.</para>
-<para id="para-00014">Robertson, D. “Where Goes the Rain?” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (March 2013): 26. About the methane weather cycle on Titan and what Cassini experiments are telling us.</para>
-<para id="para-00015">Scharf, C. “A Universe of Dark Oceans.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (December 2014): 20. Subsurface oceans on Europa, Ganymede, Enceladus, and Titan.</para>
-<para id="para-00016">Showalter, M. “How to Catch a Moon (or Two) of Pluto.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> Beat (December 2012): https://www.asppublications.org/37RYL62T/astrobeat/ab2012-106.pdf. On the discovery of small moons around Pluto, written by the person who discovered two of them.</para>
+<para id="para-00014">Robertson, D. “Where Goes the Rain?” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (March 2013): 26. About the methane weather cycle on Titan and what Cassini experiments are telling us.</para>
+<para id="para-00015">Scharf, C. “A Universe of Dark Oceans.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (December 2014): 20. Subsurface oceans on Europa, Ganymede, Enceladus, and Titan.</para>
+<para id="para-00016">Showalter, M. “How to Catch a Moon (or Two) of Pluto.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> Beat (December 2012): https://www.asppublications.org/37RYL62T/astrobeat/ab2012-106.pdf. On the discovery of small moons around Pluto, written by the person who discovered two of them.</para>
 <para id="para-00017">Skuse, B. “Ocean Underworlds.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (April 2022): 14. About the large moons that may have an underground ocean, like Europa and Ganymede.</para>
-<para id="para-00018">Spencer, J. “Galileo’s Closest Look at Io.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (May 2001): 40.</para>
-<para id="para-00019">Talcott, R. “Cassini Flies through Enceladus’ Geysers.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (March 2009): 32.</para>
+<para id="para-00018">Spencer, J. “Galileo’s Closest Look at Io.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (May 2001): 40.</para>
+<para id="para-00019">Talcott, R. “Cassini Flies through Enceladus’ Geysers.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (March 2009): 32.</para>
 </section>
 <section id="fs-id1163976522890">
 <title><emphasis effect="italics">Pluto</emphasis></title>
 <para id="para-00020">Nimmo, F. “Life’s Prospects on Pluto.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (September 2019): 62. On whether Pluto might be a habitable world, possibly with a subsurface ocean. </para>
-<para id="para-00021">Stern, A. “Pluto: Up Close and Personal.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (July 2015): 22. Good summary of the history of understanding Pluto and our current knowledge on the eve of the New Horizons encounter.</para>
+<para id="para-00021">Stern, A. “Pluto: Up Close and Personal.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (July 2015): 22. Good summary of the history of understanding Pluto and our current knowledge on the eve of the New Horizons encounter.</para>
 <para id="para-00022">Stern, A. “Return to Pluto.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (December 2019): 20. A bit about New Horizons and then discussion of possible future missions.</para>
-<para id="para-00023">Stern, A. “The Pluto System Explored.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (November 2015): 24. Fine review of what the team learned from the first few data downloads from New Horizons.</para>
-<para id="para-00024">Tombaugh, C. “How I Found Pluto.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> Beat (May 2009): https://www.asppublications.org/37RYL62T/astrobeat/ab2009-23.pdf.</para>
+<para id="para-00023">Stern, A. “The Pluto System Explored.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (November 2015): 24. Fine review of what the team learned from the first few data downloads from New Horizons.</para>
+<para id="para-00024">Tombaugh, C. “How I Found Pluto.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> Beat (May 2009): https://www.asppublications.org/37RYL62T/astrobeat/ab2009-23.pdf.</para>
 </section>
 <section id="fs-id1163973080921">
 <title><emphasis effect="italics">Rings</emphasis></title>
-<para id="para-00025">Beatty, J. “Saturn’s Amazing Rings.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (May 2013): 18. Good 7-page summary of what we know.</para>
-<para id="para-00026">Elliot, J., et al. “Discovering the Rings of Uranus.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (June 1977): 412.</para>
-<para id="para-00027">Esposito, L. “The Changing Shape of Planetary Rings.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (September 1987): 6.</para>
+<para id="para-00025">Beatty, J. “Saturn’s Amazing Rings.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (May 2013): 18. Good 7-page summary of what we know.</para>
+<para id="para-00026">Elliot, J., et al. “Discovering the Rings of Uranus.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (June 1977): 412.</para>
+<para id="para-00027">Esposito, L. “The Changing Shape of Planetary Rings.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (September 1987): 6.</para>
 <para id="para-00028">Sheehan, W. “Seeing Saturn’s Ring Spokes.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (August 2022): 28. History of observations of ring structure from the ground and space.</para>
-<para id="para-00029">Tiscareno, M. “Ringworld Revelations.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (February 2007): 32. Cassini results about the rings of Saturn.</para>
+<para id="para-00029">Tiscareno, M. “Ringworld Revelations.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (February 2007): 32. Cassini results about the rings of Saturn.</para>
 </section>
 </section>
 <section id="fs-id1163976796234">
 <title>Websites</title>
 <section id="sect-00001"><title>Moon</title>
-  <para id="para-00030">Cassini Mission to Saturn: <link url="https://science.nasa.gov/mission/cassini/">https://science.nasa.gov/mission/cassini/</link> and <link url="https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens">https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens</link> and <link url="https://ciclops.org">https://ciclops.org</link></para>
-    <para id="para-00031">Jupiter’s Moons, at JPL: <link url="https://science.nasa.gov/jupiter/moons/">https://science.nasa.gov/jupiter/moons/</link> </para>
+  <para id="para-00030">Cassini Mission to Saturn: <link url="https://science.nasa.gov/mission/cassini/">https://science.nasa.gov/mission/cassini/</link> and <link url="https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens">https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens</link> and <link url="https://ciclops.org">https://ciclops.org</link></para>
+    <para id="para-00031">Jupiter’s Moons, at JPL: <link url="https://science.nasa.gov/jupiter/moons/">https://science.nasa.gov/jupiter/moons/</link> </para>
     <para id="para-00032">NASA’s Europa Clipper Mission: <link url="https://europa.nasa.gov/">https://europa.nasa.gov/</link></para>
-    <para id="para-00033">Neptune’s Moons, at JPL: <link url="https://science.nasa.gov/neptune/moons/">https://science.nasa.gov/neptune/moons/</link></para>
-    <para id="para-00034">Saturn’s Moons, at JPL: <link url="https://science.nasa.gov/saturn/moons/">https://science.nasa.gov/saturn/moons/</link></para>
+    <para id="para-00033">Neptune’s Moons, at JPL: <link url="https://science.nasa.gov/neptune/moons/">https://science.nasa.gov/neptune/moons/</link></para>
+    <para id="para-00034">Saturn’s Moons, at JPL: <link url="https://science.nasa.gov/saturn/moons/">https://science.nasa.gov/saturn/moons/</link></para>
     <para id="para-00035">The JUICE Mission to Explore Jupiter’s icy moons, at the European Space Agency: <link url="https://www.esa.int/Science_Exploration/Space_Science/Juice">https://www.esa.int/Science_Exploration/Space_Science/Juice</link></para>
     <para id="para-00036">The Planetary Society’s “Worlds” web pages include a page about Pluto, Io, Europa, Enceladus, Titan, and Triton: <link url="https://www.planetary.org/worlds">https://www.planetary.org/worlds</link></para>
     <para id="para-00037">The proposed Dragonfly Mission to fly a rotorcraft that explores Titan: <link url="https://dragonfly.jhuapl.edu/">https://dragonfly.jhuapl.edu/</link> </para>
-    <para id="para-00038">Uranus’ Moons, at JPL: <link url="https://science.nasa.gov/uranus/moons/">https://science.nasa.gov/uranus/moons/</link></para>
+    <para id="para-00038">Uranus’ Moons, at JPL: <link url="https://science.nasa.gov/uranus/moons/">https://science.nasa.gov/uranus/moons/</link></para>
 </section>
 <section id="sect-00002"><title>Pluto</title>
   <para id="para-00039">History of Pluto (Lowell Observatory): <link url="https://lowell.edu/discover/history-of-pluto/">https://lowell.edu/discover/history-of-pluto/</link> </para>
-<para id="para-00040">New Horizons Mission to Pluto: <link url="https://pluto.jhuapl.edu">https://pluto.jhuapl.edu</link>. Provides information and images from the Pluto encounter, plus lots of background information.</para>
+<para id="para-00040">New Horizons Mission to Pluto: <link url="https://pluto.jhuapl.edu">https://pluto.jhuapl.edu</link>. Provides information and images from the Pluto encounter, plus lots of background information.</para>
 <para id="para-00041">Pluto and the Developing Landscape of our Solar System: <link url="https://www.iau.org/public/themes/pluto/">https://www.iau.org/public/themes/pluto/</link>. Information and explanation from the International Astronomical Union, the “U.N. of astronomy,” which reclassified Pluto as a dwarf planet.</para>
-<para id="para-00042">Pluto, at JPL: <link url="https://science.nasa.gov/dwarf-planets/pluto/">https://science.nasa.gov/dwarf-planets/pluto/</link></para>
+<para id="para-00042">Pluto, at JPL: <link url="https://science.nasa.gov/dwarf-planets/pluto/">https://science.nasa.gov/dwarf-planets/pluto/</link></para>
 </section>
 <section id="sect-00003"><title>Rings</title>
 <para id="para-00043">NASA Rings Node: <link url="https://pds-rings.seti.org/">https://pds-rings.seti.org/</link>. Most of this website is technical, for scientists, but if you use the menu at left to go to each ring-moon system, you can find images and press releases from the relevant exploratory missions.</para>
@@ -312,7 +312,7 @@ So, the distance is about 825,000 km.</para>
 <section id="fs-id1163976459984">
 <title>Videos</title>
 <section id="sect-00004"><title>Moons</title>
-<para id="para-00045">Amazing Moons: <link url="https://www.youtube.com/watch?v=CQjZf2bW9XQ">https://www.youtube.com/watch?v=CQjZf2bW9XQ</link>. 2016 NASA video on intriguing moons in our solar system, such as Enceladus, Titan, Europa, and Io (4:16).</para>
+<para id="para-00045">Amazing Moons: <link url="https://www.youtube.com/watch?v=CQjZf2bW9XQ">https://www.youtube.com/watch?v=CQjZf2bW9XQ</link>. 2016 NASA video on intriguing moons in our solar system, such as Enceladus, Titan, Europa, and Io (4:16).</para>
 <para id="para-00046">Briny Breath of Enceladus: <link url="https://www.youtube.com/watch?v=OZsU75Eit-E">https://www.youtube.com/watch?v=OZsU75Eit-E</link>. Brief film on the geysers of Enceladus and what is emerging from within the moon (2:36).</para>
 <para id="para-00047">Could a Saturn Moon Harbor Life: <link url="https://www.youtube.com/watch?v=TRQdHrGuVgI">https://www.youtube.com/watch?v=TRQdHrGuVgI</link>. Carolyn Porco gives a brief, personal introduction at TED to the geysers her team discovered on Enceladus (3:26).</para>
 <para id="para-00048">Europa: Ocean World: <link url="https://www.youtube.com/watch?v=kz9VhCQbPAk">https://www.youtube.com/watch?v=kz9VhCQbPAk</link>. Planetary scientist Kevin Hand explains why Europa is so interesting for future exploration (4:12).</para>
@@ -326,8 +326,8 @@ So, the distance is about 825,000 km.</para>
 </section>
 <section id="sect-00005"><title>Pluto</title>
 <para id="para-00056">Charon Flyover Movie: <link url="https://www.youtube.com/watch?v=f0Q7O7TZ7Ks">https://www.youtube.com/watch?v=f0Q7O7TZ7Ks</link>. New Horizons images are made into a silent animation of the terrain on Pluto’s large moon (1:05).</para>
-<para id="para-00057">How I Killed Pluto and Why It Had It Coming: <link url="https://www.youtube.com/watch?v=7pbj_llmiMg">https://www.youtube.com/watch?v=7pbj_llmiMg</link>. Silicon Valley Astronomy Lecture by Michael Brown on the “demotion” of Pluto to a dwarf planet, which his discoveries helped bring about (1:27:13).</para>
-<para id="para-00058">New Horizons Discoveries Keep Coming: <link url="https://www.youtube.com/watch?v=r8PEhLDDGeM">https://www.youtube.com/watch?v=r8PEhLDDGeM</link>.  Reviews New Horizon mission Pluto discoveries and previews its flyby of MU69 (now called Arrokoth) (4:00).</para>
+<para id="para-00057">How I Killed Pluto and Why It Had It Coming: <link url="https://www.youtube.com/watch?v=7pbj_llmiMg">https://www.youtube.com/watch?v=7pbj_llmiMg</link>. Silicon Valley Astronomy Lecture by Michael Brown on the “demotion” of Pluto to a dwarf planet, which his discoveries helped bring about (1:27:13).</para>
+<para id="para-00058">New Horizons Discoveries Keep Coming: <link url="https://www.youtube.com/watch?v=r8PEhLDDGeM">https://www.youtube.com/watch?v=r8PEhLDDGeM</link>.  Reviews New Horizon mission Pluto discoveries and previews its flyby of MU69 (now called Arrokoth) (4:00).</para>
 <para id="para-00059">New Horizons Flyover of Pluto: <link url="https://www.youtube.com/watch?v=g1fPhhTT2Oo">https://www.youtube.com/watch?v=g1fPhhTT2Oo</link>. New Horizons images are made into a dramatic animation of what the spacecraft cameras saw on Pluto; no narration (1:59).</para>
 <para id="para-00060">Pluto in a Minute Video Series: <link url="https://www.youtube.com/playlist?list=PLiuUQ9asub3RUlLBXMFGq8aFEPS5yONT2">https://www.youtube.com/playlist?list=PLiuUQ9asub3RUlLBXMFGq8aFEPS5yONT2</link>. Each of these brief 1–2-minute videos, hosted by science writer and space historian, Amy Shira Teitel, illuminates one aspect of the New Horizons mission to Pluto and its five moons. There are 32 videos in total.</para>
 <para id="para-00061">Reflections on Clyde Tombaugh: <link url="https://www.youtube.com/watch?v=Crbi2in-PHc">https://www.youtube.com/watch?v=Crbi2in-PHc</link>. Video remembering the discoverer of Pluto, featuring his children (7:41).</para>
@@ -335,7 +335,7 @@ So, the distance is about 825,000 km.</para>
 </section>
 <section id="sect-00006"><title>Rings</title>
   <para id="para-00063">F Ring Shepherd Moons: <link url="https://photojournal.jpl.nasa.gov/catalog/PIA07712">https://photojournal.jpl.nasa.gov/catalog/PIA07712</link>. A very brief movie sequence showing the two moons on either side of Saturn’s F ring and the waves they raise in the ring’s structure.</para>
-  <para id="para-00064">Saturn’s Restless Rings: <link url="https://www.youtube.com/watch?v=X5zcrEze8L4">https://www.youtube.com/watch?v=X5zcrEze8L4</link>. 2013 talk by Mark Showalter in the Silicon Valley Astronomy Lecture Series (1:30:59).</para>
+  <para id="para-00064">Saturn’s Restless Rings: <link url="https://www.youtube.com/watch?v=X5zcrEze8L4">https://www.youtube.com/watch?v=X5zcrEze8L4</link>. 2013 talk by Mark Showalter in the Silicon Valley Astronomy Lecture Series (1:30:59).</para>
   <para id="para-00065">Saturn’s Rings May be a Recent Addition: <link url="https://ca.pbslearningmedia.org/resource/nvtps-sci-saturnrings/how-saturns-rings-formed-the-planets-saturn/">https://ca.pbslearningmedia.org/resource/nvtps-sci-saturnrings/how-saturns-rings-formed-the-planets-saturn/</link>. Interviews with key scientists describe why the Cassini mission results imply that Saturn’s rings look surprisingly fresh and young. (3:22)</para>
 </section>
 </section>
